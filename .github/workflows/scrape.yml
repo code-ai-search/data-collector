@@ -29,7 +29,7 @@ jobs:
           chmod +x scrape.sh
           echo "Created scrape.sh"
           # And replace README.md
-          echo -e "# Scheduled scraper\n\nFor $REPO_DESC" > README.md 
+          echo -e "# Scheduled scraper\n\nFor $REPO_DESC" > README.md
         fi
       env:
         REPO_DESC: ${{ github.event.repository.description }}
