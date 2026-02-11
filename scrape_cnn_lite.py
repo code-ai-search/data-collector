@@ -136,7 +136,8 @@ def get_article_links_from_homepage(homepage_url, session):
             
             # Filter for article URLs (typically contain /2024/, /2025/, /2026/ etc. or /article/)
             parsed = urlparse(absolute_url)
-            if parsed.netloc and ('cnn.com' in parsed.netloc):
+            # Ensure the domain is exactly cnn.com or a subdomain of cnn.com
+            if parsed.netloc and (parsed.netloc == 'cnn.com' or parsed.netloc.endswith('.cnn.com')):
                 # Basic heuristic: URLs with year patterns or containing "article" or news sections
                 if any(x in absolute_url for x in ['/202', '/article/', '/news/', '/politics/', '/business/', '/world/']):
                     if absolute_url not in article_links:
