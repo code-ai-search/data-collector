@@ -61,3 +61,10 @@ cnn-lite-articles/
 ```
 
 Each filename is the SHA256 hash of the article content, ensuring unique storage and easy deduplication.
+
+# Scheduled collector
+
+Currently a bare bones data collector which may evolve in several ways. 
+
+In the future, data feeds may be collected from other sources besides lite.cnn.com.
+Also, if the storage becomes onerous in the repo, we might shift to cloud.
