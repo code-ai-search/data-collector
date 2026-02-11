@@ -8,10 +8,13 @@ import os
 import json
 import hashlib
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
+
+# Configuration constants
+MAX_ARTICLES_PER_RUN = 20
 
 
 def get_article_hash(content):
@@ -103,12 +106,12 @@ def extract_article_data(article_url, session):
         return {
             'url': article_url,
             'title': title or 'No title found',
-            'date': date or datetime.utcnow().isoformat(),
+            'date': date or datetime.now(timezone.utc).isoformat(),
             'author': author or 'Unknown',
             'text': text or 'No text found',
             'links': links,
             'hash': article_hash,
-            'scraped_at': datetime.utcnow().isoformat()
+            'scraped_at': datetime.now(timezone.utc).isoformat()
         }
     
     except Exception as e:
@@ -192,8 +195,8 @@ def main():
     
     # Process each article
     successful_articles = 0
-    for idx, article_url in enumerate(article_links[:20], 1):  # Limit to first 20 articles
-        print(f"\n[{idx}/{min(20, len(article_links))}] Processing: {article_url}")
+    for idx, article_url in enumerate(article_links[:MAX_ARTICLES_PER_RUN], 1):
+        print(f"\n[{idx}/{min(MAX_ARTICLES_PER_RUN, len(article_links))}] Processing: {article_url}")
         
         article_data = extract_article_data(article_url, session)
         
