@@ -1,21 +1,61 @@
-# git-scraper-template
+# CNN Lite Article Collector
 
-Template repository for setting up a new [Git scraper](https://simonwillison.net/2020/Oct/9/git-scraping/) using GitHub Actions.
+Automated data collection system for CNN Lite articles using GitHub Actions.
 
-## How to use this
+## Overview
 
-Visit https://github.com/simonw/git-scraper-template/generate
+This repository automatically scrapes articles from lite.cnn.com once daily and stores them as structured JSON files in the `cnn-lite-articles` folder.
 
-Pick a name for your new repository, then paste **the URL** of the page you would like to take scrape into the **description field** (including the `http://` or `https://`). JSON works best, but any URL will be fetched and saved.
+## Article Data Structure
 
-Then click **Create repository from template**.
+Each article is saved as a JSON file with the following information:
+- **title**: Article headline
+- **date**: Publication date
+- **author**: Article author
+- **text**: Full article text content
+- **links**: List of all anchor tag links found in the article
+- **hash**: SHA256 hash of the article content (for deduplication)
+- **url**: Original article URL
+- **scraped_at**: Timestamp when the article was scraped
 
-Your new repository will be created, and a script will run which will do the following:
+## How It Works
 
-- Add a `scrape.sh` script to your repository which uses `curl` via the `./download.sh` script to fetch and save the URL you requested
-- Run that `./scrape.sh` command and commit the result to the repository
-- Configure a schedule to run this script once every 24 hours
+1. **Daily Schedule**: GitHub Actions runs the scraper every day at 6:23 AM UTC
+2. **Article Discovery**: The scraper fetches the CNN Lite homepage and identifies article links
+3. **Data Extraction**: For each article, it extracts title, date, author, text, and all links
+4. **Storage**: Articles are saved as JSON files named by their content hash
+5. **Deduplication**: If an article's hash changes (content updated), it overwrites the previous version
 
-You can edit `scrape.sh` to customize what is scraped, and you can edit `.github/workflows/scrape.yml` to change how often the scraping happens.
+## Files
 
-If you want to use Python in your scraper you can uncomment the relevant block in `scrape.yml` and add a `requirements.txt` file to your repository containing any dependencies you need.
+- `scrape_cnn_lite.py`: Main Python scraper script
+- `scrape.sh`: Shell script that runs the Python scraper
+- `requirements.txt`: Python dependencies (requests, beautifulsoup4)
+- `.github/workflows/scrape.yml`: GitHub Actions workflow configuration
+
+## Manual Execution
+
+To run the scraper manually:
+
+```bash
+pip install -r requirements.txt
+python3 scrape_cnn_lite.py
+```
+
+Or use the shell script:
+
+```bash
+./scrape.sh
+```
+
+## Output
+
+Articles are stored in the `cnn-lite-articles/` directory as JSON files:
+```
+cnn-lite-articles/
+├── a1b2c3d4...json
+├── e5f6g7h8...json
+└── ...
+```
+
+Each filename is the SHA256 hash of the article content, ensuring unique storage and easy deduplication.
