@@ -197,7 +197,7 @@ def get_article_links_from_homepage(homepage_url, session):
         return []
 
 
-def load_existing_text_hashes(output_dir):
+def load_existing_text_hashes(output_dir) -> set:
     """Load existing article text hashes from stored JSON files."""
     existing_hashes = set()
     for json_file in output_dir.glob('*.json'):
