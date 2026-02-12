@@ -60,5 +60,6 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "${timestamp}" || exit 0
-        git pull --rebase
-        git push
+        gh pr create --base main --head feature-branch-${timestamp} --title "Automated PR: Latest changes" --body "This PR was created automatically by a GitHub Action."
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
