@@ -15,7 +15,7 @@ from time import sleep
 from urllib.parse import urljoin, urlparse
 
 # Configuration constants
-MAX_ARTICLES_PER_RUN = 110
+MAX_ARTICLES_PER_RUN = 10
 SLEEP_TIME = 2
 
 def get_article_hash(content):
