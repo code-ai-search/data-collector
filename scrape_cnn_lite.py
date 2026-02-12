@@ -7,6 +7,7 @@ Scrapes articles from lite.cnn.com and stores them with metadata
 import os
 import json
 import hashlib
+import re
 import requests
 from datetime import datetime, timezone
 from bs4 import BeautifulSoup
@@ -19,7 +20,7 @@ MAX_ARTICLES_PER_RUN = 110
 SLEEP_TIME = 2
 
 def get_article_hash(content):
-    """Generate SHA256 hash of article content for deduplication"""
+    """Generate SHA256 hash of article text for deduplication"""
     return hashlib.sha256(content.encode('utf-8')).hexdigest()
 
 
@@ -36,6 +37,17 @@ def extract_article_links(soup, base_url):
             'text': link_text
         })
     return links
+
+
+def split_author_text(author_text):
+    """Split author text into individual author names."""
+    if not author_text:
+        return []
+    cleaned = re.sub(r'^\s*by\s+', '', author_text, flags=re.IGNORECASE).strip()
+    if not cleaned:
+        return []
+    parts = re.split(r'\s+(?:and|&)\s+|,', cleaned)
+    return [part.strip() for part in parts if part.strip()]
 
 
 def extract_article_data(article_url, session):
@@ -64,13 +76,19 @@ def extract_article_data(article_url, session):
                 date = date_elem.get('datetime') or date_elem.get_text(strip=True)
                 break
 
-        # Extract author - try multiple selectors
-        author = None
+        # Extract authors - try multiple selectors
+        authors = []
+        seen_authors = set()
         author_selectors = ['.author', '[class*="author"]', '[rel="author"]']
         for selector in author_selectors:
-            author_elem = soup.select_one(selector)
-            if author_elem:
-                author = author_elem.get_text(strip=True)
+            author_elems = soup.select(selector)
+            for author_elem in author_elems:
+                author_text = author_elem.get_text(" ", strip=True)
+                for author in split_author_text(author_text):
+                    if author not in seen_authors:
+                        authors.append(author)
+                        seen_authors.add(author)
+            if authors:
                 break
 
         # Extract article text - try multiple selectors for article body
@@ -100,16 +118,18 @@ def extract_article_data(article_url, session):
         # Extract all links from the article
         links = extract_article_links(soup, article_url)
 
-        # Generate hash of the article content
-        content_for_hash = f"{title}|{text}"
-        article_hash = get_article_hash(content_for_hash)
+        text_value = text or 'No text found'
+
+        # Generate hash of the article text
+        article_hash = get_article_hash(text_value)
+        title_value = title or 'No title found'
 
         return {
             'url': article_url,
-            'title': title or 'No title found',
+            'title': title_value,
             'date': date or datetime.now(timezone.utc).isoformat(),
-            'author': author or 'Unknown',
-            'text': text or 'No text found',
+            'authors': authors,
+            'text': text_value,
             'links': links,
             'hash': article_hash,
             'scraped_at': datetime.now(timezone.utc).isoformat()
@@ -151,6 +171,20 @@ def get_article_links_from_homepage(homepage_url, session):
         return []
 
 
+def load_existing_text_hashes(output_dir):
+    """Load existing article text hashes from stored JSON files."""
+    existing_hashes = set()
+    for json_file in output_dir.glob('*.json'):
+        try:
+            with open(json_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            text_value = data.get('text') or ''
+            existing_hashes.add(get_article_hash(text_value))
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"Error reading existing article {json_file}: {e}")
+    return existing_hashes
+
+
 def save_article(article_data, output_dir):
     """Save article data to a JSON file"""
     if not article_data:
@@ -174,6 +208,7 @@ def main():
     # Create output directory
     output_dir = Path('cnn-lite-articles')
     output_dir.mkdir(exist_ok=True)
+    existing_text_hashes = load_existing_text_hashes(output_dir)
 
     # CNN Lite homepage
     homepage_url = 'https://lite.cnn.com'
@@ -203,8 +238,12 @@ def main():
         article_data = extract_article_data(article_url, session)
         try:
             if article_data:
-                save_article(article_data, output_dir)
-                successful_articles += 1
+                if article_data['hash'] in existing_text_hashes:
+                    print(f"Skipping article with unchanged text: {article_data['title'][:50]}...")
+                else:
+                    save_article(article_data, output_dir)
+                    existing_text_hashes.add(article_data['hash'])
+                    successful_articles += 1
             # sleep for some seconds to not overload servers
             sleep(SLEEP_TIME)
         except Exception as e:

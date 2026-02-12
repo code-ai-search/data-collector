@@ -11,10 +11,10 @@ This repository automatically scrapes articles from lite.cnn.com once daily and 
 Each article is saved as a JSON file with the following information:
 - **title**: Article headline
 - **date**: Publication date
-- **author**: Article author
+- **authors**: List of article authors (may be empty)
 - **text**: Full article text content
 - **links**: List of all anchor tag links found in the article
-- **hash**: SHA256 hash of the article content (for deduplication)
+- **hash**: SHA256 hash of the article text (for deduplication)
 - **url**: Original article URL
 - **scraped_at**: Timestamp when the article was scraped
 
@@ -22,9 +22,9 @@ Each article is saved as a JSON file with the following information:
 
 1. **Daily Schedule**: GitHub Actions runs the scraper every day at 6:23 AM UTC
 2. **Article Discovery**: The scraper fetches the CNN Lite homepage and identifies article links
-3. **Data Extraction**: For each article, it extracts title, date, author, text, and all links
-4. **Storage**: Articles are saved as JSON files named by their content hash
-5. **Deduplication**: If an article's hash changes (content updated), it overwrites the previous version
+3. **Data Extraction**: For each article, it extracts title, date, authors, text, and all links
+4. **Storage**: Articles are saved as JSON files named by their text hash
+5. **Deduplication**: Articles with the same text hash are skipped
 
 ## Files
 
@@ -60,7 +60,7 @@ cnn-lite-articles/
 └── ...
 ```
 
-Each filename is the SHA256 hash of the article content, ensuring unique storage and easy deduplication.
+Each filename is the SHA256 hash of the article text, ensuring unique storage and easy deduplication.
 
 # Scheduled collector
 
