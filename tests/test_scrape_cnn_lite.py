@@ -15,7 +15,7 @@ class FakeResponse:
         self.text = text
 
     def raise_for_status(self):
-        return None
+        pass
 
 
 class FakeSession:

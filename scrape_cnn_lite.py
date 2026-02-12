@@ -56,7 +56,8 @@ def split_author_text(author_text):
         comma_parts = [entry.strip() for entry in part.split(',') if entry.strip()]
         if not comma_parts:
             continue
-        if not has_conjunction and len(parts) == 1 and len(comma_parts) == 2:
+        is_last_first_format = not has_conjunction and len(parts) == 1 and len(comma_parts) == 2
+        if is_last_first_format:
             authors.append(f"{comma_parts[0]}, {comma_parts[1]}")
             continue
         current = comma_parts[0]
@@ -201,8 +202,8 @@ def load_existing_text_hashes(output_dir):
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-            is_current_format = 'authors' in data
-            if data.get('hash') and is_current_format:
+            has_authors_field = 'authors' in data
+            if data.get('hash') and has_authors_field:
                 existing_hashes.add(data['hash'])
                 continue
             text_value = data.get('text') or ''
