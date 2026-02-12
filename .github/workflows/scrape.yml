@@ -61,4 +61,4 @@ jobs:
         timestamp=$(date -uI)
         git checkout -b "${timestamp}"
         git commit -m "${timestamp}" || exit 0
-        git push
+        git push --set-upstream origin "${timestamp}"
