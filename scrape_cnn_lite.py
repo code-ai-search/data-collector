@@ -46,8 +46,29 @@ def split_author_text(author_text):
     cleaned = re.sub(r'^\s*by\s+', '', author_text, flags=re.IGNORECASE).strip()
     if not cleaned:
         return []
-    parts = re.split(r'\s+(?:and|&)\s+|,', cleaned)
-    return [part.strip() for part in parts if part.strip()]
+    has_conjunction = bool(re.search(r'\s+(?:and|&)\s+', cleaned))
+    parts = re.split(r'\s+(?:and|&)\s+', cleaned)
+    suffixes = {'jr', 'sr', 'ii', 'iii', 'iv'}
+    authors = []
+    for part in parts:
+        comma_parts = [entry.strip() for entry in part.split(',') if entry.strip()]
+        if not comma_parts:
+            continue
+        if not has_conjunction and len(parts) == 1 and len(comma_parts) == 2:
+            authors.append(f"{comma_parts[0]}, {comma_parts[1]}")
+            continue
+        current = comma_parts[0]
+        for entry in comma_parts[1:]:
+            normalized = entry.lower().rstrip('.')
+            if normalized in suffixes and current:
+                current = f"{current}, {entry}"
+            else:
+                if current:
+                    authors.append(current)
+                current = entry
+        if current:
+            authors.append(current)
+    return authors
 
 
 def extract_article_data(article_url, session):
@@ -83,7 +104,7 @@ def extract_article_data(article_url, session):
         for selector in author_selectors:
             author_elems = soup.select(selector)
             for author_elem in author_elems:
-                author_text = author_elem.get_text(" ", strip=True)
+                author_text = " ".join(author_elem.stripped_strings)
                 for author in split_author_text(author_text):
                     if author not in seen_authors:
                         authors.append(author)
@@ -178,6 +199,9 @@ def load_existing_text_hashes(output_dir):
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
+            if data.get('hash') and 'authors' in data:
+                existing_hashes.add(data['hash'])
+                continue
             text_value = data.get('text') or ''
             existing_hashes.add(get_article_hash(text_value))
         except (OSError, json.JSONDecodeError) as e:
