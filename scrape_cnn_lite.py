@@ -7,6 +7,7 @@ Scrapes articles from lite.cnn.com and stores them with metadata
 import os
 import json
 import hashlib
+import re
 import requests
 from datetime import datetime, timezone
 from bs4 import BeautifulSoup
@@ -17,9 +18,12 @@ from urllib.parse import urljoin, urlparse
 # Configuration constants
 MAX_ARTICLES_PER_RUN = 110
 SLEEP_TIME = 2
+DEFAULT_TITLE = 'No title found'
+DEFAULT_TEXT = 'No text found'
+AUTHOR_SUFFIXES = {'jr', 'sr', 'ii', 'iii', 'iv'}
 
 def get_article_hash(content):
-    """Generate SHA256 hash of article content for deduplication"""
+    """Generate SHA256 hash of article text for deduplication"""
     return hashlib.sha256(content.encode('utf-8')).hexdigest()
 
 
@@ -36,6 +40,40 @@ def extract_article_links(soup, base_url):
             'text': link_text
         })
     return links
+
+
+def split_author_text(author_text):
+    """Split author text into individual author names."""
+    if not author_text:
+        return []
+    cleaned = re.sub(r'^\s*by\s+', '', author_text, flags=re.IGNORECASE).strip()
+    if not cleaned:
+        return []
+    has_conjunction = bool(re.search(r'\s+(?:and|&)\s+', cleaned))
+    parts = re.split(r'\s+(?:and|&)\s+', cleaned)
+    authors = []
+    for part in parts:
+        comma_parts = [entry.strip() for entry in part.split(',') if entry.strip()]
+        if not comma_parts:
+            continue
+        appears_to_be_last_first_format = (
+            not has_conjunction and len(parts) == 1 and len(comma_parts) == 2
+        )
+        if appears_to_be_last_first_format:
+            authors.append(f"{comma_parts[0]}, {comma_parts[1]}")
+            continue
+        current = comma_parts[0]
+        for entry in comma_parts[1:]:
+            normalized = entry.lower().rstrip('.')
+            if normalized in AUTHOR_SUFFIXES and current:
+                current = f"{current}, {entry}"
+            else:
+                if current:
+                    authors.append(current)
+                current = entry
+        if current:
+            authors.append(current)
+    return authors
 
 
 def extract_article_data(article_url, session):
@@ -64,13 +102,19 @@ def extract_article_data(article_url, session):
                 date = date_elem.get('datetime') or date_elem.get_text(strip=True)
                 break
 
-        # Extract author - try multiple selectors
-        author = None
+        # Extract authors - try multiple selectors
+        authors = []
+        seen_authors = set()
         author_selectors = ['.author', '[class*="author"]', '[rel="author"]']
         for selector in author_selectors:
-            author_elem = soup.select_one(selector)
-            if author_elem:
-                author = author_elem.get_text(strip=True)
+            author_elems = soup.select(selector)
+            for author_elem in author_elems:
+                author_text = " ".join(author_elem.stripped_strings)
+                for author in split_author_text(author_text):
+                    if author not in seen_authors:
+                        authors.append(author)
+                        seen_authors.add(author)
+            if authors:
                 break
 
         # Extract article text - try multiple selectors for article body
@@ -100,16 +144,18 @@ def extract_article_data(article_url, session):
         # Extract all links from the article
         links = extract_article_links(soup, article_url)
 
-        # Generate hash of the article content
-        content_for_hash = f"{title}|{text}"
-        article_hash = get_article_hash(content_for_hash)
+        title_value = title or DEFAULT_TITLE
+        text_value = text or DEFAULT_TEXT
+
+        # Generate hash of the article text
+        article_hash = get_article_hash(text_value)
 
         return {
             'url': article_url,
-            'title': title or 'No title found',
+            'title': title_value,
             'date': date or datetime.now(timezone.utc).isoformat(),
-            'author': author or 'Unknown',
-            'text': text or 'No text found',
+            'authors': authors,
+            'text': text_value,
             'links': links,
             'hash': article_hash,
             'scraped_at': datetime.now(timezone.utc).isoformat()
@@ -151,6 +197,24 @@ def get_article_links_from_homepage(homepage_url, session):
         return []
 
 
+def load_existing_text_hashes(output_dir) -> set:
+    """Load existing article text hashes from stored JSON files."""
+    existing_hashes = set()
+    for json_file in output_dir.glob('*.json'):
+        try:
+            with open(json_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            has_authors_field = data.get('authors') is not None
+            if data.get('hash') and has_authors_field:
+                existing_hashes.add(data['hash'])
+                continue
+            text_value = data.get('text', '')
+            existing_hashes.add(get_article_hash(text_value))
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"Error reading existing article {json_file}: {e}")
+    return existing_hashes
+
+
 def save_article(article_data, output_dir):
     """Save article data to a JSON file"""
     if not article_data:
@@ -174,6 +238,7 @@ def main():
     # Create output directory
     output_dir = Path('cnn-lite-articles')
     output_dir.mkdir(exist_ok=True)
+    existing_text_hashes = load_existing_text_hashes(output_dir)
 
     # CNN Lite homepage
     homepage_url = 'https://lite.cnn.com'
@@ -203,8 +268,12 @@ def main():
         article_data = extract_article_data(article_url, session)
         try:
             if article_data:
-                save_article(article_data, output_dir)
-                successful_articles += 1
+                if article_data['hash'] in existing_text_hashes:
+                    print(f"Skipping article with unchanged text: {article_data['title'][:50]}...")
+                else:
+                    save_article(article_data, output_dir)
+                    existing_text_hashes.add(article_data['hash'])
+                    successful_articles += 1
             # sleep for some seconds to not overload servers
             sleep(SLEEP_TIME)
         except Exception as e:
