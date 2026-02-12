@@ -141,11 +141,11 @@ def extract_article_data(article_url, session):
         # Extract all links from the article
         links = extract_article_links(soup, article_url)
 
+        title_value = title or DEFAULT_TITLE
         text_value = text or DEFAULT_TEXT
 
         # Generate hash of the article text
         article_hash = get_article_hash(text_value)
-        title_value = title or DEFAULT_TITLE
 
         return {
             'url': article_url,
@@ -201,7 +201,8 @@ def load_existing_text_hashes(output_dir):
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-            if data.get('hash') and 'authors' in data:
+            is_current_format = 'authors' in data
+            if data.get('hash') and is_current_format:
                 existing_hashes.add(data['hash'])
                 continue
             text_value = data.get('text') or ''
