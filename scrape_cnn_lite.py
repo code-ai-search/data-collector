@@ -208,7 +208,7 @@ def load_existing_text_hashes(output_dir):
             if data.get('hash') and has_authors_field:
                 existing_hashes.add(data['hash'])
                 continue
-            text_value = data.get('text') or ''
+            text_value = data.get('text', '')
             existing_hashes.add(get_article_hash(text_value))
         except (OSError, json.JSONDecodeError) as e:
             print(f"Error reading existing article {json_file}: {e}")
