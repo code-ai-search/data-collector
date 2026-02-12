@@ -18,6 +18,9 @@ from urllib.parse import urljoin, urlparse
 # Configuration constants
 MAX_ARTICLES_PER_RUN = 110
 SLEEP_TIME = 2
+DEFAULT_TITLE = 'No title found'
+DEFAULT_TEXT = 'No text found'
+AUTHOR_SUFFIXES = {'jr', 'sr', 'ii', 'iii', 'iv'}
 
 def get_article_hash(content):
     """Generate SHA256 hash of article text for deduplication"""
@@ -48,7 +51,6 @@ def split_author_text(author_text):
         return []
     has_conjunction = bool(re.search(r'\s+(?:and|&)\s+', cleaned))
     parts = re.split(r'\s+(?:and|&)\s+', cleaned)
-    suffixes = {'jr', 'sr', 'ii', 'iii', 'iv'}
     authors = []
     for part in parts:
         comma_parts = [entry.strip() for entry in part.split(',') if entry.strip()]
@@ -60,7 +62,7 @@ def split_author_text(author_text):
         current = comma_parts[0]
         for entry in comma_parts[1:]:
             normalized = entry.lower().rstrip('.')
-            if normalized in suffixes and current:
+            if normalized in AUTHOR_SUFFIXES and current:
                 current = f"{current}, {entry}"
             else:
                 if current:
@@ -139,11 +141,11 @@ def extract_article_data(article_url, session):
         # Extract all links from the article
         links = extract_article_links(soup, article_url)
 
-        text_value = text or 'No text found'
+        text_value = text or DEFAULT_TEXT
 
         # Generate hash of the article text
         article_hash = get_article_hash(text_value)
-        title_value = title or 'No title found'
+        title_value = title or DEFAULT_TITLE
 
         return {
             'url': article_url,
