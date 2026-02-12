@@ -59,7 +59,7 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
+        git checkout -b "${timestamp}"
         git commit -m "${timestamp}" || exit 0
-        gh pr create --base main --head feature-branch-${timestamp} --title "Automated PR: Latest changes" --body "This PR was created automatically by a GitHub Action."
-      env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git pull --rebase
+        git push
