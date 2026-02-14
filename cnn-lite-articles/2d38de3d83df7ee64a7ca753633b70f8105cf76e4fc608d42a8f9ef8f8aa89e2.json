@@ -1,0 +1,99 @@
+{
+  "url": "https://lite.cnn.com/2026/02/13/tech/amazon-ring-flock-partnership-ice",
+  "title": "Amazon’s Ring cancels controversial partnership with tech company Flock amid privacy concerns | CNN Business",
+  "date": "2026-02-14T07:07:32.510002+00:00",
+  "authors": [],
+  "text": "Source: CNN\n\nRing, the Amazon-owned video doorbell company, has canceled its partnership with technology firm Flock Safety, the company said Thursday.\n\nThe termination comes after weeks of backlash over the partnership and Ring’s Super Bowl commercial last Sunday, which advertised afeaturefor finding lost pets that sparked concerns on social media about unwanted surveillance.\n\nThe smart camera company previously planned to integrate Flock, which makes cameras for reading license plates, into its Community Requests feature that allows law enforcement to request video footage from users for investigations.\n\n“We determined the planned Flock Safety integration would require significantly more time and resources than anticipated. As a result, we have made the joint decision to cancel the planned integration,” Ring said in astatementon its website.\n\nJosh Thomas, chief communications officer of Flock, told CNN that ending the partnership was “a mutual decision.”\n\nLike Flock, Ring has long combatted criticisms related to itsrelationship with law enforcement.\n\nA report from independent publication 404 Media last year indicated that Flock’s technology has been used in connection with immigration investigations, raising concerns from privacy advocates. Flock has repeatedly disputed the report.\n\nCustomers’ fears swelled onsocial mediaafter the Super Bowl commercial, but several Ring customers expressed discomfortonlineweeks before about the partnership with Flock.\n\nThe fears coincide with nationwide protests against Immigration and Customs Enforcement following the deaths of Alex Pretti and Renee Good in Minneapolis. Last month, a viral post on X  falsely claimed ICE could access Ring cameras. The post garnered nearly 2 million views and prompted at least one longtime Ring user, Thomas Allison, to cancel his subscription.\n\n“That flyer made it sound like Ring signed an agreement that (ICE) could access your cameras. That really disturbs me,” Allison, who had several Ring cameras installed at his family’s properties in Florida and Pennsylvania, told CNN before the partnership was scrapped.  Both Ring and Flock have told CNN that they do not have a relationship with ICE.\n\nSince thepartnershipnever went into effect, no Ring videos were shared with Flock, the company said.\n\nLocal officers can still post requests related to an active case in the Ring Neighbors app through a third-party partner.\n\nFederal agencies, including ICE, are not permitted to submit Community Requests in the Neighbors app, Ring spokesperson Emma Daniels said. Onlylocal law enforcementis eligible to create the requests, and agencies can only request video for themselves.\n\n“Ring has no partnership with ICE, does not give ICE videos, feeds, or back-end access, and does not share video with them,” Daniels wrote in an email to CNN.\n\nThe company is not aware of any Community Requests or legal demands related to immigration enforcement, Daniels told CNN.\n\nUsers are “never required” to share information and can ignore the request, or choose to contact the investigator directly, according to Ring. Users can also turn off Community Requests in the Ring app’s settings menu.\n\nAfter a video is submitted, Ring said it is securely transferred to the company’s third-party partner, Axon Evidence. Axon then delivers the footage to the public safety agency that requested the information, and the agency manages access to the video moving forward, according to Ring’swebsite.\n\nA Ring user’s home address and the email address associated with their account are also provided to the public safety agency when footage is shared.\n\nRetention and use of the videos will be subject to department policy and applicable law, which users are notified of before sharing their clips.\n\nFlock does not have a relationship with ICE, Thomas told CNN in an email prior to the partnership’s cancellation. Federal agencies including ICE cannot directly access Flock cameras, systems or its data, the company said on itswebsite.\n\n“Flock’s role is not to encourage or discourage collaboration with any federal entity. Flock’s role is to ensure customers understand what is being requested, and they retain full authority over the decision,” the website said.\n\nHowever,404 Mediareported last May that local police agencies have used Flock’s AI-powered automatic license plate reader system for immigration-related searches and other ICE investigations.\n\nThe outlet reviewed a response to apublic recordsrequestfrom the Danville, Illinois, police department that found officers across the United States wrote “immigration,” “ICE,” “illegal immigration” and other immigration-related reasons for searches of Danville’s cameras. The police department did not respond to CNN’s requests for comment.\n\nDanville’s police chief, Chris Yates, told 404 Media that the data “does not indicate that Danville PD is searching Flock LPR (license plate readers) data or acting for another municipal, county, or state LE (law enforcement) agency, nor ICE regarding immigration.”\n\nIn response to 404 Media’s report, Thomas reiterated that Flock doesn’t have a relationship with ICE.\n\nHowever, Flock also conducted aninternal auditin May of agencies that had access to Illinois data through its platform. The audit found multiple law enforcement agencies conducted searches for “impermissible” reasons under Illinois law, so Flock said it revoked access to Illinois data from 47 agencies.\n\nWhen previously asked about privacy concerns regarding Flock’s technology, the company’s CEO, Garrett Langley, toldCNNthat it comes down to community trust in law enforcement.\n\n“If (people are) worried about privacy, a license plate reader is the dumbest way to do surveillance. You have a cell phone. A cell phone knows your exact location at all times,” he said. “If you don’t trust law enforcement to do their job, that’s actually what you’re concerned about, and I’m not going to help people get over that.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://lite.cnn.com/",
+      "text": "CNN"
+    },
+    {
+      "url": "https://ring.com/search-party?srsltid=AfmBOoqYD5Of8cge1tGphqHgCLsefbqEA4Wv_UtJ9-XVbo0EPZf-QUHVhttps://blog.ring.com/about-ring/ring-and-flock-cancel-partnership/",
+      "text": "feature"
+    },
+    {
+      "url": "https://ring.com/search-party?srsltid=AfmBOoqYD5Of8cge1tGphqHgCLsefbqEA4Wv_UtJ9-XVbo0EPZf-QUHVhttps://blog.ring.com/about-ring/ring-and-flock-cancel-partnership/",
+      "text": "statement"
+    },
+    {
+      "url": "https://www.cnn.com/2024/01/24/tech/amazons-ring-video-sharing-with-police",
+      "text": "relationship with law enforcement"
+    },
+    {
+      "url": "https://x.com/LeVeonBell/status/2020907911724269846?s=20",
+      "text": "social media"
+    },
+    {
+      "url": "https://www.reddit.com/r/Somerville/comments/1po8i1g/anyone_considering_ditching_ring_cameras_after/",
+      "text": "online"
+    },
+    {
+      "url": "https://www.flocksafety.com/blog/flock-safety-and-ring-partner-to-help-neighborhoods-work-together-for-safer-communities",
+      "text": "partnership"
+    },
+    {
+      "url": "https://ring.com/support/verified-help/articles/5t05p/Community-Request",
+      "text": "local law enforcement"
+    },
+    {
+      "url": "https://ring.com/support/articles/uds27/Community-request?srsltid=AfmBOopG8sEZpKNsMy5-SKCmFA30kiNt1-kUAVrwABw2WJ5qOaHkqL2_",
+      "text": "never required"
+    },
+    {
+      "url": "https://ring.com/support/articles/uds27/Community-request",
+      "text": "website"
+    },
+    {
+      "url": "https://www.flocksafety.com/blog/does-flock-share-data-with-ice",
+      "text": "website"
+    },
+    {
+      "url": "https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/",
+      "text": "404 Media"
+    },
+    {
+      "url": "https://www.muckrock.com/foi/danville-7714/foia-request-alpr-audit-181213/?ref=404media.co",
+      "text": "public records"
+    },
+    {
+      "url": "https://www.muckrock.com/foi/danville-7714/foia-request-alpr-audit-186112/?ref=404media.co",
+      "text": "request"
+    },
+    {
+      "url": "https://www.flocksafety.com/blog/flock-safetys-response-to-illinois-lpr-data-use-and-out-of-state-sharing-concerns",
+      "text": "internal audit"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/19/tech/flock-safety-ai-cameras-brown-suspect-privacy",
+      "text": "CNN"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/13/tech/amazon-ring-flock-partnership-ice",
+      "text": "See Full Web Article"
+    },
+    {
+      "url": "https://www.cnn.com/",
+      "text": "Go to the full CNN experience"
+    },
+    {
+      "url": "https://www.cnn.com/terms",
+      "text": "Terms of Use"
+    },
+    {
+      "url": "https://www.cnn.com/privacy",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://www.cnn.com/ad-choices",
+      "text": "Ad Choices"
+    },
+    {
+      "url": "https://lite.cnn.com/2026/02/13/tech/amazon-ring-flock-partnership-ice",
+      "text": "Cookie Settings"
+    }
+  ],
+  "hash": "2d38de3d83df7ee64a7ca753633b70f8105cf76e4fc608d42a8f9ef8f8aa89e2",
+  "scraped_at": "2026-02-14T07:07:32.510015+00:00"
+}
