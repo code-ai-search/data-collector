@@ -105,7 +105,8 @@ def extract_article_data(article_url, session):
         # Extract authors - try multiple selectors
         authors = []
         seen_authors = set()
-        author_selectors = ['.author', '[class*="author"]', '[rel="author"]']
+        # NOTE: the class selector, .byline--lite is the one cnn-lite uses
+        author_selectors = ['.author', '[class*="author"]', '[rel="author"]', '.byline--lite']
         for selector in author_selectors:
             author_elems = soup.select(selector)
             for author_elem in author_elems:
