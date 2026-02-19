@@ -32,3 +32,11 @@ Each JSON file contains:
 ## Updates
 
 If an article's content changes, the scraper will detect the different hash and update the file accordingly.
+
+
+## Process all of the articles into a sentence per line file
+
+```bash
+python3 process_cnn_articles.py --use-nltk ./cnn-lite-articles train.txt
+```
+be sure to do this in the venv which should have `nltk` installed.
