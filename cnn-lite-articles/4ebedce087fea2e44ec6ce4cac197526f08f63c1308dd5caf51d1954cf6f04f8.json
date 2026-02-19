@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/02/17/business/ai-experts-training-jobs",
+  "title": "This doctor is training AI to do her job. And it’s a booming business | CNN Business",
+  "date": "2026-02-19T07:31:47.397673+00:00",
+  "authors": [
+    "Hadas Gold, CNN"
+  ],
+  "text": "Source: CNN\n\nDr. Alice Chiao used to teach emergency medicine to students at Stanford University’s medical school. Now, she’s teaching artificial intelligence-powered chatbots to think, diagnose and prescribe like her.\n\nChiao is part of a booming new economy of professional experts in their fields who are training AI through a process called reinforcement learning, essentially grading AI’s responses and teaching models to improve through trial and error. It’s a rapidly growing service industry for AI frontier labs, estimated to be worth at least $17 billion, according to Pitchbook Senior AI Analyst, Dimitri Zabelin.\n\nChiao is one of tens of thousands of experts working with Mercor, one of the companies that help manage reinforcement learning for major AI companies. Mercor has contracts with experts in subjects ranging from medicine, law and finance to comedy, sports and even wine. Experts can earn up to hundreds of dollars per hour teaching AI to do their own jobs.\n\n“AI is going to be the new Doctor Google, the new WebMD that people will go to, to seek out medical information. I knew that I needed to be a part of that to make sure that the information is accurate, that it’s safe, and that it makes sense to the person using it,” Chiao told CNN.\n\nAI models are trained on massive amounts of data. But that training doesn’t do much good without that reinforcement learning. Companies like OpenAI, Google and Anthropic use what Mercor’s CEO Brendan Foody described as “large armies of people” to do just that.\n\nUncertainty over how AI will reshape various industries hit a fever pitch over the last two weeks. Software stocks plunged in early February following the release of a newtoolfrom Anthropic that tailors its model for work in specific industries like legal and finance. Then, aviralessay from a tech CEO swept the internet with stark declarations about how AI could disrupt jobs. And some say Mercor is causing job displacement, replacing stable full-time careers with gig work that will contribute to AI taking human jobs.\n\nBut Chiao doesn’t see her work through Mercor as teaching AI how to do her job. Instead, she views it as ensuring AI models are safe and capable enough to help doctors spend more time with patients and less time filling out forms. She sees AI as eventually being able to assist doctors with reading scans, filling out charts and taking notes.\n\n“Physicians were selected because we really want to help people. We want to heal. We want to spend time talking to people — listening, engaging,” Chiao said. “I don’t want to see it as AI taking over our jobs. I want to see it as AI taking over the aspects of our jobs that prevent us from being good doctors, good healers and good listeners.”\n\nWhen Chiao is training AI models, she uses real scenarios she’s encountered in her decades as a doctor in both primary and emergency medicine. That includes asking questions from both the patient’s and doctor’s perspective. A patient, for example, might ask whether their child should see a doctor when experiencing a cough or fever. But the system also needs to know how to respond when presented with medical jargon — like what a physician might see on an intake form.\n\nThe AI model sometimes provides answers Chiao wouldn’t have thought of herself, she said. But other times, she sees a need for professionals like herself to step in.\n\n“Sometimes there will be things that don’t quite make sense, and I think, ‘Oh, this could be misleading,’ or ‘This could be alarmist,’ or ‘This is not quite safe to put in a response,’” Chiao said. “And those are where I intervene and say, ‘OK, this is where I need to craft something that makes this safe, accurate, and applicable to the user at hand.’”\n\nMercor’s experts grade a model’s response using a rubric they’ve created after consulting with a team of other experts in their field. Those responses are fed back into the model, which is trained to aim for good grades.\n\nAs for AI in medicine, Chiao said patients should use today’s AI model tools as a starting point before talking to a doctor. The technology is not a replacement for a doctor like herself with 20 years in the field.\n\n“There is a gut feeling that comes with experience, that comes with sitting with a patient, looking them in the eye, and seeing something that is beyond their history, their lab values, the words that are coming out of their mouth,” Chiao said. “So, this is where it’s really important to know that the AI is not a doctor, it’s not a human being.\n\nThe most popular experts Mercor hires for are in software engineering, followed by finance, medicine and law, Foody, Mercor’s CEO, told CNN. Job posts on Mercor can range widely, calling for everything from journalists to mechanics.\n\nBut Foody notes that not everything can be taught, and the more subjective the task, the more difficult it is for AI to master.\n\nOne example is comedy. Mercor tried to train one AI model to be funnier by hiring comedians from the Harvard Lampoon, an iconic comedy publication from Harvard University.\n\n“They were cracking all these jokes and writing all these rubrics to improve models and how funny they are,” Foody said.\n\nThe problem, however, is one that’s obvious to humans but not so much to machines: People have different opinions on what’s funny.\n\n“What you actually need is more localization of how humor varies by geography, and (answer) how do we have experts that can understand what jokes are in all of these different domains,” Foody said.\n\nBefore Foody and his Mercor co-founders set out to help AI models get better at human jobs, the company had a very different goal: helping people get hired.\n\nMercor, which Foody co-founded three years ago at age 19 with friends Adarsh Hiremath and Surya Midha, started as a recruiting and human resources platform. When they shifted the company’s focus to AI, their rolodex of resumes was the perfect starting point for finding the experts AI companies were seeking.\n\nFoody said Mercor is now paying out more than $1 million per day across thousands of experts, and in less than two years has grown from $1 million in revenue run rate to over $500 million. Pitchbook’s Zabelin said the company is valued at more than $10 billion, adding that Mercor and its competitors’ high values show investors think services like human feedback and expert testing of AI models are becoming a permanent and essential part of how AI systems are built and improved.\n\nMercor is not the only company in this space. Last year, Meta made a $14 billion investment in Scale AI — which operates in a similar space as Mercor — bringing on its then-28-year-old founder Alexandr Wang as its chief AI officer. Other competitors like Surge AI, Handshake and Micro1 have helped mint a new class of young, ultra-wealthy tech founders.\n\nWhile valuations fluctuate, 22-year-old Foody and his co-founders are likely some of the youngest tech founders to make the Forbes billionaire list since Mark Zuckerberg, who made the list at age 23.\n\n“We of course were ambitious about what we wanted to do, but never could have imagined anything like this, especially happening so quickly. So, it feels very surreal,” Foody said.\n\nFoody has enjoyed some  benefits of  being a young billionaire (he said he treated his family to tickets for the SuperBowl). But his focus remains on  growing a business that he sees as being critical to shaping the future of work despite the mounting concerns about AI displacing jobs.\n\nIn his view, Mercor’s work is a step toward solving bigger problems.\n\n“We need to cure cancer. We need to solve climate change,” he said. “And making everyone 10 times more productive so that they’re able to better work on those key problems is going to be a huge, huge benefit to how we make progress as a society.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://lite.cnn.com/",
+      "text": "CNN"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software",
+      "text": "tool"
+    },
+    {
+      "url": "https://www.instagram.com/reels/DUrskgbFdIe/",
+      "text": "viral"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/17/business/ai-experts-training-jobs",
+      "text": "See Full Web Article"
+    },
+    {
+      "url": "https://www.cnn.com/",
+      "text": "Go to the full CNN experience"
+    },
+    {
+      "url": "https://www.cnn.com/terms",
+      "text": "Terms of Use"
+    },
+    {
+      "url": "https://www.cnn.com/privacy",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://www.cnn.com/ad-choices",
+      "text": "Ad Choices"
+    },
+    {
+      "url": "https://lite.cnn.com/2026/02/17/business/ai-experts-training-jobs",
+      "text": "Cookie Settings"
+    }
+  ],
+  "hash": "4ebedce087fea2e44ec6ce4cac197526f08f63c1308dd5caf51d1954cf6f04f8",
+  "scraped_at": "2026-02-19T07:31:47.397699+00:00"
+}
