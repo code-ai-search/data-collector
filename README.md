@@ -50,6 +50,10 @@ Or use the shell script:
 ./scrape.sh
 ```
 
+## NER workflows
+
+TODO
+
 ## Output
 
 Articles are stored in the `cnn-lite-articles/` directory as JSON files:
@@ -64,7 +68,7 @@ Each filename is the SHA256 hash of the article text, ensuring unique storage an
 
 # Scheduled collector
 
-Currently a bare bones data collector which may evolve in several ways. 
+Currently a bare bones data collector which may evolve in several ways.
 
 In the future, data feeds may be collected from other sources besides lite.cnn.com.
 Also, if the storage becomes onerous in the repo, we might shift to cloud.
