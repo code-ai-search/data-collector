@@ -1,0 +1,63 @@
+{
+  "url": "https://lite.cnn.com/2026/02/19/tech/apple-west-virginia-lawsuit-icloud",
+  "title": "State sues Apple for negligence over the alleged distribution of child sexual abuse materials on iCloud and devices | CNN Business",
+  "date": "2026-02-20T07:28:35.952934+00:00",
+  "authors": [
+    "Ramishah Maruf",
+    "Clare Duffy",
+    "CNN"
+  ],
+  "text": "Source: CNN\n\nThe West Virginia attorney general’s office sued Apple on Thursday, claiming the tech giant allowed child sexual abuse materials (CSAM) to be stored and distributed on its iCloud service.\n\nThe lawsuit claims that Apple prioritized user privacy over child safety for years. The company has tight control over its hardware, software and cloud infrastructure, meaning it cannot claim to be unaware of the issue, the attorney general’s office argued.\n\nApple has for years facedcompeting criticismsthat it should do more to prevent CSAM from being stored and shared on its services, but also that it should protect the privacy of its users’ personal photos and documents.\n\nThe lawsuit says US-based tech companies arefederally requiredto report this detected content to the National Center for Missing and Exploited Children. While Google filed 1.47 million reports in 2023, Apple allegedly filed only 267.\n\n“These images are a permanent record of a child’s trauma, and that child is revictimized every time the material is shared or viewed,” West Virginia Attorney General JB McCuskey said in a news release. “This conduct is despicable, and Apple’s inaction is inexcusable.”\n\n“At Apple, protecting the safety and privacy of our users, especially children, is central to what we do. We are innovating every day to combat ever-evolving threats and maintain the safest, most trusted platform for kids,” an Apple spokesperson said in a comment to CNN.\n\nApple also pointed to a feature the company offers called Communication Safety that warns children and blurs the image when nudity is detected while receiving or attempting to send content and displays a warning. It works in apps like Messages and FaceTime, as well as over AirDrop and in the iPhone’s Contact Posters feature and the Photos app image selection tool. The spokesperson added that Apple’s parental controls and features “are designed with the safety, security, and privacy of our users at their core.”\n\nMcCuskey said during a news conference on Thursday that large companies with vast resources like Apple have a responsibility to address safety issues like these.\n\n“There is a social construct that dictates that you also have to be part of solving these large-scale problems, and one of those problems is the proliferation and exploitation of children in this country,” he said.\n\nThe suit alleges that Apple’s iCloud storage system “reduces friction” for users to repeatedly access and distribute CSAM because it makes it easy to view and search for images and videos across devices.\n\nIt’s illegal to possess CSAM in the United States and many other countries.\n\nApple has built its brand around privacy guarantees for users. But the lawsuit claims that Apple and its leaders have known about the company’s CSAM issues. The complaint includes a screenshot of what it describes as a 2020 text message conversation about the issue, in which one executive suggested the company’s focus on privacy made it “the greatest platform for distributing child porn.”\n\nOther tech companies use tools likeMicrosoft PhotoDNAto detect child exploitation images, the West Virginia attorney general’s office said. Microsoft says it provides this technology for free to qualified organizations, including tech companies.\n\nApple said in 2021 it would use its own model called NeuralHash to detect child sexual abuse materials. But itabandonedthe plan following backlash from critics about privacy concerns, deciding instead to focus on the Communication Safety feature.\n\nThe complaint alleges NeuralHash is a far inferior tool to PhotoDNA. It accuses Apple of negligence for “failing to implement adequate CSAM reporting technologies,” among other claims.\n\nThe lawsuit comes as there is increased scrutiny on the effects of Big Tech’s impact on children. In 2023, the New Mexico Attorney General’s officeaccused Metaof shutting down accounts it used to investigate alleged child sexual abuse on Facebook and Instagram. New Mexico Attorney General Raúl Torrez accused Meta in the lawsuit of creating a “breeding ground” for child predators on those platforms.\n\nMeta strongly pushed back on the claims at the time, saying that “we use sophisticated technology, hire child safety experts, report content to the National Center for Missing and Exploited Children, and share information and tools with other companies and law enforcement, including state attorneys general, to help root out predators.” More recently, Meta spokesperson Stephanie Otway said in a statement that the New Mexico suit contains “sensationalist, irrelevant and distracting arguments.”\n\nWest Virginia’s attorney general’s office is seeking statutory and punitive damages, injunctive relief, as well as requirements for Apple to implement effective detection measures.\n\nThis story has been updated with additional information and context.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://lite.cnn.com/",
+      "text": "CNN"
+    },
+    {
+      "url": "https://www.cnn.com/2022/12/08/tech/apple-csam-tool",
+      "text": "competing criticisms"
+    },
+    {
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2258A&num=0&edition=prelim",
+      "text": "federally required"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/photodna",
+      "text": "Microsoft PhotoDNA"
+    },
+    {
+      "url": "https://www.cnn.com/2021/09/03/tech/apple-child-safety-tools-reversal",
+      "text": "abandoned"
+    },
+    {
+      "url": "https://www.cnn.com/2023/12/12/tech/meta-new-mexico-attorney-general-test-accounts-evidence",
+      "text": "accused Meta"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/19/tech/apple-west-virginia-lawsuit-icloud",
+      "text": "See Full Web Article"
+    },
+    {
+      "url": "https://www.cnn.com/",
+      "text": "Go to the full CNN experience"
+    },
+    {
+      "url": "https://www.cnn.com/terms",
+      "text": "Terms of Use"
+    },
+    {
+      "url": "https://www.cnn.com/privacy",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://www.cnn.com/ad-choices",
+      "text": "Ad Choices"
+    },
+    {
+      "url": "https://lite.cnn.com/2026/02/19/tech/apple-west-virginia-lawsuit-icloud",
+      "text": "Cookie Settings"
+    }
+  ],
+  "hash": "c66180013263b04cc4560c7fc8f7ba0e286677207c40251539ee177e0f19d5f7",
+  "scraped_at": "2026-02-20T07:28:35.952952+00:00"
+}
