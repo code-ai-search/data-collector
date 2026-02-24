@@ -35,6 +35,10 @@ class TestScrapeCnnLite(unittest.TestCase):
         authors = split_author_text("Smith, John")
         self.assertEqual(authors, ["Smith, John"])
 
+    def test_split_author_text_strips_cnn_suffix(self):
+        authors = split_author_text("By Jane Doe, CNN and John Smith, CNN")
+        self.assertEqual(authors, ["Jane Doe", "John Smith"])
+
     def test_extract_article_data_uses_text_hash_and_authors(self):
         html = (
             "<html><body>"
@@ -50,6 +54,23 @@ class TestScrapeCnnLite(unittest.TestCase):
         self.assertEqual(article_data["authors"], ["Jane Doe", "John Smith"])
         self.assertEqual(article_data["text"], expected_text)
         self.assertEqual(article_data["hash"], get_article_hash(expected_text))
+
+    def test_extract_article_data_omits_block_list_links(self):
+        html = (
+            "<html><body>"
+            "<h1>Sample Title</h1>"
+            "<article><p>Paragraph one.</p></article>"
+            '<a href="https://www.cnn.com/">Home</a>'
+            '<a href="https://www.cnn.com/terms">Terms</a>'
+            '<a href="https://www.cnn.com/privacy">Privacy</a>'
+            '<a href="https://www.cnn.com/ad-choices">Ad choices</a>'
+            '<a href="https://www.cnn.com/world/story">Story</a>'
+            "</body></html>"
+        )
+        session = FakeSession(html)
+        article_data = extract_article_data("https://lite.cnn.com/sample", session)
+
+        self.assertEqual(article_data["links"], [{"url": "https://www.cnn.com/world/story", "text": "Story"}])
 
     def test_load_existing_text_hashes_prefers_stored_hash(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
