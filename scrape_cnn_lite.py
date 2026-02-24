@@ -21,6 +21,12 @@ SLEEP_TIME = 2
 DEFAULT_TITLE = 'No title found'
 DEFAULT_TEXT = 'No text found'
 AUTHOR_SUFFIXES = {'jr', 'sr', 'ii', 'iii', 'iv'}
+URL_BLOCK_LIST = {
+    'https://www.cnn.com/',
+    'https://www.cnn.com/terms',
+    'https://www.cnn.com/privacy',
+    'https://www.cnn.com/ad-choices',
+}
 
 def get_article_hash(content):
     """Generate SHA256 hash of article text for deduplication"""
@@ -30,10 +36,13 @@ def get_article_hash(content):
 def extract_article_links(soup, base_url):
     """Extract all anchor tag links from the article"""
     links = []
+    normalized_block_list = {url.rstrip('/') for url in URL_BLOCK_LIST}
     for a_tag in soup.find_all('a', href=True):
         href = a_tag.get('href', '')
         # Convert relative URLs to absolute
         absolute_url = urljoin(base_url, href)
+        if absolute_url.rstrip('/') in normalized_block_list:
+            continue
         link_text = a_tag.get_text(strip=True)
         links.append({
             'url': absolute_url,
@@ -73,7 +82,12 @@ def split_author_text(author_text):
                 current = entry
         if current:
             authors.append(current)
-    return authors
+    cleaned_authors = []
+    for author in authors:
+        normalized_author = re.sub(r',\s*CNN\s*$', '', author, flags=re.IGNORECASE).strip()
+        if normalized_author and normalized_author.upper() != 'CNN':
+            cleaned_authors.append(normalized_author)
+    return cleaned_authors
 
 
 def extract_article_data(article_url, session):
