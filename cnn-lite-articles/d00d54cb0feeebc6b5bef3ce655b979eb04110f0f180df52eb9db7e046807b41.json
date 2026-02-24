@@ -1,0 +1,53 @@
+{
+  "url": "https://lite.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk",
+  "title": "US AI giant Anthropic alleges China rivals DeepSeek, Minimax and Moonshot AI are cheating | CNN Business",
+  "date": "2026-02-24T07:30:56.258993+00:00",
+  "authors": [
+    "John Liu, CNN"
+  ],
+  "text": "Source: CNN\n\nUnited States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their own, claiming it raises national security concerns.\n\nThe Chinese unicorns – DeepSeek, Minimax and Moonshot AI – created over 24,000 fraudulent accounts and trained their models using over 16 million exchanges with Claude, a process known as distillation, Anthropic alleged in aMonday blogpost.\n\nCNN has reached out to DeepSeek, MiniMax and Moonshot AI for comment.\n\nDistillation is a common method of training in the AI industry with frontier labs often distilling their own models to make cheaper versions for customers. But most leading proprietary AI model providers including Anthropic explicitly ban such practices. Claude is not available in China.\n\nThe accusations come after Anthropic’s rival OpenAI made similar allegations earlier this month that DeepSeek and other Chinese AI companies are illegally distilling its ChatGPT models over the past year, in amemosent to the US House Select Committee on China.\n\nDeepSeek shocked the industry last year when it launched a powerful model close to matching industry frontrunners like ChatGPT – but with fewer computing resources required.\n\nThis development challenged the prevailing wisdom then that training advanced models require more processing power, and raised questions about the effectiveness of US tech and export controls.\n\nOpenAI then said it wasreviewing evidencethat DeepSeek “may have improperly distilled” its models.\n\nIn the memo this month, OpenAI said the rapid advancements of DeepSeek are based on “its ongoing efforts to free-ride on the capabilities developed by OpenAI and other US frontier labs.”\n\nDeepSeek has yet to comment publicly on Open AI’s allegations.\n\nAnthropic warned that illicitly distilled models may lack safety guardrails that companies like itself and other US model providers implement, and that they could create national security risks if they are used for cybercrimes and bio-weapons, for example.\n\nThese models could also enable “authoritarian governments to deploy frontier AI for offensive cyber operations, disinformation campaigns, and mass surveillance,” it said. “The window to act is narrow.”\n\nDeepSeek’s surprising rise ignited debate over whether US export controls had failed. But Anthropic argued that the fact that Chinese AI labs in question developed high-performance models through distillation underscored the rationale for those restrictions, which it said it has long supported to preserve the US’s lead in AI.\n\nBesides DeepSeek, MiniMax and Moonshot AI’s model Kimi have risen to prominence in China, becoming known as “AI tigers.” The three currently rank among the top 15 models on the prominent Artificial Analysis leaderboard.\n\nAnthropic said that by exposing the distillation attempts, it demonstrates the effectiveness of export controls and shows that cutting-edge model development cannot be sustained alone through innovation without access to advanced chips.\n\n“In reality, these advancements depend in significant part on capabilities extracted from American models, and executing this extraction at scale requires access to advanced chips,” it said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://lite.cnn.com/",
+      "text": "CNN"
+    },
+    {
+      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "text": "Monday blogpost"
+    },
+    {
+      "url": "https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rRmql_jJcxb4/v0",
+      "text": "memo"
+    },
+    {
+      "url": "https://www.cnn.com/2025/01/30/business/openai-deepseek-nightcap",
+      "text": "reviewing evidence"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk",
+      "text": "See Full Web Article"
+    },
+    {
+      "url": "https://www.cnn.com/",
+      "text": "Go to the full CNN experience"
+    },
+    {
+      "url": "https://www.cnn.com/terms",
+      "text": "Terms of Use"
+    },
+    {
+      "url": "https://www.cnn.com/privacy",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://www.cnn.com/ad-choices",
+      "text": "Ad Choices"
+    },
+    {
+      "url": "https://lite.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk",
+      "text": "Cookie Settings"
+    }
+  ],
+  "hash": "d00d54cb0feeebc6b5bef3ce655b979eb04110f0f180df52eb9db7e046807b41",
+  "scraped_at": "2026-02-24T07:30:56.259009+00:00"
+}
