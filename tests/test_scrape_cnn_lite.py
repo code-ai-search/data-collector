@@ -60,6 +60,7 @@ class TestScrapeCnnLite(unittest.TestCase):
             "<html><body>"
             "<h1>Sample Title</h1>"
             "<article><p>Paragraph one.</p></article>"
+            '<a href="https://lite.cnn.com/">CNN</a>'
             '<a href="https://www.cnn.com/">Home</a>'
             '<a href="https://www.cnn.com/terms">Terms</a>'
             '<a href="https://www.cnn.com/privacy">Privacy</a>'
@@ -69,6 +70,21 @@ class TestScrapeCnnLite(unittest.TestCase):
         )
         session = FakeSession(html)
         article_data = extract_article_data("https://lite.cnn.com/sample", session)
+
+        self.assertEqual(article_data["links"], [{"url": "https://www.cnn.com/world/story", "text": "Story"}])
+
+    def test_extract_article_data_omits_same_route_links_across_cnn_domains(self):
+        html = (
+            "<html><body>"
+            "<h1>Sample Title</h1>"
+            "<article><p>Paragraph one.</p></article>"
+            '<a href="https://www.cnn.com/2026/02/24/tech/article-url">See Full Web Article</a>'
+            '<a href="https://lite.cnn.com/2026/02/24/tech/article-url">Cookie Settings</a>'
+            '<a href="https://www.cnn.com/world/story">Story</a>'
+            "</body></html>"
+        )
+        session = FakeSession(html)
+        article_data = extract_article_data("https://lite.cnn.com/2026/02/24/tech/article-url", session)
 
         self.assertEqual(article_data["links"], [{"url": "https://www.cnn.com/world/story", "text": "Story"}])
 

@@ -22,6 +22,7 @@ DEFAULT_TITLE = 'No title found'
 DEFAULT_TEXT = 'No text found'
 AUTHOR_SUFFIXES = {'jr', 'sr', 'ii', 'iii', 'iv'}
 URL_BLOCK_LIST = {
+    'https://lite.cnn.com/',
     'https://www.cnn.com/',
     'https://www.cnn.com/terms',
     'https://www.cnn.com/privacy',
@@ -40,11 +41,20 @@ def get_article_hash(content):
 def extract_article_links(soup, base_url):
     """Extract all anchor tag links from the article"""
     links = []
+    base_parsed = urlparse(base_url)
+    base_path = base_parsed.path.rstrip('/')
     for a_tag in soup.find_all('a', href=True):
         href = a_tag.get('href', '')
         # Convert relative URLs to absolute
         absolute_url = urljoin(base_url, href)
         if absolute_url.rstrip('/') in NORMALIZED_URL_BLOCK_LIST:
+            continue
+        parsed_url = urlparse(absolute_url)
+        if (
+            parsed_url.netloc.endswith('cnn.com')
+            and base_parsed.netloc.endswith('cnn.com')
+            and parsed_url.path.rstrip('/') == base_path
+        ):
             continue
         link_text = a_tag.get_text(strip=True)
         links.append({
