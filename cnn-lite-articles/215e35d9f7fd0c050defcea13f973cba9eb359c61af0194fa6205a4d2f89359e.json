@@ -1,0 +1,54 @@
+{
+  "url": "https://lite.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+  "title": "Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon | CNN Business",
+  "date": "2026-02-26T07:31:35.179283+00:00",
+  "authors": [
+    "Clare Duffy",
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nAnthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.\n\nInstead of self-imposed guardrails constraining its development of AI models, Anthropic is adopting a nonbinding safety framework that it says can and will change.\n\nIn ablog postTuesday outlining its new policy, Anthropic said shortcomings in its two-year-old Responsible Scaling Policy could hinder its ability to compete in a rapidly growing AI market.\n\nThe announcement is surprising, because Anthropic has described itself as the AI company with a “soul.” It also comes the same week that Anthropic is fighting a significant battle with the Pentagon over AI red lines.\n\nThe policy change is separate and unrelated to Anthropic’s discussions with the Pentagon, according to a source familiar with the matter. Defense Secretary Pete Hegsethgave Anthropic CEO Dario Amodei an ultimatumon Tuesdayto roll back the company’s AI safeguards or risk losing a $200 million Pentagon contract. The Pentagon threatened to put Anthropic on what is effectively a government blacklist.\n\nBut the company said in its blog post that its previous safety policy was designed to build industry consensus around mitigating AI risks – guardrails that the industry blew through. Anthropic also noted its safety policy was out of step with Washington’s current anti-regulatory political climate.\n\nAnthropic’sprevious policystipulated that it should pause training more powerful models if their capabilities outstripped the company’s ability to control them and ensure their safety — a measure that’s been removed in thenew policy. Anthropic argued that responsible AI developers pausing growth while less careful actors plowed ahead could “result in a world that is less safe.”\n\nAs part of the new policy, Anthropic said it will separate its own safety plans from its recommendations for the AI industry.\n\nAnthropic wrote that it had hoped its original safety principles “would encourage other AI companies to introduce similar policies. This is the idea of a ‘race to the top’ (the converse of a ‘race to the bottom’), in which different industry players are incentivized to improve, rather than weaken, their models’ safeguards and their overall safety posture.”\n\nThe company now suggests that hasn’t played out.\n\nIn a statement to CNN, an Anthropic spokesperson described the updated policy as “the strongest to date on the level of public accountability and transparency.”\n\n“We’ve gone a significant step further from our prior policies by committing to publicly publish detailed reports at regular intervals on our plans to strengthen our risk mitigations, as well as the threat models and capabilities of all our models,” the statement said. “From the beginning, we’ve said the pace of AI and uncertainties in the field would require us to rapidly iterate and improve the policy.”\n\nAnthropic’s new safety policy includes a “Frontier Safety Roadmap” that outlines the company’s self-imposed guidelines and safeguards. But the company acknowledged the new framework is more flexible than its past policy.\n\n“Rather than being hard commitments, these are public goals that we will openly grade our progress towards,” the company said in its blog post.\n\nThe change comes a day after Defense Secretary Pete Hegsethgave Anthropic CEO Dario Amodei a Friday deadlineto roll back the company’s AI safeguards, or risk losing a $200 million Pentagon contract and being put on what is effectively a government blacklist.\n\nAnthropic has concerns over two issues that it isn’t willing to drop, according to a source familiar with the company’s meeting with Hegseth: AI-controlled weapons and mass domestic surveillance of American citizens. Anthropic believes AI is not reliable enough to operate weapons, and there are no laws or regulations yet that cover how AI could be used in mass surveillance, a source said.\n\nAI researchers applauded Anthropic’s stance on social media on Tuesday and expressed concerns about the idea of AI being used for government surveillance.\n\nThe company has long positioned itself as the AI business that prioritizes safety. Anthropic has published research showing how its own AI modelscould be capable of blackmailunder certain conditions. The company recentlydonated $20 millionto Public First Action, a political group pushing for AI safeguards and education.\n\nBut the company has faced increasing pressure and competition from both the government and its rivals. Hegseth, for example, plans to invoke the Defense Production Act on Anthropic and designate the company a supply chain risk if it does not comply with the Pentagon’s demands,CNN reportedon Tuesday. OpenAI and Anthropic have also been locked in a race to launch new enterprise AI tools in a bid to win the workplace.\n\nJared Kaplan, Anthropic’s chief science officer, suggested inan interview with Timethat the change was made in the name of safety more than increased competition.\n\n“We felt that it wouldn’t actually help anyone for us to stop training AI models,” Kaplan told the magazine. “We didn’t really feel, with the rapid advance of AI, that it made sense for us to make unilateral commitments … if competitors are blazing ahead.”\n\nCNN’s Hadas Gold contributed to this story.\n\nThis story has been updated with additional information.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+      "text": "blog post"
+    },
+    {
+      "url": "https://x.com/AmandaAskell/status/1995610570859704344",
+      "text": "soul"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "text": "gave Anthropic CEO Dario Amodei an ultimatum"
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+      "text": "previous policy"
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/e670587677525f28df69b59e5fb4c22cc5461a17.pdf",
+      "text": "new policy"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "text": "gave Anthropic CEO Dario Amodei a Friday deadline"
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/6d8a8055020700718b0c49369f60816ba2a7c285.pdf",
+      "text": "could be capable of blackmail"
+    },
+    {
+      "url": "https://www.anthropic.com/news/donate-public-first-action?ref=ai-360.online",
+      "text": "donated $20 million"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "text": "CNN reported"
+    },
+    {
+      "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+      "text": "an interview with Time"
+    }
+  ],
+  "hash": "215e35d9f7fd0c050defcea13f973cba9eb359c61af0194fa6205a4d2f89359e",
+  "scraped_at": "2026-02-26T07:31:35.179295+00:00"
+}
