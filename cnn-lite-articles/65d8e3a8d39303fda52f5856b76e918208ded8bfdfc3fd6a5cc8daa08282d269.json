@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/02/24/tech/anthropic-claude-plugins-office-jobs",
+  "title": "Anthropic is doubling down on the tech that raised questions about AI coming for office jobs | CNN Business",
+  "date": "2026-02-27T07:17:22.509803+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nJust weeks after its newAI tools for the office shook software stocks, Anthropic is pushing even deeper into the workplace.\n\nThe company is updating its Claude AI helper to perform better at tasks for specific jobs, such as design, human resources and wealth management roles, while also enabling it to work within applications like Microsoft Excel and PowerPoint apps. Anthropic made the announcement during a virtual event on Tuesday.\n\nAnthropic launched Claude Cowork in January with the goal of expanding the usefulness of its popular coding tool to more types of office work. It’s made several updates since then, first by adding plugins that make it better at jobs like financial and legal analysis. Then, itupgraded the AI modelthat powers the agent and launched anew tool for cybersecurity work. Now, it’s furthering that push into broader office work with even more industry-specific tools.\n\nThe AI company’s rapid-fire updates and improvements have given Wall Street whiplash, making investors nervous that AI could soon make other businesses’ products obsolete and lead to mass layoffs. Anthropic strongly denies that – it says it’s not trying to replace products from enterprise software companies, which are deeply embedded in businesses’ systems and maintain trusted tools to handle sensitive, proprietary data.\n\nInstead, Anthropic’s Scott White, head of product for enterprise, said the company is building something complementary to work with existing software and tools. Anthropic views itself “as a platform, not a product, trying to own every workflow,” White said.\n\nBut Anthropic’s fast development speed remains critical in a sea of competitors breathing down its neck. Rival OpenAI is ramping up its own enterprise offerings.\n\nInstead of using Claude as a separate chatbot, it can now live inside enterprise software tools, pulling context and data without users needing to leave the window they’re working in. The idea is to make it so that Claude could, for example, use spreadsheet data to create slide presentations the way a person would.\n\nThat should make it much easier for users to interact with Claude without having to copy and paste information between apps, according to White, who claims that should make Claude “like a real, fully capable virtual collaborator.”\n\nThe new plugins for specific fields will also make Claude better at tasks such as modeling scenarios in private equity work, developing job descriptions and offer letters in human resources, putting together creative briefs for design-related work and summarizing vendor proposals for operations-related tasks. Anthropic says it worked with companies like FactSet, S&P and LSEG for the financial services plugins and Apollo for sales plugins.\n\nCompanies will be able to customize the plugins to work with the apps used by their organization, such as  Google Drive, Gmail, Google Calendar, DocuSign and others.\n\nAnthropic’s announcement comes after the quiet rollout of several industry-specific Claude Cowork pluginsrattled software stocksin early February, raising concerns that the tool could challenge existing analytics and research products.  A software industry ETF fell nearly 6% in a single day back then, its worst session since April. Thomson Reuters saw its biggest single-day stock drop on record in early February, plunging nearly 16%. LegalZoom sank almost 20%. FactSet dropped more than 10%. European data analytics giant RELX fell 14%.\n\nIBM shares (IBM) tumbledMonday after the AI startup published ablog postabout how AI could help modernize COBOL, a decades old programming language for business data processing. IBM offers tools for compiling and upgrading COBOL code.\n\nAnd cybersecurity stocks were down after Anthropicdebuteda new capability for Claude Code on Friday that “scans codebases for security vulnerabilities and suggests targeted software patches for human review.”\n\nOpenAI last month launched Frontier, a new platform that helps companies “build, deploy, and manage AI agents that can do real work.” On Monday, the company announced newmultiyear partnershipswith four major consulting firms that will deploy Frontier along with OpenAI engineers embedded in the firms. OpenAI likely hopes the consulting firms will spread the ChatGPT maker’s enterprise products to the many companies they work with.\n\nBut not everyone is buying into AI just yet. Jacob Bourne, a technology analyst for eMarketer, previously told CNN that security concerns will likely prevent many companies from adopting AI tools at scale.\n\n“Panic over this is probably misplaced,” said Bourne. “But I think it does mean that legacy enterprise software providers are going to need to continue evolving.”\n\nCNN’s Clare Duffy and Lisa Eadicicco contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/05/tech/anthropic-opus-update-software-stocks",
+      "text": "upgraded the AI model"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-code-security",
+      "text": "new tool for cybersecurity work"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software",
+      "text": "rattled software stocks"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/IBM",
+      "text": "IBM"
+    },
+    {
+      "url": "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization",
+      "text": "blog post"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-code-security",
+      "text": "debuted"
+    },
+    {
+      "url": "https://openai.com/index/frontier-alliance-partners/",
+      "text": "multiyear partnerships"
+    }
+  ],
+  "hash": "65d8e3a8d39303fda52f5856b76e918208ded8bfdfc3fd6a5cc8daa08282d269",
+  "scraped_at": "2026-02-27T07:17:22.509817+00:00"
+}
