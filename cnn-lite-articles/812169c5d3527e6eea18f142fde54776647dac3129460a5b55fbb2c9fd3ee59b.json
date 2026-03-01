@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer",
+  "title": "Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’ | CNN Business",
+  "date": "2026-03-01T07:08:36.313407+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nAnthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.\n\nThe Pentagon and Anthropicare at oddsover restrictions the company places on the use of Claude, the first AI system to be used in the military’s classified network.\n\nDefense Secretary Pete Hegseth told Anthropic CEO Dario Amodei on Tuesday that if Anthropic does not allow its AI model to be used “for all lawful purposes,” the Pentagon would cancel Anthropic’s $200 million contract. In addition to the contract cancellation, Anthropic would be deemed a “supply chain risk,” a classification normally reserved for companies connected to foreign adversaries, Pentagon officials said.\n\nAnthropic said in a statement that the Pentagon’s new language was framed as a compromise but “was paired with legalese that would allow those safeguards to be disregarded at will.”\n\nIn a lengthyblog post on Thursday,Amodei wrote: “I believe deeply in the existential importance of using AI to defend the United States and other democracies, and to defeat our autocratic adversaries.”\n\nAmodei said Anthropic understands that the Pentagon, “not private companies, makes military decisions.” But “in a narrow set of cases, we believe AI can undermine, rather than defend, democratic values.” He also said use cases like mass surveillance and autonomous weapons are “outside the bounds of what today’s technology can safely and reliably do.”\n\nAnthropic’s two exceptions have not slowed “adoption and use of our models within our armed forces to date,” Amodei added.\n\nAmodei said the Pentagon’s “threats do not change our position: we cannot in good conscience accede to their request.”\n\nIn response, Emil Michael, the Pentagon’s Undersecretary for Research and Engineering who had been part of the negotiations, wrote on X: “It’s a shame that@DarioAmodeiis a liar and has a God-complex. He wants nothing more than to try to personally control the US Military and is ok putting our nation’s safety at risk. The@DeptofWarwill ALWAYS adhere to the law but not bend to whims of any one for-profit tech company.”\n\nAfter Amodei’s post published, Anthropic staffers began publicly expressing support for their employer.\n\n“Time and time again over my three year tenure at Anthropic I’ve seen us stand to our values in ways that are often invisible from the outside. This is a clear instance where it is visible,” Trenton Bricken, a member of Anthropic’s technical team for alignment, wrote on X.\n\n“[H]istory is unfolding in front of us it’s now obvious and evident to everyone with eyes to see why anthropic founding was a crucial fork in the timeline, and how catastrophic the counterfactual would’ve been otherwise,” wrote Gian Segato, a data science manager at Anthropic.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "text": "are at odds"
+    },
+    {
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "text": "blog post on Thursday,"
+    },
+    {
+      "url": "https://x.com/DarioAmodei",
+      "text": "@DarioAmodei"
+    },
+    {
+      "url": "https://x.com/DeptofWar",
+      "text": "@DeptofWar"
+    }
+  ],
+  "hash": "812169c5d3527e6eea18f142fde54776647dac3129460a5b55fbb2c9fd3ee59b",
+  "scraped_at": "2026-03-01T07:08:36.313420+00:00"
+}

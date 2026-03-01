@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+  "title": "OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic | CNN Business",
+  "date": "2026-03-01T07:07:01.002488+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nOpenAI CEO Sam Altman announced late Friday that the company had signeda deal with the Pentagonfor its AI toolsto be used in the military’s classified systems, but with seemingly similar guardrails rival Anthropic had also requested.\n\nThe deal with OpenAI comes the same day President Donald Trump announced all federal government agenciesmust cease using Anthropic’s AI tools, and Defense Secretary Pete Hegseth declared that the company would be deemed a “supply chain risk,” all over refusing to back down in its negotiations with the Pentagon over requested restrictions of its AI system being used in autonomous weapons and mass surveillance of US citizens.\n\nButAltman’s statementsuggests the Pentagon agreed to similar restrictions with OpenAI’s models.\n\n“Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems. The DoW agrees with these principles, reflects them in law and policy, and we put them into our agreement,” Altman said on X. “We also will build technical safeguards to ensure our models behave as they should, which the (Department of War) also wanted.”\n\nAltman said they would send forward deployed engineers to the Pentagon to ensure the safety of their models.\n\n“We are asking the DoW to offer these same terms to all AI companies, which in our opinion we think everyone should be willing to accept. We have expressed our strong desire to see things de-escalate away from legal and governmental actions and towards reasonable agreements,” Altman noted.\n\nAnthropic said on Friday it plans to legally challenge the “supply chain risk” designation, one that is normally reserved for companies with direct connections to foreign adversaries. It would require all contractors who work with the military to prove their military work does not touch Anthropic’s products.\n\nIt’s not clear what is different about OpenAI’s deal with the Pentagon versus what Anthropic wanted.\n\nCNN has asked both the Pentagon and OpenAI for clarifications.\n\nHegseth re-posted Altman’s announcement on X, and Under Secretary Emil Michael, who is in charge of technology at the Pentagon, said in a separate post on X, “When it’s comes to matters of life and death for our warfighters, having a reliable and steady partner that engages in good faith makes all the difference as we enter into the AI Age.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/openai-has-same-redlines-as-anthropic-in-any-deal-with-the-pentagon",
+      "text": "a deal with the Pentagon"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "text": "must cease using Anthropic’s AI tools"
+    },
+    {
+      "url": "https://x.com/sama/status/2027578652477821175",
+      "text": "Altman’s statement"
+    }
+  ],
+  "hash": "fedc5d69810085d7778c75876f900cd870b63efc0b5ffec52cfd3eb5a9d23c45",
+  "scraped_at": "2026-03-01T07:07:01.002501+00:00"
+}
