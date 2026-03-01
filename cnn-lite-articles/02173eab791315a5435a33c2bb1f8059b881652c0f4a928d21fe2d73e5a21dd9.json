@@ -1,0 +1,46 @@
+{
+  "url": "https://lite.cnn.com/2026/02/26/tech/anthropic-ai-safety",
+  "title": "What the Anthropic AI safety saga is really all about | CNN Business",
+  "date": "2026-02-27T07:16:11.162171+00:00",
+  "authors": [
+    "Analysis by Lisa Eadicicco",
+    "David Goldman"
+  ],
+  "text": "Source: CNN\n\nAnthropic has reached a familiar crossroads for a growing tech company: how to scale without compromising the principles that set it apart.\n\nThe AI company has made safety its guiding principle. It advocated for AI regulation and called for worker protections as AI replaces some human tasks. Anthropic has worked hard to send a specific message to customers: We’re the good guys.\n\nYet the self-imposed guardrails the company laid down to build that brand may now be forming obstacles to its success.\n\nThis week, the Pentagon gave Anthropic an ultimatum: Drop your AI ethical restrictions orlose your $200 million contractand face a blacklisting. Separately, also this week, Anthropicloosened its core safety policyto better adapt to a fast-moving market in which competitors may not abide by the same safety standards.\n\nIt’s unclear how this week will play out for Anthropic’s business and its reputation, but its decisions will be consequential.\n\nWe know that, because Anthropic’s dilemma is a familiar one in the tech industry. Many companies tout their values and morality, only to be confronted with tough decisions that force them to choose between growth and maintaining those ideals.\n\nAnthropic may want to take note.\n\nJust over two years ago, Anthropic’s biggest rival grappled with dissent over growth at the cost of safety.\n\nIn one of the most bizarre boardroom dramas in corporate history, Anthropic’s chief rival OpenAIabruptly fired its founderand CEO Sam Altman on a November Friday in 2023, only to rehire him the following Tuesday.\n\nThe saga involved a unique corporate structure that placed the fast-growing, for-profit company behind ChatGPT under the auspices of a nonprofit board. Four years earlier, the company had written into itscharterthat OpenAI remained “concerned” about AI’s potential to “cause rapid change” for humanity. The company’s overseers feared that Altman was moving so fast that herisked underminingthe safety the company pledged to provide.\n\nBut firing Altman led to threats of a mass exodus of employees – an untenable situation that could have led to the destruction of the company. So the board just days later rehired Altman. The board dissolved soon after, and Altman changed the corporate structure last year to free itself of its nonprofit overseer.\n\nOpenAI has since struggled to balance speed and safety, facing several lawsuits that claim its products convinced young people to harm themselves. OpenAI denies those claims.\n\nSyed Farook and his wife, Tashfeen Malik, murdered 14 people at the Inland Regional Center in San Bernardino, California, in December 2015. The couple later died in a shootout with police.\n\nInvestigators obtained permission to retrieve data from Farook’s iPhone, but they couldn’t get inside because it had been locked with a passcode. A California judge ordered Apple to help law enforcement officers access the phone.\n\nBut in an openletter, signed by Apple CEO Tim Cook, the company refused. Cook said the judge’s order would open “a backdoor to the iPhone,” which was “something we consider too dangerous to create.” The company said it had no sympathy for terrorists, but complying with the order would give government authorities “power to reach into anyone’s device to capture their data.”\n\nApple received tremendous flak for its decision – including from then-presidential candidateDonald Trump. But it has since garnered widespread praise for standing up for its customers’ privacy, which has since become synonymous with the company’s brand.\n\nThe company now routinely touts that it won’t sell customer data or store certain personal information on its servers, trying to differentiate itself from Google, one of its main competitors.\n\nAs Amazon’s e-commerce empire was just starting to take off in the early 2000s, Etsy emerged as a novel alternative where shoppers could find unique handmade goods.\n\nBut it made a controversial change in 2013 that threatened to challenge that ethos. It broadened its policy to allow sellers to use manufacturers and outsource operations,sparking concerns at the timethat it would no longer provide a fair playing field for small independent sellers without the resources to hire staff.\n\nStill, that decision was critical for Etsy to expand into the marketplace it is today, which now offers more than 100 million items for sale and roughly 8 million active sellers.\n\n“From a business point of view, it worked out for Etsy, but it was a difficult moment for the company,” said Arun Sundararajan, director of NYU Stern’s Fubon Center for Technology, Business and Innovation.\n\nThese case studies offer a cautionary roadmap for Anthropic.\n\nNow, the biggest near-term consequence for Anthropic is likely how clients and potential customers value and trust the company, said Owen Daniels, associate director of analysis at Georgetown’s Center for Security and Emerging Technology.\n\nAnthropic said its self-imposed safety measures were always meant to be flexible and subject to change as AI evolves. It pledged to be transparent about safety in the future and said it really didn’t have a choice: If it stopped growing, rivals that don’t value safety as much could push ahead and make AI “less safe” overall.\n\nIt’s unclear what will come of Anthropic’s change, because AI’s existential risks are still largely “conceptual,” noted Sundararajan.\n\nHe said he’d be skeptical of any expert who called this an important moment in AI safety. But it could be an important moment for the company.\n\n“Pulling back from a particular safety promise here by Anthropic, to me, is more about Anthropic and less about the future of AI,” he said.\n\nThis story has been updated to include more details about Anthropic’s safety policy changes.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "text": "lose your $200 million contract"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "text": "loosened its core safety policy"
+    },
+    {
+      "url": "https://www.cnn.com/2023/11/22/tech/openai-altman-returns-hnk-intl",
+      "text": "abruptly fired its founder"
+    },
+    {
+      "url": "https://openai.com/blog/openai-lp",
+      "text": "charter"
+    },
+    {
+      "url": "https://www.cnn.com/2023/10/31/tech/sam-altman-ai-risk-taker/index.html",
+      "text": "risked undermining"
+    },
+    {
+      "url": "http://www.apple.com/customer-letter/",
+      "text": "letter"
+    },
+    {
+      "url": "https://www.cnn.com/2016/02/17/politics/donald-trump-apple-encryption-debate",
+      "text": "Donald Trump"
+    },
+    {
+      "url": "https://www.theguardian.com/lifeandstyle/2013/oct/01/etsy-handmade-policy-change",
+      "text": "sparking concerns at the time"
+    }
+  ],
+  "hash": "02173eab791315a5435a33c2bb1f8059b881652c0f4a928d21fe2d73e5a21dd9",
+  "scraped_at": "2026-02-27T07:16:11.162184+00:00"
+}
