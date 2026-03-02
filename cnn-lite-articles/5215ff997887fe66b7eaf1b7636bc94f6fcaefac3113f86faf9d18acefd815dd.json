@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/03/02/business/tech-gadgets-smartphone-glasses",
+  "title": "The winners of the smartphone boom think they know what the next big tech gadget is | CNN Business",
+  "date": "2026-03-02T07:29:25.122174+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nThe next wave of tech devices may not have a screen. You might not realize that they’re recording you. And you might not even realize they’re tech gadgets at all.\n\nQualcomm, whose chips power smartphones from major Android device makers, launched a new chip Monday for new products along those lines. The company says it’s seeing growing interest from tech companies in devices that look like pendants, pins, glasses and other discrete items worn on the body.\n\nTech companies are racingto predict whether AI’s popularity will result in a new hit product, similar to how the internet laid the foundation for the smartphone. Qualcomm’s chips power millions of devices from companies like Samsung, Motorola, Meta and many others, so its new commitment could be a sort of bellwether for the consumer tech world.\n\nBut tech companies will have to prove that new devices can do things better or differently than smartphones and alleviate privacy concerns around devices can surreptitiously record their surroundings.\n\nZiad Asghar, who leads Qualcomm’s wearables and personal AI devices division, said Qualcomm saw the need for a new chip after companies approached them with new gadget concepts.\n\nThe early success of smart glasses was another indication for Qualcomm, according to Asghar. Global shipments of smart glasses grew 139% compared to last year in the second half of 2025, according toCounterpoint Research.\n\n“We have seen the demand (for smart glasses) go way beyond what we had predicted in (2025), and that has given us a lot more confidence,” Asghar said.\n\nThe new chip, called the Snapdragon Wear Elite, was designed with new products like pins and pendants in mind but will also power smartwatches. Qualcomm said the chip is made for things like running AI models and working with other nearby devices without draining abattery, even in devices that are regularly recording and communicating with phones and other devices. Google, Motorola and Samsung are among the companies that will use the chip.\n\nBut tech giants face an uphill battle in convincing consumers to embrace new devices. At least one company has already learned this the hard way. Humane, a tech startup founded by former Apple executives, sold parts of its business to HP after its AI Pin failed to catch on with consumers.\n\nBut Asghar says wearable gadgets can potentially handle sometasks more efficiently than a phone, like instant translations during a conversation.\n\nSmart glasses, earbuds and new potential devices can provide translations in your line of sight and your ear so that you don’t have to look down at a phone screen. Asghar also said he has seen interest from the retail industry in using AI devices with cameras to track where shoppers are looking.\n\nPlus, devices worn on the body instead of being tucked away in a pocket may be able to understand context from one’s surroundings through cameras, microphones and other sensors, providingmore information to tailor answers.\n\n“It gives you an ability that basically you did not have before the device,” Asghar said.\n\nMeta, Google and Samsung are all betting big on smart glasses that use AI to analyze and answer questions about a wearer’s surroundings.Amazon saysBee, the voice-recording bracelet it acquired last year, is important to Alexa’s future.\n\nApple is also developing smart glasses and a pendant, according toBloomberg. OpenAI is expected to launch its first hardware product — a smart speaker  — next year according toThe Information. And startups like theFriend AI pendantand Plaud pin have already been making waves.\n\nGoogle hasn’t announced plans to expand beyond its glasses, watches, phones and earbuds. But Bjørn Kilburn, vice president and general manager of Google’s smartwatch software, said the company is paying attention to these new types of devices.\n\n“At the end of the day, it’ll come down to, ‘Is it a superior product for the user? Does it do something that existing things couldn’t do?’ And so, if something like that emerges, then we’d be silly not to take a look at it,” Kilburn told CNN.\n\nSuch devices also mean it will be easier than ever to be recorded without one’s knowledge or consent. Most devices, like Meta’s smart glasses and the Amazon Bee bracelet, have an LED light that activates to let bystanders know it’s recording. Still,some women have reportedthat men used smart glasses to record them without their knowledge and post the videos on social media. Meta, currently the leading smart glasses company, mentioned the glasses’ LED indicator light in a previous statement to CNN and said people should use the product “in a safe, respectful manner.”\n\nGoogle’s smart glasses haven’t launched yet. But the company no doubt remembers the fallout from Google Glass, the discontinued, first-of-its-kind smart glasses that sparked a wave of privacy fearsin 2013.\n\nKilburn said Google has a “huge responsibility” to protect user privacy and that the company takes it very seriously.\n\n“So that does mean that sometimes we go slower on some things, because we need to be deliberate and think through all of the different positive and potentially unfortunately negative use cases,” he said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://counterpointresearch.com/en/insights/Global-Smart-Glasses-Shipments-Grew-139-Percent-YoY-in-H2-2025",
+      "text": "Counterpoint Research."
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/13/tech/plan-amazon-chatgp-alexa-ces",
+      "text": "Amazon says"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era",
+      "text": "Bloomberg"
+    },
+    {
+      "url": "https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices",
+      "text": "The Information"
+    },
+    {
+      "url": "https://www.cnn.com/2025/11/16/tech/friend-ai-device-backlash-ceo-avi-schiffmann",
+      "text": "Friend AI pendant"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/09/world/manfluencers-smart-glasses-intl",
+      "text": "some women have reported"
+    },
+    {
+      "url": "https://www.cnn.com/2013/12/10/tech/mobile/negative-google-glass-reactions",
+      "text": "in 2013."
+    }
+  ],
+  "hash": "5215ff997887fe66b7eaf1b7636bc94f6fcaefac3113f86faf9d18acefd815dd",
+  "scraped_at": "2026-03-02T07:29:25.122190+00:00"
+}
