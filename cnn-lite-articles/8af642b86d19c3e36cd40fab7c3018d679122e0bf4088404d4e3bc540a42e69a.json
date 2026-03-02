@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block",
+  "title": "AI changed everything this week. Here’s why | CNN Business",
+  "date": "2026-03-01T07:06:48.523223+00:00",
+  "authors": [
+    "Auzinea Bacon"
+  ],
+  "text": "Source: CNN\n\nWe’ve been talking about AI changing the world for a long time. But this week felt different — as if it were right in the middle of something big.\n\nThe stock market tumbled — three separate days — because of investors’ both bearish andbullish fears about AI, including Nvidia’s somewhat tepid outlook and a viral blog post that imagined a hypothetical scenario in which white-collar work evaporated.\n\nAnthropic unveiled new tools that could upend the way people do work. Then Anthropic entered into an epic battle over red lines with the Pentagon that risked making the AI company a pariah. At the same time, the company loosened its safety policy as the AI market continues to charge ahead.\n\nAnd then there was Block, which laid off 4,000 people — nearly half of its staff — because of AI. The company’s CEO predicted that other companies were about to do the same.\n\nWhat a week, indeed. Here’s how it unfolded.\n\nThe Dowtumbledmore than 800 points on Monday, in large part because of a Substackpostfrom Citrini Research that laid out hypothetical scenarios for how developments in AI coulddisruptcertain parts of the economy, including AI agents making white-collar work superfluous.\n\nThe post, which was published last Sunday, specifically said it was not meant to be predictive. It was a work of fiction.\n\nAnd yet stocks for companies mentioned in the report — like DoorDash and American Express — tumbled on Monday.\n\nTech stocks tumbled again on Thursday after leading chipmaker Nvidia released its earnings. Although the company’s profit nearly doubled in the fourth quarter and sales reached an all-time high, Wall Street seemed disappointed by its somewhat lackluster outlook. It fueled AI bubble concerns — that massive investments in AI infrastructure may not translate to big returns.\n\nThe steep declines this week showed just how on edge investors are regarding AI — even when the news is good, or when doomsday scenarios are completely made out of thin air.\n\nAnthropic fed into disruption fears earlier this month when it announced an update to itsClaude Coworkagent, stoking fears that it could replace dozens of software tools.\n\nOn Tuesday, Anthropic announced anotherupdateto Claude to improve the tool’s performance at specific jobs, such as design, human resources and wealth management roles, and it can now work within applications like Microsoft Excel and PowerPoint apps.\n\nAnthropic denied that its tools will replace existing software tools and jobs, noting Claude Cowork is designed to be complementary. But its rapid-fire updates are giving Wall Street whiplash.\n\nDario Amodei, Anthropic’s chief executive, went head-to-head with the Pentagon in a high-stakes battle over AI safety.\n\nAnthropic set two red lines for its AI: Claude will not be used in autonomous weapons, and it will not be used in the mass surveillance of US citizens.\n\nDefense Secretary Pete Hegseth said the Pentagon would use the Defense Production Act to access Anthropic’s technologies regardless of the company’s decision. He met with Amodei on Tuesday, saying that the Pentagon wanted to use the AI model “for all lawful purposes” and set a Friday deadline for the company to agree.\n\nHegseth alsothreatenedto end Anthropic’s $200 million contract and could deem the company a “supply chain risk,” effectively barring all companies with military contracts from doing business with Anthropic.\n\nTrump amplified that threat on Friday, posting on Truth Social that federal agencies must “immediately” stop using Anthropic’s technology. The president said there will be a “six month phase out period” for agencies using Anthropic’s products.\n\n“Anthropic better get their act together, and be helpful during this phase out period, or I will use the Full Power of the Presidency to make them comply, with major civil and criminal consequences to follow,” Trump said.\n\nBut Anthropic hasrejectedthe Pentagon’s offer.\n\n“Threats do not change our position: we cannot in good conscience accede to their request,” Amodei said in a blog post.\n\nMeanwhile, on Wednesday, Anthropic hadloosened its core safety policyto better adapt to a fast-moving market in which competitors may not abide by the same safety standards.\n\nEconomists and investors have long been worried for years that AI adoption could result in mass layoffs.\n\nThose fears seemed to come to fruition on Thursday when Block — the company behind Square, Cash App and Afterpay — said it would cut its staff by 40%. Co-founder Jack Dorsey plainly cited “intelligence tools” as the reason in a letter to shareholders.\n\nThe company would lay off more than 4,000 people, reducing its workforce to under 6,000. And Dorsey said in hisnotethat “most companies are late” and he thinks “the majority of companies will reach the same conclusion.”\n\nThat sparked a whole host of new fears about a jobs apocalypse — one that many economists still doubt is coming en masse.But Dorsey’s prediction of mass AI-induced layoffs sure seems closer to reality this week than at any time in history.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/23/investing/us-stocks-trump-tariffs",
+      "text": "tumbled"
+    },
+    {
+      "url": "https://www.citriniresearch.com/p/2028gic",
+      "text": "post"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks",
+      "text": "disrupt"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software",
+      "text": "Claude Cowork"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/anthropic-claude-plugins-office-jobs",
+      "text": "update"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "text": "threatened"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer",
+      "text": "rejected"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "text": "loosened its core safety policy"
+    },
+    {
+      "url": "https://s29.q4cdn.com/628966176/files/doc_financials/2025/q4/Q4-2025-Shareholder-Letter_Block.pdf",
+      "text": "note"
+    }
+  ],
+  "hash": "8af642b86d19c3e36cd40fab7c3018d679122e0bf4088404d4e3bc540a42e69a",
+  "scraped_at": "2026-03-01T07:06:48.523235+00:00"
+}
