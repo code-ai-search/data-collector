@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/03/03/health/ai-chatbot-health-advice-wellness",
+  "title": "What to know before asking an AI chatbot for health advice | CNN",
+  "date": "2026-03-04T07:10:24.528555+00:00",
+  "authors": [
+    "Associated Press"
+  ],
+  "text": "Source: CNN\n\nWith hundreds of millions of peopleturning to chatbots for advice, it was only a matter of time before tech companies began offering programs specifically designed toanswer health questions.\n\nIn January,OpenAIintroduced ChatGPT Health, a new version of its chatbot that the company says can analyze users’ medical records, wellness apps and wearable device data to answer health and medical questions. Currently, there’s a waiting list for the program.Anthropic, a rival AI company, offers similar features for some users of its Claude chatbot.\n\nBoth companies say their programs, known as large language models, aren’t a substitute for professional care and shouldn’t be used to diagnose medical conditions. Instead, they say the chatbots can summarize and explain complicated test results, help prepare for a doctor’s visit or analyzeimportant health trendsburied in medical records and app metrics.\n\nHere are some things to consider beforetalking to a chatbotabout your health:\n\nSome doctors and researchers who have worked with ChatGPT Health and similar programs see them as an improvement over the status quo.\n\nAI platforms are not perfect — they can sometimes hallucinate orprovide bad advice— but the information they produce is more likely to be personalized and specific than what patients might find through a Google search.\n\n“The alternative often is nothing, or the patient winging it,” said Dr. Robert Wachter, a medical technology expert at University of California, San Francisco. “And so I think that if you use these tools responsibly, I think you can get useful information.”\n\nOne advantage of the latest chatbots is that they answer users’ questions with context from their medical history, including prescriptions, age and doctor’s notes.\n\nEven if you haven’t given AI access to your medical information, Wachter and others recommend giving the chatbots as many details as possible to improve responses.\n\nWachter and others stress that there are situations when people should skip the chatbot and seek immediate medical attention. Symptoms such as shortness of breath, chest pain or a severe headache could signal a medical emergency.\n\nEven during less urgent situations, patients and doctors should approach AI programs with “a degree of healthy skepticism,” said Dr. Lloyd Minor of Stanford University.\n\n“If you’re talking about a major medical decision, or even a smaller decision about your health, you should never be relying just on what you’re getting out of a large language model,” said Minor, who is the dean of Stanford’s medical school.\n\nMany benefits offered by AI bots stem from users sharing personal medical information. But it’s important to understand that anything shared with an AI company isn’t protected by the federal privacy law that normally governs sensitive medical information.\n\nCommonly known as HIPAA, the law allows for fines and even prison time for doctors, hospitals, insurers or other health services thatdisclose medical records. But the law doesn’t apply to companies that design chatbots.\n\n“When someone is uploading their medical chart into a large language model, that is very different than handing it to a new doctor,” said Minor. “Consumers need to understand that they’re completely different privacy standards.”\n\nBoth OpenAI and Anthropic say users’ health information is kept separate from other types of data and is subject to additional privacy protections. The companies do not use health data to train their models. Users must opt in to share their information and can disconnect at any time.\n\nDespite excitement surrounding AI, independent testing of the technology is in its infancy. Early studies suggest programs like ChatGPT can ace high-level medical exams but often stumble when interacting with humans.\n\nA 1,300-participant study by Oxford University recently found that people using AI chatbots to research hypothetical health conditions didn’t make better decisions than people using online searches or personal judgment.\n\nAI chatbots presented with medical scenarios in a comprehensive, written form correctly identified the underlying condition 95% of the time.\n\n“That was not the problem,” said lead author Adam Mahdi of the Oxford Internet Institute. “The place where things fell apart was during the interaction with the real participants.”\n\nMahdi and his team found several communication problems. People often didn’t give the chatbots the necessary information to correctly identify the health issue. Conversely, the AI systems often responded with a combination of good and bad information, and users had trouble distinguishing between the two.\n\nThe study, conducted in 2024, did not use the latest chatbot versions, including new offerings like ChatGPT Health.\n\nThe ability for chatbots to ask follow-up questions and elicit key details from users is one area where Wachter sees room for improvement.\n\n“I think that’s when this will get really good, when the tools become a little bit more doctor-ish in the way they go back and forth” with patients, Wachter said.\n\nFor now, one way to feel more confident about the information you’re getting is to consult multiple chatbots — similar to getting a second opinion from another doctor.\n\n“I will sometimes put information into ChatGPT and information into Gemini,” Wachter said, referencing Google’s AI tool. “And when they both agree, I feel a little bit more secure that that’s the right answer.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://apnews.com/article/ftc-chatbot-ai-e78fcc72520f56a4eff90df7ad6220c0",
+      "text": "turning to chatbots for advice"
+    },
+    {
+      "url": "https://apnews.com/article/ai-therapy-ban-illinois-therabot-dfc5906b36fdd1fe8e8dbdb4970a45a7",
+      "text": "answer health questions"
+    },
+    {
+      "url": "https://apnews.com/hub/openai-inc",
+      "text": "OpenAI"
+    },
+    {
+      "url": "https://apnews.com/article/anthropic-pentagon-ai-hegseth-dario-amodei-b72d1894bc842d9acf026df3867bee8a",
+      "text": "Anthropic"
+    },
+    {
+      "url": "https://apnews.com/article/wellness-influencers-politics-fiber-protein-longevity-9969ef29b9cf29fe5fded67637351c7c",
+      "text": "important health trends"
+    },
+    {
+      "url": "https://apnews.com/article/chatbots-mental-health-therapy-counseling-ai-73feb819ff52a51d53fee117c3207219",
+      "text": "talking to a chatbot"
+    },
+    {
+      "url": "https://apnews.com/article/ftc-chatbot-ai-e78fcc72520f56a4eff90df7ad6220c0",
+      "text": "provide bad advice"
+    },
+    {
+      "url": "https://apnews.com/article/what-to-know-private-health-data-tracking-trump-422f5b03d24115326d91a3b58a486f11",
+      "text": "disclose medical records"
+    }
+  ],
+  "hash": "d3cd7ae6b5a506179552c880c7d41edd4df127f73a0d4097276aaab32ae64071",
+  "scraped_at": "2026-03-04T07:10:24.528568+00:00"
+}
