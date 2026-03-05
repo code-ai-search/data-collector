@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/03/03/tech/anthropic-claude-ai-app-pentagon",
+  "title": "Anthropic’s Claude is suddenly the most popular iPhone app following Pentagon feud | CNN Business",
+  "date": "2026-03-05T07:15:40.986053+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe AI company Anthropic was likely not in the public lexicon just a month ago. But it is now.\n\nThe AI company has long been known within tech circles for its popular Claude AI assistant and coding tools. But a whirlwind sequence of events in February thrust the company into the public eye more than ever. Case in point: Anthropic’s Claude app dethroned OpenAI’s ChatGPT to claim the top spot in Apple’s iPhone App Store over the weekend.\n\nThe increased visibility comes as the company has been locked in a high-stakes public feud with the Pentagon over its safety guardrails. But even in the weeks before, updates to its Claude toolstoked concernsabout AI’s impact on the software industry, sending shockwaves through Wall Street. And in early February, Anthropic took its most pointed and public jab at its chief rival, OpenAI,during the Super Bowl,one of the most-watched events on television.\n\nIt’s shaping up to be a formative time for the company, but its Claude assistant still has a long way to go to catch up to ChatGPT in public popularity.\n\nIn early February, Claude was around number 42 on the Apple App Store’s list of the most popular free iPhone apps. It surged to number one by Saturday, the day after the Pentagon deemed Anthropic a “supply chain risk” and President Donald Trumporderedthe federal government to stop using the company’s products. ChatGPT is currently the top free app in the Google Play app store for Android devices, although Claude isn’t far behind in fourth place.\n\nSome showed support for Claude in the real world as well: Encouragingmessages like “Thank you” covered the sidewalks outside of Anthropic’s San Francisco offices in recent days, according to images employees posted on social media.\n\nOther peoplesent OpenAI, whichannounced a dealwith the Pentagon late Friday, a much different message. Phrases such as “do the right thing” and “please stand up for civil liberties” were scribbled on the sidewalk outside its offices, according to San Francisconews siteMission Local.\n\nGoogle searches for “Anthropic” are the highest they have been since the company’s founding, according to Googlesearch trends.\n\nAs its battle with the Pentagon ramped up last week, the company hit “an all time record for Claude sign-ups,” an Anthropic spokesperson told CNN on Monday.\n\nAnthropic is leaning into that attention boost with a new feature unveiled Friday that simplifies importing history from other AI chatbots into Claude, the company said. It also added the ability for Claude to remember context across conversations to its free tier on Monday, rather than restricting it to paid users.\n\nEven pop starKaty Perryseems to be a Claude convert.\n\nThe demand has been so high that Claude briefly went down on Monday morning for many users, which Anthropic attributed to “unprecedented demand for Claude over the last week.” The system was back online within a few hours.\n\nAnthropic’s Claude has been a Silicon Valley darling for some time and a particular favorite among software engineers who rely on its coding tools. Yet it’s struggled to achieve the mainstream appeal of rival ChatGPT, which recentlysurpassed900 million weekly users. And Claude still has a long way to go by some estimates.\n\nWeb analytics company Similarweb indicates that ChatGPT’s website regularly hits more than 30 million weekly visitors compared to Claude’s 3 million – and that includes during this past week.Statcounter, another web analytics company, alsofound in Junethat 79.8% of website referrals from chatbots came from ChatGPT, while only 0.5% came from Claude.\n\nThere’s a similar gulf in app usage; daily ChatGPT usage is usually north of 20 million, whereas Claude’s is less than 2 million, according to Similarweb. However, Claude’s daily app downloads doubled last week compared to the week before, Similarweb found, which could lead to an increase in daily usage.\n\nChatGPT was a surprise hit when it launched in late 2022 and is largely credited with popularizing the shift to AI chatbots. But Claude’s newfound attention and rapidly evolving enterprise tools could signal an inflection point for the company made up of OpenAI expats.\n\nOn Monday evening, OpenAI CEO Sam Altman seemed to acknowledge some of the blowback to his company, announcing more adjustments in their contract with the Pentagon that he said help protect guardrails around the possible use of their AI system in the mass surveillance of US citizens.\n\n“One thing I think I did wrong: we shouldn’t have rushed to get this out on Friday. The issues are super complex, and demand clear communication,” Altman wrote on X. “We were genuinely trying to de-escalate things and avoid a much worse outcome, but I think it just looked opportunistic and sloppy.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software",
+      "text": "stoked concerns"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/06/tech/anthropic-openai-super-bowl-ads",
+      "text": "during the Super Bowl,"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "text": "ordered"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+      "text": "announced a deal"
+    },
+    {
+      "url": "https://missionlocal.org/2026/03/sf-openai-anthropic-ai-pentagon-deal-trump-sidewalk-chalk/",
+      "text": "news site"
+    },
+    {
+      "url": "https://trends.google.com/explore?q=anthropoic&date=all&geo=US",
+      "text": "search trends."
+    },
+    {
+      "url": "https://x.com/katyperry/status/2027619173325553765",
+      "text": "Katy Perry"
+    },
+    {
+      "url": "https://x.com/nickaturley/status/2027418597728079989",
+      "text": "surpassed"
+    },
+    {
+      "url": "https://gs.statcounter.com/press/new-statcounter-ai-data-finds-chatgpt-sends-79-perc-of-all-chatbot-referrals-to-websites",
+      "text": "found in June"
+    }
+  ],
+  "hash": "540e5b6dfa110b121bfa5d6d446680df6479fdd4a221afa9c8851dfd9da6b357",
+  "scraped_at": "2026-03-05T07:15:40.986065+00:00"
+}

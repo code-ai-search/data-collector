@@ -1,0 +1,69 @@
+{
+  "url": "https://lite.cnn.com/2026/03/04/tech/pentagon-anthropic-openai-staff-reactions",
+  "title": "Some OpenAI staff are fuming about its Pentagon deal | CNN Business",
+  "date": "2026-03-05T07:14:20.598665+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nMessages written in chalk covered the sidewalk outside OpenAI’s San Francisco offices Monday morning: “Where are your redlines?” “You must speak up.” “What are the safeguards?”\n\nThe messages, according tosocial mediaandnews reports, were written by activists. But some of those feelings are shared by many within the building, afterOpenAI struck a dealwith the Pentagon on Friday to use its AI models in classified systems.\n\nAnthropic had alreadyrejected an updateto its contract with the Pentagon because it felt the language didn’t adhere to the company’s redlines around the use of AI in mass surveillance and autonomous weapons. The Pentagonblacklisted the companyas a result, designating it a supply chain risk.\n\nThe contracts are steeped in legal and technical complexity. But in public forums and in private conversations, OpenAI employees are venting about how OpenAI leadership handled the Pentagon negotiations. Many employees “really respect” Anthropic for standing up to the Pentagon and are frustrated with OpenAI’s handling of their own contract, one current employee told CNN on the condition of anonymity to speak freely.\n\nAs the hours ticked down to the Pentagon’s Friday deadline for Anthropic to agree to its contract, OpenAI CEO Sam Altman surprised many when he saidhe agreed with his rival, Anthropic CEO Dario Amodei, and shared the same redlines.\n\nBut it turned out Altman had been negotiating for their own deal. Criticism erupted hours later, whenOpenAI announced its Pentagoncontract, seemingly swooping in to take Anthropic’s place. After OpenAI published some of the terms of the contract on Saturday, many outside observers immediately questioned how the redlines on autonomous weapons and mass surveillance would actually be upheld, with somesayingthe languagewould still allowthe safeguards to be disregarded.\n\nIn response, Altman fielded questions publicly over X on Saturday evening andannouncedon Monday that OpenAI had adjusted its Pentagon contract to more clearly establish guardrails that would prevent OpenAI services from being used in surveillance programs. (Autonomous weapons were not mentioned in the added language he posted online.)\n\nMany employees recognize the need to support the government as the US competes with China in AI, according to the current employee. But they also felt a contract of such importance and magnitude was rushed through.\n\n“It’s partly how it was perceived, how it was communicated, and what the narrative has become,” the employee said.\n\nSome employees publicly expressed their frustrations. Research scientist Aidan McLaughlinpostedon X Monday morning before Altman’s contract update: “i personally don’t think this deal was worth it.” He later called the internal discussion about the subject “overwhelming” but said he felt “incredibly proud to work somewhere where people can speak their mind.”\n\nJasmine Wang, who works on AI safety issues at OpenAI, posted that shewanted“independent legal counsel” toanalyze the new contract language Altman announced on Monday. She later reposted legal analyses that bothsupportedOpenAI’s claim that it solidified their redlines and others thatcriticizedit as “weasel language.”\n\nAltman acknowledged the communications breakdown.\n\n“The issues are super complex, and demand clear communication,” Altmanwroteon Xon Monday. “We were genuinely trying to de-escalate things and avoid a much worse outcome, but I think it just looked opportunistic and sloppy.”\n\nDuring an all-hands gathering at OpenAI on Tuesday, Altman reiterated that rushing the deal out was a “mistake,” according to a source familiar with the meeting. But OpenAI can’t weigh in on individual use cases for its technology, Altman said, such as distinguishing which specific military operations might be considered good or bad.\n\nAn OpenAI spokespersonpointed CNN to Altman’s public statements.\n\nSome employees on Tuesday also felt frustrated that some observers are portraying Anthropic as heroic despite previous years of work with the Pentagon and major defense contractor Palantir with little scrutiny.\n\nAltman told employees on Tuesday he believes that governments shouldwork with labs like OpenAI that enforce safety standards, rather than companies with fewer protections. He said he is urging the government to drop Anthropic’s supply chain risk designation.\n\n“I believe we will hopefully have the best models that will encourage the government to be willing to work with us, even if our safety stack annoys them, or put some limits or something else,” he said at the meeting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://x.com/RatOrthodox/status/2027952338133197284/photo/1",
+      "text": "social media"
+    },
+    {
+      "url": "https://missionlocal.org/2026/03/sf-openai-anthropic-ai-pentagon-deal-trump-sidewalk-chalk/",
+      "text": "news reports"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+      "text": "OpenAI struck a deal"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer",
+      "text": "rejected an update"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "text": "blacklisted the company"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/openai-has-same-redlines-as-anthropic-in-any-deal-with-the-pentagon",
+      "text": "he agreed with his rival"
+    },
+    {
+      "url": "https://x.com/justanotherlaw/status/2027855993921802484",
+      "text": "saying"
+    },
+    {
+      "url": "https://x.com/_NathanCalvin/status/2027859997359546575",
+      "text": "would still allow"
+    },
+    {
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war/",
+      "text": "announced"
+    },
+    {
+      "url": "https://x.com/aidan_mclau/status/2028507663529906395",
+      "text": "posted"
+    },
+    {
+      "url": "https://x.com/j_asminewang/status/2028648242666496092",
+      "text": "wanted"
+    },
+    {
+      "url": "https://x.com/CharlieBul58993/status/2028655193147998352",
+      "text": "supported"
+    },
+    {
+      "url": "https://x.com/KevinBankston/status/2028671804919722351",
+      "text": "criticized"
+    },
+    {
+      "url": "https://x.com/sama/status/2028640354912923739",
+      "text": "wrote"
+    }
+  ],
+  "hash": "28ae748ad3cc33ca7618dd791f3035be5480201a964b7830cdcec1e8dd54feaf",
+  "scraped_at": "2026-03-05T07:14:20.598678+00:00"
+}
