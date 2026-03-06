@@ -1,0 +1,24 @@
+{
+  "url": "https://lite.cnn.com/2026/03/05/politics/fbi-investigating-cyber-breach-critical-surveillance-network",
+  "title": "FBI investigating ‘suspicious’ cyber activities on critical surveillance network | CNN Politics",
+  "date": "2026-03-06T07:11:16.180054+00:00",
+  "authors": [
+    "Paula Reid",
+    "Sean Lyngaas",
+    "Evan Perez",
+    "Katelyn  Polantz"
+  ],
+  "text": "Source: CNN\n\nThe FBI has identified a suspected cybersecurity incident on a sensitive network used to manage wiretaps and intelligence surveillance warrants, and officials are working to determine the seriousness of the incident, according to an FBI statement and a source familiar with the investigation.\n\n“The FBI identified and addressed suspicious activities on FBI networks, and we have leveraged all technical capabilities to respond,” the bureau said in a statement to CNN on Thursday, declining to elaborate.\n\nA source familiar with the investigation told CNN the cybersecurity incident is related to a digital system the bureau uses to manage wiretapping and foreign intelligence surveillance warrants as part of investigations.\n\nThe recently discovered cybersecurity incident has prompted senior officials at the FBI and Justice Department focused on civil liberties and national security to respond, the source said.\n\nLike other major federal agencies and corporations, the FBI is a regular target of hackers seeking sensitive information held by the bureau. But breaches to the bureau’s systems are rarely disclosed.\n\nIt’s not clear whether the latest “suspicious activity” uncovered by the FBI is connected to the serious Salt Typhoon breach attributed to Chinese intelligence that affected a variety of US government networks. Suspected Chinese hackers are believed to have infiltrated private sector communications providers and targeted national security networks,CNN reportedin 2024.\n\nThe recent possible breach comes amid what some current and former officials say has been a diminishing of the FBI’s cybersecurity response capabilities, with FBI Director Kash Patel pushing out some of the senior officials overseeing the information technology operations and experts overseeing the FBI’s handling of the Salt Typhoon response.\n\nThe increased turnover in FBI ranks, and wider upheaval at the FBI in the past year, has added to challenges the US faces in thwarting foreign cyberattacks, the current and former officials say.\n\nCNNreportedon a separate breach in 2023 that targeted affected a computer system in the New York FBI field office used in investigations of images of child sexual exploitation, including a system used to store images from the investigation of Jeffrey Epstein, according to people briefed on the matter.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2024/10/05/politics/chinese-hackers-us-telecoms",
+      "text": "CNN reported"
+    },
+    {
+      "url": "https://www.cnn.com/2023/02/17/politics/fbi-cyber-incident-computer-network",
+      "text": "reported"
+    }
+  ],
+  "hash": "d5eef412eb62679f07effce2c1349b7e26cc8de0fda277667f93c4cc7c0fc625",
+  "scraped_at": "2026-03-06T07:11:16.180067+00:00"
+}
