@@ -1,0 +1,53 @@
+{
+  "url": "https://lite.cnn.com/2026/03/05/tech/pentagon-anthropic-supply-chain-risk",
+  "title": "Pentagon’s supply chain risk label for Anthropic narrower than initially implied, company says | CNN Business",
+  "date": "2026-03-07T07:02:21.309355+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nAnthropic on Thursday said a Pentagon designation of the AI company as a “supply chain risk to America’s national security” won’t impact their business partners as heavily as Defense Secretary Pete Hegseth implied last week.\n\nHegseth had announced in a post on X that, as a result of a breakdown in contract negotiations with the AI company on Friday, “no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic” as part of the supply chain risk designation, a label usually reserved for companies tied to foreign adversaries.\n\nBut Anthropic CEO Dario Amodei said Thursday in astatementthat the language in the Pentagon’s letter on the designation means military contractors are only banned from using their AI model Claude “as a direct partof contracts with the Department of War, not all use of Claude by customers who have such contracts.”\n\nThe Pentagon and Anthropichave been at oddsover restrictions the company places on the use of Claude, the first AI system to be used in the military’s classified network. The government’s response sparked fears of a blacklist eating into Anthropic’s business.\n\nBut Anthropic said the relevant supply chain law limited the scope of the Pentagon’s designation.\n\n“Even for Department of War contractors, the supply chain risk designation doesn’t (and can’t) limit uses of Claude or business relationships with Anthropic if those are unrelated to their specific Department of War contracts,” Amodei wrote.\n\nMicrosoft, one of Anthropic’s biggest partners, agreed. A spokesperson told CNN: “Our lawyers have studied the designation and have concluded that Anthropic products, including Claude, can remain available to our customers – other than the Department of War﻿– through platforms such as M365, GitHub, and Microsoft’s AI Foundry and that we can continue to work with Anthropic on non-defense related projects.”\n\nGoogle and Amazon released similar statements, saying Anthropic products would remain available through their platforms for all non-Defense Department work.\n\nA senior Pentagon official confirmed to CNN that the department had officially notified Anthropic leadership about the supply chain risk designation.\n\n“From the very beginning, this has been about one fundamental principle: the military being able to use technology for all lawful purposes. The military will not allow a vendor to insert itself into the chain of command by restricting the lawful use of a critical capability and put our warfighters at risk,” the official said.\n\nAmodei wrote on Thursday that “we do not believe this action is legally sound, and we see no choice but to challenge it in court.”\n\nThe Pentagon wanted a contract modification that would allow the department “all lawful uses” for Claude. But negotiations got stuck over Anthropic’s two redlines: concern over AI being used in autonomous weapons and AI’s use in the mass surveillance of US citizens – redlines the Pentagon said they could not accept.\n\nAmodei said last week he could not “in good conscience” accede to the Pentagon’s requests. President Donald Trump then directed all federal agencies to cease use of Anthropic’s products within six months, and shortly after Hegseth declared the company a supply chain risk.\n\nAmodei indicated that despite the public falling out, negotiations have continued between the two sides in recent days.\n\n“I would like to reiterate that we had been having productive conversations with the Department of War over the last several days, both about ways we could serve the Department that adhere to our two narrow exceptions, and ways for us to ensure a smooth transition if that is not possible,” Amodei said.\n\nUnder Secretary of Defense Emil Michael pushed back,writingthe followingon X after Amodei’s statement was released: “I want to end all speculation: there is no active@DeptofWarnegotiation with@AnthropicAI.”\n\nAmodei also apologized for the contents of a leaked internal memo sent to staff on Friday and published byThe Information,in which he said one of the real causes of the dispute was because “we haven’t given dictator-style praise to Trump.”\n\n“It was a difficult day for the company, and I apologize for the tone of the post,” Amodei wrote. “It does not reflect my careful or considered views. It was also written six days ago, and is an out-of-date assessment of the current situation.”\n\nSam Altman, the CEO of rival AI company OpenAI, has publicly and privately told the Pentagon he does not believe Anthropic should be labeled a supply chain risk. (OpenAIstruckits own deal last week with the Pentagon for use of their AI models on classified systems, claiming it respects the same red lines Anthropic laid out.)\n\nOn Thursday, 30 former military and intelligence officials as well as tech policy leaders wrote ajoint letterto Congress urging it to investigate the “dangerous precedent” set by the Pentagon’s attack on Anthropic.\n\nMajor tech trade groups in Washington have written to the administration, warning about the negative effects of designating a US company a supply chain risk, according toReuters.\n\nMembers of Congress have also criticized the administration. Republican Sen. Thom Tillis toldAxiosthe public fight between the Pentagon and Anthropic “is sophomoric.” Democratic Sen.  Kirsten Gillibrand said in a statement on Thursday that the supply chain risk designation is “shortsighted, self-destructive, and a gift to our adversaries.”\n\nCNN’s Haley Britzky contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "text": "statement"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "text": "have been at odds"
+    },
+    {
+      "url": "https://x.com/USWREMichael/status/2029754965778907493",
+      "text": "writing"
+    },
+    {
+      "url": "https://x.com/DeptofWar",
+      "text": "@DeptofWar"
+    },
+    {
+      "url": "https://x.com/AnthropicAI",
+      "text": "@AnthropicAI"
+    },
+    {
+      "url": "https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-openais-mendacious-pentagon-announcement",
+      "text": "The Information,"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+      "text": "struck"
+    },
+    {
+      "url": "https://cdt.org/insights/defense-and-ai-leaders-on-pentagons-attack-on-anthropic/",
+      "text": "joint letter"
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/big-tech-group-tells-pentagons-hegseth-they-are-concerned-about-declaring-2026-03-04/?utm_source=chatgpt.com",
+      "text": "Reuters"
+    },
+    {
+      "url": "https://www.axios.com/2026/02/26/anthropic-pentagon-ultamatim-congress-deadline",
+      "text": "Axios"
+    }
+  ],
+  "hash": "ec2a2c3c84c31f86b61f874e4245bb1013e7037e2e960226615c211892141f85",
+  "scraped_at": "2026-03-07T07:02:21.309367+00:00"
+}
