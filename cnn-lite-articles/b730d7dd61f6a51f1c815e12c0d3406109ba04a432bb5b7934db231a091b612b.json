@@ -1,0 +1,53 @@
+{
+  "url": "https://lite.cnn.com/2026/03/09/tech/anthropic-sues-pentagon",
+  "title": "Anthropic sues the Trump administration after it was designated a supply chain risk | CNN Business",
+  "date": "2026-03-11T07:16:06.988027+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nAnthropic is suing the Department of Defense and other federal agencies on Monday over the Trump administration’s decision to label the AI company a “supply chain risk.”\n\nThe lawsuit is the latest development in an ongoing standoff between the Pentagon and one of world’s most prominent AI companies as the White House attempts to boost AI adoption in the government.\n\nThe supply chain risk designation is usually given to firms associated with foreign adversaries, and it impacts how Anthropic can do business with companies working with the Defense Department.\n\nAnthropic alleges that its categorization as a supply chain risk — and the Trump administration’s directive that federal agencies stop using the company’s technology — are legally unsound. The company called the moves “unprecedented and unlawful” in the legal filing.\n\n“Seeking judicial review does not change our longstanding commitment to harnessing AI to protect our national security, but this is a necessary step to protect our business, our customers, and our partners,” an Anthropic spokesperson said in a statement. “We will continue to pursue every path toward resolution, including dialogue with the government.”\n\nThe Pentagon declined to comment on litigation, citing department policy. White House spokesperson Liz Huston said the president “will never allow a radical left, woke company” to dictate how the military operates.\n\n“The President and Secretary of War are ensuring America’s courageous warfighters have the appropriate tools they need to be successful and will guarantee that they are never held hostage by the ideological whims of any Big Tech leaders,” Huston said in a statement. “Under the Trump Administration, our military will obey the United States Constitution – not any woke AI company’s terms of service.”\n\nThe Pentagon issued the supply chain risk designation after negotiations to update its contract with Anthropic broke down over two red lines that Anthropic wants the Defense Department to agree to: that its AI tool won’t be used for mass surveillance of US citizens, and that it won’t be used for autonomous weapons.\n\nThe Pentagon, however, wants to use Anthropic’s AI for “all lawful purposes,” saying they could not allow a private company to dictate how they can use their tools in a national security emergency. The Pentagon previously claimed it’s not interested in using AI for mass surveillance of US citizens and autonomous weapons.\n\nThe Trump administration on February 27ordered federal agencies and military contractorsto halt business with Anthropic after the company refused to let the Pentagon use its technology without restrictions. That same day, Defense Secretary Pete Hegsethsaid Anthropicwould be labeled a supply chain risk and added that “no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic.”\n\nIn its filing, Anthropic alleges that the government is retaliating against the company for its use of First Amendment-protected speech. It also argues that Trump does not have the authority to direct federal agencies to cease using Anthropic’s technology, and that the company was not granted adequate due process.\n\nThe company is seeking injunctive relief, alleging that “current and future contracts with private parties are also in doubt” and that“hundredsof millions of dollars” are in jeopardy because of the Trump administration’s actions.\n\n“On top of those immediate economic harms, Anthropic’s reputation and core First Amendment freedoms are under attack,” the filing read. “Absent judicial relief, those harms will only compound in the weeks and months ahead.”\n\nAnthropic CEO Dario Amodeisaidthe formal letter it receiveddesignating it a supply chain riskindicates its customers will only be restricted from using Claude in work directly related to their Pentagon contracts.\n\nAnthropic previously said it planned to challenge the designation in court, adding that it “set a dangerous precedent for any American company that negotiates with the government.”\n\nDozens of scientists and researchers at OpenAI and Google DeepMind — arguably the company’s two biggest competitors —filed an amicus briefin their personal capacities on Monday supporting Anthropic. The group argued that the supply chain risk designation could harm US competitiveness in the industry and hamper public discussions about the risks and benefits of AI. They also said Anthropic’s red lines raise legitimate concerns.\n\n“Until a legal framework exists to contain the risks of deploying frontier AI systems, the ethical commitments of AI developers — and their willingness to defend those commitments publicly — are not obstacles to good governance or innovation,” they wrote in the brief. “They are contributions to it. The Court should say so.”\n\nAmodeimet with Hegsethon February 24, but the two failed to come to an agreement. In ablog postexplaining the company’s decision to reject the Pentagon’s offer, Amodei said AI can’t currently be used reliably and safely for cases like mass surveillance and autonomous weapons. He also said the company has been “having productive conversations” with the Pentagon about how to work together while adhering to its redlines and about ensuring a smooth transition if an agreement isn’t reached.\n\nTrump said in a February 27Truth Social postthat Anthropic has made a “disastrous mistake” and accused the company of trying to dictate how the military operates.\n\nOpenAIstruck a deal with the Pentagonjust hours after the Trump administration’s order.\n\nAnthropic’s profile has only risen amid the conflict. Its Claude AI appsurpassed OpenAI’s ChatGPT in the iPhone’s App Storefor the first time the day after the Pentagon said it would terminate its contract with Anthropic. The company also said on March 5 that more than a million people are signing up for Claude every day.\n\nCNN’s Hadas Gold and Haley Britzky contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "text": "ordered federal agencies and military contractors"
+    },
+    {
+      "url": "https://x.com/secwar/status/2027507717469049070?s=46&t=w3_umnYjt1oZp7aUdyD1Cw",
+      "text": "said Anthropic"
+    },
+    {
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "text": "said"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/05/tech/pentagon-anthropic-supply-chain-risk",
+      "text": "designating it a supply chain risk"
+    },
+    {
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.24.1.pdf",
+      "text": "filed an amicus brief"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "text": "met with Hegseth"
+    },
+    {
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "text": "blog post"
+    },
+    {
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116144552969293195",
+      "text": "Truth Social post"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+      "text": "struck a deal with the Pentagon"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/03/tech/anthropic-claude-ai-app-pentagon",
+      "text": "surpassed OpenAI’s ChatGPT in the iPhone’s App Store"
+    }
+  ],
+  "hash": "b730d7dd61f6a51f1c815e12c0d3406109ba04a432bb5b7934db231a091b612b",
+  "scraped_at": "2026-03-11T07:16:06.988055+00:00"
+}
