@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/03/17/tech/former-judges-support-anthropic",
+  "title": "Former judges side with Anthropic and raise concerns about Pentagon’s use of supply chain risk label | CNN Business",
+  "date": "2026-03-19T07:30:55.195177+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nNearly 150 retired federal and state judges have filed an amicus brief on Tuesday supporting AI company Anthropic in itslawsuit against the Trump administrationfor designating it a “supply chain risk,” CNN has learned.\n\nThe former judges, appointed by both Republicans and Democrats, join a growing list of Anthropic supporters that includes industry organizations and former senior national security government officials, as well as Microsoft and staffers from competing AI companies.\n\nThe amicus brief underscores concerns raised in the tech, legal and national security community over the precedent the situation could set regarding government influence over private companies. For Anthropic, the stakes could be significant; the “supply chain risk” label could affect the company’s contracts with the vast ecosystem of private-sector firms that do business with the military.\n\n“More fundamentally, as a practical matter, no one is trying to force the Department to contract with Anthropic,” the judges wrote. “Instead, Anthropic is asking only that it not be punished on its way out the door.”\n\nThe Pentagon “misinterpreted the statute and violated the necessary procedures” when it labeled Anthropic a “supply chain risk,” they also wrote.\n\nThe Defense Department designated Anthropic a “supply chain risk” earlier this month after negotiations over the use of the company’s AI models in classified systemsbroke down. The Pentagon wanted to use Claude in “all lawful” cases, but Anthropic refused to back down over two key redlines: AI’s use in autonomous weapons, and AI’s use in mass surveillance of American citizens.\n\nThe “supply chain risk” label is usually given to companies associated with foreign adversaries and has never been given to an American company in modern times. It means companies with military contracts must ensure that any use of Anthropic’s tools are kept separate from that work.\n\nIn addition to the ‘supply chain risk’ designation, President Donald Trump ordered all federal agencies to stop using Claude.\n\nAnthropic CEO Dario Amodei said the company had “no choice but to challenge it in court.” In response to Anthropic’s lawsuit last week, White House spokesperson Liz Huston said the president “will never allow a radical left, woke company” to dictate how the military operates.\n\nAnthropic’s chief financial officer said in a legal filing that the company is at risk of losing “hundreds of millions” in revenue in 2026 because of the government’s action.\n\nIn afilinglate Tuesday, responding to Anthropic’s initial complaint, the Trump administration said Anthropic is now seeking “to force the government to continue to use its products and services and to enjoin the designation,” noting the Defense Department made the supply chain risk designation because of “concerns about Anthropic’s potential future conduct if it retained access to the government’s IT infrastructure.”\n\nA hearing on Anthropic’s request for a preliminary injunction on the government is set to take place next Tuesday.\n\nTuesday’s filing from the group of former judges comes after ethics experts and advocacy groups have raised concerns the potential long-term ramifications of the Trump administration’s actions against Anthropic.\n\n“What happens if you don’t want to do something that they’re asking you to do?” Irina Raicu, director of the internet ethics program at Santa Clara University’s Markkula Center for Applied Ethics, said to CNN. “Is there a way for businesses to hold on to their own ethical guidelines and contract with the government?”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/03/09/tech/anthropic-sues-pentagon",
+      "text": "lawsuit against the Trump administration"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "text": "broke down"
+    },
+    {
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.96.0_3.pdf",
+      "text": "filing"
+    }
+  ],
+  "hash": "65040e969728e62add28b8e54227fa8d077fa53da7a2371028740e8f34a0b7bc",
+  "scraped_at": "2026-03-19T07:30:55.195191+00:00"
+}
