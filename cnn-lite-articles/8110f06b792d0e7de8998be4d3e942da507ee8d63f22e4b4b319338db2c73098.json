@@ -1,0 +1,21 @@
+{
+  "url": "https://lite.cnn.com/2026/03/19/politics/super-micro-computer-founder-charged-ai-chips-china",
+  "title": "Co-founder of tech company charged with diverting $2.5 billion in Nvidia AI chips to China in violation of export laws | CNN Politics",
+  "date": "2026-03-21T07:07:52.894651+00:00",
+  "authors": [
+    "Kara Scannell"
+  ],
+  "text": "Source: CNN\n\nThe co-founder of Super Micro Computer and two others were charged with diverting $2.5 billion worth of servers withNvidia’s artificial intelligence chipsto China, in violation of US laws barring exports to that country without a license.\n\nYih-Shyan Liaw, known as Wally; Ruei-Tsang Chang, known as Steven; and Ting-Wei Sun, known as Willy, were charged with conspiring to violate export control laws, smuggling goods from the US and conspiring to defraud the US.\n\nLiaw, whoco-foundedSuper Micro Computer and served on its board of directors, was arrested Thursday in California and released on bail. Sun, a contractor, is held awaiting a detention hearing. Chang, who worked in the Taiwan office of Super Micro, remains at large.\n\nSuper Micro Computer is not named in the indictment.\n\nThe company released a statement Thursday saying it has placed Liaw and Chang on administrative leave and terminated its relationship with Sun.\n\n“The conduct by these individuals alleged in the indictment is a contravention of the Company’s policies and compliance controls, including efforts to circumvent applicable export control laws and regulations. Supermicro maintains a robust compliance program and is committed to full adherence to all applicable U.S. export and re-export control laws and regulations,” the statement said.\n\nThe company said it is cooperating fully with the investigation.\n\nCNN has reached out to Liaw and Chang for comment. CNN has not identified an attorney for Sun.\n\n“Diversion schemes like those disrupted today generate billions of dollars in ill-gotten gains and pose a direct threat to U.S. national security,” said Jay Clayton, US attorney for the Southern District of New York. “Crimes involving sensitive technology must be met with swift action otherwise the law is meaningless.”\n\nAccording to the indictment, the men used a pass-through company based in Southeast Asia to place orders to obscure that the servers would end up in China.\n\nThe men worked with executives at the pass-through company to provide false documents to the server manufacturer to further the deception, the indictment said. They used a shipping and logistic company to repackage the servers into unmarked boxes to conceal their contents before they were shipped to China.\n\nTo deceive the manufacturer’s auditors, who checked the pass-through company for compliance with export laws, the men allegedly used “dummy” nonworking copies of the servers when the actual servers were on their way to China.\n\nTwo of the defendants allegedly worked to stage the dummy servers at a warehouse rented by the pass-through company, according to the indictment. Sun took photos and videos of the staged servers to one of the compliance auditors who instead of conducting the audit was “off-site enjoying entertainment paid for” by the pass-through company, according to the indictment.\n\nIn another instance, prosecutors said surveillance cameras documented individuals using hair dryers to remove labels and add labels and serial number stickers to the boxes and dummy servers.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/03/16/tech/nvidia-jensen-huang-ai-agents",
+      "text": "Nvidia’s artificial intelligence chips"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536523000044/exhibit991bodappointmentwa.htm",
+      "text": "co-founded"
+    }
+  ],
+  "hash": "8110f06b792d0e7de8998be4d3e942da507ee8d63f22e4b4b319338db2c73098",
+  "scraped_at": "2026-03-21T07:07:52.894663+00:00"
+}
