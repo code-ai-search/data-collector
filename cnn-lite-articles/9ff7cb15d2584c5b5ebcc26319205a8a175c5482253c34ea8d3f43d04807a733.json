@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/03/20/tech/white-house-ai-framework",
+  "title": "The White House just laid out how it wants to regulate AI | CNN Business",
+  "date": "2026-03-23T07:45:05.014298+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe White House on Friday released its long-awaited national artificial intelligence legislative framework, a move to prevent states from enacting their own laws and enforce the Trump administration’s light-touch approach to AI regulation.\n\nThe framework stems from an executive order President Donald Trumpsigned in Decemberthat blocked states from enforcing their own regulations around artificial intelligence and covers a broad spectrum of AI concerns, from data centers to AI scams.\n\nThe White House’s framework could have far-reaching effects on US efforts to dominate AI, which is starting to play a bigger role in everything from jobs to the stock market and the way people find information. But the technology still poses safety risks as companies race to adopt it and infuse it into their products.\n\nThe administrationoutlinedsix objectives for Congress intended to balance rapid innovation with public trust, from data centers to government censorship.\n\n“The White House’s national AI legislative framework will unleash American ingenuity to win the global AI race, delivering breakthroughs that create jobs, lower costs, and improve lives for Americans across the country,” Michael Kratsios, Assistant to the President for Science and Technology and director of the Office of Science and Technology Policy, said in a statement.\n\nThe framework calls on Congress to give parents better “tools” to manage their children’s digital presence, before calling on Congress to streamline data center permits so they can generate power on site, as well as augment existing legal efforts to combat AI-enabled scams.\n\nThe administration is also proposing what it says is an approach to balance enforcing intellectual property rights with the need to train AI models using real-world content. It called on Congress to “prevent the United States government from coercing technology providers, including AI providers, to ban, compel, or alter content based on partisan or ideological agendas.”\n\nCongress shouldn’t regulate AI through a single rule-making body and should instead do so through sector-specific regulatory bodies, the administration said. The policy also directs Congress to preempt any state laws regulating the way models are developed.\n\nArtificial intelligence is already subject to little overall oversight as it extends into more areas of American life — from personal communications and relationships to health care and policing.\n\nIn the absence of broad federal legislation, some states have passed laws addressing potentially risky and harmful uses of AI, such as the creation of misleading deepfakes and discrimination in hiring.\n\nThe White House, as well as several prominent figures in AI, say navigating a patchwork of state regulations could slow down innovation and affect America’s competitiveness in the global AI race with China, which they say will have implications for the economy and national security.\n\nBut the push to block state-level AI regulation has also raised concerns from those like Brendan Steinhauser, CEO of The Alliance for Secure AI, who said in a statement the proposed regulations provide “no path to accountability” for harms caused by the technology.\n\nBrad Carson, who leads the Anthropic-backed Public First Action group, said the plan echoes the lack of regulation in the social media industry and lacks substance.\n\n“(I)t’s like saccharine: empty of nutrition, certain to leave a bitter aftertaste, and probably carcinogenic,” Carsonwroteon X.\n\nBut those rooting for less AI regulation celebrated the White House’s announcement. Collin McCune, head of government affairs for Silicon Valley venture capital firm Andreessen Horowitz, called the framework “a big step” in aposton X and wrote that the US need federal regulation to protect users and “provide clear rules for our innovators.”\n\nThe White House said they’ll work with Congress in the coming months “to turn this framework into legislation that the President can sign,” though many in the AI policy space believe it will be difficult to pass any legislation before the midterm elections in November.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order",
+      "text": "signed in December"
+    },
+    {
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosai_govt&stream=top",
+      "text": "outlined"
+    },
+    {
+      "url": "https://x.com/bradrcarson/status/2035006762512740858",
+      "text": "wrote"
+    },
+    {
+      "url": "https://x.com/Collin_McCune/status/2034991254652768412",
+      "text": "post"
+    }
+  ],
+  "hash": "9ff7cb15d2584c5b5ebcc26319205a8a175c5482253c34ea8d3f43d04807a733",
+  "scraped_at": "2026-03-23T07:45:05.014310+00:00"
+}
