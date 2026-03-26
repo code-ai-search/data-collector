@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down",
+  "title": "OpenAI is shutting down its Sora video app just months after launch | CNN Business",
+  "date": "2026-03-26T07:41:21.563633+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nOpenAI is winding downSora, the video generation app it launched to much fanfare last year that signaled a bigger push into creative tools and social media.\n\nOpenAI is shuttering the standalone app to focus on other priorities, the company said on Tuesday.\n\n“As we focus and compute demand grows, the Sora research team continues to focus on world simulation research to advance robotics that will help people solve real-world, physical tasks,” an OpenAI spokesperson said in a statement.\n\nThe company added it needed to make trade-offs on products that have high compute costs.\n\nSora, OpenAI’s first standalone app after ChatGPT, rose to the top of the iPhone’s App Store soon after its September launch. But copyright holders quickly raised concerns over the use of their intellectual property andpeople’s likenessneson the platform. And some critics said the app contributed tomisinformation and “AI slop.”\n\nOpenAI struck adealwith Disney in December that allowed its characters to be part of user-generated AI videos on Sora.\n\nA source familiar with the matter said the deal between Disney and OpenAI isn’t proceeding given OpenAI’s change in direction.\n\n“We respect OpenAI’s decision to exit the video generation business and to shift its priorities elsewhere,” a Disney spokesperson said in a statement to CNN. The company added that it “will continue to engage with AI platforms to find new ways to meet fans where they are while responsibly embracing new technologies that respect IP and the rights of creators.”\n\nOpenAI is “exploring ways to support export and preservation” of user’s content from the app, the companysaid in a poston Sora.\n\nOpenAI is diverting efforts from disparate consumer products and toward products more geared toward business clients, theWall Street Journal previouslyreported.\n\nThe company faces increased competition from Anthropic, which operates the popular Claude Code product that has long been a favorite among software programmers, andGoogle, which grabbed headlines with recent advancements in its video generation model.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/10/03/media/sora-2-chatgpt-videos-deepfake-disinfo-future",
+      "text": "Sora"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/17/tech/openai-mlk-sora-pause",
+      "text": "people’s likenessnes"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/03/media/sora-2-chatgpt-videos-deepfake-disinfo-future",
+      "text": "misinformation and “AI slop.”"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/11/tech/disney-openai-sora-google",
+      "text": "deal"
+    },
+    {
+      "url": "https://sora.chatgpt.com/p/s_69c2ec89c7f081919a93f637f6b250c2",
+      "text": "said in a post"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?mod=e2tw",
+      "text": "Wall Street Journal previously"
+    },
+    {
+      "url": "https://www.cnn.com/2025/11/29/tech/ai-chips-google-gemini-3-tpu-nvidia",
+      "text": "Google"
+    }
+  ],
+  "hash": "9238b3a7de367c2a337de3a81849e869aaa2007c74dfec803e43afec3928c469",
+  "scraped_at": "2026-03-26T07:41:21.563646+00:00"
+}
