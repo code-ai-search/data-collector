@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/03/25/business/private-credit-public-problem",
+  "title": "How private credit could quickly become a public problem | CNN Business",
+  "date": "2026-03-27T07:41:20.806128+00:00",
+  "authors": [
+    "Analysis by Allison Morrow"
+  ],
+  "text": "Source: CNN\n\nInvestors are increasingly yanking their money fromprivate creditfunds that lend directly to businesses on worries that could unfortunately become all of our worries, whether we’re trading stocks or just going about our own lives.\n\nSo what’s the deal with private credit, and should everyone start stashing gold under their mattresses?\n\nThe short answers:\n\n1. Investors have many concerns, but at the top of the list: If artificial intelligence is really as apocalyptic as all the people who stand to make money from it say, then a lot of companies could end up going out of business and defaulting on loans.\n\n2. Although the situation hasechoes of the 2008 financial crisis, you don’t need to panic — at least, not yet.\n\nThis week, private credit anxiety got some fresh attention after two of the biggest names in the business, Ares Management and Apollo Global Management, blocked investors from withdrawing all the money they wanted from private credit funds, according to theFinancial TimesandBloomberg. (Limits on withdrawals are fairly standard, as private credit firms facilitating the loans want to prevent a kind of “run on the bank” panic that would force it to dump assets in a fire sale.)\n\nThis kind of thing has been happening a lot in recent months, most notably at Blue Owl Capital, which has lost 40% of its market value this year and was forced to wind down one of its buzzy retail-focused funds after backers got nervous and started demanding their money back.\n\nThe reason for all this agita has to do with the very nature of private credit: It’s… not public. I know that sounds a bit circular, but bear with me.\n\nPrivate credit firms essentially act as banks, but without all the regulations that force actual banks to mitigate risk and make their balance sheets public. When these “shadow banks” issue loans, the terms are known only to the parties involved.\n\nIn sum: Investors in private credit often don’t know what they’re holding. So when macro forces add to the uncertainty — like higher interest rates, inflation, a war in the Mideast choking energy flows, a collective fear of AI decimating entire sectors of the global economy, for example — people understandably start trying to reduce their risk exposure. And they start trying to get their money back.\n\nPrivate fund managers, of course, say the fears are overblown, and they may be right. Bank of America analysts last week echoed fund managers’ defense of their industry, saying there was “misinformation” around private credit that was “causing the markets to overreact to minor data points.”\n\nIt’s true that no major lender has collapsed, and the wave of defaults investors are fretting about hasn’t materialized, apart from a few“cockroaches,”as JPMorgan Chase CEO Jamie Dimon colorfully put it late last year after two subprime borrowers with private loans, First Brands and Tricolor, filed for bankruptcy.\n\n“What we’re seeing in private credit at this point are only tremors, not yet an earthquake,” John Bringardner, executive editor of Debtwire, a financial research and analytics provider, wrote in an email.\n\nIt’s also worth remembering that private credit — which grew rapidly after the 2008 crash, when banks were forced to tighten lending standards — is still a relatively small part of the overall economy. US public equity markets amount to about $70 trillion, while private credit is valued at about $1.8 trillion.\n\nNonetheless, the opacity of private credit creates an information vacuum that some investors are filling with worst-case scenarios, in which the fallout wouldn’t be limited to the circle of elite investors dabbling in private lending.\n\nMainstream banks both compete with private lenders and enable them. US banks have made about $300 billion in loans to private credit providers, helping fuel the expansion of the sector,according to Moody’s.\n\nIt’s not hard to imagine how the contagion could play out: If private credit sours, big banks that lent to the industry would lose money. In turn, those banks could be forced to tighten lending across the board, including to everyday consumers and small businesses. And that’s where the 2008 Part Two fears kick into high gear.\n\nBack then, banks were left holding toxic assets after the collapse of the subprime mortgage market. But because the toxic stuff was so intricately woven into complex financial products like mortgage-backed securities, banks couldn’t discern who was holding garbage and who wasn’t, and they stopped lending to one another. That left even healthy businesses unable to get short-term loans to stay afloat.\n\nToday, private equity firms employ internal models to evaluate privately held debt — but the process isnot super transparent, Erasmus Kersting, a professor of economics at the Villanova School of Business, told CNN.\n\nThe sector’s opacity, combined with its illiquidity, he added, can spell trouble “once blind trust is followed by an ‘aha moment.’ In that case, valuations may fall drastically, and then even small exposure by public pension funds or insurance providers may impact Main Street in the form of higher insurance premiums, pension underfunding, and reduced bank lending.”\n\nAdding to the uncertainty: No one seems to know just how much banks’ exposure could end up costing the financial system if private credit tremors turn into a full-on quake.\n\n“Estimates vary markedly because there’s no systematic or centralized reporting, no consensus definition of ‘private credit,’ and no way to trace various indirect exposures,” wrote Aaron Brown,a former head of financial market research at AQR Capital Management,in a Bloomberg op-ed.\n\nBottom line: What happens in private markets may not always stay in private markets, and rattled confidence in one corner of Wall Street has a tendency to spread quickly. Investors, said Debtwire’s Bringardner, should be preparing just “in case those tremors go from rattling your cupboard to swallowing your house.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/23/business/what-is-blue-owl-private-credit",
+      "text": "private credit"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/06/business/private-credit-blue-owl-2008-nightcap",
+      "text": "echoes of the 2008 financial crisis"
+    },
+    {
+      "url": "https://www.ft.com/content/9a1b60c5-7015-4314-9608-d02c00c3a574?syn-25a6b1a6=1",
+      "text": "Financial Times"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-24/ares-limits-private-credit-fund-withdrawals-as-redemptions-surge",
+      "text": "Bloomberg"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/16/business/jamie-dimon-us-economy-cockroaches",
+      "text": "“cockroaches,”"
+    },
+    {
+      "url": "https://www.moodys.com/web/en/us/insights/data-stories/breakdown-of-banks-annual-reporting-on-private-credit.html",
+      "text": "according to Moody’s"
+    },
+    {
+      "url": "https://www.bloomberg.com/opinion/articles/2026-03-23/what-we-still-don-t-know-about-private-credit-is-troubling",
+      "text": "in a Bloomberg op-ed."
+    }
+  ],
+  "hash": "c894369459e0adf063599c7c58e10647f4f5b17488a76925f9e61facdc80138a",
+  "scraped_at": "2026-03-27T07:41:20.806138+00:00"
+}
