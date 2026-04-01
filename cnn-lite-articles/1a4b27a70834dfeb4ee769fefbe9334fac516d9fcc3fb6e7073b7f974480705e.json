@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/03/31/politics/north-korea-hacking-crypto",
+  "title": "North Korean hackers bug software used by thousands of US companies in potential crypto heist attempt | CNN Politics",
+  "date": "2026-04-01T07:58:20.092777+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nSuspected North Korean hackershave bugged a software package that has been used by thousands of US companies in a major supply-chain attack that could take months to recover from, security experts said Tuesday.\n\nExperts who are responding to the hack told CNN they expect a long-term campaign tosteal cryptocurrencyto fund the North Korean regime, which often spends such stolen money on its nuclear and missile programs.\n\nFor three hours on Tuesday morning, the Pyongyang-linked hackers had access to the account of a software developer who manages the open-source software known as Axios. The hackers used that access to send malicious updates to any organization that downloaded the software during that time, setting off a scramble by the software developer to regain control of his account and by cybersecurity executives across the country to assess the damage.\n\nCompanies in just about every sector of the economy, from health care to finance, use Axios to simplify building and managing their websites. Some cryptocurrency firms use the software, as do tech firms active in the crypto industry.\n\nMandiant, a cyber-intelligence firmed owned by Google, said that a suspected North Korean hacking group was responsible.\n\n“We anticipate they will try to leverage the credentials and system access they recently obtained in this software supply chain attack to target and steal cryptocurrency from enterprises,” Charles Carmakal, Mandiant’s chief technology officer, told CNN. “It will likely take months to assess the downstream impact of this campaign.\n\nJohn Hammond, a security researcher at Huntress, said his firm has identified about 135 compromised devices belonging to roughly 12 companies. But that is just a small snapshot of the pool of victims that is expected to surge as organizations discover they were hacked.\n\nIt’s only the latest sweeping supply-chain attack attributed to Pyongyang. Three years ago, North Korean operatives allegedlyinfiltratedanother popular software provider that healthcare firms and hotel chains used for voice and video calls.\n\nNorth Korea’s formidable hacking corps is an essential source of revenue for the nuclear-armed, sanctions-battered country. North Korean hackers have stolen billions of dollars from banks and cryptocurrency firms in the last several years, according to reports from the United Nations and private firms.\n\nAbout half ofNorth Korea’smissile program has been funded by such digital heists, a White House officialsaidin 2023.\n\nLast year, North Korean hackersstole $1.5 billionincryptocurrencyin a single attack in what was then the largest crypto hack on record.\n\n“North Korea isn’t worried about its reputation or being eventually identified, so while these types of operations are very noisy and high profile, that’s a price they’re willing to pay,” said Ben Read, director of strategic threat intelligence at security firm Wiz, which is also owned by Google.\n\nHammond described the hack as “perfectly timed,” given the adoption of AI agents that develop software at organizations “without any review or guardrails.”\n\n“The whole software supply chain’s biggest weakness has an open door in today’s era where too many people don’t read what gets put in the ingredients anymore,” Hammond told CNN.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/11/20/politics/north-korea-operatives-fake-job-portal-ai-firms",
+      "text": "Suspected North Korean hackers"
+    },
+    {
+      "url": "https://www.cnn.com/2025/02/24/politics/north-korean-hackers-crypto-hack",
+      "text": "steal cryptocurrency"
+    },
+    {
+      "url": "https://www.cnn.com/2023/04/20/politics/north-korea-hacking-supply-chain-3cx-mandiant",
+      "text": "infiltrated"
+    },
+    {
+      "url": "https://www.cnn.com/world/asia/north-korea",
+      "text": "North Korea’s"
+    },
+    {
+      "url": "https://www.cnn.com/2023/05/10/politics/north-korean-missile-program-cyberattacks/index.html",
+      "text": "said"
+    },
+    {
+      "url": "https://www.cnn.com/2025/02/24/politics/north-korean-hackers-crypto-hack",
+      "text": "stole $1.5 billion"
+    },
+    {
+      "url": "https://www.cnn.com/2024/12/20/business/crypto-bitcoin-trump-nightcap/index.html",
+      "text": "cryptocurrency"
+    }
+  ],
+  "hash": "1a4b27a70834dfeb4ee769fefbe9334fac516d9fcc3fb6e7073b7f974480705e",
+  "scraped_at": "2026-04-01T07:58:20.092790+00:00"
+}
