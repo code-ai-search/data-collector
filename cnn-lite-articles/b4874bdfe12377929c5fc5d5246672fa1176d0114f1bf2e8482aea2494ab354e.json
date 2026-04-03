@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/03/31/us/ntsb-automation-overreliance",
+  "title": "NTSB says ‘automation overreliance’ contributed to fatal SUV crashes in 2024 | CNN",
+  "date": "2026-04-03T07:43:19.385050+00:00",
+  "authors": [
+    "Alexandra Skores"
+  ],
+  "text": "Source: CNN\n\nThe National Transportation Safety Board determined that “drivers’ overreliance” on automated systems were contributing factors to two fatal accidents in 2024.\n\nThe investigation foundthat on separate highways, in different cities, Mustang Mach-E SUVs, with Ford’s BlueCruise technology, drove into stationary vehicles, highlighting “several gaps in safety and oversight of partial automation systems.”\n\nIn a hearing Tuesday, the NTSB’s found problems in how Ford implemented the technology and federal regulations for these types of systems which are being offered by an increasing number of car companies.\n\n“This investigation highlights the urgent need for stronger safety standards and better oversight of automated driving systems,” said Jennifer Homendy, NTSB chair in a news release. “Manufacturers and federal regulators must ensure these technologies are designed, monitored and implemented in ways that keep all our road users safe. We cannot take a ‘hands off’ approach to hands-free driving technology. Lives depend on it.”\n\nAccording to the NTSB, there are no federal requirements for the systems to record data during crashes, which often means manufacturers can’t properly report crashes involving this technology.\n\nA spokesperson for Ford told CNN that the automaker “remains committed to safety,” noting the NTSB investigation found “no quality defects or equipment failures in BlueCruise.”\n\n“We will take the NTSB’s recommendations under serious consideration as we continue to evolve our driver-assist technologies and encourage responsible road behavior,” Ford said in a statement.\n\nOnFebruary 24, 2024,a Mustang Mach-E was driving east along Interstate 10 in San Antonio when it struck a Honda CR-V stopped in the center lane, killing the driver. Investigators suspect that driver was impaired. The person in the Ford, who the NTSB said was likely distracted by a navigation system, had minor injuries.\n\nThen, days later, onMarch 3, 2024,another Mustang Mach-E was speeding in the left lane of Interstate 95 in Philadelphia when it struck two stationary vehicles and one that was passing. The two stationary drivers were killed, and the Mustang’s driver had minor injuries. The NTSB found the driver was over-relying on the Ford’s automation while intoxicated, which may have been worsened by cannabis use, and using a cell phone.\n\nIn both crashes, the drivers of the Mustangs and the automation system did not apply the brakes or try to steer around the stopped vehicles.\n\nDriver monitoring systems, designed to detect distracted drivers, were also ineffective in allowing for off-road glances to go unnoticed, the NTSB found.\n\nThe NTSB issued recommendations urging Ford, the Department of Transportation and theNational Highway Traffic Safety Administrationto adopt stronger rules for automation systems and crash data reporting, as well as improve driver monitoring systems to detect distraction.\n\nA final report is expected in the next several weeks.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20260331.aspx",
+      "text": "The investigation found"
+    },
+    {
+      "url": "https://www.ntsb.gov/investigations/Pages/HWY24FH006.aspx",
+      "text": "February 24, 2024,"
+    },
+    {
+      "url": "https://www.ntsb.gov/investigations/Pages/HWY24FH008.aspx",
+      "text": "March 3, 2024,"
+    },
+    {
+      "url": "https://www.nhtsa.gov/",
+      "text": "National Highway Traffic Safety Administration"
+    }
+  ],
+  "hash": "b4874bdfe12377929c5fc5d5246672fa1176d0114f1bf2e8482aea2494ab354e",
+  "scraped_at": "2026-04-03T07:43:19.385063+00:00"
+}
