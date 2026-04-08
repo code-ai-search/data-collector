@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/03/11/politics/pro-iran-hackers-cyberattack-medical-device-maker",
+  "title": "Stryker: Pro-Iran hackers claim cyberattack on major US medical device maker | CNN Politics",
+  "date": "2026-03-16T07:51:42.685187+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nA cyberattack claimed by pro-Iran hackers has caused a “global network disruption” to a major US medical device maker, according to acompany statement.\n\nMichigan-based Stryker “is experiencing a global network disruption to our Microsoft environment as a result of a cyberattack,” the company said in a statement to CNN. “We have no indication of ransomware or malware and believe the incident is contained. Our teams are working rapidly to understand the impact of the attack on our systems. Stryker has business continuity measures in place to continue to support our customers and partners.”\n\nStryker makes a range of hospital equipment, from defibrillators to ambulance cots. The company’s computers in Ireland were also hit by the cyberattack,accordingto local media reports. Stryker say it serves more than 150 million patients through its health equipment and services.\n\nIt was unclear what immediate impacts, if any, the hack had on Stryker’s provision of medical equipment to US hospitals. Cybersecurity executives across the health sector told CNN on Wednesday they were on alert for any impacts.\n\nOne piece of Stryker equipment apparently disrupted by the cyberattack was an IT system called Lifenet, which emergency responders use to communicate patient data to hospitals.\n\nMaryland’s Institute for Emergency Medical Services (EMS) Systems, which oversees the state’s emergency medical services, told hospitals in the state Wednesday that it had received multiple reports that Stryker’s Lifenet electrocardiogram transmission system was “non-functional in most parts of the state.”\n\n“Until the transmission capability has been restored, EMS clinicians should initiate radio consultation with the receiving hospital,” read the notice from the Maryland emergency services agency, which CNN obtained.\n\n“A message was sent in abundance of caution until the situation can be resolved,” Todd Abramowitz, a spokesperson for the agency, told CNN in an email when asked for comment. “No effect on patient care, paramedics convey their interpretation verbally as they do all the time, routinely.”\n\nA Stryker spokesperson told CNN on Sunday: “While some EMS providers temporarily paused use of LIFENET as a precaution, the system remained fully functional and was not disrupted by the cyber incident.”\n\nThe cyberattack appears to be one of the first notable pro-Iranian hacks against US infrastructure since the US and Israel began bombing Iran last month. US intelligence officials havewarnedabout the possibility of Tehran-linked hackers retaliating for the US and Israeli bombing of Iran that began last month.\n\nIn a social media post on Wednesday, the hacking group that claimed responsibility said the Stryker hack was retaliation for a missile strike on an elementary school in Iran, which Iranian state media has claimed killed at least 168 children. The Pentagon is investigating that incident.\n\nFederal agencies like the Department of Health and Human Services on Wednesday were trying to get a sense of any potential impacts the hack could have on patient care, sources familiar with the response told CNN.\n\nA Wednesday evening call held by the Healthcare and Public Health Sector Coordinating Council, an industry group that works with the government to bolster security in the sector, was brief and yielded little new information about the Stryker hack, a source on the call told CNN.\n\nHospitals are trying to determine whether they should disconnect Stryker equipment from hospitals systems.\n\n“Stryker needs to quickly become more forthcoming as hospitals are faced with dilemma of whether to cut off Stryker or not,” a cybersecurity executive in the health care sector told CNN. “Stryker publicly claims situation is ‘contained.’ What does that mean?”\n\nThe Wall Street Journalreportedearlier on the pro-Iran hack. Stryker’s shares fell more than 3% following that report.\n\nIran-linked hackers had been largely quiet in terms of attacks on US organizations since the war began last month.\n\nEmail security firm ProofpointsaidWednesday that its tracking of known Iranian groups had turned up only one hacking campaign — an attempt to hack a US think tank employee — since the war began.\n\n“Too much of cybersecurity is focused on lower consequence breaches from financially motivated enemies, while we’re increasing our exposures to nation states and other enemies who seek to disrupt and destroy,” Joshua Corman, a cybersecurity expert who has focused on the health sector for years, told CNN. “China, Iran, Russia, etc. all have the means, motive, and opportunity to deal us devastating disruptions.”\n\nDespite the US and Israel’s bombardment of Iranian government facilities, Wednesday’s hack showed that Tehran still has hackers capable of inflicting damage, cybersecurity analysts said.\n\n“Cyber operations don’t require much infrastructure,” said Alex Rose, global head of government partnerships at cybersecurity firm Sophos. “A laptop and an internet connection can be enough to reach out and wreak havoc.”\n\nThis story has been updated with additional reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.stryker.com/us/en/about/news/2026/a-message-to-our-customers-03-2026.html",
+      "text": "company statement"
+    },
+    {
+      "url": "https://www.irishexaminer.com/news/munster/arid-41808308.html",
+      "text": "according"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/10/politics/us-intel-warning-retaliatory-attacks-iran",
+      "text": "warned"
+    },
+    {
+      "url": "https://www.wsj.com/articles/stryker-hit-with-suspected-iran-linked-cyberattack-52f6615c",
+      "text": "reported"
+    },
+    {
+      "url": "https://www.proofpoint.com/us/blog/threat-insight/iran-conflict-drives-heightened-espionage-activity-against-middle-east-targets",
+      "text": "said"
+    }
+  ],
+  "hash": "d295e589c8f4b3711096d79f7a73e344e55824f3eff3f548d055a026fdf421ec",
+  "scraped_at": "2026-03-16T07:51:42.685199+00:00"
+}
