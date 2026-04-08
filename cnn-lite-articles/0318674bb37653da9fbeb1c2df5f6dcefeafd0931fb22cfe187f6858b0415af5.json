@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/03/19/health/uncounted-covid-deaths-study",
+  "title": "More than 150,000 uncounted Covid-19 deaths occurred early in the pandemic, a study finds | CNN",
+  "date": "2026-03-20T07:17:28.362313+00:00",
+  "authors": [
+    "Associated Press"
+  ],
+  "text": "Source: CNN\n\nThe Covid-19 pandemic’s early death toll was much higher than the official US count, according to a new study that spotlights dramatic disparities in the uncounted deaths.\n\nAbout 840,000 Covid-19 deaths were reported on death certificates in 2020 and 2021. But a group of researchers — using a form of artificial intelligence — estimate that as many as 155,000 unrecognized additional deaths likely occurred in that time outside of hospitals. That would mean about 16% of Covid-19 deaths went uncounted in those years.\n\nThe overall findings,published Wednesdayby the journal Science Advances, were close to estimates from other studies of pandemic deaths during that time. But the authors of the new study tried to determine exactly which deaths were more likely to be missing from the official tallies.\n\nThe answer: The undiagnosed dead were more likely to be Hispanic people and other people of color, who had died in the first few months of the pandemic, and who had been in certain states in the South and Southwest — including Alabama, Oklahoma and South Carolina.\n\nSix years after the coronavirus swept through the US, barriers remain for many of thesame people, said Steven Woolf, a Virginia Commonwealth University researcher not involved in the study.\n\n“People on the margins continue to die at disproportionate rates because they can’t access care,” he said in an email.\n\nWhile hospital patients were routinely tested for Covid-19, many who grew sick and died outside of hospitals were not tested — often because at-home testing was not readily available early in the pandemic, said one of the study’s authors, the University of Minnesota’s Elizabeth Wrigley-Field.\n\nIn some parts of the country, death investigations are handled by elected coroners who don’t necessarily have the specialized training that medical examiners do.Some researchhas suggested partisan opinions could affect whether a sick person or their family members sought Covid-19 testing, and whether coroners pursued postmortem coronavirus testing. Indeed, some coroners said families had pressed them not to list Covid-19 as a cause of death.\n\n“Our antiquated death investigation system is one key reason why we fell short of accurate counts, particularly outside of big metropolitan areas,” said Andrew Stokes of Boston University, the senior author on the paper.\n\nThe Centers for Disease Control and Prevention data countmore than 1.2 millionCovid-19 deaths since the pandemic erupted in early 2020. More than two-thirds of those reported deaths occurred in 2020 and 2021.\n\nThe count has long been debated, asfalse claimson social media said the number of Covid-19 deaths was inflated. Adding to the rancor was President Donald Trump, who in August 2020 retweeted a post claiming only 6% of reported deaths were actually from Covid-19 — a post Twitter later removed.\n\nTo be sure, there were other kinds ofpandemic deaths. For example, uninfected people died from other medical conditions because they could not get care at hospitals overloaded with Covid-19 patients. People with drug addictions died of overdoses as a result of social isolation and losing access to treatment. Other studies that have estimated the actual number of pandemic deaths have taken those deaths into account.\n\nBut Stokes and his collaborators wanted to focus on the deaths of people infected by the coronavirus. They used machine learning to sift through the death certificates of infected patients who died in hospitals and then used patterns observed in those records to evaluate death certificates of people who died outside hospitals and whose deaths were attributed to things like pneumonia or diabetes.\n\nScientists’ understanding of the strengths and weaknesses of machine learning-reliant research is still evolving, but Woolf called this team’s use of it “intriguing.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "http://www.science.org/doi/10.1126/sciadv.aef5697",
+      "text": "published Wednesday"
+    },
+    {
+      "url": "https://apnews.com/article/baltimore-california-coronavirus-pandemic-race-and-ethnicity-health-341950a902affc651dc268dba6d83264",
+      "text": "same people"
+    },
+    {
+      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2021.306331?url_ver=Z39.88-2003𝔯id=ori%3Arid%3Acrossref.org𝔯dat=cr_pub++0pubmed",
+      "text": "Some research"
+    },
+    {
+      "url": "https://www.cdc.gov/covid/php/surveillance/index.html",
+      "text": "more than 1.2 million"
+    },
+    {
+      "url": "https://apnews.com/article/fact-check-covid-deaths-99-percent-cdc-data-828332813362",
+      "text": "false claims"
+    },
+    {
+      "url": "https://apnews.com/article/virus-outbreak-ma-state-wire-az-state-wire-health-ny-state-wire-a8e3244c77bcaf31efc826bbbe4a9d19",
+      "text": "pandemic deaths"
+    }
+  ],
+  "hash": "0318674bb37653da9fbeb1c2df5f6dcefeafd0931fb22cfe187f6858b0415af5",
+  "scraped_at": "2026-03-20T07:17:28.362328+00:00"
+}
