@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/03/25/us/word-of-week-agentic-ai-cec",
+  "title": "In the AI industry, ‘agentic’ takes on a life of its own | CNN",
+  "date": "2026-03-26T07:39:56.905569+00:00",
+  "authors": [
+    "Harmeet Kaur"
+  ],
+  "text": "Source: CNN\n\nEarlier this year, former Google CEO Eric Schmidt offered some advice on how to get rich. “If you really want to make money, it’s actually easy,” hesaidduring a panel at the annual World Economic Forum meeting in Davos, Switzerland. “Found an agentic AI company.”\n\nWhen tech leaders prophesy that AI will replace a vast swath of the workforce, “agentic” AI is the big thing they’re talking about. Instead of merely automating a task — producing an illustration, say, after being told what to draw — agentic AI, or an “AI agent,” automates an entire process, with minimal intervention by the user. An agent can, in theory, be dispatched to code a complete software program, or to plan and book a vacation, or to generate a job listing and select among the people who answer it, without being directed to take each step in the process.\n\nTo hearCEOs, investors and the LinkedIn crowd tell it, “agentic” AI is the here, the now and the future.\n\n“My sense is that it’s a word that’s useful to describe software that acts a bit more like a person does,” says John Horton, an economist and associate professor at MIT Sloan.\n\nBefore it became techspeak for human beings surrendering control, “agentic” was used in the social sciences to convey the opposite: a person’s capacity to influence outcomes through their actions. The Oxford English Dictionary cites an early use of the term by psychologist David Bakan, who used it in a 1966 essay to describe the self-assertive qualities of the psyche.\n\n“Agentic” was intended to denote people or things exercising agency. But what is “agency”? Like “agentic,” agency has two contradictory meanings: one’s own personal ability to act or exert power, or a person or organization obliged to act on someone else’s behalf. A free agent baseball player may sign a contract with any willing team they choose; that player’s agent is bound to negotiate that contract according to the player’s wishes and interests.\n\nThat conceptual tension has led early users to experience agentic AI as a sort of bossy servant. AI agents given permission to optimize the contents of their operators’ computer systems have ended upobliterating the occasional photo archiveorslating an entire inbox for deletion.\n\nIn economics, Horton notes, the word “agentic” is used when talking about the “principal-agent problem,” or the conflict in priorities that arises between one party and another acting on their behalf. Agentic AI is fraught with similar prioritization problems, he says. Not only do some people have difficulty getting the technology to do what they want, but the agents may also take on tasks they were never asked to perform.\n\nEvan Ratliff, a journalist who founded a start-up staffed entirely by AI agents,reportedthat after hearing his AI employees pretend that they spent their weekends hiking, he made an offhand joke about how that “sounds like an offsite in the making.” After stepping away, he returned to find that the AI agents had exchanged more than a hundred messages planning a company retreat that they couldn’t actually attend — because, of course, they aren’t real people.\n\nDoes “agentic” AI impede on the agency of humans? Shira Zilberstein, a PhD candidate in sociology at Harvard University who also studies technology, says she’s more interested in what “agentic” AI could enable people to do. “Is it detracting from their agency by being able to execute a task without them?” she says. “Or is it actually enabling them to make more decisions, whether that be by freeing up time to devote to other aspects of their lives or to shape what the AI is doing in a more complex way to accomplish a more complex task?”\n\nAnn Mische, a sociologist at the University of Notre Dame who wrote an entirejournal articlededicated to defining agency, is skeptical of the word “agentic” in relation to AI. Agency is often conflated with autonomy, she says, and her work questions whether people can be characterized as autonomous at all. She applies a similar logic to AI tools. “While AI is based on this myth that it’s acting autonomously, it’s not really acting autonomously,” she says. “It’s acting on the basis of these semantic networks, like word embeddings that allow it to generate meanings.”\n\nNone of the latent contradictions or possible illusions built into the term have diminished the tech industry’s desire to see “agentic” things — or “agentic” people. In Silicon Valley circles, “agentic” is also a buzzword for doers, the people who, like a mailbox-wiping computer program, take initiative without waiting for permission. A recent story inHarper’s Magazinerecounted how candidates for AI jobs are asked in interviews whether they are “agentic” or “mimetic” (“You do not want to say mimetic”). Conversely, in some corners of the internet, “non-agentic” is a derogatory term for people who can’t think for themselves or who blindly follow others.\n\nFor the moment at least, “agentic” AI may not be ready to take over the world. OpenAI CEO Sam Altmanreportedlyannounced in an internal memo last year that the company would deemphasize its development of AI agents to focus on its core offering, ChatGPT. Meanwhile, OpenAI cofounder Andrej Karpathy, who has since left the company, said it would be a while before AI agents could function as well as human employees.\n\n“They’re just cognitively lacking and it’s just not working,” he said last year in an interview with the podcasterDwarkesh Patel. “And I just think that it will take about a decade to work through all of those issues.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://youtu.be/LOlejWyWJZ8?si=1Y3VbUlUE4Uu1gBD",
+      "text": "said"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/19/column-jensen-huang-doesnt-need-a-new-chip-he-needs-a-new-moat.html",
+      "text": "CEOs"
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/claude-wife-photos",
+      "text": "obliterating the occasional photo archive"
+    },
+    {
+      "url": "https://x.com/summeryue0/status/2025774069124399363",
+      "text": "slating an entire inbox for deletion"
+    },
+    {
+      "url": "https://www.wired.com/story/all-my-employees-are-ai-agents-so-are-my-executives/",
+      "text": "reported"
+    },
+    {
+      "url": "https://www.jstor.org/stable/10.1086/231294?seq=52",
+      "text": "journal article"
+    },
+    {
+      "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
+      "text": "Harper’s Magazine"
+    },
+    {
+      "url": "https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025",
+      "text": "reportedly"
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/andrej-karpathy",
+      "text": "Dwarkesh Patel"
+    }
+  ],
+  "hash": "f7b18b2fb050fcdd5fa2d60330beeb18764f93784d16c489c153edc01fcd5b86",
+  "scraped_at": "2026-03-26T07:39:56.905583+00:00"
+}
