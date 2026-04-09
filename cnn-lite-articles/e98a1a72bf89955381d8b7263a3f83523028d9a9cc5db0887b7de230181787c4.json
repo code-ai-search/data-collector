@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/03/13/business/ai-brain-fry-nightcap",
+  "title": "AI is exhausting workers so much, researchers have dubbed the condition ‘AI brain fry’ | CNN Business",
+  "date": "2026-03-14T07:10:00.150765+00:00",
+  "authors": [
+    "Analysis by Allison Morrow"
+  ],
+  "text": "Source: CNN\n\nPart of the pitch for artificial intelligence in the workplace goes like this: It’s like having a team of people to delegate your grunt work to, freeing you up to think strategically and maybe, just maybe, take a long lunch or head home early. Or maybe even be more productive, to make more money. It’s a nice idea!\n\nBut as everyone who’s either had a boss or been a boss knows, managing is a job in itself, one that comes with its own distinct brand of stress and annoyance. And that doesn’t change if the “people” in question aren’t people at all.\n\nFor participants ina recent studyby Boston Consulting Group, the experience of overseeing multiple AI “agents,” autonomous software that’s designed to execute tasks, rather than just churn out information like a chatbot, caused an acute sensation of “buzzing” — a fog that left workers exhausted and struggling to concentrate. The study’s authors call it “AI brain fry,” defined as mental fatigue “from excessive use or oversight of AI tools beyond one’s cognitive capacity.”\n\n“Contrary to the promise of having more time to focus on meaningful work, juggling and multitasking can become the definitive features of working with AI,” they wrote in the study. published byHarvard Business Reviewlast week. “This AI-associated mental strain carries significant costs in the form of increased employee errors, decision fatigue, and intention to quit.”\n\nWorkers quoted in the study reminded me a lot of my fellow elder Millennials circa 1997, rushing home to tend to their Tamagotchis.\n\n“It was like I had a dozen browser tabs open in my head, all fighting for attention,” one senior engineering manager told researchers. “I caught myself rereading the same stuff, second-guessing way more than usual, and getting weirdly impatient. My thinking wasn’t broken, just noisy—like mental static.”\n\nThis is just one new side effect from a push by company executives to make workers use AI more. Last fall, a Harvard Business Review report chronicledthe scourge of “workslop”— the nonsensical AI-generated memos, pitch decks and presentations that end up creating more work for colleagues who have to fix what the bot got wrong.\n\nWorkslop reflects a kind of “cognitive surrender” in which workers feel unmotivated, giving AI work to do and not really paying attention to the output, said Gabriella Rosen Kellerman, a psychiatrist who co-authored both reports, in an interview. “Brain fry is almost the opposite… It’s like trying to go tête-à-tête — intelligence to intelligence — with the AI.”\n\nFrancesco Bonacci, CEO of Cua AI, which builds AI agents, described his AI fatigue as “vibe coding paralysis” (a reference to the Silicon Valley trend of building less-polished projects with AI prompts rather than traditional coding). “I end each day exhausted — not from the work itself, but from themanagingof the work,” he wrote last month in anessay on X. “Six worktrees open, four half-written features, two ‘quick fixes’ that spawned rabbit holes, and a growing sense that I’m losing the plot entirely.”\n\nTo some extent, brain fry and workslop could both be a case of growing pains. Imagine plucking a middle-aged office worker from 1986, dropping them into a 2026 workplace and asking them to send 10 emails, respond to Slacks and Zoom into a call with the social media team who are all working from home. You’d expect some cognitive overload, not to mention some confused looks when you tell them Donald Trump is president and that it took more than 30 years to make a “Top Gun” sequel.\n\nOf course, people learn how to be managers, in general, all the time.\n\n“I do think this is potentially temporary,” said Matthew Kropp, a co-author of the brain fry study and BCG managing director. “These are tools we haven’t had before.”\n\nKropp compared the experience of someone managing multiple AI tools to that of someone who just learned to drive being given a Ferrari. You can go really fast, but it’s easy to lose control.\n\nOf course, even tech pros seem to be struggling to control their AI assistants at times. Last month, Meta’s director of AI safety and alignmenttweetedabout her own experience watching bots nearly delete her inbox without permission. “I had to RUN to my Mac mini like I was defusing a bomb,” she wrote, chalking the incident up to a “rookie mistake.”\n\nBoth Kropp and Kellerman emphasized that the result of the study wasn’t all negative. Surprisingly, the people experiencing brain fry tended to experience less burnout, defined as a state of chronic workplace stress that builds over time and makes workers perform poorly. Brain fry is an acute experience, as participants described it to them.\n\n“When they take a break, it goes away,” Kellerman said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry",
+      "text": "a recent study"
+    },
+    {
+      "url": "https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry",
+      "text": "Harvard Business Review"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/26/business/ai-workslop-nightcap",
+      "text": "the scourge of “workslop”"
+    },
+    {
+      "url": "https://x.com/francedot/status/2017858253439345092",
+      "text": "essay on X"
+    },
+    {
+      "url": "https://x.com/summeryue0/status/2025774069124399363?s=20",
+      "text": "tweeted"
+    }
+  ],
+  "hash": "e98a1a72bf89955381d8b7263a3f83523028d9a9cc5db0887b7de230181787c4",
+  "scraped_at": "2026-03-14T07:10:00.150780+00:00"
+}
