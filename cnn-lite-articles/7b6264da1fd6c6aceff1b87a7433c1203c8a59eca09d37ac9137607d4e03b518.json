@@ -1,0 +1,42 @@
+{
+  "url": "https://lite.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity",
+  "title": "Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern | CNN Business",
+  "date": "2026-04-04T07:32:14.758427+00:00",
+  "authors": [
+    "Hadas Gold",
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nThe next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.\n\nThat’s the message AI company Anthropic sent in a leaked blog post last week, in which it warned that its upcoming AI model, called Mythos, and others like it can exploit vulnerabilities at an unprecedented pace.\n\nAnd it’s not the only one: OpenAIwarnedin December that its upcoming models posed a “high” cybersecurity risk. Experts have already said AI can amplify existing dangers and rapidly generate new software hacks.\n\nBut the rise of AI agents, or AI assistants that can carry out tasks autonomously, takes that risk to another level, some experts warn. A single AI agent could scan for vulnerabilities and potentially take advantage of them faster and more persistently than hundreds of human hackers.\n\n“The agentic attackers are coming,” said Shlomo Kramer, founder and CEO of cybersecurity and networking company Cato Networks. “This is a watershed event in the history of cybersecurity.”\n\nDetails about Mythos leaked in an unpublished blog post first reported on by Fortune. Anthropic did not respond to CNN’s request for comment.But the company told Fortunethe leak was a result of human error within its content management system.\n\n“Although Mythos is currently far ahead of any other AI model in cyber capabilities, it presages an upcoming wave of models that can exploit vulnerabilities in ways that far outpace the efforts of defenders,”Anthropic said in the draft.\n\nThe company is letting certain organizations test the model ahead of time to improve their systems “against the impending wave of AI-driven exploits,” it said.\n\nAnthropic is also privately warning government officials about the potential for large-scale cyberattacks enabled by Mythos, according toAxios.\n\nBut every lab’s next model will pose increasingly severe cybersecurity threats, Kramer told CNN.\n\n“Behind Mythos is the next OpenAI model, and the next Google Gemini, and a few months behind them are the open-source Chinese models,” he said.\n\nAI is making it possible to exploit vulnerabilities almost immediately after discovering them, said Evan Peña, chief offensive security officer at cybersecurity firm Armadin.\n\nBut there are still limits to what the models can do, according to Peña.\n\nAdvanced AI models are good for researching software vulnerabilities and developing code to exploit them. But they lack the context a human hacker would have on what an organization’s most valuable information to steal is, Peña said.\n\nThere will always be room for humans in a cyberattack using AI, said Joe Lin, co-founder and CEO of Twenty, a firm that sells offensive cyber capabilities to the US government.\n\n“We must ensure we are building weapons systems where humans remain firmly in control of decisions and outcomes, because while the machine handles the execution, the human must always own the consequences,” he said.\n\nAn example of how AI has made relatively unskilled hackers more dangerous came in January, when a Russian-speaking cybercriminal used multiple AI tools to hack over 600 devices running a popular firewall software in more than 55 countries,accordingto Amazon Web Services’ security research team. The hacker used generative AI services to “implement and scale well-known attack techniques throughout every phase of their operations, despite their limited technical capabilities,” AWSsaid.\n\nThe hacker used Anthropic’s Claude model as well as Chinese-made DeepSeek in the attack, according to Eyal Sela, director of threat intelligence at Gambit Security. At one point, the hacker asked Claude in Russian to create a web panel for managing hundreds of the hackers’ targets, according to chat logs the hacker had with AI models that Sela shared with CNN.\n\nAI gives hackers of varying skill “superpowers” by simplifying the technical knowledge required to exploit systems, according to Sela.\n\nIn February a hacker used Claude in a series of attacks against Mexican government agencies, stealing sensitive tax and voter information,Bloombergreported.\n\nChina and other US adversaries are “hunting for any edge to improve the performance of their homegrown AI,” said Lin.\n\nThat means potentially mining any leaks of US AI models to try to “supercharge their own cyber weapons systems,” he said.\n\nAI advancements in cybersecurity are a double-edged sword: Attackers can use AI models and agents to boost their abilities, while those same capabilities enable continuous monitoring, faster threat identification, and automated patching at a scale no human team could match.\n\nBut the attackers only need to find one way in, while defenders have to cover every surface. Kramer described it as building an “army of good guys” to “fight the army of bad guys” just to hold the line.\n\n“You need to run as fast as you can in order to stay in the same place,” he said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://openai.com/index/strengthening-cyber-resilience/",
+      "text": "warned"
+    },
+    {
+      "url": "https://fortune.com/2026/03/31/anthropic-source-code-claude-code-data-leak-second-security-lapse-days-after-accidentally-revealing-mythos/",
+      "text": "But the company told Fortune"
+    },
+    {
+      "url": "https://m1astra-mythos.pages.dev/",
+      "text": "Anthropic said in the draft"
+    },
+    {
+      "url": "https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents",
+      "text": "Axios"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/security/ai-augmented-threat-actor-accesses-fortigate-devices-at-scale/",
+      "text": "according"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/security/ai-augmented-threat-actor-accesses-fortigate-devices-at-scale/",
+      "text": "said"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-25/hacker-used-anthropic-s-claude-to-steal-sensitive-mexican-data",
+      "text": "Bloomberg"
+    }
+  ],
+  "hash": "7b6264da1fd6c6aceff1b87a7433c1203c8a59eca09d37ac9137607d4e03b518",
+  "scraped_at": "2026-04-04T07:32:14.758440+00:00"
+}
