@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/04/07/politics/iran-linked-hackers-disrupt-us-industrial-sites",
+  "title": "Iran-linked hackers have disrupted multiple US industrial sites | CNN Politics",
+  "date": "2026-04-08T07:56:05.212196+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nIran-linked hackers have successfully targeted and caused disruptions at multiple US oil and gas and water sites in recent weeks,according to a federal advisoryreleased Tuesday and three sources familiar with the investigation.\n\nThe hacking campaign marked an escalation of the cyberattacks launched by Tehran since the US-Israeli war with Iran began because it tested the safety systems at US industrial plants that protect human life.\n\nThe hacks have caused some industrial processes at the sites to shut down, forcing them to operate manually, the sources said. That downtime has caused financial losses for some of the victims, the federal advisory said. The hackers have in some cases tried to use destructive malware, or “wipers,” to delete data from victim companies, but it was unclear if they were successful, two of the sources said.\n\nThe FBI, the Department of Homeland Security’s cyber agency and others said Tuesday they were “urgently warning” US critical infrastructure firms about the ongoing hacking campaign, which officials said was aimed at causing “disruptive effects within the United States.\n\nLater on Tuesday, President Donald Trump said he’d agreed to a two-week ceasefire with Iran, less than two hours before his 8 p.m. deadline to destroy a “whole civilization.” He has also previously threatened to bomb power plants in Iran.\n\nWhile Iranian missiles can’t yet hit the US homeland, the hacking campaign offers an opportunity for Iran to respond asymmetrically by hitting the US critical infrastructure in cyberspace.\n\n“Government and experts have been warning about internet connected systems for years, and how vulnerable they are,” said one source familiar with the federal investigation into the hacks. “The companies who paid attention and have severe consequences already removed those systems and followed the guidance.”\n\nThe concern is for the critical US infrastructure providers that haven’t been paying as close attention.\n\nThe Iran-linked hackers are opportunistically targeting internet-facing programmable logic controllers, the devices that allow machinery to communicate at industrial plants around the world. That “opens up the opportunity not just for immediate disruption, but potentially modification of operating parameters that could impact physical operations,” said Joe Slowik, director of cybersecurity alerting strategy at Dataminr and an industrial cybersecurity expert.\n\n“The latter could lead to physical impacts and safety concerns, which is a serious issue and represents a notable extension of adversary capability and intent” from previous activity affiliated with certain Iranian hackers, Slowik said.\n\nWhile the US and Israel have steadily bombed Iranian government facilities for weeks, Iran has managed to use its cyber personnel to pull off cyberattacks ranging from the embarrassing to the concerning. Tehran-linked hackers last monthleaked emailsstolen from the private account of FBI Director Kash Patel. Before that, theydisruptedbusiness for a major US medical device maker.\n\nThe cyber activity often has a psychological component. Iranian hackers boasted online of the hacks against Patel and the medical device maker while exaggerating their impact.\n\n“Iran maintains persistent intent to target the U.S. and its allies and partners with cyber operations despite the challenges it faced most recently on display during the 12-Day War in 2025, during which Tehran struggled to defend itself against Israeli cyberattacks and to respond in kind,” US intelligence agencies said in theirannual worldwide threat assessmentreleased in March.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.ic3.gov/CSA/2026/260407.pdf",
+      "text": "according to a federal advisory"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel",
+      "text": "leaked emails"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/11/politics/pro-iran-hackers-cyberattack-medical-device-maker",
+      "text": "disrupted"
+    },
+    {
+      "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf",
+      "text": "annual worldwide threat assessment"
+    }
+  ],
+  "hash": "877ab64afa34c652388d807fdcd81a361b45dd6d1c4f31f966c1f004e6c025f9",
+  "scraped_at": "2026-04-08T07:56:05.212211+00:00"
+}
