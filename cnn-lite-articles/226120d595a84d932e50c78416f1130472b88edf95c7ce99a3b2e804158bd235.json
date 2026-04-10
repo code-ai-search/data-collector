@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/04/09/tech/meta-ai-model-muse-spark",
+  "title": "Meta just provided its clearest look yet at its AI plan. It’s about time | CNN Business",
+  "date": "2026-04-10T08:04:42.567475+00:00",
+  "authors": [
+    "Analysis by Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nMeta’s most important launch in years may not be its latest Ray-Ban glasses or its AI app. Instead, it could be the new AI model it introduced on Wednesday, hinting at how its billions in AI investments could one day transform its products.\n\nMuse Spark, the first AI model fromMeta’s superintelligence lab, powers Meta’s AI app and will be integrated into Instagram, WhatsApp, Facebook andits AI Ray-Bansin the coming weeks, the company said in a press release. Meta calls the model “purpose-built” for its products and says it is designed to streamline tasks like shopping and trip planning — the kinds of things that people already use Instagram for.\n\nThe launch seemed to be exactly what Wall Street wanted to hear after Meta poured billions into its AI ambitions, with little detail about how those dollars will affect to its bottom line. Shares were up more than 9% shortly after the announcement on Wednesday and closed 6% higher.\n\nLast June, Meta invested $14.3 billion in data labeling startup Scale AI and hired its former CEO, Alexandr Wang, as its chief AI officer. It gobbled up rising AI startups Manusand Moltbook. OpenAI CEO Sam Altmanclaimed last yearthat Meta CEO Mark Zuckerberg offered $100 million signing bonuses to lure talent away from the ChatGPT maker. And the Facebook parent company spent more than $72 billion on capital expenditures, or costs related to AI infrastructure, in 2025.\n\nAnalysts and investors want to know how those investments will pay off.\n\nZuckerberg didn’t offer specifics when asked about the return on AI investments during a January earnings call, saying his response “may be somewhat unfulfilling.” He added that the company is in “this interesting period where we’ve been rebuilding our AI effort, and we’re six months into that, and I’m happy with how it’s going.”\n\nMuse Spark is the clearest answer Meta has yet provided. Meta outlined use cases for the model similar to those offered by platforms like ChatGPT and Gemini:. for example, creating a game with a prompt, answering health questions and analyzing a photo of snacks on a shelf to provide nutritional information.\n\nBut the launch signals a concrete strategy to challenge OpenAI and Google after initial confusion around the direction of Meta’s AI app.\n\nMeta positioned the app both asa destination for AI-generated videosand a hub for its smart glasses in the past. Some usersaccidentally posted public queriesthat they believed to be private last year, perhaps an indication that certain consumers weren’t sure how to use the product.\n\nMeta also provided some clues about how its social media platforms could give its AI app an edge over rivals. The Meta AI app will reference content from the company’s social media apps when answering questions related to shopping, trending topics and locations. It says it’ll draw on public posts for certain answers to provide “context from your people, right where you need it.” The company also plans to eventually incorporate Instagram Reels, photos and posts directly into answers.\n\nThe timing is also critical; Meta faces increasing competition from OpenAI, Google and Apple in the coming months:\n\nMeta needs a win. Themetaversedidn’t upend the internet like it expected. Meta’s smart glasses have been at the center of privacy concerns. OpenAI’s ChatGPT caught the tech industry – Meta included – largely by surprise, leaving tech giants racing to catch up over the last three years.\n\nThe jury is out on whether Meta’s new AI models will propel its products to new heights, replicating the success of Facebook and Instagram’s early days. But the launch of a model made specifically for its products for the first time suggests Meta is building towards a vision.\n\nNow it just has to execute it.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/07/25/tech/meta-ai-superintelligence-team-who-its-hiring",
+      "text": "Meta’s superintelligence lab"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/18/tech/meta-ray-ban-display-ai-smart-glasses-demo",
+      "text": "its AI Ray-Bans"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/10/tech/meta-moltbook-bots-social-media",
+      "text": "and Moltbook"
+    },
+    {
+      "url": "https://www.cnn.com/2025/06/18/tech/meta-openai-sam-altman-100-million",
+      "text": "claimed last year"
+    },
+    {
+      "url": "https://about.fb.com/news/2025/09/introducing-vibes-ai-videos/",
+      "text": "a destination for AI-generated videos"
+    },
+    {
+      "url": "https://www.wired.com/story/meta-artificial-intelligence-chatbot-conversations/",
+      "text": "accidentally posted public queries"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/04/business/meta-metaverse-stock-nightcap",
+      "text": "metaverse"
+    }
+  ],
+  "hash": "226120d595a84d932e50c78416f1130472b88edf95c7ce99a3b2e804158bd235",
+  "scraped_at": "2026-04-10T08:04:42.567488+00:00"
+}
