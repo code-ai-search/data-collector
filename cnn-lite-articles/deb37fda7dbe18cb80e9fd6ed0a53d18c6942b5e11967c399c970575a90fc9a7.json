@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/04/10/tech/apple-mac-mini-ai-openclaw",
+  "title": "The hottest Apple product right now isn’t what you think | CNN Business",
+  "date": "2026-04-11T07:32:41.943449+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nMatt Shumer’s home computer setup is a little weirder than most.\n\nHe and his roommate each have a mini Apple computer in the kitchen, both devices silently toiling away in the background. All Shumer has to do is give the virtual assistant running on his Mac Mini a broad task, and it handles the rest. That includes actions that would usually require typing, clicking and scrolling, such as browsing websites and signing into accounts.\n\nIt may be strange to his friends outside of tech, but for hobbyists like himself, “you’re like, ‘Oh, of course there’s a computer using itself,’” he said.\n\nShumer, an AI investor and author of aviral essay on AI and jobsfrom February, is one of many tech enthusiasts who recently purchased a Mac mini to run the buzzy AI agent OpenClaw.\n\nAI dabblers have been snatching up Apple’s petite silver desktop because it has all the right ingredients to run AI agents: a convenient design, processing power and a relatively affordable price at a time whenmemory prices are surging. Apple declined to comment for this story, but analysts told CNN Mac shipments grew last year.\n\nThe Mac mini has become a status symbol among AI tinkerers, and some analysts say the device’s growing popularity may preface a broader shift in how people use computers.\n\n“We think we’re in this highly transformative phase for the PC industry,” said Linn Huang, an analyst for the International Data Corporation who follows the PC market. “Not only are we talking about hardware changing, we’re talking about the user experience itself vastly changing.”\n\nApple’s puck-shaped Mac mini, essentially a tiny version of a computer tower that’s meant to be connected to an external keyboard and monitor, has been around for years. The latest version was released in 2024.\n\nBut theexcitement over OpenClaw, an autonomous AI agent that can operate a user’s device to accomplish tasks, has made Apple’s tiny desktop a hot commodity over the past few months.\n\nShipping estimates for certain configurations of the Mac mini are up to 10-12 weeks, with the earliest Apple Store pickup date in New York City in mid-July.\n\nShumer said an Apple Store employee even referred to the Mac mini as an“OpenClaw machine” when he recently visited a New York City location.\n\nIt’s difficult to say whether OpenClaw has boosted Apple’s bottom line, since the tech giant doesn’t break out sales by individual product and OpenClaw only launched in November.\n\nStill, tech market research firm Omdia estimated Mac mini shipments grew by double digits in 2025 compared to 2024. Kieren Jessop, a research manager for Omdia, described the Mac mini’s anecdotal popularity in tech circles as “real” and “durable” in an email to CNN.\n\nHuang also said Apple’s Mac desktops sales grew more than its laptop sales in 2025.\n\nA Mac mini isn’t required for OpenClaw, but there are a few reasons why many prefer it.\n\nRunning AI models on a computer versus in the cloud is usually more private, since information doesn’t have to leave the device. Using a separate computer for OpenClaw is also more secure, since users can choose to preload the device only with information they want the agent to have access to.\n\nStarting at $599, it’s also relatively affordable at a time when memory prices are soaring.\n\nThe Mac mini’s design also appeals to some OpenClaw users. The AI agent can perform tasks autonomously without constant questions or commands, so it doesn’t need a computer with an attached display and keyboard like a laptop.\n\nMost people hook up their OpenClaw agent to services they can access from their phones, like a messaging app. Roy Derks, a principal product manager at IBM, has OpenClaw set up on his home Mac mini and communicates with it through an app like WhatsApp or Telegram. He mostly uses the AI agent to research things related to his personal life while he’s at the office, like toys for his child.\n\n“It’s running in the background, doing things that I’m not doing at work,” he said.\n\nApp developer Clément Sauvage told CNN he has three Mac minis running OpenClaw: one for managing personal operations, like his emails and to-do list; another for development and projects; and a third that acts as a “central brain” to coordinate tasks between the machines.\n\nThe fervor around OpenClaw has snowballed into a global community of tech-savvy developers and enthusiasts. OpenClaw conferences are popping up around the world. Derks attended one in San Francisco, where he said people were still lining up to get in even two hours after the event had started.\n\nWhile the lobster has become the agent’s primary mascot, the Mac mini has become a symbol of its own. On Etsy, you’ll findMac mini standsin the shape of a lobster arm. Sauvage madea set of collectible pinsfor Apple’s upcoming Worldwide Developers Conference; one shows a lobster perched on top of a Mac mini.\n\nInterest in the Mac mini may seem niche today. But it’s part of what some analysts see as a broader trend around the role of computers in the AI world. It’s exactly the crowd chipmaker Nvidia is targeting with its DGX Spark computer, although that device is much pricier and packs more computing power.\n\nNvidia CEO Jensen Huang touted the ability for AI models running on DGX Spark to control a home robot during his keynote at theCES tech conference in January.OpenClaw was also a major area of focus duringNvidia’s GTC conferencein March.\n\n“We’re still in the innovator phase of this trend, but the trajectory is clear,” Jessop said over email.\n\nShumer enjoys having a physical representation of his AI personal assistant in his home.\n\n“It does change how you think about it, the way you use it, the tasks you give it,” he said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/19/tech/ai-jobs-big-thing-hype",
+      "text": "viral essay on AI and jobs"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/ai-memory-chips-smartphones-intl-hnk",
+      "text": "memory prices are surging"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/29/business/china-openclaw-ai-anxiety-intl-hnk-dst",
+      "text": "excitement over OpenClaw"
+    },
+    {
+      "url": "https://www.etsy.com/listing/4474487686/mac-mini-m4-stand-openclaw-inspired-3d?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=openclaw+mac+mini&ref=sc_gallery-1-2&sr_prefetch=0&pf_from=search&pro=1&frs=1&plkey=EuqUEa3saPwUY-8-K7hTZAleaz7e%3ALTfb5b25e0212cf7c54c6040dc1043b4283f1d6527",
+      "text": "Mac mini stands"
+    },
+    {
+      "url": "https://www.kickstarter.com/projects/csauvage/wwdc-2026-the-unofficial-community-enamel-pins?ref=5cuhdh",
+      "text": "a set of collectible pins"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces",
+      "text": "CES tech conference in January."
+    },
+    {
+      "url": "https://us.cnn.com/2026/03/16/tech/nvidia-jensen-huang-ai-agents",
+      "text": "Nvidia’s GTC conference"
+    }
+  ],
+  "hash": "deb37fda7dbe18cb80e9fd6ed0a53d18c6942b5e11967c399c970575a90fc9a7",
+  "scraped_at": "2026-04-11T07:32:41.943461+00:00"
+}
