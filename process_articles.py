@@ -1,6 +1,7 @@
 import argparse
 import json
 import logging
+import string
 
 from pathlib import Path
 
@@ -14,10 +15,27 @@ parser.add_argument("--dir", default="./cnn-lite-articles", help="directory cont
 parser.add_argument("--logfile", default="json-processing.log", help="directory containing the json files.")
 parser.add_argument("--workflow", choices=["title-change", "extract-content"], default="title-change", help="directory containing the json files.")
 parser.add_argument("--outputfile", help="filepath to put the processed output. Note this will overwrite the file if present.")
+parser.add_argument("--verbose", action='store_true', help="verbose output to stdout useful for debugging")
 
 #NOTE: the sentences that start with these entries include an actual sentence so we strip them
 #      rather than exclude the sentences outright.
 EXCLUDE_SENTENCES = ["Source:", "See Full Web Article"]
+
+# translation tab for removal of problematice characters
+trans_tab = {
+"”": "",
+"“": "",
+"…": ".",
+"‘": "",
+"’": "",
+}
+TRANS_TABLE = str.maketrans(trans_tab)
+
+def is_only_whitespace_or_punct(s):
+    if not s: return False
+    punct_set = set(string.punctuation)
+    return all(c.isspace() or c in punct_set for c in s)
+
 
 if __name__ == "__main__":
     args = parser.parse_args()
@@ -27,10 +45,12 @@ if __name__ == "__main__":
     out_fh = None
     if args.outputfile:
         out_fh = open(args.outputfile, 'w')
-    for x in p.iterdir():
+    for x in sorted(p.iterdir()):
         if x.suffix == '.json':
             with open(x, 'r') as fh:
                 data = json.load(fh)
+                if args.verbose:
+                    print(f"read in {x}, now processing...")
                 if args.workflow == "title-change":
                     # TODO: factor out to function
                     if "previous_title" in data.keys():
@@ -42,18 +62,17 @@ if __name__ == "__main__":
                             print(f"previous title: {data['previous_title']}")
                 elif args.workflow == "extract-content":
                     # TODO: factor out to a function
-                    sentences = sent_tokenize(data["text"])
+                    sentences = sent_tokenize(data["text"].translate(TRANS_TABLE).replace("See Full Web Article", "").replace("<feff>", " ").rstrip())
                     for sentence in sentences:
                         if out_fh:
                             for i in range(len(EXCLUDE_SENTENCES)):
-                                if sentence.startswith(EXCLUDE_SENTENCES[i]):
+                                if sentence.startswith(EXCLUDE_SENTENCES[i]) or is_only_whitespace_or_punct(sentence):
                                    break
                             else:
-                                if not sentence.endswith("\n"):
-                                    out_fh.write(sentence+"\n")
-                                else:
-                                    # TODO: strip any "\n" if >1 of these characters
-                                    out_fh.write(sentence)
+                                # NOTE if >1 trailing "\n" then we strip all so we
+                                # only ever have 1 newline
+                                tmp = sentence.rstrip()
+                                out_fh.write(sentence+"\n")
                         else:
                             print(sentence, "\n")
                 else:
