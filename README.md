@@ -72,3 +72,9 @@ Currently a bare bones data collector which may evolve in several ways.
 
 In the future, data feeds may be collected from other sources besides lite.cnn.com.
 Also, if the storage becomes onerous in the repo, we might shift to cloud.
+
+# extract article text to file of sentences
+
+```bash
+python3 process_articles.py --workflow extract-content --outputfile out.txt --verbose
+```
