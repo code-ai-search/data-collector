@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/04/13/weather/severe-thunderstorm-explainer-climate",
+  "title": "What is a severe thunderstorm? | CNN",
+  "date": "2026-04-14T08:09:17.347674+00:00",
+  "authors": [
+    "Meteorologist Chris Dolce"
+  ],
+  "text": "Source: CNN\n\nHarsh weather of all kinds is often called severe, but the word takes on a very specific meaning when it comes to thunderstorms.\n\nAbout 100,000 thunderstorms rumble across the United States each year, but just 10% intensify into a severe thunderstorm, according to theNational Oceanic and Atmospheric Administration.\n\nA storm’s threats must be fierce enough to check at least one of three criteria boxes before the National Weather Service issues a severe thunderstorm warning or a tornado warning. Some storms check two or all the boxes at once.\n\nThis first criterion is the most straightforward: Producing a tornado of any strength, size or duration automatically makes a storm severe.\n\nIt’s the ferocity of a storm’s hail and wind where we have to dig a bit deeper.\n\nIf a thunderstorm drops hailstones that are at least quarter-sized, it’s officially severe.\n\nThis 1-inch diameter is the size at which hail can start to cause damage, like denting cars, siding or cracking windshields, especially if strong winds increase the force of its impact.\n\nThe damage really escalates once it reaches the size of golf balls, and especially baseballs and softballs.\n\nForecasters describe hail that is 2.75 inches or larger as “destructive.” National Weather Service warnings of this severity automatically trigger wireless emergency alerts on smartphones.\n\nThe bar for severe hail was lower — around penny size —until 2010, when the weather service determined that size usually wasn’t damaging.\n\nAll storms have bursts of strong winds, but 58 mph is the key threshold for a severe thunderstorm warning.\n\nWinds that strong are likely to cause minor damage to trees, power lines and structures. The impact really escalates once gusts hit 80 mph; these winds can destroy less sturdy structures, cause serious damage to mobile homes and tear away material from the roofs of even well-built homes.\n\nWinds at this speed or higher are deemed “destructive” and will also trigger a wireless emergency alert. Only around10% of severe thunderstormsin the US reach this level each year.\n\nSome of the strongest severe storms can have gusts over 100 mph, which produces damage similar to a strong EF1 or EF2 tornado, significantly damaging or destroying mobile homes and roofs of sturdier structures.\n\nIt’s rare, and usually happens in a long-lived, widespread windstorm calleda derecho.\n\nOne of the most powerful derechos in recent memory produced gusts between120 to 140 mphin Iowa on August 10, 2020.\n\nThe derecho’s 14-hour journey had a much larger footprint that spanned from southeast South Dakota to Ohio. Its path of destruction caused $13.8 billion in damage, according toClimate Central.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.nssl.noaa.gov/education/svrwx101/thunderstorms/",
+      "text": "National Oceanic and Atmospheric Administration"
+    },
+    {
+      "url": "https://headlines.ametsoc.org/2010/01/08/nws-increases-severe-hail-threshold/",
+      "text": "until 2010"
+    },
+    {
+      "url": "https://www.weather.gov/lot/SevereThunderstormWarningsUpdate",
+      "text": "10% of severe thunderstorms"
+    },
+    {
+      "url": "https://www.cnn.com/2023/02/27/weather/derecho-damaging-wind-event-xpn",
+      "text": "a derecho."
+    },
+    {
+      "url": "https://www.weather.gov/dvn/summary_081020",
+      "text": "120 to 140 mph"
+    },
+    {
+      "url": "https://www.climatecentral.org/climate-services/billion-dollar-disasters/events?begYear=2020&endYear=2020&s=endDate%3Adesc&f=beginDate%3Abetween%3A20200101..20201231&ps=50",
+      "text": "Climate Central"
+    }
+  ],
+  "hash": "c056cffcbf3953ca99b9b4735bcf744ef0c0cfe013b1a4bd6a5363c5369d30d7",
+  "scraped_at": "2026-04-14T08:09:17.347687+00:00"
+}
