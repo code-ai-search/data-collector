@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/04/15/tech/europe-online-age-verification-app",
+  "title": "Europe rolls out online age verification app to protect young people | CNN Business",
+  "date": "2026-04-16T08:09:53.646055+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nEurope doesn’t want to hear any more excuses from tech platforms for why they can’t verify users’ ages.\n\nEuropean Commission President Ursula von der Leyen on Tuesday announced a new European age verification app that will give users a sort of digital ID card to prove their ages online — without sharing their sensitive personal information with every site or app they want to access.\n\nThe move comes as tech platforms face growing global pressure to better protect young people online. But some tech leaders have raised practical and privacy concerns around collecting users’ sensitive information to verify their ages.\n\nEurope’s new app will provide a centralized solution that removes the burden for tech platforms to verify users’ ages.\n\n“Online platforms can easily rely on our age verification app. So there are no more excuses,” von der Leyen and EU Commission Executive Vice-President Henna Virkkunen said in astatement. “Europe offers a free and easy to use solution that can shield our children from harmful and illegal content.”\n\nUsers will verify their age on Europe’s new app by uploading a passport or ID card, according to the statement. Tech platforms can then access the app to verify whether a user is above or below a certain age — for example, 16 years old or 18 years old, depending on local requirements — but the user’s birthdate and other personal information won’t be shared.\n\nVon der Leyen said the app will have the “highest privacy standards in the world” in a Wednesdayposton LinkedIn.\n\nConcerns around the impact of tech platforms, especially social media sites, on young people’s wellbeing have only escalated since a California juryfound Meta and YouTube liablefor harming a young woman with addictive features last month. A New Mexico jury separatelyfound Meta liablefor enabling child sexual abuse on its platforms.\n\nRegulators around the world have pushed tech companies to create more safeguards for young users, or to restrict teens from accessing social media altogether.\n\nAustraliapasseda world-first law banning children under 16 from accessing social media in December, and ahandful of other countries,including in Europe, want to follow suit. In the United States, several states have passed legislation to force tech platforms to verify users’ ages and obtain parental consent when minors create accounts.\n\nBut some tech companies have raised practical and privacy concerns about age verification requirements. Meta CEO Mark Zuckerberg hasadvocatedfor app stores to act as age verification clearinghouses that can share age information with app operators; Google and Apple have argued that Zuckerberg’s proposal would force them to collect unnecessary personal data even from adult users who want to access innocuous apps.\n\nEurope’s new app is “technically ready” and will soon be available for EU citizens, according to the statement.\n\nMeta, Snap, TikTok and Apple did not immediately respond to a request for comment on the new app. Google declined to comment.\n\nEU member states will be able to tailor the app to their domestic laws, including any age-related social media bans, European Commission technology spokesperson Thomas Regnier told CNN. Under the EU’s Digital Services Act, which regulates large tech platforms, sites required to restrict minor users will not be required to use the new app. However, they must prove that their alternate age verification tools are equally effective or face sanctions, Regnier said.\n\n“This app gives parents, teachers, caretakers a powerful tool to protect children,” von der Leyen and Virkkunen said. “We will have zero tolerance for companies that do not respect our children’s rights.”\n\nCNN’s Hanna Ziady contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/STATEMENT_26_817",
+      "text": "statement"
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450157105845686273/",
+      "text": "post"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/25/tech/social-media-addiction-trial-jury-decision",
+      "text": "found Meta and YouTube liable"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation",
+      "text": "found Meta liable"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/09/australia/australia-social-media-ban-starts-intl-hnk",
+      "text": "passed"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/09/tech/australia-social-media-teen-ban-us-explainer",
+      "text": "handful of other countries,"
+    },
+    {
+      "url": "https://www.cnn.com/2025/03/13/tech/app-store-age-verification-meta-tension",
+      "text": "advocated"
+    }
+  ],
+  "hash": "316c7eeb8f015c1b1444f85f3d2ae628d4f66d666b36dab9b7aa48ba7573e2b4",
+  "scraped_at": "2026-04-16T08:09:53.646070+00:00"
+}
