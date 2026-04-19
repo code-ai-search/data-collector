@@ -1,0 +1,42 @@
+{
+  "url": "https://lite.cnn.com/2026/04/17/business/anthropic-white-house-meeting-dario-amodei",
+  "title": "CEO of blacklisted Anthropic and White House hold ‘productive’ discussions on AI | CNN Business",
+  "date": "2026-04-19T07:51:31.036867+00:00",
+  "authors": [
+    "Hadas Gold",
+    "Alayna Treene"
+  ],
+  "text": "Source: CNN\n\nAnthropic CEO Dario Amodei visited the White House on Friday for a high-stakes meeting with the president’s top adviser, while his AI company battles the Trump administration in court for blacklisting its Claude AI model.\n\nAmodei met with White House Chief of Staff Susie Wiles, two sources familiar with the meeting told CNN.Axios first reportedon the meeting.\n\nThe meeting took place as the US government is trying to balance its hardline approach to Anthropic with the national security implications of turning its back on the company’s breakthrough technology – including itsMythos toolthat can identify cybersecurity threats but also present a roadmap for hackers to attack companies or the government.\n\nThe White House  said the meeting was “introductory,” calling it “productive and constructive.”\n\n“We discussed opportunities for collaboration, as well as shared approaches and protocols to address the challenges associated with scaling this technology,” the White House said in a statement Friday afternoon. “The conversation also explored the balance between advancing innovation and ensuring safety. We look forward to continuing this dialogue and will host similar discussions with other leading AI companies.”\n\nAnthropic likewise called the meeting “productive” on discussions about “cybersecurity, America’s lead in the AI race, and AI safety.”\n\n“The meeting reflected Anthropic’s ongoing commitment to engaging with the U.S. government on the development of responsible AI. We are grateful for their time and are looking forward to continuing these discussions,” the spokesperson said.\n\nUntil recently, Anthropic’s Claude was the only AI model available in the Pentagon’s classified network. But President Donald Trump recently announced the administration wouldsever tieswith the company after Anthropic refused to back down on terms that would allow the military to use Claude for “all lawful purposes,” including autonomous weapons and mass surveillance.\n\nAfter a breakdown in talks over Claude’s use, the Pentagon went on to declare Anthropic a “supply chain risk,” a label only used in the past for companies associated with foreign adversaries. It would effectively blacklist Anthropic from the government.\n\nAnthropic sued the Trump administration in response, and a federal judge in California last monthblockedthe government’s effort to “punish” Anthropic, saying federal agencies outside of the Department of Defense cannot use the supply chain risk designation to sever ties with the company. The government has appealed that ruling.\n\nBut two weeks later, the administration scored a victory at the DC Circuit Court of Appeals, which said in a separate case brought by Anthropic that it won’t bar DOD from cutting ties with the company while that legal challenge plays out.\n\nIntervening at this stage in the litigation, the appeals court said in its unanimous decision, “would force the United States military to prolong its dealings with an unwanted vendor of critical AI services in the middle of a significant ongoing military conflict.”\n\nThe Pentagon has said it wants unfettered access to Claude for “all lawful purposes,” because it needs complete freedom to use those tools, especially in wartime. Anthropic has argued that it wants to work with the military, but that AI models are just not yet reliable enough to be used in autonomous weapons, and that US law has not caught up to be able to protect Americans around AI’s use in mass surveillance.\n\nMeanwhile, Anthropic announced a forthcoming powerful AI model calledMythos, that it and experts have warned could be a “watershed” moment for cybersecurity, allowing select groups to get early access to assess their cybersecurity risk.\n\nThe Office of Management and Budget has already told agencies it is preparing to give them access to Mythos to prepare, Bloombergreported. Axios reported the White House is also in discussion to gain access to Mythos. Anthropic declined to comment on whether the Trump administration was working to test Mythos.\n\nPublic filingsshowAnthropic recently hired the lobbying firm Ballard, where Wiles worked for years. The disclosure shows Ballard was specifically hired for “advocacy regarding [Department of War] procurement.”\n\n“The White House continues to proactively engage across government and industry to protect the United States and Americans. This includes working with frontier AI labs to ensure their models help secure critical software vulnerabilities,” a White House official told CNN. “Any new technology that would potentially be used or deployed by the federal government requires a technical period of evaluation for fidelity and security. The collective effort of all involved will ultimately benefit industry, and our country, as a whole.”\n\nCNN’s Devan Cole and Kristen Holmes contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.axios.com/2026/04/17/anthropic-trump-administration-mythos",
+      "text": "Axios first reported"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity",
+      "text": "Mythos tool"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "text": "sever ties"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "text": "blocked"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity",
+      "text": "Mythos"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access",
+      "text": "reported"
+    },
+    {
+      "url": "https://lda.senate.gov/filings/public/filing/bed8a620-9864-40dc-b2f7-ad2983a33d9b/print/",
+      "text": "show"
+    }
+  ],
+  "hash": "b3197393573614e319739b37ba2b6a2125b2352ab6bc0b4b3dc1300d5acb0bff",
+  "scraped_at": "2026-04-19T07:51:31.036879+00:00"
+}
