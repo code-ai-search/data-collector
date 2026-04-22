@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/04/21/tech/florida-criminal-investigation-chatgpt-openai-fsu-shooting",
+  "title": "Florida attorney general launches criminal investigation into ChatGPT maker OpenAI after deadly FSU shooting | CNN Business",
+  "date": "2026-04-22T08:12:55.088442+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nFlorida Attorney General James Uthmeier opened an investigation into OpenAI over whether the company “bears criminal responsibility” fora shooting at Florida State Universitylast year.\n\nThe attorney general’s office said it is investigating whether OpenAI’s ChatGPT helped the suspect,Phoenix Ikner, carry out the crime.\n\n“If that bot were a person, they would be charged with a principal in first-degree murder,” Uthmeier said at a press conference on Tuesday. “ChatGPT offered significant advice to the shooter before he committed such heinous crimes.”\n\nIkner is accused of killing two people and injuring six others on FSU’s campus on April 17, 2025. He has pled not guilty, and his trial is set to begin in October.\n\nUthmeier said that Ikner submitted multiple queries to ChatGPT prior to the shooting, and that the chatbot “advised” the shooter on weapons and ammunition, “what time of day would be appropriate for the shooting to interact with more people, and where on campus would be the place to encounter a higher population.”\n\nWhile there have been several lawsuits against AI companies,  a criminal investigation is extremely rare.\n\nUthmeier said OpenAI has been subpoenaed for information about “policies and internal training materials regarding user threats of harm to others” and self-harm, as well as policies for reporting possible crimes.\n\n“We’re going to look at who knew what, designed what or should have known what and if it is clear that individuals knew that this type of dangerous behavior might take place,” Uthmeier said.\n\nAn OpenAI spokesperson said in a statement to CNN that the shooting “was a tragedy, but ChatGPT is not responsible for this terrible crime.” OpenAI “proactively” shared the account believed to be linked to Ikner with law enforcement after the shooting, the spokesperson added.\n\n“In this case, ChatGPT provided factual responses to questions with information that could be found broadly across public sources on the internet, and it did not encourage or promote illegal or harmful activity,” the spokesperson said.\n\nThis not the first time ChatGPT has been accused of helping a suspect plan a mass shooting. After a shooting in British Columbia, Canada, this year, OpenAIsaidit has “taken steps to strengthen our safeguards,” including changing when the company chooses to alert law enforcement about potentially violent activities.\n\n“We work continuously to strengthen our safeguards to detect harmful intent, limit misuse, and respond appropriately when safety risks arise,” the spokesperson told CNN.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/04/18/us/student-voices-fsu-shooting-gun-violence",
+      "text": "a shooting at Florida State University"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/12/us/fsu-shooting-suspect-phoenix-ikner-charged",
+      "text": "Phoenix Ikner"
+    },
+    {
+      "url": "https://cdn.openai.com/pdf/8e938d69-0b67-4994-b9ff-683733ed587e/openai-letter-minister-solomon.pdf",
+      "text": "said"
+    }
+  ],
+  "hash": "8f6435121540b89fb4c748fe2af2ea60c55608d6ae4cc424952b9e6363beef32",
+  "scraped_at": "2026-04-22T08:12:55.088452+00:00"
+}
