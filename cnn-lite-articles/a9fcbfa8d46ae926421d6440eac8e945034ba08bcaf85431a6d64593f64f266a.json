@@ -1,0 +1,57 @@
+{
+  "url": "https://lite.cnn.com/2026/04/22/politics/kalshi-prediction-site-suspend-political-candidates",
+  "title": "Kalshi prediction site suspends three political candidates | CNN Politics",
+  "date": "2026-04-23T08:14:34.934111+00:00",
+  "authors": [
+    "Marshall Cohen"
+  ],
+  "text": "Source: CNN\n\nThe prediction market Kalshi suspended three political candidates from its platform on Wednesday for “political insider trading” after an internal probe found that they bet on their own campaigns.\n\nThese suspensions and fines, reported first by CNN, are the most aggressive enforcement actions taken to date by a prediction site against political candidates, with primaries for the 2026 midterms already underway.\n\nThe announcement comes as lawmakers from both parties have steadily raised concerns about how therapidly expandingprediction market industry could potentially undermine the integrity of US elections.\n\nOn prediction sites, users can bet on nearly everything from elections to sports, entertainment, or even the daily high temperature. (CNN has a partnership with Kalshi and uses its data to cover major events. However, editorial employees are not allowed to participate in prediction markets.)\n\nRobert DeNault, Kalshi’s head of enforcement, said in a statement announcing the suspensions that these cases are “political insider trading” and violated Kalshi’s rules as approved by the Commodity Futures Trading Commission, the federal agency thatregulates prediction platforms.\n\nThe federal candidates flagged by Kalshi are a Democratic state senator running for a US House seat in Minnesota, an independent running for US Senate in Virginia, and a Republican who lost a House primary in Texas.\n\n“When a trader violates our exchange rules, they will be subject to exchange discipline,” DeNault said. “For more serious matters, we refer cases to the CFTC or DOJ for further investigation and prosecution, which didn’t happen here.”\n\nKalshi said the trades were relatively small but still broke their rules, leading to five-year suspensions for all three candidates.\n\n“Regardless of the size of a trade, political candidates who can influence a market based on whether they stay in or out of a race violate our rules,” DeNault said. “No matter how small the size of the trade, any trade that is found to have violated our exchange rules will be punished.”\n\nThe Biden-era CFTCtried to prohibitelection-related prediction markets, but two federal courts latercleared the waybefore the 2024 presidential election. The Trump-appointed CFTC chair, Michael Selig, has embraced these markets andwithdrewthe agency’s proposed ban earlier this year.\n\nThis is Kalshi’s second round of major enforcement actions this year. In February, it suspended an employee of YouTube star MrBeast and a little-known candidate for California governor who bet $200 on his own race.\n\nA source familiar with the matter said Kalshi, as it did in prior cases, is expected to donate the more than $7,500 in fines from Wednesday’s enforcement actions to a nonprofit organization that educates consumers about financial markets.\n\nOne of the “suspicious” trades Kalshi flagged came from Minnesota state Sen. Matthew Klein, a Democrat who isrunningfor an open US House seat.\n\nIn an email to CNN, Klein said he learned from friends that Kalshi had a market about his race, and “was curious about how it worked,” so he bet $50 of his own money in October that he would win the nomination. He said he cooperated with Kalshi’s investigation when they contacted him last month.\n\n“That was the only wager I have ever made on a predictions market,” Klein said. “This was a mistake, and I apologize. My experience, like many other Minnesotans, points to the need for clearer rules and regulations for these types of markets.”\n\nOne of the other traders was Virginia independentMark Moran, who is running for Senate. Kalshi said Moran bet in October that he would announce a political run, and then publicly launched his campaign in January.\n\nIn an interview with CNN, Moran said the trades were a stunt so that a “longshot” candidate like himself could draw attention to “illegal gambling” happening on prediction sites.\n\n“I wanted to get caught,” Moran said. “People are participating in these markets because they have no hope of a better tomorrow and can’t afford homes or health care.”\n\nThe third trader was a Texas Republican who finished with 1% in a March primary for a US House seat.\n\nOver the past year, Kalshi and its main rival, Polymarket, have exploded in popularity. Both sides now see billions of dollars in weekly total volume.\n\nA bipartisan array of lawmakers have expressed alarm about the risks of insider trading. These criticisms grew afterreports from CNNand other outlets about well-timed and highly lucrative trades on Polymarket regarding the US-Israeliwar in Iranand US military actions in Venezuela.\n\nBut not all insider activity on prediction markets is automatically illegal.\n\nFederal laws focus on whether the trader has an existing legal obligation to keep information secret. This leaves a gray area with political campaigns, according to Noah Solowiejczyk, a former federal prosecutor in the Southern District of New York who often partnered with the CFTC on financial cases.\n\n“If it was a campaign employee who has a duty to keep campaign information confidential, that might be different scenario, violating existing law,” Solowiejczyk said. “But the candidate themselves, trading on their own information, isn’t breaching a duty to anyone. It’s their own campaign.”\n\nLawmakers have proposed at least two bills this year to stop CFTC regulated companies like Kalshi from offering election contracts in the first place.\n\nRep. Blake Moore, a Utah Republican, said in astatementlast month announcing his bipartisan bill that “under-regulated prediction markets have exposed America to needless public safety and national security risks” by letting users trade on “sensitive matters,” including elections.\n\nPrediction sites are federally regulated by the CFTC. But about 40 states have argued in court that prediction platforms offer products that are nearly identical to gambling and therefore must comply with state gaming laws.\n\nOne state, Arizona,filed criminal chargesagainst Kalshi for allegedly operating an unlicensed casino and violating state bans against election bets. Kalshi denies wrongdoing, and a federal judge recently halted the state case.\n\nThis story has been updated with additional reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/10/politics/white-house-staff-prediction-markets",
+      "text": "rapidly expanding"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/16/business/prediction-markets-insider-trading-selig-crackdown",
+      "text": "regulates prediction platforms"
+    },
+    {
+      "url": "https://www.politico.com/news/2024/05/10/cftc-election-betting-ban-00157304",
+      "text": "tried to prohibit"
+    },
+    {
+      "url": "https://www.cnn.com/2024/10/02/business/appeals-court-allows-kalshi-election-betting",
+      "text": "cleared the way"
+    },
+    {
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9179-26",
+      "text": "withdrew"
+    },
+    {
+      "url": "https://www.kleinforcongress.com/",
+      "text": "running"
+    },
+    {
+      "url": "https://x.com/itsmarkmoran/status/2047038838699446324?s=46",
+      "text": "Mark Moran"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/24/politics/iran-war-bets-prediction-markets",
+      "text": "reports from CNN"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/07/politics/iran-war-prediction-markets-polymarket-kalshi",
+      "text": "war in Iran"
+    },
+    {
+      "url": "https://blakemoore.house.gov/media/press-releases/representatives-moore-carbajal-introduce-bipartisan-bill-to-regulate-prediction-markets",
+      "text": "statement"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/17/politics/arizona-charges-prediction-market-kalshi",
+      "text": "filed criminal charges"
+    }
+  ],
+  "hash": "a9fcbfa8d46ae926421d6440eac8e945034ba08bcaf85431a6d64593f64f266a",
+  "scraped_at": "2026-04-23T08:14:34.934126+00:00"
+}
