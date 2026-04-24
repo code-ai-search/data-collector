@@ -1,0 +1,23 @@
+{
+  "url": "https://lite.cnn.com/2026/04/23/europe/france-weather-sensor-polymarket-bet-intl-latam",
+  "title": "France investigates suspected tampering with weather sensors after Polymarket bets | CNN",
+  "date": "2026-04-24T08:27:10.377012+00:00",
+  "authors": [
+    "Niamh Kennedy",
+    "Lisa Courbebaisse",
+    "Elina Baudier Kim"
+  ],
+  "text": "(CNN) —A weather sensor in France’s busiest airport, Paris-Charles de Gaulle, has been tampered with in what a French weather association says it suspects to be a betting scam.\n\nFrance’s national meteorological agency, Meteo France, said in a statement sent to CNN on Thursday that it has formally filed a complaint regarding the “tampering of an automated data processing system” located in Charles de Gaulles Airport, used to measure daily temperatures for Paris.\n\nOn two separate occasions in April, users of American betting platform Polymarket placed successful bets on unexpected temperature spikes in the French capital, CNN affiliate BFMTV reported. Launched in 2020, Polymarket allows users to place bets on future events, such as the highest temperature in a city on a given day.\n\nOn April 6, around 7 p.m. local time (2 p.m. ET), the temperature sensor at Charles de Gaulles Airport rose suddenly to 22 degrees Celsius (about 71.6 Fahrenheit) before dropping back to cooler spring temperatures, according to BFM.\n\nThe unusual spike was flagged by members of the French climate nonprofit associationInfoclimat, when around 9:30 p.m. local time (4:30 p.m. ET), Meteo France recorded 22°C for Paris despite temperatures averaging 18°C (64.4°F) all afternoon. A Polymarket user then won $14,000 for placing a successful bet on 22°C.\n\nThe second unexpected spike took place nine days later on April 15, when the temperature recorded by the Charles de Gaulle sensor once again reached 22°C, four degrees higher than the day before. This time a user on the Polymarket site won $20,000 for successfully betting on the 22°C reading.\n\nInfoclimat said it once again flagged the spike to Meteo France, with some climate enthusiasts speculating on the association’s forum that a battery-powered hairdryer may have been used to tamper with the sensor, French newspaper Le Monde reported. The exact cause has yet to be confirmed.\n\nIn the statement sent to CNN, Meteo France said it filed the complaint to airport police at Charles de Gaulle and that an investigation is now underway. Airport police declined CNN’s request for comment.\n\nThis is not the first time Polymarket has been ensnared in controversy. Anexclusive CNN investigationpublished at the end of March found evidence that one trader made nearly a million dollars from successful bets on Polymarket over a two-year period by accurately predicting American and Israel military actions against Iran, which prompted suspicions of insider trading.\n\nCNN has reached out to Polymarket for comment.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://asso.infoclimat.fr/#:~:text=%E2%80%94%20Qui%20sommes%2Dnous%20%3F,la%20m%C3%A9t%C3%A9o%20et%20du%20climat.",
+      "text": "Infoclimat"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/24/politics/iran-war-bets-prediction-markets",
+      "text": "exclusive CNN investigation"
+    }
+  ],
+  "hash": "c47c40440ecbb349656c0e36714a654d8441c1258b4014132a6ccb6bce402c33",
+  "scraped_at": "2026-04-24T08:27:10.377024+00:00"
+}
