@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/04/25/business/chance-of-audit-irs-ai-use",
+  "title": "What are your chances of being audited now that the IRS is using AI? Jury is still out | CNN Business",
+  "date": "2026-04-25T07:49:01.259081+00:00",
+  "authors": [
+    "Jeanne Sahadi"
+  ],
+  "text": "Source: CNN\n\nJust looking at the raw numbers, less than 1% of filers have been audited by the IRS in recent tax years. Based on the latest data available, for example, in tax year 2021 the IRS pursued a mere 0.3% of filers overall.\n\nThe audit rate has been higher for select groups of taxpayers based on certain characteristics – like the amount or types of income they report or specific tax breaks they claim. But even there, with very few exceptions, audits typically affect less than 10% of any given group and often a far smaller share – smaller as in, again, less than 1%.\n\nBut a lot has changed for the IRS in the past year.\n\nA large percentage of employees were laid off or resigned, including many highly experienced in areas of enforcement and complex audits. Just over a quarter of both tax examiners and revenue agents were among them, according to a July 2025reportfrom the Treasury Inspector General for Tax Administration.\n\nAnd a majority of funding for enforcement promised under the 2022 Inflation Reduction Act was rescinded and the Trump administration is seeking tocut IRS funding furthernext year.\n\nAt the same time, the agency has been modernizing its antiquated systems andincreasing its use of AIin a number of areas, including enforcement. “The IRS is using artificial intelligence (AI) and advanced analytics to identify high-risk areas of non-compliance and fraud with greater accuracy,” IRS CEO Frank Bisignano said in written testimony before the Senate Finance Committee earlier this month. Among his stated goals for the agency: “Advancing a strong compliance agenda while improving collections beyond historical norms.”\n\nHow will the combination of these big changes affect any filer’s chance of being audited in the coming years?\n\nIt’s not clear, for several reasons, not least of which are a) whether the technology will be usedresponsibly and strategically, as former IRS Commissioner Danny Werfel put it; and b) whether there will be a sufficient number of experienced IRS employees to successfully select and audit returns that AI identifies as potentially suspect.\n\nIdeally, AI will help keep the IRS off the back of perfectly compliant tax filers – thereby reducing the rate of so-called “no change” audits. Those are audits undertaken by the IRS which result in no revenue raised because, well, it found nothing wrong.\n\nAnd it can help better identify anyone underreporting their income or otherwise violating tax rules.\n\n“It will make the IRS more efficient in finding noncompliance,” said Barry Johnson, former chief data and analytics officer at the IRS who, among other things, oversaw how the agency used AI.\n\nAI has the capacity to search and identify patterns in tax returns that would take humans and the IRS’ older statistical models a lot longer to unearth, if ever. It can identify returns with anomalies, which might indicate anything from a filer mistakenly underreporting income to committing outright fraud.\n\n“AI gives us a forensic edge to select the right returns for audit,” Werfel said. “It’s almost like purchasing night-vision goggles. They help figure out which returns to select, and where the tax evasion is.”\n\nIf used responsibly, he added, AI could lead to more taxpayers with unpaid balances being contacted.\n\nBy responsibly, he means that the IRS will have to balance “the use of AI with a human review – double checking and confirming AI is generating reliable output.”\n\nIn particular, the use of AI could raise the rate of “correspondence audits” – which is the most typical type of audit the IRS pursues, as opposed to the more time-and-resources-intensive field audits and office audits.\n\nIn acorrespondence audit, the agency sends a letter to a filer indicating that more money may be owed (or that it is withholding their refund) based on one or two discrete issues on their return for given single tax year. And the filer must either send in payment ortake stepsif they wish to challenge the assessment.\n\nBut if the agency pursues more correspondence audits, it will need to make sure they have enough trained staff to address those filers affected who call with questions, Werfel said.\n\nThe same is true when AI unearths problems with substantially more complex returns that may require a field or office audit.\n\nAt present, given how much expertise walked out the door last year, experienced enforcement employees may be in short supply. “I don’t think AI is going to substitute for the staff who have been lost. You still need people who are experts to conduct an audit by meeting with taxpayers and reviewing their books and records to determine if their tax return is accurate,” said Johnson, who is now a nonresident fellow at the Urban-Brookings Tax Policy Center.\n\nAnother reason it’s hard to predict what will happen to audit rates is AI itself. It’s developing so quickly that it may be able to do more in the future than what it can do today.\n\n“When you decide to be aggressive, to bend the rules or break them, look at the IRS capacity not just now, but years from now,” Werfel said. “It’s hard to know what surveillance and assessment powers AI will have …. What it’s like in 2028 and 2029 could be very different because of the true paradigm shift AI represents.”\n\nAlso worth remembering: The agency hasat least three yearsfrom the date you file a return to audit it, but longer than that in several circumstances, including if the agency suspects fraud.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.tigta.gov/sites/default/files/reports/2025-08/2025ier027fr.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://taxpolicycenter.org/sites/default/files/2026-04/THE%20STATE%20OF%20FEDERAL%20TAX%20ADMINISTRATION%20IN%202026.pdf",
+      "text": "cut IRS funding further"
+    },
+    {
+      "url": "https://www.gao.gov/products/gao-26-107522",
+      "text": "increasing its use of AI"
+    },
+    {
+      "url": "https://www.gao.gov/products/gao-26-107522",
+      "text": "responsibly and strategically"
+    },
+    {
+      "url": "https://www.taxpayeradvocate.irs.gov/news/nta-blog/nta-blog-lifecycle-of-a-tax-return-correspondence-audits-increased-communication-alternatives-are-in-progress/2021/09/",
+      "text": "correspondence audit"
+    },
+    {
+      "url": "https://www.taxpayeradvocate.irs.gov/notices/taxpayer-disagrees-with-assessment/",
+      "text": "take steps"
+    },
+    {
+      "url": "https://www.irs.gov/filing/time-irs-can-assess-tax",
+      "text": "at least three years"
+    }
+  ],
+  "hash": "b6d96014b0f6433c47ca658483b6e220f139bcc45aba1520e3d38c5e335a4dcb",
+  "scraped_at": "2026-04-25T07:49:01.259096+00:00"
+}
