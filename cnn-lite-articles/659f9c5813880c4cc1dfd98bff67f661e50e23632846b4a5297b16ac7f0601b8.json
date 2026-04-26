@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/04/23/tech/white-house-accuses-china-copying-american-ai",
+  "title": "White House accuses China of copying American AI models in ‘industrial-scale’ campaign | CNN Business",
+  "date": "2026-04-26T07:58:52.378714+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nForeign entities primarily based in China have conducted “industrial-scale” campaigns to crib frontier AI models from US companies, Michael Kratsios, White House director of the office of science and technology policy,said in a memoon Thursday.\n\nThe effort entails using tens of thousands of surrogate accounts to go undetected and complex tools to expose proprietary information, Krastios wrote.\n\n“These coordinated campaigns systemically extract capabilities from American AI models, exploiting American expertise and innovation,” he said.\n\nThe US and China have been locked in a race to build the most sophisticated and advanced AI technology. AI has become a flashpoint in trade tensions between the two global superpowers, with tech giantslike Nvidia getting caught in the middle.\n\nAt the heart of the accusations is a process called “distillation,” a technique used to transfer knowledge from a large AI model to a smaller one that can run more cheaply. Distillation is widely used for training AI models, but companies like Anthropic and OpenAI have previously claimed the process has been used to unfairly mimic their models’ capabilities.\n\nDeepSeek, the Chinese AI startup thatrattled Wall Street last year,has been at the center of such accusations. OpenAI in February warned lawmakers that DeepSeek has been attempting to replicate the performance of the ChatGPT maker’s models and those of other US frontier labs through distillation.\n\nAnthropic alsosaid in Februarythat it has “identified industrial-scale campaigns” by DeepSeek along with two other AI labs to “illicitly extract Claude’s capabilities to improve their own models.”\n\nDeepSeek did not immediately respond to CNN’s request for comment.\n\nDistilled AI models can also raise security concerns since they lack the safeguards of the models they were trained on, Anthropic wrote in a February blog post.\n\n“These distillation campaigns also allow those actors to deliberately strip security protocols from the resulting models and undo mechanisms that ensure those AI models are ideologically neutral and truth-seeking,” Kratsios wrote in the memo.\n\nA spokesperson for the Chinese embassy in Washington said it opposes “the unjustified suppression of Chinese companies by the US” and that it believes intellectual property rights have great importance.\n\n“China is not only the world’s factory but is also becoming the world’s innovation lab,” it said in a statement to CNN. “China’s development is the result of its own dedication and effort as well as international cooperation that delivers mutual benefits.”\n\nThe Trump administration plans to take several actions in response to the campaign, including sharing information with US AI companies about attempts to “conduct unauthorized, industrial-scale distillation” and improving coordination between private companies.\n\nIt also plans to explore measures to “hold foreign actors accountable” for such campaigns and work with the private sector to develop best practices for finding and defending against “industrial-scale distillation activities.”\n\nCementing the US as a leader in the AI race has been a cornerstone of Trump’s second term. He’s pushed forfederal AI regulationrather than state-level rules in an attempt to expedite innovation. But critics have warned that approach could make it easy for AI companies to evade accountability. He’s also exerted controls over sales ofAI chips to China.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://x.com/mkratsios47/status/2047316220785905948/photo/1",
+      "text": "said in a memo"
+    },
+    {
+      "url": "https://www.cnn.com/2025/08/11/tech/nvidia-amd-trump-china-explained",
+      "text": "like Nvidia getting caught in the middle."
+    },
+    {
+      "url": "https://www.cnn.com/2025/01/27/tech/deepseek-ai-explainer",
+      "text": "rattled Wall Street last year,"
+    },
+    {
+      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "text": "said in February"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/20/tech/white-house-ai-framework",
+      "text": "federal AI regulation"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/08/tech/nvidia-h200-chips-china-trump-export",
+      "text": "AI chips to China"
+    }
+  ],
+  "hash": "659f9c5813880c4cc1dfd98bff67f661e50e23632846b4a5297b16ac7f0601b8",
+  "scraped_at": "2026-04-26T07:58:52.378728+00:00"
+}
