@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/04/29/tech/openai-tumbler-ridge-canada-shooting-lawsuits",
+  "title": "Families of Tumbler Ridge shooting victims sue OpenAI and CEO Sam Altman | CNN Business",
+  "date": "2026-04-30T08:38:44.470806+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nSeven families of victims in a February school shooting sued OpenAI and CEO Sam Altman on Wednesday, alleging the company and its ChatGPT chatbot were complicit in the injuries or deaths of their children.\n\nThe lawsuits follow anapologyfrom Altman last week to the Tumbler Ridge community in Canada for not alerting authorities to the shooter’s conversations with ChatGPT even after staff flagged the account internally. The lawsuits, filed separately, mark just the latest scrutiny of OpenAI over claims that ChatGPT has encouraged users to engage in real-world violence or self-harm.\n\nAn 18-year-old woman killed eight people and wounded dozens in the February attack, which marked Canada’s deadliest school shooting in decades. Police say she killed her mother and stepbrother at home before going on to open fire at a local high school, where she killed five students and a teacher, before dying of a self-inflicted gunshot wound.\n\nMonths earlier, the shooter had extensive conversations with ChatGPT discussing scenarios involving gun violence, the lawsuits allege.\n\n“ChatGPT deepened the Shooter’s violent fixation and pushed them toward the attack—the predictable result of a design choice OpenAI made to let ChatGPT engage with users about violence in the first place,” states a complaint filed by Cia Edmonds on behalf of her 12-year-old daughter Maya Gebala, who remains in the hospital due to brain and skull injuries from the shooting.\n\nThe Edmonds suit alleges OpenAI “made the conscious decision not to warn authorities” for fear it would harm the company’s business and prospects for its upcoming initial public offering.\n\nHad ChatGPT refused to discuss violence with the shooter, Maya “would have finished seventh grade with her classmates,” the complaint states.\n\nEdmonds previously sued OpenAI in Canadian court; that suit will be superseded by the complaint filed in federal district court in Northern California on Wednesday. Additional suits were filed in the same court Wednesday on behalf of the five deceased students and teacher: Abel Mwansa, 12; Ezekiel Schofield, 13; Kylie Smith, 12; Zoey Benoit, 12; Ticaria Lampert, 12; and Shannda Aviugana-Durand, 39.\n\nThe lawsuits seek unspecified financial damages, as well as a court order that would require OpenAI to prevent users that have been deactivated for discussing violence from creating new ChatGPT accounts, notify law enforcement when internal systems flag a risk of real-world harm, submit to independent monitoring and make other design and safety changes to ChatGPT.\n\n“The events in Tumbler Ridge are a tragedy,” an OpenAI spokesperson said in a statement. “We have a zero-tolerance policy for using our tools to assist in committing violence.”\n\nThe spokesperson added that OpenAI has “already strengthened our safeguards, including improving how ChatGPT responds to signs of distress, connecting people with local support and mental health resources, strengthening how we assess and escalate potential threats of violence, and improving detection of repeat policy violators.”\n\nIn hisletterto the Tumbler Ridge community last week, Altman said he’d been in touch with local authorities and called the community’s pain “unimaginable.” He added: “I am deeply sorry that we did not alert law enforcement to the account that was banned in June.”\n\nOpenAI has said it deactivated the shooter’s original account in June 2025 for violating its violent activities policy.\n\nThat decision came after the company’s internal systems flagged the shooter’s multiple-day-long conversations with ChatGPT about gun violence, routing the account to a team tasked with reviewing users “planning to harm others,” Edmonds’s complaint states. The suit alleges that multiple team members recommended contacting Canadian law enforcement, but were overruled by OpenAI’s leadership, who said the conversations did not meet the threshold of “’credible and imminent’ risk of physical harm.”\n\nOpenAI hasacknowledgedthat it discovered after the attack that the shooter created a second account to keep using ChatGPT — something the lawsuit claims OpenAI explicitly directed deactivated users to do on its website. An OpenAI spokesperson disputed that allegation, noting that the email the company sends to users who have been deactivated does not include information about creating a new account.\n\nOpenAI’s Vice President of Global Policy Ann O’Leary committed to improving the company’s systems for detecting repeat policy violators and other safeguards in a letter to Canadian Minister of Artificial Intelligence Evan Solomon in the wake of the shooting.\n\nFlorida’s attorney general last weeklaunched a criminal investigationinto whether OpenAI bears responsibility for a separate shooting that took place at Florida State University. State Attorney General James Uthmeier claimed that ChatGPT provided advice to the shooter, who killed two people and injured six others last April.\n\nAn OpenAI spokesperson told CNN that the shooting “was a tragedy, but ChatGPT is not responsible for this terrible crime,” adding that the bot did not “encourage or promote illegal or harmful activity.” OpenAI “proactively” shared the account believed to be linked to the suspect with law enforcement after the shooting, the spokesperson said in a statement.\n\nOpenAI also faces lawsuits from multiplefamilieswhoallegeChatGPT encouraged their children’s suicides.\n\nOpenAI has denied responsibility in at least one of those cases, but said it is continuing to work with mental health professionals to strengthen protections in its chatbot.\n\n–CNN’s Hadas Gold, Paula Newton and Lex Harvey contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/24/world/sam-altman-openai-apologize-tumbler-ridge",
+      "text": "apology"
+    },
+    {
+      "url": "https://tumblerridgelines.com/2026/04/24/openai-apologizes-to-tumbler-ridge/",
+      "text": "letter"
+    },
+    {
+      "url": "https://cdn.openai.com/pdf/8e938d69-0b67-4994-b9ff-683733ed587e/openai-letter-minister-solomon.pdf",
+      "text": "acknowledged"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/21/tech/florida-criminal-investigation-chatgpt-openai-fsu-shooting",
+      "text": "launched a criminal investigation"
+    },
+    {
+      "url": "https://www.cnn.com/2025/08/26/tech/openai-chatgpt-teen-suicide-lawsuit",
+      "text": "families"
+    },
+    {
+      "url": "https://www.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis",
+      "text": "allege"
+    }
+  ],
+  "hash": "004d23f69da94a774265ed7d366c10381d2595bdbc52a6943352d3585b768326",
+  "scraped_at": "2026-04-30T08:38:44.470817+00:00"
+}

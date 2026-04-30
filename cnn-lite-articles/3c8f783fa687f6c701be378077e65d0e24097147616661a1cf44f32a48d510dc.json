@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/04/29/tech/openai-cybersecurity",
+  "title": "OpenAI wants to put its most powerful model at all levels of government to fight hackers | CNN Business",
+  "date": "2026-04-30T08:38:59.028182+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nOpenAI is expanding access to its most advanced AI models to help businesses and governments shore up their cyber defenses, a sharp contrast to rival Anthropic, which says controlling access to its models is the best way to boost global cybersecurity.\n\nThe difference in the two companies’ approaches to cybersecurity mirrors much of the wider debate in the world of AI, where the technology has been advancing much more quickly than legal, regulatory and social guardrails.\n\nThat’s left some companies to advance a philosophy of innovating as quickly as possible, while others have moved more cautiously, mindful of potential social harms.\n\nUntil recently, OpenAI’s Trusted Access for Cyber program was limited to a select group of partners. But now the ChatGPT maker exclusively tells CNN it’s opening access to all vetted levels of government, from federal agencies down to state and local offices, giving those who are verified and approved access to special versions of OpenAI’s models with fewer guardrails.\n\n“We don’t, as a company, believe that we should be the sole determinants of who gets access to our tools and what is the highest priority,” Sasha Baker, OpenAI’s head of national security policy, told CNN in an interview.\n\nOpenAI is seemingly taking a very different approach to the one its rival Anthropic has taken withMythos, a modelthat sent shock wavesthrough cybersecurity circles for its ability to identify and exploit software vulnerabilities.\n\nCiting the potential for harm, Anthropic has been rolling out the model throughProject Glasswing, a tightly controlled consortium, and has said it’s working closely with federal, state, and local representatives.\n\nAnthropic says thata slower, more cautious approachis needed to slow the arms race ignited by AI in the hands of hackers.\n\nOpenAI had already made its most capable models available to certain companies and vetted independent security researchers. Now Baker says the company wants to throw the doors wide open.\n\n“We have to democratize our ability to uplift everyone who needs cyber defense and not just reserve it for the Fortune 50 or the biggest fanciest companies that can afford to pay for it,” Baker said.\n\nShe described the latest generation of AI models as a “wake-up call” for the cybersecurity community and a chance to fix vulnerabilities before these powerful tools fall into the wrong hands.\n\n“Nobody needs to be panicking,” she said. “But it is a moment where we have to move and do that in coordination and do that with some sense of efficiency and urgency.”\n\nOpenAI recently held a hands-on workshop in Washington with representatives from across the federal government, including the Pentagon, the White House, the Department of Homeland Security and the Defense Advanced Research Projects Agency, to test OpenAI’s latest model and its cybersecurity capabilities, Baker said. The company plans to return to DC in the coming weeks to gather feedback on both its tools and its policy proposals.\n\n“We’re going to take some guidance from the White House about where they want to drive this and how they want to see the AI companies show up,” Baker said.\n\nRepresentatives from OpenAI, other tech companies including Anthropic, Google, and major banks were at the White House on Thursday, CNN confirmed, to meet with the White House national cyber director to discuss AI and cybersecurity. CNN has reached out to the White House for comment. Politico firstreportedon the meeting.\n\nOpenAI is also publishing a proposed “action plan” for coordinating cybersecurity across government and private industry in what it calls the Intelligence Age. The company plans to introduce new security features for ChatGPT accounts in the coming days, along with additional tools to help everyday users improve their personal cyber hygiene.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity?Date=20260403&Profile=CNN&utm_content=1775214377&utm_medium=social&utm_source=facebook&fbclid=IwY2xjawReMsVleHRuA2FlbQIxMABicmlkETFwdDVvUHo1cHJYR3lUS1Q5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjnhoe9dHnlioDvGuLq_iZmLGza-od4I-yTcgmAqjlPRgPFMOIFMh8hfaef4_aem_nyJoZhzn2O93rX8h1srjVw",
+      "text": "Mythos"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity",
+      "text": "that sent shock waves"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity",
+      "text": "Project Glasswing"
+    },
+    {
+      "url": "https://m1astra-mythos.pages.dev/",
+      "text": "a slower, more cautious approach"
+    },
+    {
+      "url": "https://www.politico.com/news/2026/04/28/white-house-huddle-cyber-mythos-00896589",
+      "text": "reported"
+    }
+  ],
+  "hash": "3c8f783fa687f6c701be378077e65d0e24097147616661a1cf44f32a48d510dc",
+  "scraped_at": "2026-04-30T08:38:59.028194+00:00"
+}
