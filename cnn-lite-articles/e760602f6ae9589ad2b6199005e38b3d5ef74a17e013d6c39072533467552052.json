@@ -1,0 +1,21 @@
+{
+  "url": "https://lite.cnn.com/2026/04/29/us/vehicle-transponders-nyc-airports",
+  "title": "Vehicle tracking devices being installed at NYC area airports after plane collided with fire truck | CNN",
+  "date": "2026-05-01T08:30:03.216811+00:00",
+  "authors": [
+    "Alexandra Skores"
+  ],
+  "text": "Source: CNN\n\nThe Port Authority of New York and New Jersey is putting tracking devices in airport vehicles after an Air Canada Express regional jet landing at LaGuardia Airport last monthslammed into a fire truck on the runway,killing the plane’s two pilots.\n\nThirty-nine people were injured, including the two firefighters in the truck that was hit.\n\nThe transponders allow surface tracking systems to identify a vehicle and accurately plot it on a map displayed in the control tower, as well as sound an alarm if a collision is about to happen.\n\n“We will be expanding that capability across our airports, building on the technology already in place,” James Allen, chief communications officer for the Port Authority, said.\n\nIn preliminary findings published last week, the National Transportation Safety Board noted LaGuardia is equipped with an Airport Surface Detection Equipment Model X, known as ASDE-X, but it did not warn controllers before the crash due to the lack of tracking devices in the trucks.\n\n“ASDE-X provides visual and aural alerts when it detects potential runway incursions or conflicts, giving controllers the ability to intervene before an accident occurs,” the NTSB said. “The equipment did not provide a warning the night of the collision since the fire trucks did not have transponders and were only partially picked up by ground radar.”\n\nThe controller tried to stop the truck when they realized the crash was imminent, the NTSB reported, but the initial warning may have been misunderstood. The plane struck the fire truck at 104 mph.\n\nThe FAA issued updated guidance in May 2025 to encourage broader use of transponders in vehicles at airports. Since December, a pilot program at Newark Liberty International Airport, which is also operated by the Port Authority, has been testing the technology.\n\nCNN’s Aaron Cooper contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/03/24/us/laguardia-airplane-rescue-truck-collision",
+      "text": "slammed into a fire truck on the runway,"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/23/us/laguardia-ntsb-preliminary-report",
+      "text": "In preliminary findings published last week"
+    }
+  ],
+  "hash": "e760602f6ae9589ad2b6199005e38b3d5ef74a17e013d6c39072533467552052",
+  "scraped_at": "2026-05-01T08:30:03.216825+00:00"
+}
