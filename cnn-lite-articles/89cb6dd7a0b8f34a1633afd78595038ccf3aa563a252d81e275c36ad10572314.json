@@ -1,0 +1,73 @@
+{
+  "url": "https://lite.cnn.com/2026/05/02/us/chatgpt-ai-privacy-crime",
+  "title": "How ChatGPT conversations became evidence in criminal investigations | CNN",
+  "date": "2026-05-05T08:32:44.625875+00:00",
+  "authors": [
+    "Eric Levenson"
+  ],
+  "text": "Source: CNN\n\nDays before twoUniversity of South Florida graduate studentswent missing last month, a roommate of one of the students allegedly asked the AI chatbot ChatGPT an unusual question.\n\n“What happens if a human has a put (sic) in a black garbage bag and thrown in a dumpster,” Hisham Abugharbieh asked on April 13, according to an affidavit filed by Florida prosecutors.\n\nChatGPT responded it sounded dangerous, the document states, and Abugharbieh then asked another question: “How would they find out.”\n\nThose alleged entries to ChatGPT, included in court documents charging Abugharbieh with two counts of first-degree murder, are just the latest instance of investigators using AI chat histories as evidence in criminal investigations. A ChatGPT conversation was similarly used in theLos Angeles wildfires arson case, and a Snapchat AI conversation was key evidence in a2024 murder trialin Virginia.\n\nFor investigators, these chat logs can provide valuable insights into a suspect’s mindset and motive.\n\n“I think any communications with AI chatbots is like a treasure trove for law enforcement agencies,” said Ilia Kolochenko, a cybersecurity expert and attorney in Washington, DC. “(Suspects) believe their interactions with AI will remain confidential or will at least remain undisclosed or undiscovered, so they frequently ask very straightforward, very direct questions.”\n\nThe criminal cases underscore the growing use of AI chatbots for personal advice and the lack of privacy protections for those conversations. While AI chatbots have rapidly become a go-to source for legal advice, medical diagnoses and therapy, those conversations are not legally protected the way they would be with a licensed lawyer, doctor or therapist.\n\nOpenAI CEO Sam Altman has said this lack of privacy is a “huge issue.”\n\n“People talk about the most personal sh*t in their lives to ChatGPT,” Altman said last July on a podcast with the comedian Theo Von. “People use it, young people especially, like use it as a therapist, a life coach, having these relationship problems. ‘What should I do?’\n\n“And right now, if you talk to a therapist or a lawyer or a doctor about those problems, there’s like legal privilege for it. There’s doctor-patient confidentiality, there’s legal confidentiality, whatever. And we haven’t figured that out yet for when you talk to ChatGPT. So if you go talk to ChatGPT about your most sensitive stuff and then there’s like a lawsuit or whatever, we could be required to produce that.”\n\nSeveral legal experts who spoke to CNN agreed with that analysis and said there was no expectation of privacy on AI chat apps.\n\n“In my firm, we’re treating it as: Anything that somebody’s typing into ChatGPT is something that could be discoverable,” saidVirginia Hammerle, an attorney based in Texas.\n\nAs investigators closely examine what users tell ChatGPT, they have also begun looking more closely at what ChatGPT tells users.\n\nLast week, Florida’s attorney generallaunched a criminal investigationinto OpenAI, alleging ChatGPT gave “significant advice” to the Florida State University mass shooting suspect. In Canada, the families of victims in aFebruary school shooting sued OpenAI and Altmanon Wednesday, alleging the company and its ChatGPT chatbot were complicit in the attack.\n\nOpenAI laid out its “commitment to community safety” in alengthy statementTuesday. “We will continue to prioritize safety⁠ while balancing privacy and other civil liberties so we can act on serious risks,” the company said.\n\nOf course, the vast majority of people won’t be implicated in a gruesome murder case. Still, legal experts told CNN that people should be cautious of what they tell AI chatbots, given these privacy issues and its growing role in people’s lives.\n\n“It’s only going to get more relevant, more timely, (and) more contentious as people continue to look for ChatGPT and other forms for information about what they’re doing,” CNN legal analyst Joey Jackson said.\n\nThe use of AI chat conversations in criminal cases is new, but legal experts said it’s similar to how the law treats Google searches.\n\nIn general, this type of electronic evidence can reveal a person’s motive, actions and state of mind, Jackson said.\n\nFor example,Brian Walshe was found guiltylast year of the murder of his wife, Ana, after prosecutors showed the jury his macabreGoogle searches, such as “10 ways to dispose of a dead body” and “can you be charged with murder without a body.”\n\nSeparately,Karen Read’s murder trials– in which a Boston police officer was found dead in the snow – focused on the meaning and mindset of a witness who had typed the Google search “(how) long to die in cold.” Read was ultimately acquitted of the most serious charges.\n\nQueries to AI platforms revealing a suspect’s mindset have similarly come into play in several significant cases.\n\nLast October, federal prosecutors chargedJonathan Rinderknecht with arsonfor allegedly starting a fire that later developed into the destructive Palisades Fire in California. Part of the evidence included his requests to ChatGPT. He asked the app to produce an image of people running from a fire, and he said that he once burned a Bible and “felt so liberated,” according to an affidavit in support of a criminal complaint.\n\nAfter he called 911 to report the fire, he asked ChatGPT, “Are you at fault if a fire is lift [sic] because of your cigarettes,” according to the affidavit. However, prosecutors allege he started the fire “maliciously,” likely with a lighter, and say his question to ChatGPT was an attempt to create a more “innocent explanation” for the cause of the fire.\n\nRinderknecht has pleaded not guilty to the charges. His attorney, Steve Haney, told CNN his client was not responsible for the Palisades Fire and said he has filed motions to exclude some of the ChatGPT evidence.\n\n“It is our position that ChatGPT logs are neither a confession nor a crime scene,” he said in an email. “The government is asking a jury to read a man’s mind through a search bar, and neither science nor the law has ever permitted that kind of leap.”\n\nIn the case of theUSF killings this month, the suspect’s questions to ChatGPT were noted in a criminal affidavit.\n\nIn addition to the question about putting a human in a garbage bag, Abugharbieh asked ChatGPT whether he could legally keep a gun at home without a license and whether a car’s Vehicle Identification Number could be changed, the affidavit states.\n\nIn the days after the disappearances of Zamil Limon and Nahida Bristy, the alleged searches continued. On April 19, Abugharbieh asked ChatGPT, “Has there been someone who survived a sniper bullet to the head,” “Will my neighbors hear my gun” and “Is there a water temperature that burns immediately,” the affidavit states. On April 23, he searched, “What does missing endangered adult mean,” according to the filing.\n\nLimon’s body was found in a garbage bag,officials said. Another set of human remains were found in a second garbage bag, but they have not yet been confirmed to be Bristy’s, officials said.\n\nAbugharbieh has been charged with two counts of first-degree premeditated murder. He has not entered a plea on the charges and wasordered held without bond. The Hillsborough County Public Defender’s Office was appointed to the case but declined to share details, citing Abugharbieh’s right to a fair trial.\n\nSo should AI conversations have greater privacy protections?\n\nIn his conversation with Von, Altman pushed for privacy protections for AI conversations, saying he was “very afraid” the government would use chat logs to surveil people.\n\n“I think we really have to defend rights to privacy,” he said. “I don’t think those are absolute. I’m like totally willing to compromise some privacy for collective safety, but history is that the government takes that way too far, and I’m really nervous about that.”\n\nOther tech figures have made similar arguments. Nils Gilman, a historian and senior adviser for the Berggruen Institute think tank, advocated in aNew York Times op-edlast year for laws creating a legal privilege for AI.\n\nSpeaking to CNN, he argued that policymakers created legal privileges for doctors, lawyers and therapists because the social benefit of having honest conversations outweighs the state’s interest in accessing that information.\n\n“Insofar as people are using (large language models) the same way, they should be afforded the same kinds of privileges,” Gilman said.\n\nIn the eyes of the law, though, AI chatbots don’t have any such expertise or protections. Conversations with AI are equivalent to any other electronic data, such as a credit card swipe or phone call logs, legal experts said.\n\n“You’re inputting data into an actual application, and as a result of that, you don’t have any particular protections associated with that data,” Jackson, the CNN legal analyst,said. “It would be like me making a phone call and then arguing you can’t use the phone call against me.”\n\nThere may be some protections in specific situations. For example, if your attorney puts your private case file into a chatbot’s database, would that be discoverable evidence? What if you are representing yourself in court and ask ChatGPT for help drafting a document?\n\n“The law is still trying to catch up with the real world right now,” Hammerle said.\n\nBut as the law stands now, those AI conversations can find their way from a computer into the courtroom.\n\n“ChatGPT is not your friend, is not your lawyer, is not your doctor, is not your spouse,” Gilman said. “Stop talking to them as if they are.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/28/us/university-south-florida-student-investigation-timeline-hnk",
+      "text": "University of South Florida graduate students"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/11/us/palisades-fire-suspect-jonathan-rinderknecht",
+      "text": "Los Angeles wildfires arson case"
+    },
+    {
+      "url": "https://richmond.com/news/state-regional/crime-courts/article_9c0168de-714f-5b42-9709-55ddefad528d.html?mode=nowapp",
+      "text": "2024 murder trial"
+    },
+    {
+      "url": "https://legaltalktexas.hammerle.com/litigation/chatgpt-cant-keep-a-secret-why-your-ai-conversations-arent-private/",
+      "text": "Virginia Hammerle"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/21/tech/florida-criminal-investigation-chatgpt-openai-fsu-shooting",
+      "text": "launched a criminal investigation"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/29/tech/openai-tumbler-ridge-canada-shooting-lawsuits",
+      "text": "February school shooting sued OpenAI and Altman"
+    },
+    {
+      "url": "https://openai.com/index/our-commitment-to-community-safety/",
+      "text": "lengthy statement"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/15/us/brian-walshe-guilty-verdict",
+      "text": "Brian Walshe was found guilty"
+    },
+    {
+      "url": "https://www.cnn.com/2023/01/18/us/brian-walshe-ana-walshe-google-searches",
+      "text": "Google searches"
+    },
+    {
+      "url": "https://www.cnn.com/2025/04/30/us/karen-read-trial-jennifer-mccabe-testimony",
+      "text": "Karen Read’s murder trials"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/11/us/palisades-fire-suspect-jonathan-rinderknecht",
+      "text": "Jonathan Rinderknecht with arson"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/28/us/university-south-florida-student-investigation-timeline-hnk",
+      "text": "USF killings this month"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/28/us/university-south-florida-student-investigation-timeline-hnk",
+      "text": "officials said"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/28/us/university-south-florida-student-investigation-timeline-hnk",
+      "text": "ordered held without bond"
+    },
+    {
+      "url": "https://www.nytimes.com/2025/11/10/opinion/chatbot-conversations-legal-protection.html",
+      "text": "New York Times op-ed"
+    }
+  ],
+  "hash": "89cb6dd7a0b8f34a1633afd78595038ccf3aa563a252d81e275c36ad10572314",
+  "scraped_at": "2026-05-05T08:32:44.625889+00:00"
+}
