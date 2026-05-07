@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/05/05/tech/ai-youth-safety-independent-testing-lab",
+  "title": "Child safety lab launching ‘independent crash testing’ for AI tools | CNN Business",
+  "date": "2026-05-07T09:10:50.211106+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nSince independent vehicle crash testing began in the mid-1990s, automakers have been incentivized to make safety changes that have saved thousands of lives each year.\n\nNow, a new group is hoping to take a similar approach to artificial intelligence.\n\nNonprofit media watchdog Common Sense Media is launching theYouth AI Safety Institute, an industry-backed, independent research and testing lab to study the risks AI tools may pose to children and teens. It will aim to provide information to parents and families about various AI tools and set safety benchmarks for tech firms.\n\nAI companies are locked in a race to build the most powerful, widely used models, and that sometimes means speed is prioritized over safety testing. Because AI tools are complex systems with a range of different uses, ranking their safety will likely be far trickier than judging how a car responds in a crash.\n\nBut Common Sense Media and the board of top AI, education and health leaders it recruited to oversee the Youth AI Safety Institute believe that solely relying on AI firms to self-police on safety isn’t enough to protect young people. Existing third-party AI safety organizations largely focus on societal-level and existential risks, such as job loss or even human extinction, rather than consumer-friendly safety ratings aimed at everyday use.\n\nThe goal is for the public spotlight and third-party standards to spark what Common Sense Media CEO James Steyer called a “race to the top” for tech firms to make safety fixes to improve their standing.\n\nLeading AI firms invest in safety research to “make their models as good as they possibly can, but there’s no independent measure of that,” John Giannandrea, Apple’s former AI strategy chief who joined the institute’s advisory board, told CNN. “We don’t really know which models are more appropriate for kids at a certain age than others, and I think the only real way to do that is to have an independent set of public standards.”\n\nThe launch comes as multiple families havesuedAI companies alleging that chatbots encouraged their children’s suicides. Arecent CNN investigation foundthat AI chatbots advised teen test accounts on how to commit violence. Grok, xAI’s chatbot,came under fireearlier this year for sharing sexualized images of women and children in response to users’ “digital undressing” prompts. And growing AI adoption in classrooms has raised questions about whether the technology couldstunt learning.\n\n“I think many parents and educators and citizens feel we’re at a catastrophic moment as AI is reshaping the lives of children and families and schools and, quite frankly, all of society,” Steyer told CNN exclusively ahead of announcing the group on Tuesday.\n\nThe Institute will start with a $20 million annual budget, backed by the OpenAI Foundation, Anthropic and Pinterest, as well as the Walton Family Foundation, Goldman Sachs Managing Director Gene Sykes and other philanthropists. Funders will have no say in the group’s operation or research, according to Common Sense.\n\nThe group’s advisory board will also include Mehran Sahami, chair of Stanford University School of Engineering’s computer science department; Dr. Jenny Radesky, director of University of Michigan Medical School’s developmental behavioral pediatrics division; and Dr. Nadine Burke Harris, who served as California’s first-ever surgeon general — bringing together expertise in research, standards setting and tech product development.\n\nThe institute will “red team” leading AI models and products used by young people — stress testing them to identify potential risks or shortcomings in safety guardrails. It will then publish research as consumer-friendly guides for the public and develop AI youth safety standards, or benchmarks, that tech companies could use to develop or improve their products. It plans to release research starting this month.\n\nAI companies already use such benchmarks to measure and compare their performance across other metrics. The group hopes the public pressure, as well as its industry connections, will encourage AI companies to incorporate the standards into their development and testing — and make safety changes to improve their standings.\n\n“Benchmarks are really the lifeblood of how people measure and how we know all this investment is resulting in higher quality models,” Giannandrea said. “What we need is a benchmark for harm, and specifically for child harm.”\n\nAmong the challenges for researchers is the pace of AI development. Unlike physical products that are released on a regular cadence and may not change much once they hit the market, AI models often gain new update capabilities — and thus potentially new risks — on a weekly or monthly basis.\n\nEstablishing the Youth AI Safety Institute as a separate group will enable even more frequent, robust research to keep up with the rapid advancement of AI models, Steyer said.\n\nCommon Sense Media is widely used by parents and educators for its ratings of movies, video games and other online platforms; the organization says its platforms have 150 million monthly users. And it has already been studying AI-related risks. Last year,it warnedthat AI companion apps pose “unacceptable risks” to young people.\n\nIt has also publishedrisk assessmentsof AI tools such as OpenAI’s ChatGPT, MetaAI and Grok. Those reports rank the tools on a scale from “minimal risk” to “unacceptable” on measures including kids’ safety, data use and trustworthiness, and provide examples of where the tools fall short.\n\nThe Youth AI Safety Institute wants to avoid a repeat of the social media era’s safety pitfalls. It took years before whistleblowers, investigative reports and lawsuits revealed the full scope of the risks social apps pose to young people. Earlier this year, a California juryfound Meta and YouTube liablefor knowingly addicting and harming a young woman in a landmark decision, decades after the platforms launched.\n\nSocial media firms have implemented a range of new safety features and parental controls in recent years — a sign that public pressure can prompt changes within tech companies, even if manyfamilies and experts believethose changes don’t go far enough.\n\n“The design of social media and other technologies really impacts what potential harms might occur to kids,” said Radesky, who has studied the intersection of technology and youth wellbeing.\n\nThe group is “trying to act faster so that the designs of AI can be shaped more around what kids need,” she said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.commonsense.org/institute",
+      "text": "Youth AI Safety Institute"
+    },
+    {
+      "url": "https://www.cnn.com/2025/08/26/tech/openai-chatgpt-teen-suicide-lawsuit",
+      "text": "sued"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs",
+      "text": "recent CNN investigation found"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/08/tech/elon-musk-xai-digital-undressing",
+      "text": "came under fire"
+    },
+    {
+      "url": "https://www.cnn.com/2025/07/16/health/teens-ai-companion-wellness",
+      "text": "stunt learning"
+    },
+    {
+      "url": "https://www.cnn.com/2025/04/30/tech/ai-companion-chatbots-unsafe-for-kids-report",
+      "text": "it warned"
+    },
+    {
+      "url": "https://www.commonsensemedia.org/ai-ratings/ai-risk-assessments",
+      "text": "risk assessments"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/25/tech/social-media-addiction-trial-jury-decision",
+      "text": "found Meta and YouTube liable"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/20/tech/parents-fight-online-youth-safety-laws",
+      "text": "families and experts believe"
+    }
+  ],
+  "hash": "90b6e2736ffd33aa0b15b8621e46c5e4bc4b8bcdb63422de83983d11937f5751",
+  "scraped_at": "2026-05-07T09:10:50.211118+00:00"
+}
