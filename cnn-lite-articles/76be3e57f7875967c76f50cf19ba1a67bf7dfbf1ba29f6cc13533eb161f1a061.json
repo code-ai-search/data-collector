@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
+  "title": "Microsoft, Google and xAI will let the government test their AI models before launch | CNN Business",
+  "date": "2026-05-08T08:05:13.537356+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nGoogle, Microsoft and xAI will share unreleased versions of their AI models with the government to curb cybersecurity threats, the National Institute of Standards and Technology announced on Tuesday.\n\nThe partnership comes afterAnthropic’s powerful new Mythos AI modelpushed concerns about AI’s impact on cybersecurity to a tipping point last month, helping prompt the White House to weigh a formal review process for AI.\n\nThe new agreements allow the Center for AI Standards and Innovation, within the US Department of Commerce, to evaluate new AI models and their potential impact on national security and public safety ahead of their launch. The center will also conduct research and testing after AI models are deployed and has already completed more than 40 AI model evaluations.\n\n“Independent, rigorous measurement science is essential to understanding frontier AI and its national security implications,” CAISI Director Chris Fall said in statement. “These expanded industry collaborations help us scale our work in the public interest at a critical moment.”\n\nMythos, which Anthropic said is “far ahead” of other models in terms of cybersecurity, sparked a wave of concerns among governments, banks and utility companies over the past month. The company said it doesn’t feel comfortable releasing the model publicly yet and is restricting access to a select group of approved organizations. It has also briefed senior US government officials on its capabilities.\n\nOpenAI alsosaid last weekthat it’s making its most advanced AI models available to all vetted levels of the government with the aim of getting ahead of AI-enabled threats.\n\nThe partnerships could make it easier for CAISI to test AI by providing more resources, said Jessica Ji, senior research analyst at Georgetown’s Center for Security and Emerging Technology.\n\n“They simply don’t have the same amount of resources (as big tech companies), either like manpower, technical staff and also access to compute, to cull these models, to do rigorous testing,” she said.\n\nThe White House is currently looking to consult with a group of experts to advise on a possible government review process for new AI models, CNN has confirmed. Doing so would represent a departure from the Trump administration’s light-touch approach to AI regulation thus far.\n\nTheNew York Timesfirst reported the working group on Monday.\n\n“Any policy announcement will come directly from the President. Discussion about potential executive orders is speculation,” a White House spokesperson told CNN.\n\nWhile Microsoft regularly tests its own models, CAISI offers additional “technical, scientific and national security expertise,” Microsoft Chief Responsible AI Officer Natasha Crampton said in astatement\n\nGoogle declined to comment further on the agreement. xAI did not respond to requests for comment.\n\nCNN’s Lisa Eadicicco contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity",
+      "text": "Anthropic’s powerful new Mythos AI model"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity",
+      "text": "said last week"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+      "text": "New York Times"
+    },
+    {
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/05/05/advancing-ai-evaluation-with-the-center-for-ai-standards-us-and-innovation-and-the-ai-security-institute-uk/",
+      "text": "statement"
+    }
+  ],
+  "hash": "76be3e57f7875967c76f50cf19ba1a67bf7dfbf1ba29f6cc13533eb161f1a061",
+  "scraped_at": "2026-05-08T08:05:13.537369+00:00"
+}
