@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/05/10/americas/us-spy-flights-cuba-latam-intl",
+  "title": "US intelligence-gathering flights are surging off Cuba | CNN",
+  "date": "2026-05-11T10:03:11.681851+00:00",
+  "authors": [
+    "Analysis by Avery Schmitz"
+  ],
+  "text": "Source: CNN\n\nUS military intelligence-gathering flights are surging off the coast of Cuba, a CNN analysis of publicly available aviation data shows.\n\nSince February 4, the US Navy and Air Force have conducted at least 25 such flights using manned aircraft and drones, most of them near the country’s two biggest cities, Havana and Santiago de Cuba, and some coming within 40 miles of the coast, according to FlightRadar24.\n\nMost of the flights were by P-8A Poseidon maritime patrol aircraft, which are designed for surveillance and reconnaissance, while some were by an RC-135V Rivet Joint, which specializes in signals intelligence gathering. Several MQ-4C Triton high-altitude reconnaissance drones have also been used.\n\nThe flights are notable not only for their proximity to the coast, which puts them well within range of gathering intelligence, but for the suddenness of their appearance – prior to February, such publicly visible flights were exceedingly rare in this area – and for their timing.\n\nTrump’s public utterances against Cuba hardened noticeably in the weeks just before the surge, with the US president reposting on Truth Social a comment by Fox News contributor Marc Thiessen that Trump would visit a “free Havana” before leaving office. Just a few days after that post, Trump ordered an oil blockade of the island.\n\nFast forward to today and Trump is imposing anexpanded sanctions regimeon Cuba and insisting it represents a “threat” to US national security. (Cuban officials meanwhile have dismissed the suggestion their communist-run government poses any danger to the US. They insist they are open to negotiations, though have also vowed to conduct an extended guerrilla war against US forces if attacked.)\n\nThe Pentagon declined to comment on these findings; CNN has also reached out to the Cuban government.\n\nSimilar patterns, in which ramped-up rhetoric by the Trump administration coincided with an uptick in publicly visible surveillance flights, occurred in the lead-up to US military operations in both Venezuela and Iran.\n\nIn the case of Venezuela, Trump announced on September 2 thefirst US strikeon an alleged drug vessel in the Caribbean, specifically alleging a connection to Venezuela’s then-President Nicolás Maduro, whom he accused of “mass murder, drug trafficking, sex trafficking, and acts of violence and terror.”\n\nPublicly visible surveillance flights began a week later off the coast of Venezuela, persisting – with a gap in October and November – into the days before US special forcescaptured Maduroin his compound in Caracas.\n\nA similar trend unfolded in Iran, where a far more extensive collection of intelligence-gathering aircraft and unmanned drones overtly surveilled Iran’s southern coastline ahead of joint US and Israeli strikes. The P-8A Poseidon, RC-135V Rivet Joint and MQ-4C Triton, which in recent weeks have all been spotted near Cuba, are among the planes active in the Iran conflict.\n\nSince early 2025, dozens of these same US surveillance aircraft have been active around the warzone in Ukraine and near geopolitical hotspots on the Korean Peninsula and along Russia’s western border. Bulk data aggregated byadsb.exposedshows flights in these and other regions operating consistently over many months.\n\nHowever, the uptick in flights observed off the Cuban coast is new and deviates from where these aircraft have historically been deployed.\n\nAll the flights described above were tracked using publicly available open-source flight tracking dashboards like Flightradar24 or ADS-B Exchange.\n\nAnd in some cases, these flights have been shared widely across social media, whether on X, Discord, or other platforms.\n\nThat is despite the aircraft involved being capable – should they so choose – of masking their presence by turning off their location beacons, which raises the question of whether the US is deliberately signaling the presence of these aircraft to its adversaries.\n\nWhether or not the signaling is explicitly intended by the US military or administration, the message is likely to be unsettling, to say the least, for Cuban officials.\n\nCNN’s Natasha Bertrand and Patrick Oppmann contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://cnnespanol.cnn.com/2026/05/01/eeuu/trump-amplia-sanciones-cuba-orix",
+      "text": "expanded sanctions regime"
+    },
+    {
+      "url": "https://www.cnn.com/2025/11/02/politics/timeline-us-strikes-caribbean-pacific-vis",
+      "text": "first US strike"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/23/americas/venezuela-maduro-fort-tiuna-compound-operation-reconstruction-intl-invs",
+      "text": "captured Maduro"
+    },
+    {
+      "url": "https://adsb.exposed/",
+      "text": "adsb.exposed"
+    }
+  ],
+  "hash": "388efd132b34f219d80cccf006e78e58b8288c5e3d7d314234046778db2ba33b",
+  "scraped_at": "2026-05-11T10:03:11.681863+00:00"
+}
