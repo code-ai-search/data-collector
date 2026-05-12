@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/05/11/tech/fsu-shooter-victim-lawsuit-openai-chatgpt",
+  "title": "ChatGPT encouraged FSU shooter, victim’s family alleges in new lawsuit | CNN Business",
+  "date": "2026-05-12T09:16:20.616572+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe family of a victim of last year’s Florida State University mass shooting filed a lawsuit Sunday against OpenAI, alleging ChatGPT “inflamed and encouraged” accused shooter Phoenix Ikner’s “delusions” ahead of the attack.\n\nThelawsuit filed in Tallahasseefollows the firstcriminal investigationagainst OpenAI opened by Florida Attorney General James Uthmeier last month over whether the company “bears criminal responsibility” for the shooting.\n\nThe family of Tiru Chabba, one of the two people police say Ikner killed in April 2025, alleges Ikner messaged ChatGPT thousands of times before carrying out the shooting.\n\nThe chatbot helped him plan the logistics of the shooting, including how to operate weapons and advising on “what time would be best to encounter the most traffic on campus,” the complaint said. ChatGPT identified guns and ammunition based on photos Ikner had uploaded and allegedly told him the Glock handgun he obtained was “meant to be fired ‘quick to use under stress,’” according to the lawsuit. The chatbot also allegedly suggested he keep his finger off the trigger until he was ready to shoot.\n\nChatGPT “provided what he viewed as encouragement in his delusion,” the lawsuit says.\n\nSix other people were wounded in the shooting. Ikner has pleaded not guilty, and his trial is set to begin in October.\n\nThe family alleges wrongful death, gross negligence, products liability, and failure to warn, among other counts.\n\n“OpenAI built a system that stayed in the conversation, perpetuated it, accepted Ikner’s framing, elaborated on it, and asked tangential follow-up questions to keep Ikner engaged,” the lawsuit states. “ChatGPT’s design created an obvious and foreseeable risk of harm to the public that was not adequately controlled.”\n\nChabba’s family is seeking undefined compensation and is pushing for OpenAI to add more safeguards to ChatGPT.  Amy Willbanks, an attorney for the family, said the company should mitigate and eliminate dangers posed by ChatGPT before they become accessible to the public.\n\n“We cannot have a product that is unregulated and being used by people when we don’t know the full extent of what it can lead to,” Willbanks said during a press conference on Monday.\n\nOpenAI said that while the FSU shooting was a “tragedy,” ChatGPT is “not responsible.”\n\n“In this case, ChatGPT provided factual responses to questions with information that could be found broadly across public sources on the internet, and it did not encourage or promote illegal or harmful activity,” said OpenAI spokesperson Drew Pusateri. “We work continuously to strengthen our safeguards to detect harmful intent, limit misuse, and respond appropriately when safety risks arise.”\n\nIn a blog post last month, OpenAI said it is working to train ChatGPT to recognize when conversations could result in “threats, potential harm to others, or real-world planning” and will “guide people to real-world support.” If an account is flagged by ChatGPT’s internal system, a human reviewer will check the activity to see whether authorities need to be notified, the company said.\n\nOpenAI is facing at least 10 lawsuits from families who allege that people harmed themselves or others after chatting with ChatGPT.\n\nSeven families of victims in a February school shooting in Canada sued OpenAI and CEO Sam Altman last month, alleging the company and its ChatGPT chatbot were complicit in the injuries or deaths of their children.\n\nThe lawsuits followan apology from Altmanin April to the Tumbler Ridge community in British Columbia, Canada, for not alerting authorities to the shooter’s conversations with ChatGPT, even after staff flagged the account internally.\n\nEight people, including six children were killed, before the shooter died by suicide.\n\nThis story has been updated with additional information.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.documentcloud.org/documents/28110498-openai-lawsuit/",
+      "text": "lawsuit filed in Tallahassee"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/21/tech/florida-criminal-investigation-chatgpt-openai-fsu-shooting",
+      "text": "criminal investigation"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/24/world/sam-altman-openai-apologize-tumbler-ridge",
+      "text": "an apology from Altman"
+    }
+  ],
+  "hash": "4a12fd3fa2e832665ddea9846bb7043d66be8e4a9c2684b5029ec18837d28394",
+  "scraped_at": "2026-05-12T09:16:20.616588+00:00"
+}

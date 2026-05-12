@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/05/10/tech/ai-taking-jobs",
+  "title": "AI isn’t actually ‘taking’ your job. Here’s what’s happening instead | CNN Business",
+  "date": "2026-05-12T09:17:28.278973+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nAI probably won’t take your job anytime soon. At least not all of it.\n\nConcerns about artificial intelligence replacing human workers have simmered over the past year as companies slash headcounts, AI models grow more capable of office work and businesses integrate AI more deeply into their operations. AI was the top reason companies cited for job cuts in April for the second month in a row, the executive outplacement firmChallenger, Gray & Christmas said Thursday.\n\n“The anxiety around AI at work is real—from fears of job loss to the pressure to keep up with rapidly evolving technology,” Microsoftwrotein a report about how AI is changing jobs released last week.\n\nBut the reality of AI in the workplace isn’t so black-and-white, experts say. Companies are using AI to automate certainpartsof jobs rather than replace entire positions.\n\nBusiness leaders are figuring out what AI can and can’t do, recalibrating existing jobs around responsibilities that can only be done by a human. And thousands of jobs have been cut in the process, with web infrastructure companyCloudflareand cryptocurrency firm Coinbase among the latest to announce staff cuts.\n\n“It’s very few jobs that are actually entirely automated away by the current AI and robotics technology that’s out there,” said Alexis Krivkovich, a senior partner at McKinsey & Company who helps lead the company’s People and Organizational Performance Practice.\n\nAI is technically capable of automating 57% of work-related activities, Krivkovich said, citing McKinsey research. But that percentage is spread across “pieces and parts” of various jobs and responsibilities across an organization.\n\nNitin Seth, the cofounder of digital services and consulting firm Incedo, claims his company helps clients boost productivity using AI by at least 20% to 25% without reducing staff at the same scale. That’s because AI only handles certain parts of different roles.\n\n“You can’t take one quarter of Lisa, one quarter of Jessica, one quarter of Nitin and one quarter of somebody else and make it one person,” Seth said.\n\nThe fear that AI will take jobs has disrupted the tech industry the most. Software engineers have increasingly embraced the tech to help write code, with 90% of tech workers using AI in their jobs, according to a Septembersurveyfrom Google’s research arm. Stack Overflow, a popular question-and-answer forum for developers,found that84% of respondents either use AI tools in the software development process or plan to.\n\nBut a software engineer’s job involves much more than just coding: It entails reviewing the code, designing systems, troubleshooting problems and deciding what to build. Companies may adjust job titles to reflect that, says Boris Cherny, head of Claude Code at Anthropic.\n\n“I think by the end of the year, we’re going to start to see the idea of software engineering go away,” he told CNN in March. He thinks the term “builder” might be a more fitting title as the job expands, and writing lines of code becomes a smaller part of it.\n\nSujata Sridharan, who most recently worked at the fintech firm Bolt and has spent roughly a decade as a software engineer, is one of the many engineers living through that transition.\n\nAlthough she uses AI, her work still requires problem solving and critical thinking, she told CNN over email. The difference is that the execution now involves a mix of writing code and prompting AI.\n\n“With AI being used more and more, the skills that are actually required on the job have shifted to, are you able to recognize what is the right code quality? Are you able to problem solve?” she said.\n\nThat’s not to say AI isn’t contributing to job losses; it just likely isn’t taking over full roles. AI has been cited in more than 49,000 job cuts so far this year, the report from Challenger, Gray & Christmas said.\n\nBlock, the financial tech company behind Square and Cash App,laid off 40% of its staffthis year because AI has allowed it to do more with smaller teams. Coinbase isreducing its staff by about 14%in part because AI is enabling engineers to “ship in days what used to take a team weeks,” its CEO said Tuesday.\n\nAnd Cloudflare said the way the company operates has completely changed, adding that its AI use has increased by more than 600% in the last three months alone.\n\nIt’s possible there will be “some job disruption on the horizon,” according to Dan Priest, PwC’s US chief AI officer. Still, he said he isn’t seeing mass layoffs at most companies and whole categories of jobs aren’t currently at risk.\n\nMost companies haven’t yet adjusted its employee metrics and incentives to fit with how AI is changing work, Microsoft said in its report, which surveyed 20,000 workers using AI across 10 countries.\n\nInstead, many are simply grappling with which skills are needed from human workers.\n\nAnd the tech landscape may keep changing as AI models evolve and potentially take on more office tasks. For example, Anthropic on Tuesday announced new AI agents built for financial work, like building pitchbooks and crafting credit memos.\n\n“It starts at the bottom, and it keeps going up,” said Umesh Ramakrishnan, cofounder and chief strategy officer at executive search firm Kingsley Gate. “And I don’t know where it stops.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.challengergray.com/blog/challenger-report-april-job-cuts-rise-38-from-march-ytd-cuts-down-50/",
+      "text": "Challenger, Gray & Christmas said Thursday"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
+      "text": "wrote"
+    },
+    {
+      "url": "https://blog.cloudflare.com/building-for-the-future/",
+      "text": "Cloudflare"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/23/tech/google-study-90-percent-tech-jobs-ai",
+      "text": "survey"
+    },
+    {
+      "url": "https://survey.stackoverflow.co/2025/ai#1-ai-tools-in-the-development-process",
+      "text": "found that"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey",
+      "text": "laid off 40% of its staff"
+    },
+    {
+      "url": "https://x.com/brian_armstrong/status/2051616759145185723",
+      "text": "reducing its staff by about 14%"
+    }
+  ],
+  "hash": "a08cd532602bc8bf4449aa3f8a022c5b9a636dbfb6a0f84c8e14c024720a5a75",
+  "scraped_at": "2026-05-12T09:17:28.278990+00:00"
+}
