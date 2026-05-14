@@ -1,0 +1,38 @@
+{
+  "url": "https://lite.cnn.com/2026/05/12/us/canvas-hack-data-returned",
+  "title": "Data stolen in Canvas hack that hit thousands of schools has been returned, company says | CNN",
+  "date": "2026-05-14T09:14:35.764932+00:00",
+  "authors": [
+    "Rebekah Riess",
+    "Ramishah Maruf"
+  ],
+  "text": "Source: CNN\n\nData stolen in a cyberattack that shut down an education platform used by universities and K-12 schools across the US last week has been returned to the platform’s parent company, Instructure, according to an updatethe companyposted Monday.\n\nCanvas, a popular, cloud-based digital hub for classrooms, has more than 30 million active users globally, with more than 8,000 institutions as customers, according to Instructure.\n\nA ransom note signed by a hacking groupappeared on the homepage of Canvas sites for large public school systems and top universities like Columbia, Princeton, Harvard and Georgetown last Thursday.\n\nThe hacking group ShinyHunters claimed to have “breached” the platform’s parent company, according to a screenshot obtained by CNN. The group said impacted schools had until May 12 “to negotiate a settlement.”\n\nShinyHunters previously claimed it had breached 275 million individuals’ data and had access to “several billions of private messages,” according to a ransom note shared byRansomware.liveon May 3, which tracks ransomware attacks and groups.\n\nData accessed by the hacking group included information like usernames, email addresses, course names, enrollment information and messages, according to Instructure. Course content, submissions and credentials were not compromised, the company said.\n\nInstructure said it received digital confirmation of the data’s destruction, called “shred logs,” from the hacking group, the company said. “We have been informed that no Instructure customers will be extorted as a result of this incident, publicly or otherwise,” theupdatesaid.\n\nThe agreement between the hackers and Instructure covers all impacted customers, the company said. “There is no need for individual customers to attempt to engage with the unauthorized actor,” the company said.\n\n“While there is never complete certainty when dealing with cyber criminals, we believe it was important to take every step within our control to give customers additional peace of mind, to the extent possible,” the update said.\n\nInstructure said it is organizing a webinar with company leadership to detail information about the attack and its efforts to harden the system. The company said it expects the webinar to take place on May 13 across multiple time zones.\n\nThe FBI mobilized resources in multiple states to assist victims of the hack, a source familiar with the matter told CNN.\n\nCanvas was “fully back online and available for use” Friday morning, Instructure said. Universities and school districts throughout the country reported their Canvas pages were back up and running, though some schools had already extended deadlines and changed finals schedules because of the hack.\n\n“Many of you dealt with real disruption. Stress on your teams. Missed moments in the classroom. Questions you couldn’t get answered. You deserved more consistent communication from us, and we didn’t deliver it. I’m sorry for that,” Instructure CEO Steve Daly wrote ina message to customers.\n\nCNN’s Hanna Park and Emma Tucker contributed to this story.\n\nCNN’s Hanna Park and Emma Tucker contributed to this story.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.instructure.com/incident_update",
+      "text": "the company"
+    },
+    {
+      "url": "https://www.instructure.com/lms-learning-management-system",
+      "text": "Canvas"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/07/us/canvas-hack-strands-college-students-finals-week",
+      "text": "A ransom note signed by a hacking group"
+    },
+    {
+      "url": "https://www.ransomware.live/id/SW5zdHJ1Y3R1cmUgSG9sZGluZ3MsIEluYy4gKENhbnZhIExNUywgaW5zdHJ1Y3R1cmUuY29tKUBzaGlueWh1bnRlcnM",
+      "text": "Ransomware.live"
+    },
+    {
+      "url": "https://www.instructure.com/incident_update",
+      "text": "update"
+    },
+    {
+      "url": "https://www.instructure.com/incident_update",
+      "text": "a message to customers"
+    }
+  ],
+  "hash": "84f1a282d56479fd8d26d214a6083d01310ba3f838a602c82de447d76c108883",
+  "scraped_at": "2026-05-14T09:14:35.764950+00:00"
+}
