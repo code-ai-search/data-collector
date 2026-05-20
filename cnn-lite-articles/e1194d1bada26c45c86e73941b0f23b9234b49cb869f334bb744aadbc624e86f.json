@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/05/19/tech/google-search-bar-updates-2026",
+  "title": "Google search updates: Company is making its biggest change to the search bar in years | CNN Business",
+  "date": "2026-05-20T09:57:48.628585+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nTo get ahead in the new internet age, Google wants to help you google less.\n\nThe company on Tuesday revealed a flurry of AI-powered features for its search engine, AI assistant Gemini and other services. It’s part of Google’s latest effort to revamp its decades-old business model to fit the era of artificial intelligence.\n\nAmong those updates is a new version of the search bar that can crawl the web on a user’s behalf and a new mode in Gemini that can work autonomously over periods of time.\n\nThe changes bring Google’s search engine closer to the likes of its biggest competitors today: Anthropic and OpenAI, whose sophisticated AI models have taken over some of the duties of search tools and web browsers.\n\nGoogle for years has been moving away from delivering a list of blue links in response to search queries. But the refreshed search engine, which runs on the company’s new Gemini 3.5 Flash model, represents what may be its biggest shift yet toward AI and away from traditional search.\n\nThe new search field expands to accommodate longer queries that are more conversational, aligning with the way one might type or talk into Gemini or ChatGPT.\n\nUsers will be able to create “agents” in Google’s search engine that can track or research topics on their own. Google says it’s useful for tasks that require tracking and monitoring announcements and listings over time, like apartment hunting or new apparel releases. One can, for example, enter a query like “Keep me updated when any of my favorite athletes announce sneaker collabs or signature drops” to prompt Google to monitor announcements from notable athletes and brands, the company cited as an example in a press release.\n\nGoogle will also now generate custom visuals and mini apps in response to certain requests, such as creating a fitness tracker that incorporates a person’s location, weather data and apps connected to their Google account.\n\nSince it launched the AI-powered Gemini, Google has struggled to differentiate the assistant from its main search engine. Spark, a new mode within Gemini that can work on tasks in the background, is its latest attempt to change that. Spark will be able to work on recurring long-term tasks like monitoring credit card statements and email inboxes for important updates and creating summaries or to-do lists.\n\nIt can also reference content across certain apps, like compiling notes from Google Docs, Gmail and Slides, and the company says more third-party apps will be supported in the future.\n\nThe company is also adding Spark to the Gemini app on Mac computers so that it can work with local files, and users will be able to monitor what their agent from their phones through a new feature called Android Halo. The agent will stay active even when the person’s laptop is closed or their phone is locked, Google says.\n\nThe focus on autonomous features seems like a direct response toOpenClaw, the buzzy AI agent that made waves in Silicon Valley earlier this year for its ability to run programs and commands without constant prompting from the user.\n\nGoogle has been pursuing AI agents for years, although use cases have mostly focused on specific tasks like shopping or email management and haven’t taken off with consumers broadly. That’s largely because the technology simply hasn’t been reliable enough.\n\n“I think there’s this uncanny valley where the models aren’t yet good enough, so you can’t trust them fully, and so you aren’t really sure what you can and cannot do,” Tulsee Doshi, senior director of product management at Google DeepMind, told CNN.\n\nGoogle hopes the updates will bring it closer to its big-picture goal of developingartificial general intelligence: a theoretical stage of AI in which the technology becomes as intelligent as a human at broad range of subjects. OpenAI, Meta and others are racing to be the first to get there.\n\nBut AI will have to get better at updating its own intelligence before AGI is possible, said Koray Kavukcuoglu, chief technology officer at Google’s DeepMind AI lab and the company’s chief AI architect.\n\n“Right now, our models (have) some sort of capability in doing that, but you can imagine that they’re a little bit static in time,” he told CNN ahead of Google’s conference to announce the updates.\n\nDeepMind is at the center of the company’s AI strategy and has become one of its biggest assets in the AI race. It’s Google’s “secret weapon in the AI wars” according to Dave McCarthy, an analyst covering cloud and infrastructure services for market research firm The International Data Corporation. Most tech companies don’t have massive consumer reach and direct access to a research lab and cloud systems.\n\n“Google is the only company that I can think of that actually has a play in every one of those areas,” McCarthy said.\n\nYet Anthropic and OpenAI are largely perceived as being ahead of Google in AI business products; Anthropic has been releasing new models and AI agents for coding,financeand other office work at a rapid clip this year. Anthropic accounted for 34.4% of paid AI business subscriptions in the US in April while OpenAI accounted for 32.3% and Google’s share was just 4.5%. That’s according tofinance platform Ramp, which analyzed contract and transaction data with AI companies from more than 50,000 American businesses.\n\nAI is also causing concerns over thefuture of jobs,safetyand the impact ofdata center constructionon local communities and the environment. Half of American adults say the increased use of AI in everyday life makes them feel more concerned than excited,according to Pew Research.\n\nBut Google, like many companies, is staking its future on the technology. Gemini now has more than 900 million active users, and the company expects to spend about $180 to $190 billion this year on expenses related to AI infrastructure and chips, Alphabet CEO Sundar Pichai said in a press briefing ahead of the conference.\n\nAnd the technology will undoubtedly continue to move quicky. Varun Mohan, a director at Google DeepMind who works on Google’s Antigravity AI coding product, said they ship a new release “close to every day” for internal developers.\n\n“We’re open to the fact that we are going to need to make changes very quickly, because otherwise we are going to have a product that is old for our users,” he said. “And we’ll be doing our users a disservice if we just hold on to our ideals of what the product is today.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/03/29/business/china-openclaw-ai-anxiety-intl-hnk-dst",
+      "text": "OpenClaw"
+    },
+    {
+      "url": "https://hai.stanford.edu/ai-definitions/what-is-agi-artificial-general-intelligence",
+      "text": "artificial general intelligence"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software",
+      "text": "finance"
+    },
+    {
+      "url": "https://ramp.com/leading-indicators/ai-index-may-2026",
+      "text": "finance platform Ramp"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/10/tech/ai-taking-jobs",
+      "text": "future of jobs"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/11/tech/fsu-shooter-victim-lawsuit-openai-chatgpt",
+      "text": "safety"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition",
+      "text": "data center construction"
+    },
+    {
+      "url": "https://www.pewresearch.org/short-reads/2026/03/12/key-findings-about-how-americans-view-artificial-intelligence/",
+      "text": "according to Pew Research"
+    }
+  ],
+  "hash": "e1194d1bada26c45c86e73941b0f23b9234b49cb869f334bb744aadbc624e86f",
+  "scraped_at": "2026-05-20T09:57:48.628601+00:00"
+}
