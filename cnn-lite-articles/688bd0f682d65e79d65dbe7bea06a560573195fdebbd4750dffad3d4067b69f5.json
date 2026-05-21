@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/05/20/tech/ai-executive-order-trump-white-house",
+  "title": "Trump could sign AI executive order as soon as Thursday | CNN Business",
+  "date": "2026-05-21T10:06:57.938330+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe White House could issue as soon as Thursday an executive order pushing for a voluntary government review of new artificial intelligence models before they’re released publicly, sources with knowledge of the situation told CNN.\n\nThe order will include a voluntary agreement in which AI companies would share advanced models with the government for a period of time ahead of launch, according to those sources. The timeframe has been a point of discussion between the industry and the government, with one version of the executive order laying out a 90-day pre-launch review period while some of the AI companies involved prefer a shorter period, such as 14 days, the sources said.\n\nSome of the biggest AI companies, including OpenAI and Anthropic, have been engaging with the White House on the executive order, according to two sources with knowledge of the discussions.\n\nAdvanced AI models can supercharge cyberattacks, experts have said, and an early review could help the government protect against threats before they’re unleashed in the world.\n\nOne draft version of the executive order is split into two sections: one on cybersecurity and another called “covered frontier models,” according to another source briefed on the discussions. The latter portion defines which types of AI models would be eligible for the voluntary framework for early government review and the possible 90-day pre-public access for the government.\n\nThe cybersecurity section outlines a voluntary “clearinghouse” formed by the Treasury Department, other agencies and AI companies to find and fix security vulnerabilities in the unreleased AI models. It also calls for more hiring at the US Tech Force, a body of engineers recruited to modernize government computer systems.\n\nThe White House declined to comment.\n\nThe Trump administration had taken a more hands-off approach to AI regulation until recently, when Anthropic unveiled its Mythos model, which it says can exploit cybersecurity vulnerabilities at an unprecedented pace.\n\nAnthropic hasn’t released the model publicly and is instead granting access to a tightly controlled consortium of companies through itsProject Glasswing.The company is working closely with federal, state, and local representatives. OpenAI is also granting businesses and governmentsspecial early accessto its latest AI models to shore up their cyber defenses.\n\nThe Department of Commerce’s National Institute of Standards and Technologyannouncedearlier this month that major tech companies will share unreleased versions of their AI models with the government for national security and public safety-related evaluation. But that announcement is no longer available on the Commerce Department’s website.\n\nCNN’s Kristen Holmes contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity",
+      "text": "Project Glasswing."
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/29/tech/openai-cybersecurity",
+      "text": "special early access"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models/",
+      "text": "announced"
+    }
+  ],
+  "hash": "688bd0f682d65e79d65dbe7bea06a560573195fdebbd4750dffad3d4067b69f5",
+  "scraped_at": "2026-05-21T10:06:57.938343+00:00"
+}
