@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/05/22/politics/iran-hackers-airlines-oil-gas-companies",
+  "title": "Iranian hackers are targeting aviation, oil and gas companies in espionage scheme, researchers say | CNN Politics",
+  "date": "2026-05-23T08:34:43.944070+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nIranian hackers have posed as job recruiters to target software engineers in the aviation sector as part of an elaborate espionage scheme during theUS andIsraeli war with Iran, cybersecurity researchers told CNN on Friday.\n\nThe Iranian operatives also targeted a US oil and gas firm as well organizations in Israel and the United Arab Emirates,according to researcherswith US cybersecurity firm Palo Alto Networks’ Unit 42.\n\nCompromising aviation, oil and gascompanies could, in theory, allow Iran to do things like track flight manifests to the Middle East or better understand how US oil companies are dealing with a volatile oil market.It’s the kind of asymmetric threat that US intelligence officials have warned about since the US and Israel attacked Iran in late February.\n\nThe hacking effort involved fake job postings and video conferencing software infected with malicious code. In one case, they impersonated a US airline. It shows the lengths to which Tehran-linked hackers have gone to collect intelligence that could be useful for the regime’s survival in the face of US and Israeli airstrikes.\n\nUnit 42 researchers told CNN that, based on their data, they do not believe the hackers successfully breached any of the oil, gas or aviation firms targeted. They believe some other targets were breached in the global hacking campaign, but they declined to identify them.\n\nWith Iran lacking missiles and drones that can hit the US, American officials have been hunting for signs of Iranian cyber intrusions into critical infrastructure during the war. CNNexclusively reportedlast week that Iranian hackers were also a top suspect in a series of break-ins at tank readers at US gas stations in activity that raised safety concerns among US officials.\n\nThe Aviation Information Sharing and Analysis Center, a global group of airlines, airports and other organizations from the sector that tracks cyber threats, said the alleged Iranian spying effort didn’t come as a surprise.\n\n“We have been expecting attacks as a consequence of the war,” the group’s president, Jeffrey Troy, told CNN. “In the bigger picture, we have seen fake IT worker schemes and attempts to get credentials by abusing the help desks at companies.”\n\nIran’s hacking teams have a history of targeting airlines, in some cases to track dissidents abroad.\n\nCNN has requested comment from the Iranian mission to the United Nations.\n\nThe FBI declined to comment for this story.\n\nIn this latest campaign tracked by Unit 42, the hackers have gone after some of the most valuable employees at the organizations they are targeting— software engineers who have deep access to company networks. The research shows that, like North Korea, Iran is making a concentrated effort to infiltrate America’s high-tech sectors by posing as prospective employers or employees.\n\nOne of the fake job postings the Iranians created as part of their scheme poses as a US airline that is hiring a “senior software engineer” and appears to be written by artificial intelligence, according to Unit 42. It has the cliché-ridden corporate speak that many American job applicants have come to expect from prospective employers, including a call for “collaborating with cross-functional teams to deliver innovative platforms.”\n\nThe Israel Defense Forces in March claimed to have struck a compound housing Iran’s “Cyber Warfare headquarters.” It’s unclear how many Iranian cyber operatives, if any, were killed in that strike.\n\nBut while some parts of Iran’s hacking teams appear to have been affected by bombing during the war, others seem to be maintaining a high tempo of operations.\n\nThe Iranian group reported on by Unit 42 has shown “no shows no signs of slowing down,” despite the war, and has continued “to orchestrate sustained, adaptive global cyber campaigns,” the researchers said Friday.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/interactive/2026/05/politics/iran-war-key-moments-vis/index.html",
+      "text": "US andIsraeli war with Iran"
+    },
+    {
+      "url": "https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/",
+      "text": "according to researchers"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/15/politics/iran-hackers-tank-readers-gas-stations",
+      "text": "exclusively reported"
+    }
+  ],
+  "hash": "5d791db91659e1893ec2e4a14412bc1efd2f5759372241219f82c88068b8fb47",
+  "scraped_at": "2026-05-23T08:34:43.944087+00:00"
+}
