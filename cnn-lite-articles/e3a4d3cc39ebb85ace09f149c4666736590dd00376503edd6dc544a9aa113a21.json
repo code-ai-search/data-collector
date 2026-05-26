@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/05/22/us/plane-crash-audio",
+  "title": "A PDF let the internet hear the final words in the cockpit of a UPS plane as it crashed. The NTSB now wants it taken down | CNN",
+  "date": "2026-05-26T10:34:28.056011+00:00",
+  "authors": [
+    "Alexandra Skores"
+  ],
+  "text": "Source: CNN\n\nNew technology allowing audio of plane crashes to be extracted from still images has prompted the National Transportation Safety Board to take a rare step of pausing the public release of nearly all information related to its investigations.\n\nCockpit voice recordings, often referred to as the CVR, capture everything commercial pilots say and are valuable during NTSB investigations, but are almost never released out of respect for the victims and their families.\n\nUPS flight 2976 crashed on November 4, when an engine separated from the wing while it was taking off from Louisville, Kentucky. The three crew members onboard were killed along with 12 people on the ground.\n\nDuringa two-day investigative hearingthis week, the board released a docket full of details about the crash. Besides thousands of pages of reports and video showing the engine separating, it included a transcript of the CVR and a PDF file showing an analysis of the spectrogram of the audio it recorded.\n\nA spectrogram is a still image that is a visual representation of the audio, showing the ups and downs of the frequencies. Using that still image, members of the public were able to recreate the voices of the pilots in the moments before the plane crashed and post the results online.\n\nThe clip, which included background noise and echoes, covered the last 30 seconds of the flight as the pilots struggled with the disabled aircraft as well as recordings of testing the NTSB did on another aircraft.\n\nIna statement on Thursday,the board made clear it “does not release cockpit voice recordings” due to federal law and because of the highly sensitive nature of what they include, but it was “aware that advances in image recognition and computational methods have enabled individuals to reconstruct approximations of cockpit voice recorder audio from sound spectrum imagery.”\n\nInvestigation dockets are made public for transparency, but this week, the board took the rare step of closing public access to all dockets, including the one for the UPS crash.\n\n“We show our work and we’ve been doing this type of thing for years. Nobody was aware that you can recreate audio from a picture,” a spokesperson for the board said. “NTSB is looking to make sure there’s nothing else in the docket that could compromise anybody’s privacy… now that we understand the possibility of a digital recreation.”\n\nNTSB Chairwoman Jennifer Homendy called it “deeply troubling” that the audio was put online.\n\n“Laws against releasing CVR audio exist to protect privacy, preserve the integrity of NTSB investigations, and out of respect for accident victims and their families during a time of tremendous loss,”Homendy said in a post on X.\n\nThe NTSB is urging platforms like X and Reddit to remove posts with the audio.\n\nCNN’s Pete Muntean contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/05/19/us/ntsb-ups-investigation",
+      "text": "a two-day investigative hearing"
+    },
+    {
+      "url": "https://x.com/NTSB_Newsroom/status/2057538746795663536",
+      "text": "a statement on Thursday,"
+    },
+    {
+      "url": "https://x.com/JenniferHomendy/status/2057546005827215817?s=20",
+      "text": "Homendy said in a post on X"
+    }
+  ],
+  "hash": "e3a4d3cc39ebb85ace09f149c4666736590dd00376503edd6dc544a9aa113a21",
+  "scraped_at": "2026-05-26T10:34:28.056026+00:00"
+}
