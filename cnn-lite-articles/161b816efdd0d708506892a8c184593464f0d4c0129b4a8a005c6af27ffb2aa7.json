@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/05/28/tech/ai-software-engineering-job-interview",
+  "title": "AI is changing this job so fast the interview process can’t keep up | CNN Business",
+  "date": "2026-05-28T10:35:33.723687+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nIt’s a tough job market for software engineering hopefuls. Tens of thousands of jobs cuts across the industry have increased competition for open spots. The rise of AI has spurred fears of cheating during interviews, and company priorities are changing as the tech evolves almost daily.\n\nBut hiring managers have a bigger concern: Now that AI can write code, how can you figure out who – or even what skillset – makes a good software engineer?\n\nThe interview process hasn’t kept up with the way AI has changed programmers’ daily responsibilities, career experts and software engineers told CNN. That’s made the hiring process more challenging for both job seekers and hiring managers.\n\n“I would say AI has hit engineering interviewing like an atomic bomb,” said Stefan Mai, a former engineer for Meta and Amazon and cofounder of tech interview coaching service Hello Interview.\n\nSoftware engineering has been among the first industries to be noticeably impacted by AI. A report from Google’s research division last year found that90% of tech workersuse AI for tasks like writing and modifying code, up 14% from the previous year. The field has been closely watched as a bellwether as AI adoption expands.\n\nAI can now help software engineers write code and documentation; analyze data; learn coding concepts and troubleshoot, among other things. That lets tech companies move much more quickly, some executives say.\n\nAn OpenAI engineer used AI to implement a system change that would have taken his team a week otherwise, company president Greg Brockmanrecently saidduring a Sequioa Capital talk. Many internal apps at Google are being “mostly” written with the company’s Antigravity AI coding tool, Varun Mohan, a director at Google DeepMind, told CNN earlier this month.\n\nBoris Cherny, Anthropic’s head of Claude Code,wrote on Xin December that “100%” of his contributions to the product over the past 30 days were written by Claude Code.\n\nCherny believes AI is shifting the role of a software engineer to focus on  high-level decision-making rather than writing code. The title “software engineer” might be replaced with a name like “builder” that better captures the position, he previously told CNN.\n\nAI isn’t meant to replace engineers, Google’s Mohan told CNN.\n\n“We think developers should spend most of their time trying to figure out what they should build,” he said. “That’s the whole question.”\n\nMadhu Kurup, vice president of engineering at Indeed, compared AI in software engineering to Google Maps’ role in travel. Google Maps can tell a person which highway exit to use, flag traffic conditions and find coffee shops on a driver’s route, but it doesn’t pick the destination or decide what time to leave.\n\nHowever, that Google report last year indicated that 46% of tech workers only “somewhat” trust the quality of AI-generated code, and 31% said AI only “slightly” improved code.\n\nAnd layoffs throughout 2025 and 2026 suggest AI is affecting payrolls. AI was the top reason cited by companies for job cuts in April for the second month in a row, the executive outplacement firmChallenger, Gray & Christmassaid this month.\n\nCompanies for years have evaluated potential candidates with regimentedtests thatsome sayhave felt like taking the SATs, but for coding. They don’t measure how workers delegate tasks to an agent and use AI to navigate issues, brainstorm or work more efficiently.\n\nNow, some engineers feel those tests no longer reflect “what their job will actually look like,” said Jordan Leonard, cofounder and chief operating officer of Leopard.FYI, a tech hiring network for women and genderqueer engineers.\n\nIn late April, software developer David Barajas said he had been on about five or six job interviews after being approached by recruiters over the past six to eight months. None of them asked to see how he incorporates AI coding tools like Cursor into his work.\n\n“The first thing they say is, you’re not supposed to be using any AI tools, no AI assistance, nothing to help you solve this problem,” he said.\n\nSujata Sridharan, who most recently worked at the fintech firm Bolt and has spent roughly a decade as a software engineer, also said most of the companies she’s recently interviewed with are using the same traditional tests that focus on understanding code rather than working with AI.  “There is that gap, it’s just grown wider (because of AI),” she said.\n\nSome companies initially prohibited candidates from using AI during tests to prevent cheating. Barajas said he’s even been asked to share his desktop during interviews to prove he’s not using AI. While such concerns are nothing new, worries about cheating have “really ramped up to an unusual level” because of AI, according to Mai.\n\nAnd AI’s rapid advancement means role requirements are constantly shifting.\n\nOne company Leopard.FYI works with said the programming language Ruby on Rails was required for an open position, said Leonard. Three weeks later, the company changed its mind because AI can easily translate other languages to Ruby on Rails.\n\n“It feels like a moving target on literally a weekly (or) monthly basis,” she said.\n\nEmployers are starting to focus more on questions that show how candidates think through issues and weigh trade-offs rather than raw coding capabilities. Those topics traditionally come up in senior-level interviews but are now becoming more common across the board, according to Mai.\n\nSome startups have experimented with bringing in candidates to work on site for a half a day. And it’s becoming increasingly common for managers to allow applicants to use AI during the testing process, according to Leonard.\n\nBut even those changes don’t fully capture how the job gets done these days. Sridharan, for example, usually collaborates with AI to work through issues, but her experience using it in technical tests usually entails using it as a replacement for hands-on coding.\n\nIt’s still an “unsolved problem,” according to Mai.\n\n“It’s kind of unexpected what candidates are going to run into,” he said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/09/23/tech/google-study-90-percent-tech-jobs-ai",
+      "text": "90% of tech workers"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/46aXhjlhEEQ",
+      "text": "recently said"
+    },
+    {
+      "url": "https://x.com/bcherny/status/2004897269674639461",
+      "text": "wrote on X"
+    },
+    {
+      "url": "https://www.challengergray.com/blog/challenger-report-april-job-cuts-rise-38-from-march-ytd-cuts-down-50/",
+      "text": "Challenger, Gray & Christmas"
+    },
+    {
+      "url": "https://www.reddit.com/r/leetcode/comments/193tmee/is_leetcoding_comparable_to_studying_for_the_sat/",
+      "text": "tests that"
+    },
+    {
+      "url": "https://www.reddit.com/r/learnprogramming/comments/1lqv3vd/leetcode_is_like_sat/",
+      "text": "some say"
+    }
+  ],
+  "hash": "161b816efdd0d708506892a8c184593464f0d4c0129b4a8a005c6af27ffb2aa7",
+  "scraped_at": "2026-05-28T10:35:33.723703+00:00"
+}
