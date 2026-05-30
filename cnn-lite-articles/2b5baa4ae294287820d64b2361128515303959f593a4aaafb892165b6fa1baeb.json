@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/05/29/tech/ai-voice-cloning-scams-protect-yourself",
+  "title": "AI ‘voice cloning’ scams are on the rise. Here’s how to protect yourself | CNN Business",
+  "date": "2026-05-30T08:43:26.207599+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nA California momsays she was scammedout of thousands of dollars this month after receiving a call that sounded like her daughter in distress. She now suspects it was an artificial intelligence-generated hoax.\n\nShe’s one of many who have been targeted by so-called “voice cloning” scams as AI tools allow anyone to create a convincing replica of someone’s voice with only a few seconds of real audio.\n\nAmericans lost more than $893 million to AI-related scams last year, including voice cloning attacks along with AI-generated phishing emails, romance scams and other hoaxes, according to theFederal Bureau of Investigation.\n\nScammers can mimic anyone from family members and friends to coworkers or professional services workers. Banks including the United Kingdom’sStarlingand theCommonwealth Bank of Australiahave warned customers to watch out for voice cloning scams.\n\nExperts say AI voice replicas have gotten so realistic that most people can no longer reliably distinguish them from real human voices.\n\n“For the everyday person, it is just not fair to expect them to be able to spot this stuff,” said Henry Ajder, an expert on AI-generated media who consults for governments and companies. “I struggle with it. Most people do.”\n\nScammers can create an AI replica of someone’s voice using a short recording of their speech — often pulled from social media or an earlier scam call that was surreptitiously recorded. Social media can also provide a trove of information about family members and close friends who could be targeted.\n\nFraudsters will typically make it sound like the loved one they’re mimicking is in distress, purportedly having been kidnapped or in jail. Then they’ll urgently demand money in exchange for their loved one’s release.\n\n“There was no time to think,” Gary Schildhorn, a Philadelphia attorney who was targeted by an AI voice scam mimicking his son,told CNN last year. “It was all, ‘I have to react to help my son. He’s in trouble.’”\n\nIn some cases, the AI voice may be more than just a single recording. Sophisticated attackers could use text-to-speech tools or “voice skinning,” which manipulate a scammer’s voice so they sound like the person they’re imitating in real time. Those techniques facilitate back-and-forth conversations between the target and the AI clone voice, potentially making the scam more convincing, Ajder said.\n\nHackers can also make it appear as if a call is coming from a known number through a tactic known as caller ID spoofing — so you can’t necessarily trust that a call that appears to be coming from your mom is indeed her.\n\nStrange pauses or vocal fluctuations were previously considered red flags that a caller’s voice might be AI-generated.  But those signals may no longer be present now that AI has advanced.\n\nInstead of trying to determine whether a voice is authentic, look for other general scam warning signs, Hany Farid, a professor at UC Berkeley and chief science officer at GetReal Security, told CNN last year.\n\nIs the person on the other end giving a deadline or introducing a sense of urgency? Are they encouraging you not to tell anyone else what’s happening? Are they asking you to move large sums of money in unusual ways? Those are the types of questions experts say to keep in mind.\n\nTargets who receive these types of calls should try contacting their loved one through other means, such as via a text message, calling them on another person’s phone or reaching out to someone who would know where they are.\n\nDeborah Del Mastro, the California mom recently targeted, toldABC7 Newsthat she called her daughter only after sending money to the scammers. Her daughter answered right away and was at work.\n\nFamilies or coworkers can also establish a precautionary “code word” that can be used to verify each other’s identity.  It should be a word or phrase that only a small group of people know and isn’t discoverable online.\n\n“Ultimately, if you suspect that something might not be right, it is much better to have your mum or your brother or your friend laugh at you for thinking that they’re a robot,” Ajder said, “than it is to potentially be running to an ATM.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://abc7ny.com/post/california-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19175361/",
+      "text": "says she was scammed"
+    },
+    {
+      "url": "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+      "text": "Federal Bureau of Investigation"
+    },
+    {
+      "url": "https://www.starlingbank.com/safe-phrases/",
+      "text": "Starling"
+    },
+    {
+      "url": "https://www.commbank.com.au/articles/newsroom/2026/01/can-australians-spot-deepfake-scams.html",
+      "text": "Commonwealth Bank of Australia"
+    },
+    {
+      "url": "https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/9fe98d50-96cf-11ef-aa1b-07ca04432229",
+      "text": "told CNN last year"
+    },
+    {
+      "url": "https://abc7news.com/about/newsteam/dryden-quigley/?userab=kabc_content_recs-577*variant_c_trending-2482,otv_web_content_rec-539*variant_c_trending-2268,otv_search_page_design_unification-546*variant_b_search_redesign-2300,abcn_popular_reads_exp-542*variant_b_7days_filter-2288",
+      "text": "ABC7 News"
+    }
+  ],
+  "hash": "2b5baa4ae294287820d64b2361128515303959f593a4aaafb892165b6fa1baeb",
+  "scraped_at": "2026-05-30T08:43:26.207613+00:00"
+}

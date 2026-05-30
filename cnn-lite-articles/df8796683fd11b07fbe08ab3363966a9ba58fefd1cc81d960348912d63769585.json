@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/05/29/tech/tiktok-spinoff-deal-markey-letter-national-security",
+  "title": "A spin-off deal saved TikTok’s US future. Sen. Ed Markey is questioning if it puts national security at risk | CNN Business",
+  "date": "2026-05-30T08:43:24.191773+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nFour months afterTikTok’s US assets were spun offinto a new joint venture to avert a ban, Sen. Ed Markey says Americans still don’t have enough information about whether the deal addresses national security concerns related to the popular video app.\n\nMarkey, a Massachusetts Democrat, on Friday sent letters to TikTok US and Oracle claiming the spin-off deal violated “the spirit, if not the letter” of a 2024 law meant to protect Americans on TikTok. The letters demand information about the group’s relationship to TikTok’s Chinese parent company ByteDance.\n\nThe letters could reignite lingering questions about the yearslong effort to secure TikTok’s future in the United States while protecting American users.\n\nCNN has reached out to TikTok and Oracle for comment.\n\nPresident Donald Trump, during his first term, vowed to ban the app. In 2024, then-President Joe Biden signed a law requiring that the US version of the app be spun off from ByteDance or be banned in the United States. Lawmakers feared that China could steal US users’ data or manipulate the content they see on the app. But during his second term, Trump repeatedly delayed enforcement of the law as hesought a dealto transfer control of the app’s US operations to American ownership.\n\nOne day before the ban was set to go into effect in January,a deal was finalizedto transfer control of TikTok’s US user data and most of its US operations to a joint venturehalf ownedby a consortium of investors comprised of Oracle, private equity firm Silver Lake and Emirati-backed investment firm MGX. Existing ByteDance investors held just over 30% of the joint venture, and 19.9% was retained by ByteDance, according to the group.\n\nThe joint venture is led by CEO Adam Presser — who previously oversaw efforts to secure US TikTok users’ data — and overseen by a board consisting of investor representatives as well as TikTok CEO Shou Chew.\n\nBut critics questioned if the arrangement fully addressed the core national security concerns that motivated the TikTok ban legislation in the first place because ByteDance was set to retain control of some of the US app’s operations. The TikTok ban-or-sale law prohibited “any cooperation with respect to the operation of a content recommendation algorithm” between ByteDance and a new potential American ownership group.\n\nThe joint venture said it planned retrain TikTok’s algorithm on US user data and moderate content for US users and that Oracle would oversee storage of Americans’ data. However, the ByteDance-controlled global TikTok entity would continue to manage e-commerce, advertising and marketing on the new US platform. And the new joint venture said it would continue to license the TikTok algorithm from ByteDance before retraining and reviewing it, something Chinese officials hadpreviously suggestedcould help to ensure the deal would be approved by Beijing.\n\n“President Trump managed to keep TikTok online only by ignoring the law’s central goal and relying on vague, unproven safeguards to address the legitimate risks to national security,” Markey said in his Friday letter to TikTok US. “Congress and the American people need to understand if and how this deal protects against Chinese influence over TikTok’s content.”\n\nThe joint venture said in a January statement that it would “operate under defined safeguards that protect national security through comprehensive data protections, algorithm security, content moderation, and software assurances for U.S. users.”\n\nBut Markey questioned the effectiveness of those plans, saying the group hasn’t released sufficient information about how it’s retraining the algorithm and questioning “whether source code review can meaningfully identify algorithmic manipulation, especially if, for example, China attempted to hide malicious code within an urgent security patch,” in his letter to Oracle.\n\nThe letters request, by June 18, information including a copy of Oracle’s contract with TikTok US and a copy of TikTok US’s contract with ByteDance to license the app’s algorithm. He also requested details on how the group reviews code from ByteDance, retrains the algorithm for US users and any other models or tools the group licenses from the Chinese company.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/01/22/tech/tiktok-us-deal-closes",
+      "text": "TikTok’s US assets were spun off"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/25/tech/tiktok-executive-order-trump",
+      "text": "sought a deal"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/22/tech/tiktok-us-deal-closes",
+      "text": "a deal was finalized"
+    },
+    {
+      "url": "https://newsroom.tiktok.com/announcement-from-the-new-tiktok-usds-joint-venture-llc?lang=en&gad_source=1&gad_campaignid=20482165421&gbraid=0AAAAApbYvmzMHiVrNlPzFj9mbkWbnLF0C&gclid=Cj0KCQjwz9_QBhD_ARIsADnSCfDluTgs8k6Vj5QsMoHHuT8CH3IS1FQEEM_vtdFkEUAV3s1aEy-NMm0aAgoTEALw_wcB",
+      "text": "half owned"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/20/china/china-us-tiktok-deal-analysis-intl-hnk",
+      "text": "previously suggested"
+    }
+  ],
+  "hash": "df8796683fd11b07fbe08ab3363966a9ba58fefd1cc81d960348912d63769585",
+  "scraped_at": "2026-05-30T08:43:24.191787+00:00"
+}

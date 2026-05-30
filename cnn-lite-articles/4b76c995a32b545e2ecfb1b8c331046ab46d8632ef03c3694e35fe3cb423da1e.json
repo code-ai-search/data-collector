@@ -1,0 +1,17 @@
+{
+  "url": "https://lite.cnn.com/2026/05/27/politics/ny-federal-prosecutors-charge-google-engineer-making-roughly-million-polymarket",
+  "title": "Federal prosecutors charge Google engineer for allegedly using insider info to make $1.2 million on Polymarket | CNN Politics",
+  "date": "2026-05-30T08:45:13.370023+00:00",
+  "authors": [
+    "Kara Scannell"
+  ],
+  "text": "Source: CNN\n\nFederal prosecutors in New York charged a Google software engineer with making roughly $1.2 million in profits from bets on the prediction market platform Polymarket by using confidential insider information he learned about the most searched people of 2025.\n\nMichele Spagnuolo, the Google software engineer, allegedly used an account called “AlphaRaccoon” to place multiple “yes” and “no” bets related to who would be the most searched person on Google, according to a criminal complaint.\n\n“Unlike the counterparties to his trades, Spagnuolo knew the outcome of these wagers before the trading public did because he had accessed Google’s confidential, commercially valuable internal data,” authorities allege in the complaint.\n\nSpagnuolo is charged with commodities fraud, wire fraud and money laundering.  He appeared in court Wednesday and was released on a $2.2 million bond with travel restrictions.\n\nGoogle said Spagunolo has been placed on leave. A lawyer for Spagunolo was not immediately identified on the court docket.\n\n“We’re working with law enforcement on their investigation. The employee accessed our marketing material using a tool available to all employees, but using such confidential information to place bets is a serious breach of our policies,” a Google spokesperson told CNN.\n\nSpagnuolo is now the second person this year to face criminal charges alleging insider trading on prediction markets.\n\nLast month the US attorney’s office for the Southern District of New York announced insider tradingchargesagainst a US special forces soldier for allegedly using his knowledge of the planned military capture of Venezuelan president Nicolás Maduro to place bets on Polymarket ahead of it. The solider allegedly made over $400,000 in profits. He has pleaded not guilty.\n\nAuthorities allege Spagnuolo used confidential internal Google data to place numerous bets about the most searched person.\n\nIn one case, Spagnuolo placed a $381.12 bet “yes” that d4vd would rank in the most searched people of the year and $5 that d4vd would be the number one searched person on Google with an implied probability of “slightly higher than 0%,” according to the complaint.\n\nSpagnuolo also bet $613,000 “no” that Pope Leo would be the most searched person and just over $500,000 that Donald Trump would not be the most searched person. When Google announced the most searched results, authorities allege, Spagnuolo made over $1.2 million in profits.\n\nCNN has a partnership with another prediction market, Kalshi, and uses its data to cover major events. Editorial employees are prohibited from participating in prediction markets.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "text": "charges"
+    }
+  ],
+  "hash": "4b76c995a32b545e2ecfb1b8c331046ab46d8632ef03c3694e35fe3cb423da1e",
+  "scraped_at": "2026-05-30T08:45:13.370036+00:00"
+}
