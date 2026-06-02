@@ -1,0 +1,58 @@
+{
+  "url": "https://lite.cnn.com/2026/06/02/politics/prediction-market-military-bets",
+  "title": "Restrictions on prediction market bets by US troops part of draft defense bill | CNN Politics",
+  "date": "2026-06-02T10:58:36.609738+00:00",
+  "authors": [
+    "Davis Winkie",
+    "Marshall Cohen"
+  ],
+  "text": "Source: CNN\n\nMembers of the US military may soon be barred from usingprediction marketsto bet on global events if a draft defense policy bill passes Congress and becomes law. The proposal comes after ahigh-profile casewhere a US special forces soldier is accused of using classified information to place bets tied to the capture of Nicolás Maduro.\n\nDraft billtext released last week by the House Armed Services Committee includes a requirement that Defense Secretary Pete Hegseth issue regulations banning members of the armed forces and Pentagon civilian employees from trading on prediction markets where the person has relevant “nonpublic information” or “may reasonably obtain” such info. The provision would also require Hegseth to develop a “range of punishments” for violating the rule.\n\nPrediction markets like Kalshi and Polymarket have exploded in popularity over the past year. They’re treated like commodity futures and regulated by the federal government, but many lawmakers andstate officialssay the rules haven’t caught up to the realities of the massively growing industry.\n\nUnder current federal law, prediction sites for US-based users aren’t allowed to offer markets on war. But Polymarket has a popular offshore site, that Americans can easily access with a virtual private network, with dozens of war-related markets available for trading.\n\nThe Maduro trades led in April to the first knownfederal prosecutionfor alleged insider trading on prediction markets, with the soldier allegedly making $400,000 on Polymarket. The soldier has pleaded not guilty, andPolymarket issued a statement sayingit had “referred the matter to the DOJ” after the platform “identified a user trading on classified government information.”\n\nCNN has a partnership with Kalshi and uses its data to cover major events, but CNN editorial employees aren’t allowed to use prediction markets.\n\nThe provision barring troop betting may not survive the monthslong road ahead for the annual defense policy bill, a perennial platform for legislative politicking, but it would mark a change that could trigger stiff penalties for service members who leverage insider information.\n\nEugene Fidell, a Coast Guard veteran who co-founded the National Institute of Military Justice and teaches military law at Yale Law School, told CNN that the bill “clearly contemplates” criminal punishment under military law for violators. Under the Uniform Code of Military Justice, disobeying orders or regulations can be prosecuted as a federal crime.\n\nFidell said that the federal government should address prediction market insider trading issues “as part of an overall strategy rather than piecemeal,” as opposed to singling out service members for more intensive regulation.\n\nInsider trading is already illegal under federal law in situations where the trader had a pre-existing duty to keep the information private, such as military members and classified mission details. But the draft defense bill provision expands on that framework by proscribing trading on “nonpublic information,” a broad category that includes even unclassified info that isn’t publicly available. Trading on unclassified nonpublic information, for example, could include betting on the winner of a major defense contract before its announcement.\n\nFranklin Rosenblatt, a professor at the Mississippi College School of Law and retired Army lawyer, believes that the military could prosecute improper betting under legal mechanisms intended to maintain good order and discipline in the ranks. But even so, “it can’t hurt for military regulations to regulate with greater specificity what is and is not prohibited behavior” in prediction markets, Rosenblatt told CNN.\n\nCritics have voiced concerns about apatternof suspiciously timed trades popping up on prediction sites around recent geopolitical events. This happened before the Maduro operation in January, and when the US and Israel launchedstrikes on Iran. Polymarket previously did not reply to a request for comment from CNN about the bets tied to Iran strikes.\n\nThe Commodity Futures Trading Commission, the federal agency that regulates prediction markets, hasvowedto crack down on insider trading.\n\nBoth the Maduro case and a new case against a Google engineer for suspicious Polymarket bets suggest the Trump administration is starting to back up its threats with real actions. But there are also bipartisan worries that the CFTC is toounderstaffedto rigorously police these companies.\n\nThe potential Pentagon rules would come after similar steps in other offices.\n\nRecently, the Senate banned members from using prediction markets, and some House members also prohibited their staff from using the platforms. The Democratic governors of California and Illinois signed executive orders banning state employees from using insider information on prediction sites.\n\nDavis Winkie’s work at CNN is supported by a partnership betweenOutrider Foundationand Journalism Funding Partners (JFP). CNN retains full editorial control of the reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/26/politics/commodity-futures-trading-commission-shrinking-prediction-markets",
+      "text": "prediction markets"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "text": "high-profile case"
+    },
+    {
+      "url": "https://armedservices.house.gov/uploadedfiles/fy27_ndaa_mlp_print-_final.pdf",
+      "text": "Draft bill"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/28/economy/prediction-markets-kalshi-young-adults",
+      "text": "state officials"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "text": "federal prosecution"
+    },
+    {
+      "url": "https://x.com/Polymarket/status/2047437923348357146",
+      "text": "Polymarket issued a statement saying"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/24/politics/prediction-market-insider-trading-suspicious-activity",
+      "text": "pattern"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/24/politics/iran-war-bets-prediction-markets",
+      "text": "strikes on Iran"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/16/business/prediction-markets-insider-trading-selig-crackdown",
+      "text": "vowed"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/26/politics/commodity-futures-trading-commission-shrinking-prediction-markets",
+      "text": "understaffed"
+    },
+    {
+      "url": "https://outrider.org/",
+      "text": "Outrider Foundation"
+    }
+  ],
+  "hash": "e453a8a92d8925ba2d35aab50310ad66709fa67cbc61d99b40f4abcfa35e8fa4",
+  "scraped_at": "2026-06-02T10:58:36.609754+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/06/01/business/florida-sues-chatgpt-openai-sam-altman",
+  "title": "Florida sues OpenAI, alleging it’s unsafe for children | CNN Business",
+  "date": "2026-06-02T10:59:19.068232+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nFlorida is suing OpenAI and its CEO Sam Altman, alleging they know ChatGPT is not safe, especially for minors.\n\nThe state becomes the first to sue OpenAI over the alleged dangers of its product.\n\n“Sam Altman and ChatGPT have chosen the AI race over the safety and security of our kids. They have chosen profit over public safety, and we’re not going to stand for it here in Florida,” Florida Attorney General James Uthmeier said at a press conference on Monday.\n\nThe lawsuit, filed on Monday in Florida’s tenth circuit, accuses OpenAI of deceptive and unfair trade practices, negligence and violating product liability laws. It also seeks to hold Altman “personally liable for the harm he has caused Floridians,” including his alleged “utter disregard for the risk to human life caused by his firms’ conduct.”\n\nThe lawsuit lists a litany of accusations against ChatGPT, including helping mass shooters, encouraging suicide, causing “public humiliation,” getting minors addicted to a tool with “no parental oversight” and causing users to lose “critical thinking skills.”\n\nOpenAI said in a statement that it believes minors “need significant protection” and that it has “put in place industry leading protections and policies.”\n\n“In particular we built safety for minors directly into our products, including a more protective experience specifically for minors, an age prediction tool, defaulting users whose age we are not confident into our more protective experience, and giving parents tools to monitor their kids’ use of AI. We know pointing to this work will not bring a child back, but we’re committed to getting this right,” the company said.\n\nUthemier said they ultimately need OpenAI to “change their programming” and that they could be liable for “potentially billions of dollars.”\n\nThe lawsuit specifically focuses on accusations that OpenAI lacks effective parental controls for young users, noting the free version of ChatGPT has “no gatekeeping or age verification mechanism” and that OpenAI does not require children’s accounts to be linked to a parent’s account.\n\nThe lawsuit also says that even if accounts are linked, OpenAI will only notify parents of concerning content in “limited situations” and “in no event can a parent request access to what information a child has provided ChatGPT.”\n\nThe civil lawsuit builds on the first evercriminal investigationinto OpenAI which Uthmeier launched in April, over whether the company “bears criminal responsibility” for a mass shooting at Florida State University last year.\n\nThe accused shooter in that case had extensive conversations with ChatGPT in the leadup to the shooting, including on specifics about mass shootings at the university and advice on how to use the weapons, Florida authorities allege.\n\nOpenAI said at the time that the shooting “was a tragedy, but ChatGPT is not responsible for this terrible crime.”\n\n“In this case, ChatGPT provided factual responses to questions with information that could be found broadly across public sources on the internet, and it did not encourage or promote illegal or harmful activity,” an OpenAI spokesperson said in April.\n\nUthmeier said he expects other states to join his effort.\n\nSeveral states have taken action against other AI companies. In May, Pennsylvania sued Character.AI, accusing its chatbot of posing as doctors (Character.AI said they’ve taken “robust steps” to make it clear their AI bots are not real.)\n\nIn January, Kentucky alsosuedthe company behind Character.AI for “preying on children” and leading “them into self-harm.” Character.AIsaidat the time its “highest priority is safety” and that it is developing “robust safety features” for minors.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/21/tech/florida-criminal-investigation-chatgpt-openai-fsu-shooting",
+      "text": "criminal investigation"
+    },
+    {
+      "url": "https://pennsylvania%20has%20sued%20the%20artificial%20intelligence%20company%20behind%20character.ai%20to%20stop%20its%20chatbot%20from%20posing%20as%20doctors./",
+      "text": "sued"
+    },
+    {
+      "url": "https://kentuckylantern.com/briefs/kentucky-attorney-generals-lawsuit-says-ai-company-preys-on-youth/",
+      "text": "said"
+    }
+  ],
+  "hash": "f6ad0b1cd870feab3140f480aee2fa79c88b25ad2281c6fb35ba74712cdca794",
+  "scraped_at": "2026-06-02T10:59:19.068247+00:00"
+}
