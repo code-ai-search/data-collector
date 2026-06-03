@@ -1,0 +1,51 @@
+{
+  "url": "https://lite.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
+  "title": "Anthropic files to go public in a potentially trillion-dollar debut | CNN Business",
+  "date": "2026-06-03T11:27:09.881953+00:00",
+  "authors": [
+    "Clare Duffy",
+    "Lisa Eadicicco",
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nAnthropic on Monday said it filed plans for an initial public offering, setting it up for a share sale that could value the company in the trillion-dollar range as it races against rival OpenAI.\n\nThe company has yet to determine how many shares it will sell or at what price. But the confidential registration statement to the Securities and Exchange Commission paves the way “for a proposed initial public offering of our common stock,”Anthropic said.\n\nAnthropic is one of three highly anticipated AI IPOsexpected this year, along with OpenAI and SpaceX — allowing retail investors to get in on some of the most valuable AI startups and giving early investors the chance for multi-billion-dollar paydays.\n\nSpaceX revealed its plansto go public late last month, although it didn’t say how much it expects to raise or what the company could be worth.\n\nBut two potentially trillion-dollar filings in such a short time “represents the largest concentration of pre-IPO capital ever brought to market simultaneously,” Harrison Rolfes, senior late-stage company research analyst at PitchBook, said in an email.\n\nAn initial public offering would also provide the first concrete window into the company’s financial data, as concerns about an AI bubble have simmered over the past year. Anthropic’s valuation has soared this year, jumping from$380 billion in Februaryto$965 billionin May, and it’s struck deals with tech giantsworth billions.It said in April, for example, that it’s committingmore than $100 billionto Amazon Web Services technology to train and run its popular Claude AI agent.\n\nBut critics question whether funding is outpacing real-world demand. Wall Street would get a much deeper look at the company’s business segments — including which products are generating the most revenue — through earnings reports if Anthropic were to go public.\n\n“The 2026 window either becomes the most consequential IPO cycle since the dot-com era or the most expensive lesson in narrative-versus-fundamentals that public markets have ever taught,” Rolfes also wrote.\n\nAnthropic has become a major player in artificial intelligence. Its Claude Code tool became an early favorite among software developers after its release last year, and Anthropic has since introduced new tools that aim to replicate Claude Code’s success in other industries like financial services. Fintech firmRampreported that more businesses used Anthropic than OpenAI for the first time in May. The company’s latest funding round also push its valuation higher than the $852 billion valuation OpenAI reported in March.\n\nBut its growth has also lead to challenges. Earlier this year, it was caught in a feud with the White House and Defense Department over the use of its technology, with the Pentagon declaring Anthropic a “supply chain risk” and essentially blacklisting it. Itspowerful AI model Mythoshas raised cybersecurity concerns in the government and on Wall Street.\n\nWhile Claude is popular among businesses and software developers, it’s also gained traction among consumers. Claude rose to the top of the Appleapp storeearlier this year was the second most popular app as of Monday, following OpenAI’s ChatGPT.\n\nYet it faces fresh competition from OpenAI and Google as both companies update and improve their own coding tools.\n\nChatGPT is also much more popular with the general public compared to Claude, according to analysis firm Emarketer. Only 5.4% of US internet users will use Claude this year compared to the 36.6% expected to use ChatGPT and the 27.4% said to use Google’s Gemini, according to the firm.\n\nOpenAI CEO Sam Altman said OpenAI will go public “when we think it makes sense” on CNBC Monday afternoon, denying that there’s a race among AI companies to IPO first.\n\n“I think there is a race to deliver the best technology, build the best business, but you know, going public is a financing event, and I don’t think that’s one that we’re focused on the timing of,” Altman said.\n\nThis story has been updated.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "text": "Anthropic said"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/20/business/spacex-files-for-stock-sale-ipo-elon-musk",
+      "text": "SpaceX revealed its plans"
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "text": "$380 billion in February"
+    },
+    {
+      "url": "https://www.anthropic.com/news/series-h",
+      "text": "$965 billion"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership/",
+      "text": "worth billions."
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "text": "more than $100 billion"
+    },
+    {
+      "url": "https://ramp.com/leading-indicators/ai-index-may-2026",
+      "text": "Ramp"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity",
+      "text": "powerful AI model Mythos"
+    },
+    {
+      "url": "https://apps.apple.com/us/iphone/charts",
+      "text": "app store"
+    }
+  ],
+  "hash": "d00cbce0389eee50654c16a247b995fe3ee488239ee9b45980bbebb935ba879e",
+  "scraped_at": "2026-06-03T11:27:09.881965+00:00"
+}

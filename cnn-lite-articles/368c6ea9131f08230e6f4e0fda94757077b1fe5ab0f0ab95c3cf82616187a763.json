@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/06/03/tech/nvidia-rtx-spark-microsoft-windows-ai-laptops",
+  "title": "The world’s biggest tech companies are betting big on computers that control themselves | CNN Business",
+  "date": "2026-06-03T11:24:46.674667+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nFor at least a decade, tech giants have tried to develop computers that can handle complicated tasks on a user’s behalf. But those efforts have largely fallen flat, with assistants like Alexa and Siri mostly being used for things like setting alarms andplaying music.\n\nSome of the world’s biggest tech companies are betting that’s about to change.\n\nNvidia, Microsoft,Googleand other tech companies have recently introduced new technologies they believe could set the stage for a future with fewer keyboards and mice. That includes new chips, laptops and software – many announced this week – designed to power AI agents that can put together and carry out complex tasks autonomously.\n\n“The goal eventually is to figure out, ‘Hey, how do I just tell the computer essentially what I want it to do, and then have it do it?’” said Bob O’Donnell, founder and chief analyst of tech research firm Technalysis.\n\nNvidiaandMicrosoftare revamping Windows to do more of that. Nvidia on June 1 revealed a new chip for Windows laptops called the RTX Spark, intended for running AI agents without connecting to the cloud. The chip combines Nvidia’s graphics, computing and networking technologies with more memory than the standard laptop; Dell, HP and Lenovo will be launching computers running on the new chip this fall.\n\nGoogle’s upcoming Googlebooks will be able to suggest actions when a user points the mouse at something on the screen, like setting up a meeting after hovering over a date in an email.\n\nTech companies for years have been trying to create digital helpers for mundane digital tasks, like building shopping carts, tracking online orders and planning trips. Earlier assistants could handle individual tasks – like calling a taxi or placing an order – but not multi-step jobs or understanding personal preferences. That began to change after large language models rose to prominence following the launch of ChatGPT in late 2022.\n\nOpenClaw, the buzzy AI assistant that became a global favorite among developers this year, is perhaps the biggest example yet of how AI is changing computing habits for some people. The agent can run programs and complete requests without constant prompting. Developerspreviously told CNNthey run OpenClaw for things like research on a dedicated home computer; while they turn their attention to other tasks, they will check the agent’s progress by texting it through WhatsApp or Telegram.\n\nSome tech employees have reportedly begun speaking commands into AI agents rather than typing at all, according toBloombergandThe Wall Street Journal.\n\n“Things are quite different now because more people have now become quite used to using like Chat GPT or Gemini or Anthropic,” said David Naranjo, associate director at market research firm Counterpoint Research.\n\nNvidia CEO Jensen Huang showed how a laptop running on one of its new chips could help design a house by using AI agents to work between 3D modeling apps during a press conference this week.\n\nAnd Microsoft is creating a new agent for Microsoft 365 called Scout, using OpenClaw’s technology, which it announced on Tuesday. Scout can work across content stored in the cloud, on a person’s computer and the web, including apps like Outlook and Teams. Microsoft hopes Scout will be able to do things like consistently monitoring emails and work chats.\n\nStill, experts say most people won’t be able to control their computers with just a few prompts for a while longer, in part because those new laptops will likely be expensive. And while companies likeAnthropicand OpenAI update their AI agents at a rapid pace, consumer uses don’t justify buying a costly new laptop to keep up with the technology.\n\n“It’s not yet become indispensable, right? And I think that’s where the challenge exists for Nvidia and Microsoft and others,” said Naranjo.\n\nAI is typically more useful for businesses than individual consumers, and processing tasks without sending data to the cloud is generally more secure. Handling AI tasks locally could also be cheaper for companies.\n\nThere’s also the broader question of whether people trust AI enough to handle critical tasks. If an AI agent buys tickets to your favorite artist’s concert, what if it misunderstands your budget and buys seats that are too expensive?\n\n“There’s a whole host of issues that need to be resolved before this becomes mass market,” said Jitesh Ubrani, research manager for the market research firm International Data Corporation. “But are we on the right track? Yes.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnbc.com/2018/06/26/study-what-people-actually-ask-amazons-alexa.html",
+      "text": "playing music"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/19/tech/google-search-bar-updates-2026",
+      "text": "Google"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/16/tech/nvidia-jensen-huang-ai-agents",
+      "text": "Nvidia"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/02/tech/ai-for-healthcare-microsoft-mayo-clinic",
+      "text": "Microsoft"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/29/business/china-openclaw-ai-anxiety-intl-hnk-dst",
+      "text": "OpenClaw"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/10/tech/apple-mac-mini-ai-openclaw",
+      "text": "previously told CNN"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-06/voice-to-text-ai-lets-office-workers-talk-instead-of-type",
+      "text": "Bloomberg"
+    },
+    {
+      "url": "https://www.wsj.com/tech/typing-is-being-replaced-by-whisperingand-its-way-more-annoying-a804fee7",
+      "text": "The Wall Street Journal."
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
+      "text": "Anthropic"
+    }
+  ],
+  "hash": "368c6ea9131f08230e6f4e0fda94757077b1fe5ab0f0ab95c3cf82616187a763",
+  "scraped_at": "2026-06-03T11:24:46.674682+00:00"
+}
