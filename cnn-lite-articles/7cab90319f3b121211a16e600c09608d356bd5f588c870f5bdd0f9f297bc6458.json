@@ -1,0 +1,22 @@
+{
+  "url": "https://lite.cnn.com/2026/06/03/us/jetblue-plane-close-call-florida",
+  "title": "FAA investigating close call between plane registered to flight school and JetBlue passenger jet near Fort Lauderdale | CNN",
+  "date": "2026-06-04T10:14:48.739276+00:00",
+  "authors": [
+    "Alexandra Skores",
+    "Pete Muntean"
+  ],
+  "text": "Source: CNN\n\nThe Federal Aviation Administration is investigating a close call between a flight school-owned Beechcraft 76 plane and a JetBlue Airways passenger jet that came within 500 feet of one another on Monday.\n\nThe close call happened around 6:15 p.m. near Fort Lauderdale-Hollywood International Airport as JetBlue Flight 1256 was approaching for landing. JetBlue pilots received “an onboard alert that another aircraft was nearby and not in communications with air traffic control,” the FAA said.\n\nA controller alerted pilots on Flight 1256 of the aircraft nearby, according to air traffic control audio captured by ATC.com. The Beechcraft 76 was registered to Sun City Aviation LLC, FAA records show. CNN has reached out to Sun City Aviation and JetBlue for comment.\n\n“Yeah, they’re turning toward us,” one pilot in the cockpit of the JetBlue aircraft can be heard saying on the ATC.com recording.\n\n“I see them also descending,” the controller replied. “Yup, they are southwest bound, JetBlue 1256. They appear to be leveling at 4,400 feet now.”\n\nThe two planes came within 500 feet vertically of one another and approximately 1.6 miles horizontally, data from FlightRadar24 shows.\n\nPilots told controllers they received a Traffic Alert and Collision Avoidance System notification, or TCAS, then flew higher to avoid the other plane. The required separation was maintained, the FAA said.\n\n“That guy’s insane,” a controller told the pilot about 20 seconds later.The pilot responded, “I agree.”\n\nOpen-source flight tracking data shows the aircraft appeared to have been operating in visual flight conditions in airspace west of Fort Lauderdale where pilots are generally not required to be in contact with air traffic control. The data indicates the aircraft was equipped with a functioning transponder.\n\nThe flight also took place in an area identified on FAA charts for concentrated flight training activity, where student pilots and training aircraft are common. Historical weather records indicate visual flight conditions at the time, meaning pilots would have been responsible for maintaining separation by seeing and avoiding other aircraft.\n\nRecently, several close calls have occurred at airports across the country.In April, a plane landing at New York’s John F. Kennedy International Airport strayed into the flight path of a jet landing on a parallel runway.Last year, most notably, 67 people died when an Army Black Hawk helicopter and an American Airlines regional jet collided over the Potomac River.\n\nCNN’s Graham Hurley contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/21/us/jfk-close-call",
+      "text": "In April"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/17/us/washington-dc-plane-crash-cause",
+      "text": "Last year"
+    }
+  ],
+  "hash": "7cab90319f3b121211a16e600c09608d356bd5f588c870f5bdd0f9f297bc6458",
+  "scraped_at": "2026-06-04T10:14:48.739291+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/06/02/tech/ai-for-healthcare-microsoft-mayo-clinic",
+  "title": "People are flooding AI chatbots with health questions. Microsoft is teaming up with Mayo Clinic to help | CNN Business",
+  "date": "2026-06-04T10:16:23.146318+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nPeople have been seeking out health information online since the dawn of the internet. And now,tens of millions of peopleare turning to artificial intelligence for questions they once asked “Dr. Google.”\n\nBut the large language models behind most mainstream AI chatbots are trained on a wide variety of content — including huge swaths of the internet — meaning the advice can beiffyand occasionallydangerous.\n\nMicrosoft and Mayo Clinic are now teaming up to address that by building an AI model trained specifically on medical data, including records, research and the expertise of the hospital’s clinicians, which they say will help both patients and providers.\n\n“We needed to have the right data and the right people in the right place to be able to do this, and we firmly believe that will result in better healthcare outcomes for people who use the model,” Mayo Clinic CEO Gianrico Farrugia told CNN ahead of the project’s announcement at Microsoft’s Build developer event on Tuesday\n\nMayo Clinic will own the model, and the organizations hope it will eventually power AI tools for clinicians at the health provider’s hospitals — with the potential to license the technology to other healthcare institutions. They also aim to build an AI healthcare assistant that patients can engage with through the hospital’s online portal. The model could also improve how Microsoft’s Copilot consumer AI chatbot answers health-related questions.\n\nThe tool could, for example, let patients ask for more details about a diagnosis, better understand likely next steps in their care or get information on preventative care.\n\nBut it won’t happen overnight. Microsoft AI CEO Mustafa Suleyman said he expects it to take “many years” for the two parties to train and refine the model to be accurate enough to be trusted for high-stakes health questions and consumer use. The model will initially be available to Mayo Clinic professionals, so they can test it for accuracy before rolling it out more broadly.\n\nMany of the big AI companies are racing to dominate the health advice space. Google, for example, hasrolled outan “AI Health Coach” that promises to do everything from developing personalized fitness plans to reviewing users’ medical data.AnthropicandOpenAIhave also built health assistants into their chatbots.\n\nBut Mayo Clinic’s years’ worth of research and experience treating patients with complex conditions could give the new project an edge. That’s because advanced AI models need reams of unique, high-quality data to improve their outputs. (Mayo Clinic haspreviously warnedthat health information from mainstream chatbots can be inaccurate.)\n\nMayo Clinic says it has anonymized patient data for use in AI training and has already built smaller AI models to help with, for example, detecting heart disease and diagnosing pancreatic cancer. The partnership will bring together that experience with Microsoft’s expertise in AI models and its cloud computing resources.\n\nThe two sides declined to say how much they are spending on the project, but Suleyman said both are making “very material, long-term commitments to one another.”\n\nSilicon Valley executives often mention the potential for AI to cure cancer, even while most AI tools are used for routine daily tasks and work-oriented projects. But Farrugia said he believes that with the right technology, preventing disease is not such a far-off goal — although he acknowledges there are “valid concerns” about AI.\n\n“Globally, but even United States, there’s still so much need for better healthcare that we should embrace AI,” he said, “because it helps us get better results.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://news.gallup.com/poll/707789/americans-turning-supplement-healthcare-visits.aspx",
+      "text": "tens of millions of people"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/03/health/ai-chatbot-health-advice-wellness",
+      "text": "iffy"
+    },
+    {
+      "url": "https://law.yale.edu/yls-today/news/parents-sue-openai-after-chatgpt-medical-advice-blamed-overdose-death",
+      "text": "dangerous"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/07/tech/google-ai-health-fitbit",
+      "text": "rolled out"
+    },
+    {
+      "url": "https://www.anthropic.com/news/healthcare-life-sciences",
+      "text": "Anthropic"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "text": "OpenAI"
+    },
+    {
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/can-you-trust-ai-for-health-advice/art-80010355",
+      "text": "previously warned"
+    }
+  ],
+  "hash": "c02cec923cba6f34299131fc52b635b92200231ef35a250d123489d28e1c186e",
+  "scraped_at": "2026-06-04T10:16:23.146333+00:00"
+}
