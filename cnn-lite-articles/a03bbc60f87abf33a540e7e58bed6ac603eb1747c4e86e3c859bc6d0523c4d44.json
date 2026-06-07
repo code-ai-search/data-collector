@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/06/05/business/anthropic-calls-for-ai-brake-pedal",
+  "title": "Anthropic warns that AI will soon be able to improve itself without human intervention | CNN Business",
+  "date": "2026-06-07T09:45:05.388973+00:00",
+  "authors": [
+    "Chris Isidore"
+  ],
+  "text": "Source: CNN\n\nAI models are rapidly improving – so fast that they may soon be able to develop themselves without human involvement. That’s why Anthropic is warning the AI industry: It needs to build a “brake pedal,” or companies risk losing control of their creations.\n\nAI systems that can advance themselves, known as “full recursive self-improvement,” could have the potential for great good for science and health care, they also pose great risks for humanity, according to ablog postwritten by Marina Favaro, leader of The Anthropic Institute, and Jack Clark, a co-founder of Anthropic.\n\n“Full recursive self-improvement also might increase therisksof humans losing control over AI systems,” they wrote. “If systems are capable of fully building their own successors, the ways we secure them, monitor them, and shape their behavior all grow much more important.”\n\nThe industry is much closer to self-improving AI than previously expected, they warn. So tech companies should consider slowing or pausing frontier AI development to allow time for researchers to gain a better understanding of the potential societal harms self-improving AI could unleash. Researchers should also build a way for humans to intervene if things get out of hand, they said.\n\nAppearing on CNN Thursday night, Clark called for the industry to give itself a “brake pedal.”\n\n“When I look down at the car we’re driving, all I have is a gas pedal. I don’t have a brake pedal, and surely at some point in the future we might want that option,” he told Anderson Cooper in an interview.\n\nCooper raised the example of science fiction movies in which AI rose to kill human beings, and asked if that’s what Clark is worried about.\n\n“Yeah, we read the science fiction and watch science fiction here as well, so it’s not lost on us.” Clark responded. “How do you maintain control over fleets of scientists that are much, much larger and much faster than ones you’ve had before?”\n\nAn inability to validate, verify and trust AI’s behavior poses a major risk in its development, he added.\n\nThe warning comes after Anthropic has filed to have aninitial public offeringof its stock, a step that could raise tens of billions of dollars from investors to speed up the construction of data centers and computers needed for AI. SpaceX, which in addition to its rocket and satellite business has an AI business, is set to have what would be thelargest IPO on recordnext week, raising $75 billion.\n\nHaving major AI companies like Anthropic, SpaceX and OpenAI work together to come up with brake pedals might seem antithetical to a competitive business with billions if not trillions of dollars at stake. But such cooperation is possible, Clark insisted.\n\n“We’ve done this before. In the height of the Cold War, under highly tense situations between rivalrous countries, they found ways to stabilize aspects of the nuclear arms race,” Clark told CNN. “All of this has been done before in other domains, and it may need to be something we do in the domain of AI.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "text": "blog post"
+    },
+    {
+      "url": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
+      "text": "risks"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
+      "text": "initial public offering"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/03/business/spacex-ipo-valuation-musk",
+      "text": "largest IPO on record"
+    }
+  ],
+  "hash": "a03bbc60f87abf33a540e7e58bed6ac603eb1747c4e86e3c859bc6d0523c4d44",
+  "scraped_at": "2026-06-07T09:45:05.388988+00:00"
+}
