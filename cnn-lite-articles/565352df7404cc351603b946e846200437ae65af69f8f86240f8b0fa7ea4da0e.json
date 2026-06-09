@@ -1,0 +1,53 @@
+{
+  "url": "https://lite.cnn.com/2026/06/07/business/intel-ai-race-ceo",
+  "title": "Intel was on the brink of downfall. A twist in the AI race could boost its revival | CNN Business",
+  "date": "2026-06-09T10:07:32.894902+00:00",
+  "authors": [
+    "Wayne Chang"
+  ],
+  "text": "Source: CNN\n\nWhen Lip-Bu Tan took the helm of Intel in March 2025, the company was in desperate need of a turnaround.\n\nFor years, the Silicon Valley-based semiconductor pioneer had been struggling to maintain its market-leading position as a chipmaker, having lost ground to Nvidia, AMD and Qualcomm. Meanwhile,Taiwan Semiconductor Manufacturing Company(TSMC) produces 90% of the world’s most advanced chips, leaving little room forIntel’s own foundry to compete.\n\nThe problems plaguing Intel were not lost on Tan when he made his first public comments in a quarterly earnings report. “There are areas we need to improve, and there are no quick fixes,” Tan said in April 2025.\n\nTan, 66, a Malaysia-born executive who spent a dozen years at the helm of Cadence Design Systems, has mostly kept a low profile since taking over at Intel. So, when Tan made a public keynote speech last week at Computex, an annual trade show in Taipei that has grown in popularity because of the AI boom, a packed crowd was on hand to hear him talk.\n\nThe crowd had likely gathered to learn more about Intel’s core product — the central processing unit, or CPU — a chip that acts as the brain of a computer. Those chips have powered laptops and servers for decades.\n\nBut CPUs are now considered essential to the AI race and have received renewed attention, giving Intel a fresh opportunity for a rebirth.\n\n“The CPU revival could save the company,” Dan Nystedt, vice president of Asia-based private investment firm TriOrient, told CNN. “The majority of (Intel’s) business is CPUs.”\n\nIn a statement to CNN, Intel said Tan has been focused on execution and putting its customers back at the center of everything it does. “With a stronger balance sheet now, a refreshed leadership team and a renewed focus on engineering discipline, Intel is positioned to capture the AI-driven growth opportunities in front of us,” the company said.\n\nIntel’s turnaround may get a lucky boost thanks to agentic AI, a new generation of AI that can complete tasks on a person’s behalf rather than just answering questions.\n\nGraphics processing units (GPU), the type of chips Nvidia specializes in, are ideal for training AI models. But CPUs are seeing a spike in demand because they’re useful for inference, the process of putting trained AI models to work. Inference is key to powering the new wave of AI agents that companies like OpenAI, Anthropic and Google are developing and deploying.\n\nOpenClaw— which independently operates apps, web browsers and smart home appliances based on commands users send via messaging apps like WhatsApp — is one of the most popular AI agents today.\n\n“The CPU is now the conductor, and the GPU is the orchestra,” said Nvidia CEO Jensen Huang in a keynote speech in Taipei this week ahead of Computex. Nvidia announced a major push into CPUs during the conference, introducinga new chip for laptopsand desktops and revealing that its Vera data center CPU is now in full production.\n\nTan told reporters on the sidelines of Computex that many CEOs have been calling him asking for more CPUs over the last month.\n\n“That’s a huge opportunity for us,” Tan said. “We really (got) excited.”\n\nAnalysts say a higher demand for CPUs could give Intel a boost in sales over the next few years if it can quickly ramp up production and ensure manufacturing quality.\n\n“We are very focused on supply, making sure that we can delight the customer,” Tan added.\n\nTan’s strategy at Intel appears to be straight from his playbook at Cadence, where he streamlined operations, invested heavily in engineering, expanded the company with strategic acquisitions and cultivated deep relationships with its clients.\n\nTan has laid off approximately 34% of Intel’s workforce and paused plans to expand manufacturing facilities in Germany and Poland. He also flattened corporate bureaucracy, brought in new talent, formed new partnerships, sold non-core business assets and redirected the company’s focus back to its roots.\n\n“At our heart, Intel is an engineering company,” Tan said during his Computex keynote. “And that’s what I decided from Day 1 … I have all the engineering report to me.”\n\nTan has elevated the engineers and cut middle managers, allowing him to keep tabs on Intel’s chip and AI business more directly. He hassold Intel’s controlling stake in a subsidiaryin exchange for liquidity and hired senior executives fromQualcommandArmto lead its data center and AI business divisions. Tan has also brought in investments fromNvidiaandSoftbank, securing strategic backing and partnerships from influential players in the AI industry.\n\n“Tan has been trying to bring in more outside resources into Intel, so that the company has the time and space to not only adjust its chip-manufacturing process, but also bring in more clients to drive the production volume up,” Chiayang Yao, an analyst with Taiwanese market research firm Digitimes Research, told CNN.\n\nMeanwhile, Intel has received a helping hand from the Trump administration.\n\nIn August, the US government made an $8.9 billion investment in Intel’s stock, roughly a 10% stake in the company, to help its ongoing efforts to expand research and manufacturing facilities in the US, while ensuring access to a domestic advanced-chip supply chain for national security purposes. Shares of Intel (INTC) have surged about 300% since then.\n\nThe agreement was part of an effort to help boost semiconductor manufacturing in the US and cement the country’s place as a leader in the global chipmaking industry, a key priority of Trump’s second term.\n\nBut Intel still faces major challenges, particularly in its chip-manufacturing foundry business, which has struggled to add more clients and improve production quality, analysts said.\n\nStill, there has been much-needed progress for a company that languished for years.\n\n“(Tan) has managed to stop the bleeding, getting the company from an intensive care unit to a general ward,” said Yao.\n\nCNN’s Clare Duffy and Lisa Eadicicco contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/videos/tv/2024/03/12/tsmc-chips-intl-spc-hnk.cnn",
+      "text": "Taiwan Semiconductor Manufacturing Company"
+    },
+    {
+      "url": "https://www.cnn.com/2024/12/04/tech/intel-brand-decline-gelsinger-retirement",
+      "text": "Intel’s own foundry to compete."
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/29/business/china-openclaw-ai-anxiety-intl-hnk-dst%5d",
+      "text": "OpenClaw"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/03/tech/nvidia-rtx-spark-microsoft-windows-ai-laptops",
+      "text": "a new chip for laptops"
+    },
+    {
+      "url": "https://www.intc.com/news-events/press-releases/detail/1736/intel-announces-strategic-investment-by-silver-lake-in?ref=biztoc.com",
+      "text": "sold Intel’s controlling stake in a subsidiary"
+    },
+    {
+      "url": "https://newsroom.intel.com/corporate/intel-client-computing-and-innovation-leadership-news-may-2026",
+      "text": "Qualcomm"
+    },
+    {
+      "url": "https://newsroom.intel.com/corporate/intel-announces-key-leadership-appointments",
+      "text": "Arm"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/18/tech/nvidia-intel-stake-ai-intl",
+      "text": "Nvidia"
+    },
+    {
+      "url": "https://www.cnn.com/2025/08/18/business/softbank-invest-intel-two-billion-dollars",
+      "text": "Softbank"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/INTC",
+      "text": "INTC"
+    }
+  ],
+  "hash": "565352df7404cc351603b946e846200437ae65af69f8f86240f8b0fa7ea4da0e",
+  "scraped_at": "2026-06-09T10:07:32.894916+00:00"
+}
