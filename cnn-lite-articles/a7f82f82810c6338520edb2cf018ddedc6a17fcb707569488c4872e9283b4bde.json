@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/06/11/economy/inflation-kevin-warsh-federal-reserve",
+  "title": "Inflation is the worst in three years. Kevin Warsh says that’s not the full story | CNN Business",
+  "date": "2026-06-13T09:42:40.838501+00:00",
+  "authors": [
+    "Bryan Mena"
+  ],
+  "text": "Source: CNN\n\nInflation hitits highest level in three yearslast month, according to fresh data released this week — but new Federal Reserve Chair Kevin Warsh wants the central bank to focus on different measures.\n\n“The measures I prefer are looking at things that are called trimmed averages,” he said during his confirmation hearing in April. “What I’m most interested in is what’s the underlying inflation rate, not what’s the one-time change in prices because of a change in geopolitics or a change in beef.”\n\nThose “trimmed-mean averages” are alternative inflation gauges released by regional Fed banks that can give investors and policymakers a better sense of inflation’s breadth and direction.\n\nWarsh presides over his first policy meeting as chair next week. Investors now see the Fed potentially raising interest rates this year because of an Iran-war-fueled pickup in inflation. But if Warsh persuades his fellow policymakers to weigh different inflation measures instead, the bank could keep rates where they are — or even lower them — risking a bigger jump in price increases.\n\nThe Federal Reserve Bank of Dallas produces one trimmed-mean gauge that shows annual inflation of 2.3% in April. A similar estimate from the Cleveland Fed puts annual inflation in May at 2.9%. In contrast, the May CPI came in at 4.2%; while the Producer Price Index, which measures inflation at the factory gate and was released Thursday, reacheda more-than-three-year high of 6.5% in May. The PPI potentially foreshadows what may be in line for consumers.\n\nIn the past, some of these trimmed-mean measureshave had stretches of out-predicting inflation’s future pathover CPI and other gauges.\n\nBut some of Warsh’s colleagues warn trimmed-mean averages aren’t accurately capturing what’s really happening at the moment. CNN has reached out to the Fed for comment.\n\nAnd some economists say Warsh’s arguments are unconvincing.\n\n“Fed Chair Kevin Warsh has declared himself a fan of trimmed mean estimates,” said Richard de Chazal, a macro analyst at William Blair. “But the reality is that inflation is now pointing firmly higher.”\n\nThe Fed already closely watches core inflation, which excludes volatile food and energy prices. The Fed relies on the Personal Consumption Expenditures price index, rather than CPI, as it offers a more dynamic and comprehensive view of prices. Like CPI, the PCE inflation rate has trended higher since February,reaching 3.8% in April. May PCE data is due later this month.\n\nWarsh argues that officials should take filtering noisy data a step further.\n\nThe trimmed-mean rate removes, or trims, the most extreme outliers from core inflation before averaging to smooth out more volatility. The Cleveland and Dallas Fed banks calculate their trimmed-mean rate differently, meaning they exclude different outliers.\n\n“Trimmed mean is generally a better predictor of where inflation is headed,” which can help the Fed chart a path for interest rates, the Brookings Institution said inan analysis from April.\n\n“Trimmed Mean PCE inflation has many advantages over core PCE, including a tighter relationship with labor market slack as well as smaller subsequent revisions,”Dallas Fed research shows.\n\nBut that measure may be even less useful nowadays for technical reasons.\n\n“The trimmed-mean usually sends a reliable signal about where overall inflation will trend. At the moment, however, my staff’s research cautions against putting too much stock in low readings of the trimmed-mean,” Dallas Fed President Lorie Logan, a Fed voter this year, said earlier this month during an event in El Paso, Texas.\n\n“A change in the mix of price increases and decreases” is currently skewing the trimmed-mean lower than it should be based on economic fundamentals, she added.\n\nThe Dallas Fed’s trimmed-mean figure “is biased downward” these days because it’s not fully capturing the abrupt jump from price shocks, Brian Bethune, an economics professor at Boston College, told CNN in a statement. He’s skeptical the Fed’s powerful rate-setting committee will buy arguments to lean on the gauge.\n\nThe Fed next week is widely expected to hold its benchmark lending rate steady for the fourth consecutive meeting but potentially signal that rate hikes are on the table because of worries about faster inflation.\n\nAnd if Warsh insists inflation isn’t an urgent problem by pointing to an alternative measure showing the lowest rate, that would pose “a risk that markets or analysts would say ‘okay, this is ludicrous, this is not what we should be looking at,’” according to Eugenio Alemán, chief economist at Raymond James.\n\n“Switching to a new metric when inflation has been above the Federal Reserve’s 2% PCE target for five years could be seen as moving the goal posts, potentially threatening the central bank’s credibility,” Brookings Institution researchers said in their analysis.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/06/10/economy/us-cpi-consumer-inflation-may",
+      "text": "its highest level in three years"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/11/economy/us-ppi-wholesale-inflation-may",
+      "text": "a more-than-three-year high of 6.5% in May"
+    },
+    {
+      "url": "https://www.dallasfed.org/research/economics/2026/0416",
+      "text": "have had stretches of out-predicting inflation’s future path"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/28/economy/us-pce-inflation-april",
+      "text": "reaching 3.8% in April"
+    },
+    {
+      "url": "https://www.brookings.edu/articles/what-are-trimmed-mean-and-median-inflation-rates-and-why-does-kevin-warsh-prefer-them/",
+      "text": "an analysis from April"
+    },
+    {
+      "url": "https://www.dallasfed.org/research/economics/2026/0416",
+      "text": "Dallas Fed research shows"
+    }
+  ],
+  "hash": "a7f82f82810c6338520edb2cf018ddedc6a17fcb707569488c4872e9283b4bde",
+  "scraped_at": "2026-06-13T09:42:40.838516+00:00"
+}

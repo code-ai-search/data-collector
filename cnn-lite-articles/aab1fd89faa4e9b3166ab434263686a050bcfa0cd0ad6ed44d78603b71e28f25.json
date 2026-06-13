@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/06/11/tech/spotify-drug-sales-podcasts-investigation-findings",
+  "title": "Spotify removed thousands of podcasts promoting online prescription drug sales, investigation finds | CNN Business",
+  "date": "2026-06-13T09:42:36.797224+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nSpotify has removed tens of thousands of phony podcasts promoting illegal online pharmacies, a new investigation has found, after reports from CNN and other news outlets exposed the issue last year.\n\nLast May, Spotify said it had removed dozens of podcastsidentified by CNNthat blatantly promoted online pharmacies purportedly selling drugs such as Adderall and Oxycontin, in some cases without a prescription. Days later, Senator Maggie Hassanlaunched an investigationinto the fake podcasts, which violated Spotify’s rules and threatened to direct users to spammy and potentially illegal sites.\n\nThe investigation’s findings, published Thursday, raise questions about Spotify’s ability to proactively detect and remove potentially harmful content. Hassan said the company should have acted faster and alerted law enforcement to the content.\n\n“As criminals use AI to perpetuate scams and other dangerous actions faster and in larger quantities, all online platforms need to step up, protect their users, and enforce comprehensive strategies to remove illegal content,” Hassan, a New Hampshire Democrat and the ranking member of the Joint Economic Committee, said in a statement CNN ahead of the report’s release.\n\nParents, experts and lawmakers have urgedtech giantsto do more to prevent the sale of counterfeit or illicit drugs to young people through their platforms after multipleteens have diedof overdoses frompills bought online.\n\nSpotify told CNN the phony podcasts were a “spam attack” designed to boost the purported online pharmacies’ visibility in search engines and told investigators they were not targeted at selling drugs to Spotify users.\n\n“Bad actors attempting to abuse our platform will always try to circumvent or evade our detection,” Spotify spokesperson Laura Batey told CNN. “When we are made aware of such attempts, we act quickly to remove the content and update our detection systems accordingly.”\n\nSpotify offers free tools that allow anyone to create, distribute and potentially monetize podcasts. Butits rulesprohibit “content that illicitly promotes the sale of regulated or illegal goods,” including illegal drugs. It uses both automated technology and human reviewers to enforce its rules, the company says.\n\nSpotify told investigators that none of the drug sales podcasts were monetized on its platform, reiterating an earlier statement to CNN that it had earned no revenue from the content.\n\nSpotify had already removed some such content prior to the investigation. It then removed 3,500 podcast accounts and 57,000 individual episodes between May — when the issue became public — and November of last year, compared to fewer than 100 accounts removed the year prior, according to the report. Spotify said that it had “’less complete data for previous years, ‘as we did not track removals in this way,’” the report states. Batey told CNN that the company’s “reporting structure has improved year over year.”\n\nSpotify told investigators that 94% of the phony podcasts had never been streamed and 99% had fewer than 10 streams, which the platform defines as listening sessions longer than 30 seconds. But a handful had been listened to more widely, including two totaling almost 13,000 streams that directed users to buy the prescription stimulant modafinil online, including with bitcoin.\n\nIt’s not clear how many Spotify users may have clicked through to the websites purporting to sell drugs because the company told investigators it “does not track interaction with hyperlinks embedded in podcast content,” the report states.\n\nSpotify says it has a process to refer content to law enforcement but did not do so for any of the drug-related podcasts it removed last year, according to the report. The company has previously said that the phony podcasts were largely spam or scam attempts. But one podcast identified by the investigators in July 2025 linked to “opioidstores.com,” which the Drug Enforcement Administration and other federal agencies later seized, the findings state.\n\nSpotify reiterated that it believes the podcast linking to “opioidstores.com” was spam. “Spotify has a long history of working with law enforcement when content violates the law,” the company told CNN.\n\nInvestigators said they found a “public playlist” on the platform advertising “oxycodone online” in December 2025, months after the company had begun engaging with them.\n\nHassan’s report suggests it’s not just a Spotify problem: Investigators found a small number of similar phony podcasts on other streaming platforms. That includes an episode advertising “Xanax Pills Online” on iHeart and a series promoting other drugs on Amazon Music and Podchaser.\n\n“The challenges that Spotify has faced in its efforts to remove content related to potential scams and illegal drugs should raise alarm bells about the volume of harmful content that exists across all types of online platforms,” Hassan told CNN.\n\nAmazon Music, iHeart and Podchaser did not immediately respond to requests for comment.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/05/16/tech/spotify-removing-drug-sales-podcasts",
+      "text": "identified by CNN"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/22/tech/spotify-drug-podcasts-senator-hassan-letter",
+      "text": "launched an investigation"
+    },
+    {
+      "url": "https://www.cnn.com/2022/12/28/us/campbell-fentanyl-dangers",
+      "text": "Parents"
+    },
+    {
+      "url": "https://www.cnn.com/2024/02/03/tech/social-media-ceos-hearing-families-push-legislation",
+      "text": "tech giants"
+    },
+    {
+      "url": "https://www.cnn.com/2021/02/10/us/therapist-son-fatal-overdose-snapchat/index.html",
+      "text": "teens have died"
+    },
+    {
+      "url": "https://www.cnn.com/2022/02/18/health/fentanyl-fatal-overdoses-middle-schoolers",
+      "text": "pills bought online"
+    },
+    {
+      "url": "https://www.spotify.com/us/safetyandprivacy/platform-rules",
+      "text": "its rules"
+    }
+  ],
+  "hash": "aab1fd89faa4e9b3166ab434263686a050bcfa0cd0ad6ed44d78603b71e28f25",
+  "scraped_at": "2026-06-13T09:42:36.797238+00:00"
+}
