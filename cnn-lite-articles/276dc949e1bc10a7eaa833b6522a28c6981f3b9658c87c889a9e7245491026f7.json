@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/06/13/business/anthropic-mythos-model-national-security",
+  "title": "Anthropic suspends all access to Mythos model after US government bans foreign nationals use | CNN Business",
+  "date": "2026-06-15T12:47:36.057596+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nAI company Anthropic has disabled customer access to its most capable systems after the US government ordered it to suspend all use by foreign nationals, Anthropic said in astatementFriday evening. The move is the latest in a series of adverse Trump administration actions targeting the company.\n\nThe broad directive to Anthropic’s Mythos 5 and Fable 5 models is one of the furthest-reaching actions the government has taken in response to the advanced capabilities of an AI model.\n\nAnthropic said the US government gave it the directive, citing “national security” issues.\n\nThe company said the government didn’t provide specific details about the national security concerns, though it believed the government had “become aware” of a method of “jailbreaking” Fable 5, or getting around its internal safety guardrails.\n\n“We reviewed a demonstration of this specific technique being used to identify a small number of previously known, minor vulnerabilities,” Anthropic said in its statement. “These vulnerabilities all appear relatively simple, and we have found that other publicly-available models are able to discover them as well without requiring a bypass.”\n\nAnthropic said it had instituted several safeguards for its newest models to “greatly reduce the likelihood” that they are “misused for tasks related to cybersecurity,” noting they’ve received complaints from users about those guardrails being too strict. Anthropic also noted it has worked with the US government to “red team” Fable’s safeguards and that no model is completely resistant to any jailbreak.\n\nAnthropic said that while they are complying with the directive and removing access to the models for everyone, “we disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people.”\n\n“If this standard was applied across the industry, we believe it would essentially halt all new model deployments for all frontier model providers,” the company added.\n\nThe restriction means that many foreign nationals working for Anthropic will not be able to touch those models.\n\nThe Commerce Department, which issued the restriction, did not immediately respond to a request for comment. Axios reported the government’s directive would require Anthropic to obtain a license “for the export, re-export or domestic transfer of those Anthropic models.”\n\nAnthropic’s newest model, Mythos, has spooked the US government and Wall Street with its capabilities, which experts say can exploit cybersecurity vulnerabilities at an unprecedented pace. The model was seen as so capable, Anthropic initially limited its release toa groupof key partners in order “to secure the world’s most critical software.” Anthropic released Fable 5 last week as a version of Mythos that is safe for general use.\n\nThe model also helped spark the Trump administration’s recentexecutive orderon AI, which asks companies to voluntarily share new models deemed to have advanced cyber capabilities with the government up to 30 days before providing access to other partners.\n\nOne source with knowledge of early discussions of the executive order said the idea of banning foreign nationals from working on such models had been floated for that order, but the idea never made it into a draft.\n\nThe government has had a complicated relationship with Anthropic. Earlier this year, the Trump administration blacklisted the company, declaring it a “supply chain risk” in military dealings over Anthropic’s insistence that the Pentagon include certain safety guardrails for the government’s use of AI in warfare. Anthropicsuedthe government over the designation as “unprecedented and unlawful” and notched at least one earlywinin the ongoing case.\n\nDespite President Donald Trump’s directive at the time of the designation for all of the federal government to cease working with Anthropic products, the White House has stayed inclose touchwith the company, and some parts of the federal government have found a workaround tocontinue accessingAnthropic’s models, especially after the release of Mythos.\n\nAnthropic was also deeply involved in helping draft the latest executive order, sources familiar with the situation told CNN, and its executives had been invited to the White House for a signing ceremony that was ultimately canceled at the last minute.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "text": "statement"
+    },
+    {
+      "url": "https://www.anthropic.com/glasswing",
+      "text": "a group"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/02/tech/executive-order-trump-ai",
+      "text": "executive order"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "text": "sued"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "text": "win"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/17/business/anthropic-white-house-meeting-dario-amodei",
+      "text": "close touch"
+    },
+    {
+      "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815?syn-25a6b1a6=1",
+      "text": "continue accessing"
+    }
+  ],
+  "hash": "276dc949e1bc10a7eaa833b6522a28c6981f3b9658c87c889a9e7245491026f7",
+  "scraped_at": "2026-06-15T12:47:36.057609+00:00"
+}
