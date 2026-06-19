@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/06/17/climate/trumps-justice-department-urges-court-to-throw-out-pollution-lawsuit-against-elon-musks-company",
+  "title": "Trump’s Justice Department urges court to throw out pollution lawsuit against Elon Musk’s company | CNN",
+  "date": "2026-06-19T10:59:34.978738+00:00",
+  "authors": [
+    "Laura Paddison"
+  ],
+  "text": "Source: CNN\n\nIn a highly unusual move, the US Justice Department has urged a federalcourt to throw out a lawsuit against Elon Musk’s company xAI for its use ofpolluting gas turbines— sparking concerns the government is trying to undermine the ability of individuals orcommunities to sue polluters.\n\nIn April, NAACP sued xAi and its subsidiary MZX Tech under the Clean Air Act, claiming the company was operatingdozens of gas turbines without air permitsor pollution controls in Southaven, Mississippi to power its “Colossus 2” data center in Memphis, Tennessee.\n\nThe methane gas turbines, located near homes and schools, are known to produce a cocktail of toxic pollutants. These include nitrogen oxides, a key component of ozone pollution — also called smog — which can cause asthma attacks and chest pain and, in the longer-term, has been linked todecreased lung function and premature death.\n\nThe Justice Department has asked the court to dismiss the suit, citing national security considerations. In amemopublished Tuesday, it said the data center trains and develops AI models that are “critical” to the economy and to defense and that the lawsuit threatens American energy and innovation.\n\n“The Department of Justice will not sit idly by while private organizations use environmental laws to undermine our national security,” said Principal Deputy Assistant Attorney General Adam Gustafson of the Environment and Natural Resources Division.\n\nThe move has sparked concerns among environmental law experts. “It’s highly unusual,” said Michael Gerrard, an environmental law professor at Columbia Law School. “They’re not disputing the allegations in the lawsuit; instead, they’re making a very unusual claim that citizen suits are unconstitutional,” he told CNN.\n\nThe future legal﻿ ramifications could be much broader than this case, Gerrard added, effectively taking away an important route for people to fight against pollution in their neighborhoods.\n\nThe Clean Air Act allows individuals and environmental groups to sue polluters in so-called citizen lawsuits. “Citizen suits are a bedrock insurance policy for communities to hold polluters accountable for decisions that cause them harm,” said Abre’ Conner, the NAACP’s director of environmental and climate justice.\n\nIn its memo, the Justice Department argued it has power under the act to intervene in these suits. “Interpreting the Clean Air Act to let private interest groups trump the Executive Branch’s exercise of enforcement discretion would violate the Constitution’s commitment of all executive power to the President,” said a Justice Department spokesperson.\n\nYet this marks the “first time” the US has intervened in a citizen suit against a private defendant arguing it be dismissed, Erika Kranz, a senior staff attorney at Harvard Law School, wrote in ananalysis.\n\nColossus 2, xAI’s huge data center in Memphis, powers xAI’s chatbot Grok, which the company promotes as an “anti-woke” version of OpenAI’s ChatGPT and has previously been under fire for loose guardrails, including allowing users to createNazi Mickey Mouseimages.\n\nThe Justice Department said in its courtfilingsthat Grok provides vital support for military operations, including in the war against Iran, allowing “US forces to deploy over 2,000 munitions to 2,000 distinct targets within 96 hours.” The lawsuit “hinders the War Department’s use of AI for national defense,” the Justice Department spokesperson told CNN.\n\nBut there has been considerable local pushback against data center pollution, as well as water and energy use. The attempt to strike down the lawsuit is “unconscionable,” said Tennessee State Rep. Justin J. Pearson, a Democrat, who lives a few miles from xAI’s data center. “The DOJ seeks to remove any recourse Americans have to protect themselves from harm,” he told CNN.\n\nNAACP’s lawsuit seeks daily fines of around $124,000 for xAI’s alleged pollution infringements and an injunction to stop the turbines operating until permits are secured. xAI did not respond to a request for comment but has previously said it does not need permits for turbines that are temporary.\n\nThis Justice Department intervention comes after SpaceX, xAI’s parent company,went public last weekin Wall Street’s largest IPO, which made Musk the planet’s first trillionaire.\n\nThe government’s intervention is “not about national security,” said Laura Thoms, director of enforcement for Earthjustice, a nonprofit public interest organization which represents the NAACP in the case. “It’s a desperate attempt to protect wealthy tech companies from obeying the laws meant to protect people from pollution — turning our communities into sacrifice zones so companies can build and profit from data centers quicker,” said Thoms, who until last August was assistant chief for environmental enforcement at the Justice Department.\n\nThe Justice Department said it was “committed to enforcing environmental laws” but that it had to balance public interests, including national security. “The federal government exercises this enforcement discretion every day without favoritism for any individual or company,” the spokesperson said.\n\nNew data centers are springing up across the US as part of Trump’s quest for global AI dominance. While they promise jobs and benefits to communities, Americans are increasingly wary andmovements to block new data centersare spreading.\n\nThis case could be relevant to lots of people if it sets a wider precedent, said Columbia’s Gerrard. If xAI’s data center is able to power itself through mobile turbines, he said, “that’s going to be replicated in many other places, and these mobile turbines are horribly polluting and will have a very negative health effect.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/05/19/climate/xai-musk-memphis-turbines-pollution",
+      "text": "polluting gas turbines"
+    },
+    {
+      "url": "https://www.selc.org/press-release/civil-rights-group-sues-xai-for-illegal-pollution-from-data-center-power-plant/",
+      "text": "dozens of gas turbines without air permits"
+    },
+    {
+      "url": "https://www.cnn.com/2025/04/23/health/air-pollution-report",
+      "text": "decreased lung function and premature death"
+    },
+    {
+      "url": "https://www.justice.gov/opa/pr/justice-department-files-intervene-and-dismiss-lawsuit-would-hamper-americas-ai-innovation",
+      "text": "memo"
+    },
+    {
+      "url": "https://eelp.law.harvard.edu/a-legal-challenge-with-major-implications-for-citizen-suits/",
+      "text": "analysis"
+    },
+    {
+      "url": "https://x.com/EliotHiggins/status/1824369439707480353",
+      "text": "Nazi Mickey Mouse"
+    },
+    {
+      "url": "https://www.justice.gov/opa/media/1446141/dl?inline",
+      "text": "filings"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/12/business/live-news/spacex-goes-public-ipo",
+      "text": "went public last week"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/11/tech/ai-data-centers-neighbors-reaction-callout",
+      "text": "movements to block new data centers"
+    }
+  ],
+  "hash": "d83bd59d95977a49723dda1c18808c41bf0aa10724f3e59cec261d70af05e552",
+  "scraped_at": "2026-06-19T10:59:34.978754+00:00"
+}
