@@ -1,0 +1,53 @@
+{
+  "url": "https://lite.cnn.com/2026/06/21/tech/anthropic-ai-regulation",
+  "title": "Anthropic export ban shows need for AI regulation, experts say | CNN Business",
+  "date": "2026-06-24T09:56:31.382728+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nWithin days of its release, Anthropic’s most sophisticated public AI modelwas abruptly yankedfrom customers.\n\nThe Trump administration called the model a national security risk after being notified of a jailbreak, or a way to get around its internal guardrails. It put an export ban on the model, which barred some of Anthropic’s own employees from using it.\n\nAnthropic, however, says the vulnerability doesn’t warrant such an extreme reaction.\n\nThe differing perspectives highlight the befuddled state of AI regulation in the United States. The government should be involved in conversations about AI safety, especially those that impact national security, experts say. But the latest spat between Anthropic and the government has surfaced a broader concern: There is no transparent, consistent framework for regulating AI – and the result could stifle the industry in the United States.\n\nAnd Anthropic, the red-hot AI lab worth nearly a trillion dollars that’s on the verge of going public, has been at the center of those tensions.\n\nThe government’s latest action comes after the AI companydisagreed with the Pentagonover requested modifications to its AI systems’ guardrails for the military’s use – leading to the Department of Defense to blacklist Anthropic bylabeling it a “supply chain risk.”Then, its latest AI model, Mythos, raised widespread cybersecurity concerns because the company said it was extremely adept at finding security flaws. Anthropic only released the full version of Mythos to a select group of partners before releasing a public version with guardrails called Fable 5 on June 9.\n\nNow, the Trump administration says some of those guardrails have failed, potentially enabling hackers to add an extremely capable tool to their arsenal. Anthropic pulled all access to both Mythos and Fable earlier this month to comply with the government’s directive.\n\nThat’s pushed some experts to call for a clearer window into how the government makes cybersecurity decisions — or risk America falling behind in the global AI arms race.\n\n“The problem is not that the government exercised discretion; national security demands such latitude,” Jessica Tillipman, associate dean for government procurement law at George Washington University, wrote in anessay. “What is striking is the absence of any meaningful process.”\n\nAnthropic and the administration have been meeting to try and resolve the issue. Trump said at the G7 summit on Wednesday negotiations with Anthropic are “going fine.” Trumptold Axiosin an interview published Friday that he no longer views the company as a national security threat. “Well, not now, but a week ago, maybe.”\n\nThe White House referred CNN to the Commerce Department, which did not respond to requests for comment.\n\nThe Trump administration has taken a light approach to artificial intelligence regulation so far, hoping to encourage AI advancements to keep the US stay ahead of adversaries like China.\n\nThe administration has rolled back Biden-era policies such as mandatory safety reporting thresholds in favor of voluntary frameworks and state law preemption. Trump in March issued anational policy frameworkfor AI, which serves as a blueprint and set of recommendations for Congress to develop AI policies. But the proposed plan says Congress shouldn’t regulate AI through a single rule-making body and should instead do so through sector-specific regulatory entities. It also says national security agencies need to understand frontier AI models and their potential safety risks.\n\nThe administration issuedan executive orderearlier this month asking AI companies to voluntarily share their most advanced models with the government for cybersecurity vetting before releasing them publicly. But even that order was delayed at the last minute after Trump said he was worried it would “get in the way” of American AI innovation.\n\nSome states have passed their own laws and sued AI companies over safety concerns. California, for example, passed a law requiring AI companies to issue risk frameworks, report safety issues and protect whistleblowers. Florida opened a criminal investigation into OpenAI andis suing the company. The state alleges OpenAI has harmed children and general consumers and that ChatGPT may have aided and abetted the mass shooting at Florida State University last year. OpenAI has rejected those allegations and says they take safety seriously through many different guardrails and initiatives.\n\nThe government should help establish AI safety protocols in a consistent, fair and clear way, said Brad Carson, head of Public First, a bipartisan pro-AI safety super PAC.\n\n“Right now, you have an ad hoc, personalized, opaque, possibly lawless approach,” he said.\n\nThe government didn’t give Anthropic specific details of the national security concern that led to the export control ban on Fable 5 and Mythos 5, the company said in a statement on June 12. Anthropic was initially given just 90 minutes to pull its models, a source close to the company told CNN.\n\nDozens of cybersecurity researchers, AI entrepreneurs, and corporate executives on Monday signed anopen lettercriticizing the government’s actions and urging the Trump administration to commit to “an open, scientific and transparent process of handling AI risk assessments in the future.”\n\nFurthermore, they pointed out that advanced AI models can be used by good-faith actors as well.\n\n“To pull the best capabilities away from defenders without a good reason when our adversaries are rapidly advancing is dangerous,” they wrote in the letter.\n\nSome have also questioned the severity of the jailbreak,which a source familiar with the situation said was first flagged to the government by Amazon. Anthropic said the vulnerabilities are minor and can also be found in models from other companies.\n\nSeveral AI safety researchers, including former Facebook chief security officer Alex Stamos,have saidthey’ve seen the research behind the government’s decision and disagree with its assessment.\n\n“There were some valid findings but no unique capabilities that justify a reaction close to this,” Stamos wrote on X.\n\nTrump adviser and former White House AI czar David Sacks pushed back on the idea that the jailbreak isn’t serious.\n\n“It’s difficult to fathom how they could claim a jailbreak allowing operability of a cyber weapon could be defined as not ‘serious,’” Sacks wrote on X.\n\nSome worry that the administration’s actions with Anthropic could set a broader precedent.\n\n“The damage does not stop at one firm. An administration that governs this way will not avoid the heavy regulation it fears,” Tillipman wrote. “It is manufacturing the conditions for catastrophe or abuse that, in every cycle I’ve documented, triggers exactly that response.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/06/13/business/anthropic-mythos-model-national-security",
+      "text": "was abruptly yanked"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "text": "disagreed with the Pentagon"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "text": "labeling it a “supply chain risk.”"
+    },
+    {
+      "url": "https://jessicatillipman.com/absolute-discretion-is-not-deregulation-what-the-latest-directive-against-anthropic-reveals-about-federal-ai-governance/",
+      "text": "essay"
+    },
+    {
+      "url": "https://www.axios.com/2026/06/19/trump-axios-show-interview-transcript-marc-caputo",
+      "text": "told Axios"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/20/tech/white-house-ai-framework",
+      "text": "national policy framework"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/02/tech/executive-order-trump-ai",
+      "text": "an executive order"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/01/business/florida-sues-chatgpt-openai-sam-altman",
+      "text": "is suing the company"
+    },
+    {
+      "url": "https://freefable.org/",
+      "text": "open letter"
+    },
+    {
+      "url": "https://x.com/alexstamos/status/2066540798200705299",
+      "text": "have said"
+    }
+  ],
+  "hash": "428f4a9aea5d3fa4ff85dbe047c4bb380aa08062602fc8f8eea4b61b9562f6c8",
+  "scraped_at": "2026-06-24T09:56:31.382740+00:00"
+}
