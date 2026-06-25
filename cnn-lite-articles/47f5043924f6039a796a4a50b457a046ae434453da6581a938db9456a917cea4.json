@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip",
+  "title": "OpenAI just announced its first custom chip to help ChatGPT run better | CNN Business",
+  "date": "2026-06-25T09:48:50.950947+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nOpenAI on Wednesday announcedits first custom AI chipina step towards expanding beyond consumer products to become a player in AI infrastructure.\n\nThe processor, called Jalapeño, was developed with Broadcom to more efficiently handle the computing needs for ChatGPT and OpenAI’s coding agent, Codex, the company said in a blog post. It’s also designed to handle workloads for future AI developments, OpenAI claims.\n\n“While OpenAI is still measuring final performance, early testing shows that Jalapeño will deliver performance per watt substantially better than current state-of-the-art,”the company said.\n\nOpenAI and Broadcomannounced plansto develop custom chips to power 10 gigawatts worth of computing last year, but only unveiled the first chip from that partnership on Wednesday.\n\nTech giants like Google and Amazon have increasingly shifted toward developing their own AI chips. Custom chips allow companies to better tailor processing performance for their own models and reduce reliance on existing chipcompanies like Nvidia. OpenAI said Jalapeño is designed specifically for modern large language models instead of being a “general-purpose” chip.\n\n“Nobody wants to be beholden to Nvidia,” Ben Barringer, global head of technology research at investment firm Quilter Cheviot, told CNNlast Novemberwhen asked aboutGoogle potentially challenging Nvidia in AI chips. “They are trying to diversify their chip footprint.”\n\nThe announcement comes as OpenAI isgearing up for an initial public offeringthat could potentially value it at a trillion dollars – putting more pressure on the company to prove it can generate revenue to match that valuation.\n\nAnd there’s big money to be made in AI infrastructure; chipmaker Nvidia becamethe world’s most valuable companylargely because its chips and systems have become critical components tothe data centers that run AI models.\n\nMeanwhile, AI companies are alsoscrambling to secure the computing and energy resources needed to fuel their more sophisticated AI services shifting from simple chatbot queries to agents that run continuously. OpenAIhas previously mentionedthe need to build “huge amounts of AI infrastructure” to keep down the costs of running AI.\n\nFor consumers, OpenAI is positioning the new chip as a means to make its AI models more affordable so that its services can become more accessible.\n\n“By designing more of the stack ourselves, we can serve more intelligence with greater efficiency and keep pushing advanced AI toward broader access,” Greg Brockman, cofounder and president of OpenAI, said in the blog post.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "text": "its first custom AI chip"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/13/tech/openai-broadcom-power",
+      "text": "announced plans"
+    },
+    {
+      "url": "https://www.cnn.com/2025/11/29/tech/ai-chips-google-gemini-3-tpu-nvidia",
+      "text": "last November"
+    },
+    {
+      "url": "https://www.cnn.com/2025/11/29/tech/ai-chips-google-gemini-3-tpu-nvidia",
+      "text": "Google potentially challenging Nvidia in AI chips"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/08/tech/openai-files-for-ipo",
+      "text": "gearing up for an initial public offering"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/07/business/nvidia-trillion-valuation-ai-chips-vis",
+      "text": "the world’s most valuable company"
+    },
+    {
+      "url": "https://openai.com/index/our-principles/",
+      "text": "has previously mentioned"
+    }
+  ],
+  "hash": "47f5043924f6039a796a4a50b457a046ae434453da6581a938db9456a917cea4",
+  "scraped_at": "2026-06-25T09:48:50.950962+00:00"
+}
