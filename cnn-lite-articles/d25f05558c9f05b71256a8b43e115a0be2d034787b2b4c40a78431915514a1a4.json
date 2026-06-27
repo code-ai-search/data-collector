@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/06/24/politics/appeals-court-rejects-demand-confidential-voter-roll-data",
+  "title": "Appeals court deals biggest setback yet to Trump DOJ’s demands for confidential voter roll data | CNN Politics",
+  "date": "2026-06-27T09:10:37.661148+00:00",
+  "authors": [
+    "Tierney Sneed"
+  ],
+  "text": "Source: CNN\n\nA federal appeals court on Wednesdayrejected demands by the Justice Departmentthat Michigan turn over non-public information in their voter registration files, in the biggest setback yet to the Trump administration’s attempt to obtain and audit unredacted voter rolls from states across the country.\n\nThe 6th US Circuit Court of Appeals said Michigan was not obligated to produce the confidential voter data – which could include social security numbers and driver’s license ID numbers – to the department.\n\nNine judges at the district court level have ruled against the administration’s efforts. This is the first time an appeals court has weighed in, potentially setting up the stage for a Supreme Court showdown on the issue.\n\nWriting for the appellate panel majority, Circuit Judge Andre Mathis said the1960 civil rights lawJustice Department was relying on in its lawsuit seeking to force the production of the data did not cover Michigan’s aggregated voter file.\n\n“Back then, the government used this power to ensure that everyone who had the right to vote could freely exercise that right,” Mathis wrote. “But today, the government invokes Title III for an inverse purpose—to ensure that some people have not voted.”\n\nMichigan Attorney General Dana Nessel applauded the ruling, writing in a statement Wednesday, “The federal government continues to show a blatant disregard for voter privacy, but the rule of law has once again prevailed.”\n\nThe Justice Department has sued 30 states that have refused to produce their unredacted voter rolls.\n\nThe sweeping DOJ campaign for nearly every state’s unredacted voter roll is one of several examples of how the administration – fueled by President Donald Trump’s longstanding beliefs that the 2020 election was rigged against him – has sought to assert more federal control in elections.\n\nCourts, however, have pushed back at many of those efforts. Just this week, a judge in DCblocked the use of the federal citizenship data system for purging voter rolls, and earlier Wednesday, arulingfrom a Boston federal court added to the pile of decisions striking down parts of a 2025 Trump executive order related to election rules.\n\nIn the case before the 6th Circuit, the dispute centered on whether the Justice Department could use provisions of the 1960 Civil Rights Act – which was aimed at pushing back on Jim Crow-era voter discrimination – to obtain voter rolls.\n\nThe law gives the attorney general the authority to demand the production of certain voting-related records that “come into” the “possession” of election officials. But the 6th Circuit – joining several other lower courts – concluded that the voter registration files that are assembled and maintained internally by states weren’t among the records the law covers.\n\nMichigan Secretary of State Jocelyn “Benson did not acquire, obtain, or receive the qualified voter file from a third party. Instead, Michigan officials created it themselves,” Mathis wrote in the opinion, which was joined by Circuit Judge R. Guy Cole, Jr. The ruling also said the Justice Department had failed to meet other requirements under the law in making its requests for the data.\n\nCircuit Judge John B. Nalbandian dissented.\n\nAs the Michigan case and the several others unfolded, DOJ lawyers gave shifting explanations for why they needed the voter files. But more recently, the administration has been clear that it plans to compare the state voter rolls against a Department of Homeland Security data system for verifying citizenship. That tool is already available for election officials to use voluntarily, and it has developed a reputation for turning up false positives because the data can be outdated, with naturalized citizens particularly at risk of being wrongly identified as ineligible voters.\n\nThis story has been updated with additional details.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.documentcloud.org/documents/28316441-us-v-benson-opinion/",
+      "text": "rejected demands by the Justice Department"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/14/politics/voter-rolls-lawsuits-civil-rights-act",
+      "text": "1960 civil rights law"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/22/politics/voter-rolls-immigration-social-security-trump",
+      "text": "blocked the use of the federal citizenship data system for purging voter rolls"
+    },
+    {
+      "url": "https://www.documentcloud.org/documents/28316470-ca-v-trump/?mode=document#document/p5",
+      "text": "ruling"
+    }
+  ],
+  "hash": "d25f05558c9f05b71256a8b43e115a0be2d034787b2b4c40a78431915514a1a4",
+  "scraped_at": "2026-06-27T09:10:37.661161+00:00"
+}

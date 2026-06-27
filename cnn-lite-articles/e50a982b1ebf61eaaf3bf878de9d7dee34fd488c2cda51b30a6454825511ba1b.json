@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/06/25/politics/judge-blocks-trump-mail-ballot-order",
+  "title": "Judge halts Trump executive order aimed at mail voting in states that challenged it | CNN Politics",
+  "date": "2026-06-27T09:10:14.939651+00:00",
+  "authors": [
+    "Tierney Sneed"
+  ],
+  "text": "Source: CNN\n\nA federal judge on Thursday froze major parts ofan executive orderby President Donald Trump aimed at cracking down on mail voting, blocking the administration from taking further steps to implement it as it would affect two-dozen states that challenged the directives in court.\n\nUS District Judge Indira Talwani, an Obama appointee who sits in Boston, is the latest judge to push back on Trump’s broader efforts to insert the federal government into election administration, a task largely designated by the Constitution to the states.\n\n“The Constitution does not grant the President any specific powers over elections,”she wrote.\n\nHer ruling partially halts a Trump directive that would have imposed new requirements on states’ mail voting programs in order for theUS Postal Service to deliverthe ballots. USPS cannot carry out its plan for the new regulations in the 23 Democratic-led states and the District of Columbia.\n\nThe order also blocks for those states Trump’s order that Department of Homeland Security create lists of each state’s voting-age citizens ahead of the election. She explicitly halted the administration from “taking any steps to create a new federal program to superintend and control Plaintiff States’ maintenance of their voter rolls,” or bringing prosecutions against election officials in those states based on the executive order’s instructions\n\nHer ruling came in one of several lawsuits challenging Trump’s March 2026 executive order, and she agreed with the challengers that he had exceeded his authority in issuing it.\n\nTrump’s order contemplates giving the USPS and DHS new roles in screening the mail voting process and in the search for potential non-citizen voters.\n\nUndera plan proposedto comply with his instruction, USPS would require states to submit lists of their mail voters 30 days before the election in order to use the postal service for transmitting ballots. The plan also mandates that states put individualized ballot tracking barcodes on ballot envelopes — barcodes that also would be provided to the mail carrying agency.\n\nCritics say the plan is practically infeasible, while running afoul of both the Postal Service’s statutory obligations and the Constitution’s separation of powers.\n\nDHS, meanwhile, has been ordered by Trump to usefederal databasesto assemble lists of citizens that could be provided to states. The March executive order did not connect the DHS provisions to the instructions for USPS. But in court filings since, the administration has indicated that DHS is exploring data-sharing with the postal agency to “identify anomalies that may suggest voter fraud or misuse.”\n\nEven before the March 2026 order, the Trump administration was ramping up efforts to use federal immigration data to hunt for non-citizens. However, the DHS citizenship data program that has been commonly used in that exercise is known to turn up false positives, prompting fears that eligible voters will be wrongly purged from the voter rolls.\n\nIn a separate case in Washington, DC, this week, afederal judge blockedthe use of that citizenship data system for purging voter rolls.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/03/31/politics/mail-in-voting-trump-executive-order",
+      "text": "an executive order"
+    },
+    {
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.298518/gov.uscourts.mad.298518.191.0.pdf",
+      "text": "she wrote"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/11/politics/trump-postal-service-election-fraud-crusade",
+      "text": "US Postal Service to deliver"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/10/politics/postal-service-deliver-mail-in-ballots",
+      "text": "a plan proposed"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/05/politics/trump-voter-database-election-fraud",
+      "text": "federal databases"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/24/politics/appeals-court-rejects-demand-confidential-voter-roll-data",
+      "text": "federal judge blocked"
+    }
+  ],
+  "hash": "e50a982b1ebf61eaaf3bf878de9d7dee34fd488c2cda51b30a6454825511ba1b",
+  "scraped_at": "2026-06-27T09:10:14.939667+00:00"
+}
