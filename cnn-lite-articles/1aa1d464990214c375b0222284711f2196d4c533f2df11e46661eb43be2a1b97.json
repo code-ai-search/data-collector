@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/06/25/tech/openai-limit-release-white-house",
+  "title": "White House asks OpenAI to limit its next model release | CNN Business",
+  "date": "2026-06-29T11:29:47.355740+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe White House has requested OpenAI limit the release of its upcoming GPT 5.6 model to a small number of government-approved partners because of its advanced capabilities, a source familiar with the situation told CNN.\n\nThe request comes after the administration placed an export control order on Anthropic, leading to the AI companypullingits latest most advanced models Mythos and Fable. Those models raised fears in Washington and on Wall Street over their advanced  cybersecurity capabilities, which some worry could lead to unprecedented safety risks.\n\nOpenAI and the administration view OpenAI’s latest model as “on par” with Mythos, according to the source. OpenAI agreed to limit the model’s release as a path toward launching it publicly during a “strange moment” with no true federal regulatory framework in place for new AI models.\n\nTheInformation, which first reported the Trump administration’s request, cited a memo OpenAI CEO Sam Altman sent to the company on Thursday, in which he said the government is approving access “customer by customer.”\n\n“We’ve made clear to the U.S. government that this is not our preferred long term model, and will work with them and others in industry to achieve a more sustainable approach for future releases,” Altman said in the memo, according to The Information.\n\nA White House official told CNN they continue “to collaborate with frontier AI labs to develop shared approaches for addressing the challenges of scaling this technology.”\n\nIn anannouncementon Friday, OpenAI confirmed GPT 5.6’s limited release to a small group at the government’s request.\n\n“We don’t believe this kind of government access process should become the long-term default. It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them,” the company said in the post.\n\nOpenAI hopes to make the new model widely available “in the coming weeks” while working with the administration to figure out a framework for future releases, the company wrote.\n\nThough President Donald Trump signed an executive order earlier this month that asked AI companies with advanced models to voluntarily submit them for government review 30 days before release, the framework for that has not been established.\n\nIn the interim, there’s confusion among AI companies on who or which agency is directing AI regulation. The request to OpenAI came from the White House, whereas the export control ban on Anthropic came from the Commerce Department.\n\nThe government should be involved in conversations about AI safety, especially those that impact national security,experts say. But as it stands, there is no transparent, consistent framework for regulating AI – and experts fret that could stifle the industry.\n\n“The Fable episode shows the need for clear regulations. Right now, you have an ad hoc, personalized, opaque, possibly lawless approach,” Brad Carson, head of Public First, a bipartisan pro-AI safety super PAC told CNN last week. “It is certainly appropriate for the government to recall dangerous products, including AI models, but it has to be done in a way consistent with transparency and basic fairness.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/06/13/business/anthropic-mythos-model-national-security",
+      "text": "pulling"
+    },
+    {
+      "url": "https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns",
+      "text": "Information"
+    },
+    {
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "text": "announcement"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/21/tech/anthropic-ai-regulation",
+      "text": "experts say"
+    }
+  ],
+  "hash": "1aa1d464990214c375b0222284711f2196d4c533f2df11e46661eb43be2a1b97",
+  "scraped_at": "2026-06-29T11:29:47.355755+00:00"
+}
