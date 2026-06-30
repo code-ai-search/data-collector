@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/06/26/tech/anthropic-mythos-release",
+  "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns | CNN Business",
+  "date": "2026-06-30T10:07:15.546576+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe US government has allowed Anthropic to release its powerful Mythos AI model to select companies and organizations, revising license requirements after ordering an export block earlier this month in the wake of national security fears.\n\nSince the export ban earlier in June, “Anthropic has worked with the US government to address risks associated with the Covered Models,” Commerce Secretary Howard Lutnick wrote to the company in a letter dated Friday.\n\nIn light of progress in that work, Lutnick wrote, “I have determined that appropriate safeguards are in place to permit certain trusted partners to access the Claude Mythos 5 Model.”\n\nThe letter does not include permission for Anthropic to release Fable, a less powerful version of Mythos.\n\n“We received notice from the US government that Mythos 5, our strongest cybersecurity model, can be redeployed to a small group of cyber defenders and infrastructure providers,” Anthropic said in a statement.\n\n“We are working to provision the approved set of providers and restore their access to Mythos 5 as quickly as possible. We are pleased to see this progress and continue to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again,” the statement added.\n\nConversations between Anthropic and the government are expected to continue into the weekend, with an eye to restoring access to Fable, as well, a source familiar with the discussions told CNN.\n\nEarlier this month,Anthropic disabled customer accessto both Mythos and Fable to comply with the US government’s order to suspend all use by foreign nationals — including Anthropic employees themselves.\n\nThe export ban and subsequent negotiations with Anthropic underscored the lack of a consistent regulatory framework around AI, even as the technology advances rapidly and the US tries to stay ahead of global competitors like China.\n\nSemaforfirst reported the government’s permission to release Mythos.\n\nUntil recently, the Trump administration has taken a largely hands-off approach to regulating artificial intelligence, seeking to keep US companies ahead of Chinese competitors in particular.\n\nBut the recent action on Anthropic, as well as asking OpenAI to limit its own newest model, comes after experts have fretted for months that Mythos could pose a security risk by giving hackers and other bad actors access to AI capable of finding andexploiting vulnerabilities exceptionally quickly.\n\nThe federal government’s relationship with Anthropic, one of the major US AI companies, has hit other snags, as well. Earlier this year, the administration labeled it a“supply chain risk,”effectively blacklisting it, over a disagreement about military uses for Anthropic’s products.\n\nAnthropic sued over that designationand has notched at least one earlywinin the ongoing case.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/06/13/business/anthropic-mythos-model-national-security",
+      "text": "Anthropic disabled customer access"
+    },
+    {
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "text": "Semafor"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity",
+      "text": "exploiting vulnerabilities exceptionally quickly."
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "text": "“supply chain risk,”"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "text": "Anthropic sued over that designation"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "text": "win"
+    }
+  ],
+  "hash": "cf3f56751502e40cae00259e1e65d012d22abe6832603e20a85f8a8ed7fceb9a",
+  "scraped_at": "2026-06-30T10:07:15.546588+00:00"
+}
