@@ -1,0 +1,55 @@
+{
+  "url": "https://lite.cnn.com/2026/06/30/us/us-wildfires-tracker-maps-charts-vis",
+  "title": "Tracking wildfires across the US in maps and charts | CNN",
+  "date": "2026-07-01T10:27:54.806274+00:00",
+  "authors": [
+    "Koko Nakajima",
+    "Amy O’Kruk",
+    "Matt Stiles"
+  ],
+  "text": "Source: CNN\n\nEach year,wildfires across the United Statesburn millions of acres and destroy thousands of homes and other structures, according todatafrom the National Interagency Fire Center.\n\nCNN is monitoring the country’s largest active wildfires, along with their effects on air quality. Information on this page is updated periodically throughout the day.\n\nA warming climate and dry conditions have contributed to more intense and destructive fire seasons in recent years, particularly in Western states such as California. The fires erupt across the country. This map tracks the locations of the largest active fires right now.\n\nThis list shows details about the largest active fires being monitored.\n\nThe number of fires and their affected areas varies each year, according to NIFC data. This chart shows acres burned in the at this point in current year in the context of recent history.\n\nFine particles in wildfire smoke can pose health risks for some residents in affected areas. Federal officialsrecommendchecking local air quality to make informed decisions about your health during such events. This table tracks theUS Air Quality Indexhourly at hundreds of locations across the country.\n\nSenior data and graphics editor Sam Hart and interactive developer Curt Merrill contributed reporting to this story.\n\nAbout the data:Data in the map and table is collected throughout the day from theNational Interagency Fire Centerand excludes fires discovered more than 30 days ago, firessmaller than 10 acres, fully contained fires and prescribed burns. State name reflects fire origin.Smoke areasassociated with fires are derived using satellite imagery from theNOAA Hazard Mapping System. Annual cumulative acre totals are derived from weekly situation reports published by the National Interagency Fire Center. The totals may in some cases be adjusted down during the year due to reporting revisions by NIFC, and some dates are missing due to government shutdowns and report anomalies. The residents living in wildfire weather population total is derived from a spatial analysis of 2020 US Census data at the tract level and the boundaries of current National Weather Servicefire weather watches and red flag alerts. Air quality data fromAirNow.govand represents the air quality index for fine particulate matter, or PM2.5. Location names derived from US county and Canadian census division boundaries based on geographic coordinates.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/weather/us-wildfire-fast-facts-dg",
+      "text": "wildfires across the United States"
+    },
+    {
+      "url": "https://www.nifc.gov/fire-information/statistics",
+      "text": "data"
+    },
+    {
+      "url": "https://www.airnow.gov/air-quality-and-health/fires-and-your-health/",
+      "text": "recommend"
+    },
+    {
+      "url": "https://www.airnow.gov/aqi/aqi-basics/",
+      "text": "US Air Quality Index"
+    },
+    {
+      "url": "https://www.nifc.gov/",
+      "text": "National Interagency Fire Center"
+    },
+    {
+      "url": "https://data-nifc.opendata.arcgis.com/datasets/nifc::wfigs-current-interagency-fire-perimeters/about",
+      "text": "smaller than 10 acres"
+    },
+    {
+      "url": "https://www.arcgis.com/home/item.html?id=ab7a5fbd76e3499296350eabf599fc63",
+      "text": "Smoke areas"
+    },
+    {
+      "url": "https://www.ospo.noaa.gov/Products/land/hms.html",
+      "text": "NOAA Hazard Mapping System"
+    },
+    {
+      "url": "https://www.weather.gov/lot/firewx_definition",
+      "text": "fire weather watches and red flag alerts"
+    },
+    {
+      "url": "https://www.airnow.gov/aqi/aqi-basics/",
+      "text": "AirNow.gov"
+    }
+  ],
+  "hash": "828e3f09f6c4b000570997adef80bb7d825e8201faa0cd6ca61414687d8e18f9",
+  "scraped_at": "2026-07-01T10:27:54.806283+00:00"
+}

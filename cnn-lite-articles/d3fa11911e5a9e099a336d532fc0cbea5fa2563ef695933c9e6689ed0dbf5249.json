@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/06/30/tech/anthropic-export-control-ban-lifted-white-house",
+  "title": "White House lifts export control on Anthropic that froze its most advanced models | CNN Business",
+  "date": "2026-07-01T10:27:06.952488+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe US government has lifted export controls on Anthropic’s most advanced AI models, the company said Tuesday evening.\n\n“We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5,” Anthropic said in a statement. “We’ll begin restoring access tomorrow, and will share an update soon.”\n\nThe statement came shortly after Commerce Secretary Howard Lutnick posted on social media about lifting export controls on Fable, one of the Anthropic models in question.\n\n“Over the past two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America’s leadership in AI,” Lutnick said in aposton X.\n\nFable is a version of Anthropic’s most advanced AI model, known as Mythos, but with extra guardrails to make it suitable for public use.\n\nThe export ban, and subsequent negotiations between Anthropic and the administration, highlighted much of the continued regulatory uncertainty around AI, even as the technology advances well beyond current rules.\n\nThe government said earlier this month that a trusted partner, which CNN learned was Amazon, found a jailbreak, or a way to get around Fable’s guardrails. (Anthropic said at the time the jailbreaks were “simple” and that “other publicly-available models” had similar work-arounds).\n\nA source at Anthropic said the company implemented a new safeguard to directly address and block the vulnerabilities reported by Amazon.\n\nThe Commerce Department then issued an export ban requiring the company to suspend all use by foreign nationals — including Anthropic employees themselves — to try to address the risk.Anthropic disabled customer accessto both Mythos and Fable as a result.\n\nAfter Anthropic and the government worked together to address cyber risks,the Commerce Departmentlast week allowed Anthropic to release Mythos to select government-approved entities.\n\nExperts say Mythos can exploit cybersecurity vulnerabilities at an unprecedented pace. Anthropic limited its release toa groupof key partners “to secure the world’s most critical software.”\n\nThe White House alsorequestedOpenAI limit the release of its upcoming GPT 5.6 model to a small number of government-approved partners because of its advanced capabilities. OpenAI said at the time they “don’t believe this kind of government access process should become the long-term default.”\n\nThis article has been updated with additional information.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://x.com/howardlutnick/status/2072100729603452965",
+      "text": "post"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/13/business/anthropic-mythos-model-national-security",
+      "text": "Anthropic disabled customer access"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/26/tech/anthropic-mythos-release",
+      "text": "the Commerce Department"
+    },
+    {
+      "url": "https://www.anthropic.com/glasswing",
+      "text": "a group"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house/",
+      "text": "requested"
+    }
+  ],
+  "hash": "d3fa11911e5a9e099a336d532fc0cbea5fa2563ef695933c9e6689ed0dbf5249",
+  "scraped_at": "2026-07-01T10:27:06.952502+00:00"
+}
