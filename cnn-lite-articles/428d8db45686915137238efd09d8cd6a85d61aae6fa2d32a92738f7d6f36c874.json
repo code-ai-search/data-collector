@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/07/08/business/apple-broadcom-chips",
+  "title": "Apple says it will spend $30 billion to design US-made Broadcom chips | CNN Business",
+  "date": "2026-07-10T09:58:36.482506+00:00",
+  "authors": [
+    "Chris Isidore"
+  ],
+  "text": "Source: CNN\n\nApple announced a $30 billion deal to design chips made in the United States by Broadcom. It’s part of Apple’s continued effort to diversify the source of its components and help support domestic chip production – a goal shared by President Donald Trump.\n\nBroadcom makes wireless connectivity chips to help gadgets connect to Wi-Fi, cell networks and Bluetooth.\n\nThose aren’t the highly-sought-after memory and storage chips that have become incredibly expensive during the AI boom and caused Apple to raise prices. But tariffs have raised prices for Apple too – by billions of dollars a quarter, leading the company to work toward onshoring some of its component manufacturing.\n\nIn addition to seeking to support American chipmaking, Apple (AAPL) sees a need to diversify its supply chain away from from the Taiwanese chipmakers it relies upon to manufacture the processors that power its iPhones, iPads, and Mac computers.\n\nLast month Trump announced a$9 billion deal by Appleto buy American-made chips from Intel, into which the federal government had made a$8.9 billion investment.\n\nThe agreement with Broadcom will lead to the production of 15 million chips in United States and allow Broadcom (AVGO) to invest $1.5 billion to expand and modernize its manufacturing facilities in Fort Collins, Colorado. It is part of Apple’s commitment in August to invest $600 billion as part of its “American Manufacturing Program” which it said is dedicated to bringing even more of the company’s supply chain and advanced manufacturing back to the US.\n\n“Apple and Broadcom have a long history together, and this new phase of our partnership further accelerates our commitment to American manufacturing and innovation,” said Apple CEO Tim Cook in a statement.\n\nCooktold the Wall Street Journalin June that price hikes on its products are “unavoidable” because of the rising costs of memory and storage chipssparked by the AI boom.\n\n“We’re doing our best to mitigate the huge increases that are being passed to us, and we’ve been trying to shield our customers from the increases, but the situation has become unsustainable,” Cook told the newspaper.\n\n– CNN’s Jordan Valinsky contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/markets/stocks/AAPL",
+      "text": "AAPL"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/18/tech/intel-chip-production-usa-trump",
+      "text": "$9 billion deal by Apple"
+    },
+    {
+      "url": "https://www.cnn.com/2025/08/22/tech/trump-intel-10-percent-stake",
+      "text": "$8.9 billion investment"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/AVGO",
+      "text": "AVGO"
+    },
+    {
+      "url": "https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1",
+      "text": "told the Wall Street Journal"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/ai-memory-chips-smartphones-intl-hnk",
+      "text": "sparked by the AI boom"
+    }
+  ],
+  "hash": "428d8db45686915137238efd09d8cd6a85d61aae6fa2d32a92738f7d6f36c874",
+  "scraped_at": "2026-07-10T09:58:36.482519+00:00"
+}
