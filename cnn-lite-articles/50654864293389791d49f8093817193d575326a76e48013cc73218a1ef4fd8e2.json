@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/07/10/tech/meta-eu-addictive-design",
+  "title": "Facebook and Instagram’s ‘addictive design’ may violate European law, EU Commission finds | CNN Business",
+  "date": "2026-07-12T08:35:56.183302+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nThe European Commission says Meta must make significant changes to Facebook and Instagram to address the “addictive design” of the social media platforms.\n\nFeatures on the apps such as autoplay, infinitely scrolling feeds, personalized recommendations and push notifications could compromise users’ “physical and mental wellbeing,” the commission said in astatement Thursday. It found that Meta has failed to adequately address or warn users of those risks, and that it may be running afoul of the EU’s Digital Services Act.\n\nThe statement is the result of an investigationlaunched in 2024into whether Meta is violating the DSA, theEU’s sweeping regulationsfor online platforms that went into effect the year prior.\n\nThe findings, which Meta disputes, followrulings from two US juriesthis year that Meta has intentionally addicted and harmed young users — cases that focused on many of the same features. A number of countries, including some in the EU, are also moving to block young teens from accessing social media, afterAustralia implementeda world-first ban on social media for children under 16 last year.\n\nMeta spokesperson Ben Walters said in a statement that Meta disagrees with the findings, “which don’t accurately take into account the significant steps we’ve taken to protect teens.”\n\n“Since this investigation began, we rolled out Teen Accounts that automatically protect teens and put parents in control — allowing them to block access to Instagram at night and cap daily screen time at just 15 minutes,” the statement reads. “We share the European Commission’s commitment to providing teens with safe, positive online experiences and will continue to engage constructively with them.”\n\nThe European Commission’s findings are preliminary, and Meta will have the opportunity to dispute them. But if Meta is found in violation of the DSA, it could be fined as much as 6% of its global revenue — which could total more than $12 billion, based on last year’s earnings.\n\nThe commission’s findings state that Meta failed to consider the risks of autoplay, infinite scroll and personalized recommendations, which “fuel the user’s urge to keep scrolling and shift the brain into ‘autopilot mode,’ contributing to unhealthy habits and compulsive use.” The report also states that Meta disregarded information about how much time teens spend on its apps at night.\n\nMeta’s efforts to mitigate those risks aren’t working, the commission found.It said that time management reminders can easily be dismissed and that the app’s parental control tools require parents to have some level of technical expertise and devote time to understanding them, undermining their effectiveness.\n\nLast month, areport from researchers at New York University and Northeastern Universityevaluating the effectiveness of social media youth safety features found that 66% of Instagram’s tools were either non-functional or too hard for a young person to find. The report also called out concerns around how easily young people could dismiss Instagram’s time management reminders. In response to that report, Meta said the feature was working as intended — that it was designed to be a reminder but ultimately let young people decide how much time to spend on the app, although parents could set strict time limits.\n\nMeta firstrolled outits“Teen Accounts” safety settingsin 2024, following years of criticism from parents and lawmakers over the app’s impact on teens’ mental health and well-being. The settings provide default privacy protections, time limits and content restrictions for users under the age of 18 — assuming they registered with the accurate birthdate — although 16- and 17-year-olds canopt outof some of those settings themselves. (Meta has said it’s using artificial intelligence to detect when a teen is lying about their age, but it’s not clear how well the technology works.)\n\nThe European Commission said Meta should disable key addictive features such as autoplay and infinite scroll, which would be a major shift to how the platforms operate. It also said it should adjust its “recommender system to make it less engagement-oriented.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579",
+      "text": "statement Thursday"
+    },
+    {
+      "url": "https://www.cnn.com/2024/05/16/tech/europe-investigation-meta-child-safety",
+      "text": "launched in 2024"
+    },
+    {
+      "url": "https://www.cnn.com/2023/08/25/tech/eu-launches-big-tech-regulations/index.html",
+      "text": "EU’s sweeping regulations"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/25/tech/social-media-addiction-trial-jury-decision",
+      "text": "rulings from two US juries"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/09/tech/australia-social-media-teen-ban-us-explainer",
+      "text": "Australia implemented"
+    },
+    {
+      "url": "https://us.cnn.com/2026/06/29/tech/social-media-youth-safety-protections-evaluation-report",
+      "text": "report from researchers at New York University and Northeastern University"
+    },
+    {
+      "url": "https://help.instagram.com/995996839195964/",
+      "text": "rolled out"
+    },
+    {
+      "url": "https://www.cnn.com/2024/09/24/business/video/meta-instagram-teen-accounts-restrictions-contd-digvid",
+      "text": "“Teen Accounts” safety settings"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/14/tech/instagram-teen-accounts-safety-features?source=sub_web_wall-met",
+      "text": "opt out"
+    }
+  ],
+  "hash": "50654864293389791d49f8093817193d575326a76e48013cc73218a1ef4fd8e2",
+  "scraped_at": "2026-07-12T08:35:56.183314+00:00"
+}
