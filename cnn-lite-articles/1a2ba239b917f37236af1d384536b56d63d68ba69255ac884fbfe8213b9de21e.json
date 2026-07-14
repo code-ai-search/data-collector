@@ -1,0 +1,34 @@
+{
+  "url": "https://lite.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit",
+  "title": "Apple accuses OpenAI of using stolen trade secrets to create its upcoming AI gadgets in new lawsuit | CNN Business",
+  "date": "2026-07-14T08:34:29.484171+00:00",
+  "authors": [
+    "Lisa Eadicicco",
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nApple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets.\n\nIn the suit, filed in the District Court of Northern California, Apple accuses OpenAI of trade secret misappropriation and breach of contract.\n\nOpenAIlast year announcedit has been working with Apple’s former design chief on a hush-hush project to build devices meant to bring smartphone users into the age of AI.\n\nThe device is expected to be unveiled later this year – but the lawsuit could throw a wrench into those plans. The suit could also complicate OpenAI’s plans to go public soon in a massive, hotly anticipated IPO.\n\n“We have no interest in other companies’ trade secrets,” said Drew Pusateri, a spokesperson for OpenAI. “We remain focused on building innovative technology that empowers people everywhere.”\n\nThe suit names OpenAI; OpenAI’s Chang Liu, a former Apple engineer, and OpenAI hardware chief Tang Tan, who previously led iPhone and Apple Watch product design. The lawsuit also named io Products, the company founded by Jony Ive, Apple’s design chief until 2019 who helped usher the iPhone into existence. The suit does not name Ive as a defendant, nor does it accuse him of wrongdoing. OpenAI bought io last year.\n\nLiu and Tan played a critical role in the theft, Apple alleges. Liu left Apple to join OpenAI in January 2026 and did not respond to Apple’s attempts to ensure that he signed the company’s confidentiality reminder, schedule an exit interview and confirm that he returned his company devices, Apple claimed in the suit. The lawsuit says he failed to return a work-issued laptop and also gained access to a former colleague’s work computer after leaving the company.\n\nLiu accessed and downloaded “dozens of Apple’s confidential hardware-related files, including voluminous, detailed information about unreleased products, engineering presentations, technical specifications, and proprietary project data,” the lawsuit says.\n\nApple alleges that Tan used confidential company information when recruiting candidates, including instructing them to bring Apple parts during the interview process. It also alleges Tan and OpenAI coached Apple employees on how to leave the company.\n\nTan also told OpenAI about key meetings with Apple suppliers and emailed himself information about those suppliers before leaving his role, Apple alleges.\n\nThe company also says it found evidence that other former Apple employees had taken confidential information with them upon leaving to work for OpenAI.\n\n“At Apple, our teams are constantly developing breakthrough technologies to create the best products and services in the world, and protecting their work and intellectual property is something we take very seriously,” Apple said in a statement.\n\nIn the lawsuit, Apple said it contacted OpenAI to raise its concerns when the investigation was in its early stages but that it never received a response.\n\nThe lawsuit also represents a breakdown in the relationship between the two companies, which in 2024 announced apartnershipto start integrating ChatGPT into Apple products. But in May,Bloombergreported that OpenAI was considering legal action against Apple, potentially alleging breach of contract over claims that Apple had not sufficiently integrated and promoted OpenAI’s products across its devices.\n\nOpenAI has aggressively poached top current and former Apple leadership and engineering talent, primarily to build a dedicated hardware division.\n\nAccording to a CNN count of LinkedIn profiles, OpenAI has recently hired at least ten engineers who joined the AI company directly from Apple.\n\nThe lawsuit highlights the high-stakes rivalry among tech giants to dominate the AI era. OpenAI has made sweeping changes to its product strategy, aiming to put ChatGPT at the center of consumers’ digital lives. And Apple is set to launch its long-awaited revamped version of Siri later this year, which will be able to work across apps and personalize answers by referencing a user’s iPhone data.\n\nOpenAI hasn’t said much publicly about its secretive hardware project.The Informationhas reported that OpenAI is working on a smart speaker, while The Wall Street Journalreportedthat OpenAI’s device will be aware of a user’s surroundings.\n\nAI is reshaping how people interact with technology, and these kinds of hardware efforts are part of a push by tech companies to keep themselves at the forefront of those changes.Tech giants largely believe that as AI agents grow more capable of handling everyday tasks, consumers may not need to use apps or interact with screens as often.\n\nThis story has been updated with additional information.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/05/21/tech/jony-ive-apple-design-chief-openai",
+      "text": "last year announced"
+    },
+    {
+      "url": "https://www.cnn.com/2024/06/14/tech/apple-openai-partnership",
+      "text": "partnership"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
+      "text": "Bloomberg"
+    },
+    {
+      "url": "https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices",
+      "text": "The Information"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/what-sam-altman-told-openai-about-the-secret-device-hes-making-with-jony-ive-f1384005",
+      "text": "reported"
+    }
+  ],
+  "hash": "1a2ba239b917f37236af1d384536b56d63d68ba69255ac884fbfe8213b9de21e",
+  "scraped_at": "2026-07-14T08:34:29.484187+00:00"
+}
