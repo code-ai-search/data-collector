@@ -1,0 +1,21 @@
+{
+  "url": "https://lite.cnn.com/2026/07/14/tech/ibm-stock-worst-day-ever",
+  "title": "IBM is on pace for its worst day ever | CNN Business",
+  "date": "2026-07-15T08:40:03.834769+00:00",
+  "authors": [
+    "David Goldman"
+  ],
+  "text": "Source: CNN\n\nAn extraordinary warning from IBM CEO Arvind Krishna sent shares plunging – on pace for their worst day in the 115-year-old company’s history.\n\nIBM (IBM) shares plunged 24% in premarket trading. Its worst day ever was October 19, 1987 – aka Black Monday – when shares fell 23.7%, mirroring the worst day in the overall stock market’s history.\n\nIn a preview of the company’s earnings (IBM is set to report its quarterly financial statement on July 22), Krishna said the company struggled over the past three months as customers rapidly changed their technology budgets and scrambled to get their hands on servers, storage and memory that AI datacenters are gobbling up.\n\nThat gave IBM customers less to spend on its new z17 mainframe computer, which the company was betting on to land business customers in the AI era.\n\n“What played out was worse than our expectations,” Krishna said in a statement about the company’s second-quarter financial performance. “We did not adapt and move quickly enough.”\n\nThe price of microchips – particularly memory and storage processors – has surged in recent months as demand for those crucial datacenter components have blown through the roof.Apple raised pricesof Macs and iPads, and others are expected to follow suit.\n\nIBM saw that change coming, but was alarmed by how much its customers shifted their purchasing behavior to get chips and equipment while they still can – or while they’re still reasonably affordable.\n\n“While we anticipated some supply chain related impact in our expectations, we did not anticipate the magnitude of the capex reprioritization,” Krishna said.\n\nIBM also said its customers were distracted by Anthropic’s Mythos debut, which the AI company warned could give hackers tools to discover cybersecurity vulnerabilities in corporate systems before companies become aware of them. That paused several large deals that IBM had anticipated it would close by the time the quarter had ended.\n\n“These conditions require our teams to execute perfectly, and this quarter we faltered,” Krishna said. “These are not excuses, but they are realities.”\n\nKrishna said IBM is quickly innovating out of the turmoil, noting that the company launched its Lightwell open-source security software in rapid response to Mythos.\n\nThe company said its preliminary sales grew just 1% in the past quarter, and its unadjusted earnings per share fell 2% – both below the company’s forecasts.\n\nLike many tech companies, IBM’s stock has gotten knocked around considerably this year. Shares are down 2% in 2026 as tech investors struggle to understand how companies will adapt to the rapidly changing landscape.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/markets/stocks/ibm",
+      "text": "IBM"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/13/tech/ai-memory-shortage-apple-nintendo-price-hikes",
+      "text": "Apple raised prices"
+    }
+  ],
+  "hash": "54e3a8522b13f04816eabb4302a03793147cc88f750a182ad05034cae6084f28",
+  "scraped_at": "2026-07-15T08:40:03.834784+00:00"
+}
