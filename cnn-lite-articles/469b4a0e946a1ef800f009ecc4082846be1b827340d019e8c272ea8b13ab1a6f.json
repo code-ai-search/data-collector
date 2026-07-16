@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/07/14/politics/us-indicts-russia-cybercrime",
+  "title": "Cybercrime: US indicts Russians alleged to be at center of major cybercrime network | CNN Politics",
+  "date": "2026-07-16T08:39:51.756566+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nThe US Justice Department on Tuesday announced the indictment of three Russians whoprosecutors saywere at the center of a major cybercrime network that allegedly helped hackers target hospitals, schools and banks across the US, causing $62 million in damages.\n\nTheindictmenttargets one of the more brazen services provided by and for cybercriminals: so-called “bulletproof hosting” services, which lease internet infrastructure to hackers and claim to offer safe haven from law enforcement.\n\nUS prosecutors accused two Russian men, Aleksandr Volosovik and Kirill Zatolokin, of operating a bulletproof-hosting provider from a corporate office in St. Petersburg, Russia’s second largest city. A Russian woman, Yulia Pankova, is also charged in the criminal conspiracy. The charges include conspiracy to commit wire fraud and money laundering.\n\nThe Russia-based company, Media Land, has supported numerous criminal groups who have claimed dozens of victims, the Justice Department alleged. The company was incorporated in 2015, according to Russian business records, and is based in a semi-industrial part of St. Petersburg. The State Department is now offering up to $10 million for information on the company and its executives as the US government investigation into Media Land continues.\n\nCNN has requested comment from an email address associated with Media Land.\n\nUS and European law enforcement have tracked Volosovik, Zatolokin and Pankova for years. When the US Treasury Department sanctioned them last year, it released a photo of Zatolokin holding a weapon and wearing a Media Land t-shirt.\n\n“To this day, they are likely still shielding criminal activity,” Brett Leatherman, assistant director of the FBI’s cyber division, told CNN, referring to Media Land.\n\nThe FBI will be watching to see if the crackdown on Media Land leads cybercriminals to seek out other bulletproof hosting services, Leatherman said.\n\n“We’re looking for that now — to understand where those shifts may be and what opportunities are available to us in law enforcement and in the intelligence community to target those,” he added.\n\nMichael DeBolt, president and chief intelligence officer at security firm Intel471, described bulletproof hosting providers as “fuel to the cybercrime underground.”\n\n“Whether its deploying malware, hosting illicit marketplaces, launching ransomware or safeguarding stolen digital goods, Media Land’s impact should be measured by the years of criminal activity it has supported, enabled and sustained,” DeBolt told CNN.\n\nThe FBI, Secret Service and other law enforcement agencies have for years conducted operations to disrupt ransomware gangs, which extracthundreds of millionsin ransoms annually from victims. While some officials in the Biden administration floated the idea of banning ransom payments, the idea was ultimately shelved because of the adverse impacts it might have on certain victims.\n\nWith Russia continuing to harbor the hackers, FBI agents are trying to chip away at the problem by targeting the ransomware groups’ computing tools, some of which are based outside of Russia.\n\nThe law enforcement operations have produced results: millions of dollars in cryptocurrency seized and prolific hackers arrested and extradited. But by other measures, the problem is getting more brazen and concerning. To augment their hacking, a Russian-speaking crime group has been hiring people to show up to major US law firms and plug-in USB sticks,CNN reported last month.\n\nCNN has requested comment from the Russian embassy in Washington, DC.\n\nTuesday’s indictment is one of a raft of Western law enforcement and intelligence actions related to Russian criminal or state-sponsored hacking in the last week. The British government and European Union on Monday accused the Russian FSB intelligence service of trying to hack the Polish power grid last year in an attack that could have cut power for half a million people. For its part, Dutch intelligence accused Russian state-backed hackers of “systematically” breaching video cameras in Europe to surveil military transport routes and weapon deliveries to Ukraine.\n\nLeatherman, the FBI official, said the US government continues to regularly warn about the Russian state-backed hacking because, after an initial lull following Russia’s full-scale invasion of Ukraine in 2022, “we have seen, probably over the last year or so, an uptick in [Russian cyber] targeting of the United States.”\n\nCNN’s Darya Tarasova contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.justice.gov/usao-ndoh/pr/three-russian-nationals-indicted-international-cybercrimes-resulting-more-62m-losses",
+      "text": "prosecutors say"
+    },
+    {
+      "url": "https://www.justice.gov/usao-ndoh/media/1452416/dl?inline",
+      "text": "indictment"
+    },
+    {
+      "url": "https://www.chainalysis.com/blog/crypto-ransomware-2026/",
+      "text": "hundreds of millions"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/27/politics/cybercriminals-hire-burglars-russian-us-law-firms",
+      "text": "CNN reported last month"
+    }
+  ],
+  "hash": "469b4a0e946a1ef800f009ecc4082846be1b827340d019e8c272ea8b13ab1a6f",
+  "scraped_at": "2026-07-16T08:39:51.756581+00:00"
+}

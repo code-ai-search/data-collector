@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/07/15/economy/us-ppi-wholesale-inflation-june",
+  "title": "Wholesale inflation improved as energy prices fell last month — but relief may be temporary | CNN Business",
+  "date": "2026-07-16T08:38:43.415054+00:00",
+  "authors": [
+    "Elisabeth Buchwald"
+  ],
+  "text": "Source: CNN\n\nInflation at the wholesale level cooled last month, helped by a sharp drop in energy prices, according to data released Wednesday by the Bureau of Labor Statistics.\n\nOn an annual basis, the Producer Price Index, which measures the prices businesses receive for their goods and services, slowed at a 5.5% pace in June, compared to a revised 6% in May.\n\nThe decline came from a 1.4% drop in goods prices, the largest fall in four years. A 12% drop in gasoline prices accounted for two-thirds of the index’s overall decline.\n\nOn a monthly basis, prices fell 0.3% in June versus a 0.6% increase in the prior month.\n\nExcluding volatile food and energy prices, core PPI slowed to a pace of 4.6% in June from the 4.9% pace seen in May.\n\nWholesale prices do not typically translate one for one into higher prices for consumers, but they can raise the likelihood that businesses will pass along some of those costs, especially if elevated expenses persist.\n\nWhile the decline in energy prices provided some relief to businesses last month, that could prove short lived now thatthe conflict in the Middle East has reignited.\n\nAfter Tuesday’s similarly positiveConsumer Price Indexreport came out, Federal Reserve Chairman Kevin Warsh said he wasn’t reading too much into it.\n\n“It’s one data point,” he told lawmakers on Tuesday during his semiannual testimony to Congress. “There might be some that look at this morning’s data and say, ‘Oh, mission accomplished. Everything is swell.’ That is not my view.”\n\nWith the US and Iran resuming military strikes, oil from the Persian Gulf is again tied up. That has led to higher oil prices, which is likely to put upward pressure on inflation in coming months.\n\n“Energy saved the day in June, but that might become ancient history if the Strait of Hormuz doesn’t open soon,” David Russell, global head of market strategy at TradeStation, said in a note Wednesday morning.\n\nIncreases in semiconductor chip prices resulting from skyrocketing demand to meet computing capacity to power AI are also contributing to the higher costs of computers and computing equipment. That index jumped by 2.5% in just one month.\n\nApplerecently announced10% to 15% price hikes on some of its products, citing memory chip shortages. Other electronic manufacturers are expected to follow suit.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/15/world/live-news/iran-war-trump",
+      "text": "the conflict in the Middle East has reignited."
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/14/business/live-news/cpi-inflation-kevin-warsh-capitol-hill-testimony",
+      "text": "Consumer Price Index"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/25/tech/apple-hikes-the-prices-of-macbooks-and-ipads-because-of-memory-chip-shortage",
+      "text": "recently announced"
+    }
+  ],
+  "hash": "3354b66a368784c602f6d24c9cefb298908de8f2faaa23ee8fb5d3fde7c13fb0",
+  "scraped_at": "2026-07-16T08:38:43.415069+00:00"
+}

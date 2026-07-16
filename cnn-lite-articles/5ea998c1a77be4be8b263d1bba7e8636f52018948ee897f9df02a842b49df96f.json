@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/07/14/health/legionnaires-new-york-cooling-towers",
+  "title": "Dozens of New York cooling towers test positive for Legionnaires’ bacteria as outbreak reaches 63 cases | CNN",
+  "date": "2026-07-16T08:38:16.173609+00:00",
+  "authors": [
+    "Jen Christensen"
+  ],
+  "text": "Source: CNN\n\nNew York City is managing a community cluster of Legionnaires’ disease cases on the Upper East Side that officials believe is tied to bacteria found in cooling towers. Towers on 76 buildings on the Upper East Side have tested positive for the bacteria, the city’s Department of Health and Mental Hygiene said Tuesday.\n\nPneumonia caused byLegionella bacteriahas been confirmed in 63 people this month, but no deaths have been reported.\n\nTwelve people are now hospitalized, and 40 have been discharged from the hospital as of Tuesday night. Generally, about 1 in 10 people who get Legionnaires’ disease will die, according to theUS Centers for Disease Control and Prevention. There are no deaths connected to this cluster of cases.\n\nLast year, a communitycluster of cases in Harlemsent 92 people to the hospital and killed seven. Those cases were connected to cooling towers, prompting the city to enact a law in May that requires more frequent inspections of the equipment and increased fines for property owners that failed to comply.\n\nCooling towers, used for refrigeration and general building cooling,expel building heatinto the atmosphere by pulling outside air through warm water from a central chiller that gets sprayed over a fill material. As fans pull air through the water, a small amount evaporates, cooling the remaining water, which recirculates to take up more heat. People can get sick when they are exposed to vapor from those systems if there’s bacteria in it.\n\nStudies showthat cooling towers and other warm, wet environments like hot tubs, spas, fountains and some plumbing systems are particularly vulnerable to Legionella bacteria.\n\nNew York sees hundreds of Legionnaires’ cases every year, but officials have noticed a spike in cases clustered in three particular ZIP codes: 10128, 10028 and 10075. Anyone who has been in that area in the past couple of weeks is advised to watch for symptoms such as fever, chills, fatigue, headaches, low appetite, confusion and diarrhea.\n\nMost people who are exposed to Legionella bacteria don’t get sick at all, but people can get sick after high or repeated exposure, especially in vulnerable groups that can include people who are over 50, who vape or smoke, or who have weakened immune systems or underlying health conditions like diabetes, heart, kidney, liver or lung disease. There is no vaccine or medicine to prevent it, and masks don’t seem to offer protection, the New York health department said. Treatment involves antibiotics and sometimes oxygen therapy or intensive care.\n\nThe department has tested 183 cooling towers identified as a potential source of bacteria in the affected ZIP codes and directed the owners of 76 buildings to drain, clean and disinfect those towers.\n\nThe buildings includeseveral residences such as luxury condo, townhouse and co-op buildings, as well as some that would be frequented by several visitors like the Metropolitan Museum of Art, the cultural center 92NY and the historic Church of All Souls one of New York’s oldest Unitarian Churches.\n\nDr. Alistair Martin, commissioner of the New York City Department of Health and Mental Hygiene, said Tuesday that owners of 57 buildings have confirmed that they’ve completed the required remediation. The remaining 19 are required to do so by Thursday.\n\n“Seventy-six buildings we know is a significant number, but we knew that that list would be long. There’s a high concentration of cooling towers in the Upper East Side,and our initial screening tests cast a wide net,” Martin said at a news conference Tuesday. “These results are also indicative of just how common Legionella is in our builtenvironment, and that’s why we stay vigilant.”\n\nPublic health officials noted that this particular cluster of cases is not connected to drinking water, showers or air conditioners.\n\nLegionnaires’ disease is not contagious, and it can be managed if people are given antibiotics early in the course of the disease.\n\nThe rate of cases seems to be slowing, but more illnesses could still pop up. The incubation period is two to 14 days, so people may not know yet if they are sick.\n\nThe city says it will do additional tests to try to pinpoint exactly where the outbreak started and to distinguish between live and dead bacteria, which the initial tests can’t do. Those tests can take several weeks.\n\n“We did not wait, nor will we wait, for confirmatory testing, which could take weeks of the bacterial culture. We don’t have time for weeks,” Martin said at a town hall meeting Monday. “That aggressive posture and not waiting for the bacterial culture result we thought was incredibly important to take this potential offending bacteria off the map.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cdc.gov/legionella/about/index.html",
+      "text": "Legionella bacteria"
+    },
+    {
+      "url": "https://www.cdc.gov/legionella/about/index.html",
+      "text": "US Centers for Disease Control and Prevention"
+    },
+    {
+      "url": "https://www.nyc.gov/site/doh/about/press/pr2026/new-cooling-tower-legionella-testing-regulations-take-effect.page",
+      "text": "cluster of cases in Harlem"
+    },
+    {
+      "url": "https://deltacooling.com/resources/faqs/what-is-a-cooling-tower",
+      "text": "expel building heat"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19699013/",
+      "text": "Studies show"
+    },
+    {
+      "url": "https://www.nyc.gov/site/doh/health/health-topics/legionnaires-disease.page",
+      "text": "The buildings include"
+    }
+  ],
+  "hash": "5ea998c1a77be4be8b263d1bba7e8636f52018948ee897f9df02a842b49df96f",
+  "scraped_at": "2026-07-16T08:38:16.173624+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/07/14/tech/ai-cybersecurity-clearing-house-white-house",
+  "title": "White House launches AI cybersecurity clearinghouse | CNN Business",
+  "date": "2026-07-16T08:39:04.755719+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe White House is establishing a new AI cybersecurity clearinghouse to help coordinate cybersecurity defenses across critical infrastructure.\n\nIndustries and critical infrastructure are racing to catch up with new AI models with increasingly advanced abilities that can find and exploit (but also defend against) cybersecurity vulnerabilities. Some AI companies have even held off widely releasing their most advanced models to allow key partners time to patch vulnerabilities before the models are widely available.\n\nThe White House’s clearinghouse, dubbedGold Eagle, is a joint project across the Treasury, the Department of Homeland Security and the Pentagon. AI and cybersecurity companies, along with critical infrastructure ​providers like utilities and banks, will use the platform to communicate and coordinate their efforts.\n\n“These new capabilities make vulnerability discovery at a scale … that we have not seen before,” a senior White House official told reporters during a briefing on Tuesday.\n\nThe goal of the new clearinghouse is to “deconflict and make sure resources are not being wasted, fixing or scanning for the same vulnerabilities, that those vulnerabilities are validated,” the official added, “and then a team of industry and government engineers are working to triage, prioritize and fix those vulnerabilities.”\n\nThe White House declined to specify which companies are part of this project, describing them as “open-source software partners and American critical infrastructure companies.” Open-source software’s source code is publicly available, allowing anyone to freelyview, use, modify and distribute it. The most well-known AI models from companies like OpenAI, Google and Anthropic, are closed-source.\n\nOpen-source software is ubiquitous but often run by volunteers who might not have the money and time to secure the code.\n\nIn 2021, acritical bugin open-source software left hundreds of millions of devices around the world vulnerable to hacking and triggered a frantic response from Biden administration officials.\n\nThe clearinghouse announced Tuesday is a requirement established by an  executive order that President Donald Trump signed in June.\n\nThat executive order also requires a system for AI companies tosubmit advanced models to the federal government for review up to 30 days before they’re released to other “trusted partners.” The framework, which must be established by early August, hasn’t publicly established yet.\n\nHowever,the White House has already limited the release of new AI models through other means, like an export control ban on Anthropic that was eventuallylifted. The White House also asked OpenAI tolimitthe release of its latest model.\n\nThe seemingly haphazard approach to regulating new model releases has led to widespread calls from the AI industry for more consistent regulation.\n\nCNN’s Sean Lyngaas contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
+      "text": "Gold Eagle"
+    },
+    {
+      "url": "https://www.cnn.com/2022/07/14/politics/government-software-vulnerability",
+      "text": "critical bug"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/26/tech/anthropic-mythos-release",
+      "text": "lifted"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house",
+      "text": "limit"
+    }
+  ],
+  "hash": "16ed725130b312283eee78b8510b565806ae7b41519632f3e891d083ea5c82d3",
+  "scraped_at": "2026-07-16T08:39:04.755736+00:00"
+}
