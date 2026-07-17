@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/07/16/business/truth-social-data-wall-street",
+  "title": "Truth Social will sell Wall Street quicker access to posts | CNN Business",
+  "date": "2026-07-17T08:31:29.847850+00:00",
+  "authors": [
+    "John Towfighi"
+  ],
+  "text": "Source: CNN\n\nTruth Social will sell Wall Street firms quicker access to market-moving posts from President Donald Trump, the company said on Thursday.\n\nTruth Social, owned by Trump Media & Technology Group (DJT), has become the president’s go-to place for announcing policy decisions. The president’s posts frequently move markets, from stocks to oil.\n\nTrump Media announced a new data feed, known as an API, or application programming interface, that will be available to institutional customers beginning on August 1. Competing social networks also sell traders access to their APIs.\n\nThe feed will provide real-time data from the top 10-ranking Truth Social accounts and deliver posts to customers “in milliseconds,” the company said. There was no available information on pricing.\n\nThe company said the faster-access offering would help add to Trump Media’s revenue stream. It serves as the latest in a growing list of examples of the president blurring the lines between his business and his White House duties.\n\n“Markets already move on Truth Social posts,” Kevin McGurn, interim chief executive officer at TMTG, said in a statement.\n\n“Truth API delivers a direct, licensed, real-time feed of the platform’s most market-moving Truths while advancing our strategy to monetize proprietary assets through a high-margin, recurring revenue stream,” McGurn added.\n\nWall Street trading desks use algorithms to scan for specific signals and execute trades automatically. Getting information even a scant few seconds faster can mean potentially massive profits for those algorithmic traders.\n\nSome of the Truth Social accounts with the highest engagement include Trump, FBI Director Kash Patel and Health Secretary Robert F. Kennedy Jr.\n\nCompanies have previously tried to scrape data from Truth Social, which is in violation of its terms of service, a spokesperson said.\n\nThe president’s posts about Iran and the Strait of Hormuz have moved oil markets. His announcements about levying tariffs in the spring of 2025 caused stocks to drop – and then his posts about backing off some tariffs caused them to surge.\n\nTrump has also used Truth Social to tout specific businesses – including some in which he had recently bought shares﻿,a CNN investigation found.\n\nTruth Social’s new data feed is the latest case of a business related to Trump monetizing his tenure in the White House. Trump owns about 41% of shares in Trump Media through a revocable trust, according to FactSet.\n\nIt’s uncertain how the new business venture will impact the value of the president’s shares in Trump Media. The stock rose 0.6% on Thursday but is down about 27% this year.\n\nThe president’s second term has included a series of unprecedented, massive financial gains that have drawn criticisms of conflict of interest.\n\nFinancial disclosures released earlier this month showed that Trump made more thanone billion dollarsin 2025 from his cryptocurrency business ventures.\n\nThat comes on top of revenues for everything from Trump’s Mar-a-Lago club, royalties and licensing fees in the tens of millions of dollars.\n\nCNN has reached out to the White House for comment.\n\nThis story has been updated.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/markets/stocks/DJT",
+      "text": "DJT"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/16/us/trump-stock-sales-truth-social-invs-vis",
+      "text": "a CNN investigation found"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/30/politics/trump-cryptocurrency-millions-disclosures",
+      "text": "one billion dollars"
+    }
+  ],
+  "hash": "e57b695e997cf83e594a5fdba4038e9d11c2888a10896922898d999b56f822c1",
+  "scraped_at": "2026-07-17T08:31:29.847866+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/07/15/business/xai-sues-user-alleged-child-sexual-abuse-materials",
+  "title": "Elon Musk’s xAI sues user over allegedly creating child sexual abuse materials with Grok | CNN Business",
+  "date": "2026-07-17T08:32:43.221844+00:00",
+  "authors": [
+    "Ramishah Maruf"
+  ],
+  "text": "Source: CNN\n\nElon Musk’s xAI sued a user on Tuesday, alleging he used the Grok chatbot to create child sexual abuse materials. It’s one of the first lawsuitsfiled by a tech company against users who allegedly create explicit content with AI.\n\nMusk’s company alleged in the lawsuit that a user named Terry Wayne Harwood violated its terms of service “to convert non-sexual photographs into sexually explicit images without the photograph subjects’ knowledge or consent.” Harwood, along with three other men, wasarrestedearlier this year in South Carolina on multiple counts of alleged sexual exploitation of a minor.\n\nCNN has reached out to the attorney representing Harwood in his criminal case for comment.\n\nThe lawsuit, filed in the US District Court for the Northern District of Texas, alleges Harwood created multiple xAI accounts and entered “misleading prompts” to create explicit deepfakes of both minors and adults.\n\nThe lawsuit further alleges that Harwood designed prompts it characterized as “misleading” in order to “circumvent” what it described as “built-in safeguards” to prevent against the creation of explicit material depicting minors.\n\n“Defendant breached the xAI Terms of Service and Acceptable Use Policy by leveraging Grok to generate non-consensual sexually explicit images and CSAM,” or child sexual abuse material, the suit adds.\n\nEarlier this year, Grok came under fire for a tool that allowed“digital undressing,”including AI-generated images of children.After users began noticinga surge in non-consensual, sexualized deepfakes late last year, Musk and xAI said they would take action against such illegal use of the AI. “Anyone using Grok to make illegal content will suffer the same consequences as if they upload illegal content,” Musk write in a January 6 social media post quoted in the suit.\n\nHarwood’s alleged misuse of Grok exposed xAI “to significant legal risk and reputational damage,” the lawsuit alleged.\n\nIn the lawsuit, xAI claims that it “has suspended 52,222 accounts and made 73,604 reports to (National Center for Missing & Exploited Children) in 2026, resulting in (at least) 244 arrests.”\n\nThe lawsuit seeks a declaration that Harwood broke the site’s Terms of Service and unspecified damages.\n\nxAI has faced scrutiny over its chatbot before. Last year, ​the company posted a lengthy apology for a series of violent and antisemitic posts from Grok,placing the blame on a system update.\n\nCNN’s Hadas Gold contributed to this report.\n\nCNN’s Hadas Gold contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.scag.gov/about-the-office/news/four-upstate-men-arrested-on-child-sexual-abuse-material-charges/",
+      "text": "arrested"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/14/tech/grok-elon-musk-image-generation",
+      "text": "“digital undressing,”"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/08/tech/elon-musk-xai-digital-undressing",
+      "text": "After users began noticing"
+    },
+    {
+      "url": "https://www.cnn.com/2025/07/12/tech/xai-apology-antisemitic-grok-social-media-posts",
+      "text": "placing the blame on a system update"
+    }
+  ],
+  "hash": "edd03bdd89c502a1a5cc49430c9bc695bf94b6dda20cc631d2ea488a68fee664",
+  "scraped_at": "2026-07-17T08:32:43.221860+00:00"
+}

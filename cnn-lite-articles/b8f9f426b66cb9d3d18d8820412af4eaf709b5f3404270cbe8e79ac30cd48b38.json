@@ -1,0 +1,26 @@
+{
+  "url": "https://lite.cnn.com/2026/07/14/tech/apple-lawsuit-dismissal-child-sexual-abuse-material-icloud",
+  "title": "Judge dismisses lawsuit against Apple over alleged child sexual abuse material on iCloud | CNN Business",
+  "date": "2026-07-17T08:34:16.790561+00:00",
+  "authors": [
+    "Ramishah Maruf",
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nApple avoided responsibility for the alleged circulation of child sexual abuse material on iCloud after a judge dismissed a lawsuit against the company on Tuesday. The onus should be on lawmakers to protect children instead, the judge said.\n\nThe proposed class action was filed by two individuals going by “Amy” and “Jessica.” It claimed that the tech giant failed to “stop or limit the spread” of child sexual abuse materials, also known as CSAM.\n\nApple fought back against the claims using Section 230, a law that holdsonline platforms can’t be held accountable for what their users post. The judge sided with that defense in a win for the company and the power of Section 230.\n\nUS District Judge Noël Wise in San Jose, California, said in her decision Tuesday that there is no existing law that requires companies to proactively identify and report CSAM. She said that it is up to lawmakers, not the court, “to fix this problem that is contributing to the exploitation of children,” despite possible privacy issues with such a law. The case was dismissed with prejudice, meaning that the plaintiffs cannot refile.\n\nThe plaintiffs are “reviewing Judge Wise’s ruling and evaluating our options,” Hillary Nappi, a lawyer representing the plaintiffs, said in an email.\n\n“This decision only adds urgency to the pending legislative efforts to ensure technology companies can be held accountable for the harm caused by their design choices,” she added.\n\nApple has made privacy and security for users a hallmark of its brand, but the iPhone maker has for years also faced criticism that it could be doing more to prevent bad actors from operating on its systems.\n\nIn 2021, the companywalked backa controversial plan to detect CSAM on iCloud. Though some child safety advocates supported the attempt, critics raised privacy concerns because the detection would happen directly on user devices.\n\nThe West Virginia attorney generalalso sued Applethis February, claiming it allowed CSAM to be stored and distributed on iCloud. That case is ongoing. (At the time, an Apple spokesperson said that “protecting the safety and privacy of our users, especially children, is central to what we do.”)\n\nThe ruling is a major win fora tech giant using Section 230 in a year that has tested the limits of the law’s liability shield.\n\nEarlier this year, two cases sidestepped Section 230 to hold Meta and YouTube liable for harms against their users by focusing on the companies’ design choices. In one case, in New Mexico, Meta was ordered to pay $375 million in damages; in the other, in California, Meta and YouTube were ordered to pay a combined $6 million in damages.\n\nGrowing concerns around therisks of social mediato young people have reignited a discussion on and around Capitol Hill about whether Section 230 should be reformed or repealed. Recent lawsuits have also shed light on what tech companies have known about those risks.\n\nCNN has reached out to Apple for comment.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2022/12/08/tech/apple-csam-tool",
+      "text": "walked back"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/19/tech/apple-west-virginia-lawsuit-icloud",
+      "text": "also sued Apple"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/20/tech/parents-fight-online-youth-safety-laws",
+      "text": "risks of social media"
+    }
+  ],
+  "hash": "b8f9f426b66cb9d3d18d8820412af4eaf709b5f3404270cbe8e79ac30cd48b38",
+  "scraped_at": "2026-07-17T08:34:16.790577+00:00"
+}
