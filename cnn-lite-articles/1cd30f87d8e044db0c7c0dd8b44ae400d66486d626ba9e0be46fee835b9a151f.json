@@ -1,0 +1,26 @@
+{
+  "url": "https://lite.cnn.com/2026/07/17/health/legionnaires-death-nyc",
+  "title": "One death reported in New York City Legionnaires’ disease cluster | CNN",
+  "date": "2026-07-18T08:13:16.628018+00:00",
+  "authors": [
+    "Katherine Dillinger",
+    "Jen Christensen"
+  ],
+  "text": "Source: CNN\n\nOne person has died in connection with a cluster of Legionnaires’ disease cases in New York City, Health Commissioner Dr. Alister Martin said Friday.\n\nAs of Thursday night, 67 cases have been reported, and 12 people are hospitalized. Forty-three others were previously hospitalized but have been discharged.\n\nMartin said officials will not be releasing any further information on the person who died.\n\nOfficials believe that the cases are connected with bacteria found in building cooling towers on the Upper East Side. Towers for 76 buildings tested positive for Legionella bacteria, and their owners were ordered to drain, clean and disinfect them.\n\n“All have confirmed that they completed the required remediation,” Martin said in a statement.\n\nLast year, a communitycluster of cases in Harlemsent 92 people to the hospital and killed seven. Those cases were connected to cooling towers, prompting the city to enact a law in May that requires more frequent inspections of the equipment and increased fines for property owners that failed to comply.\n\nCooling towers, used for refrigeration and general building cooling,expel building heatinto the atmosphere by pulling outside air through warm water from a central chiller that gets sprayed over a fill material. As fans pull air through the water, a small amount evaporates, cooling the remaining water, which recirculates to take up more heat. People can get sick when they are exposed to vapor from those systems if there’s bacteria in it.\n\nStudies showthat cooling towers and other warm, wet environments like hot tubs, spas, fountains and some plumbing systems are particularly vulnerable to Legionella bacteria.\n\nPublic health officials noted that this particular cluster of cases is not connected to drinking water, showers or air conditioners.\n\nNew York sees hundreds of Legionnaires’ cases every year, but officials have noticed a spike in cases clustered in three particular ZIP codes: 10128, 10028 and 10075. Anyone who has been in that area in the past couple of weeks is advised to watch for symptoms such as fever, chills, fatigue, headaches, low appetite, confusion and diarrhea.\n\nLegionnaires’ disease is not contagious, and it can be managed if people are given antibiotics early in the course of the disease.\n\nMost people who are exposed to Legionella bacteria don’t get sick at all, but people can get sick after high or repeated exposure, especially in vulnerable groups that can include people who are over 50, who vape or smoke, or who have weakened immune systems or underlying health conditions like diabetes or heart, kidney, liver or lung disease.\n\nThere is no vaccine or medicine to prevent it, and masks don’t seem to offer protection, the New York health department said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.nyc.gov/site/doh/about/press/pr2026/new-cooling-tower-legionella-testing-regulations-take-effect.page",
+      "text": "cluster of cases in Harlem"
+    },
+    {
+      "url": "https://deltacooling.com/resources/faqs/what-is-a-cooling-tower",
+      "text": "expel building heat"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19699013/",
+      "text": "Studies show"
+    }
+  ],
+  "hash": "1cd30f87d8e044db0c7c0dd8b44ae400d66486d626ba9e0be46fee835b9a151f",
+  "scraped_at": "2026-07-18T08:13:16.628031+00:00"
+}
