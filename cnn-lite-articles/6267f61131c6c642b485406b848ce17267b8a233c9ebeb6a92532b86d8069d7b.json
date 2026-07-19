@@ -1,0 +1,46 @@
+{
+  "url": "https://lite.cnn.com/2026/07/17/investing/us-stocks-asia",
+  "title": "Nasdaq, S&P 500 drop 1% after China’s latest AI breakthrough rattles tech stocks | CNN Business",
+  "date": "2026-07-19T08:39:37.812070+00:00",
+  "authors": [
+    "John Towfighi",
+    "Chris Isidore"
+  ],
+  "text": "Source: CNN\n\nStocks in Asia and the United States fell Friday after technologicaladvances announced by a Chinese artificial intelligence company intensified concerns that the AI spending spree driving this year’s market rally could be at risk.\n\nChinese startup Moonshot AI unveiled Kimi K3, a new open-source model that the company said closes much of the gap with models such as OpenAI’s ChatGPT and Anthropic’s Claude.\n\nThe Nasdaq dropped 1.4% Friday, while the S&P 500 fell 1%. The Dow closed lower by 407 points, or 0.77%.\n\nTaiwan’s benchmark stock index closed down more than 6%, while markets in Japan closed down 4% on the news. South Korean markets were closed Friday for a national holiday.\n\nMoonshot said Kimi K3 is nearing the performance of cutting-edge models like Anthropic’sClaude Fable 5, resurfacing concerns about competition from companies in China.\n\nKimi K3 is the world’s largest open-source model, according to Moonshot. Open-source models can pose problems for US AI companies that are trying to charge subscriptions to access their closed-source models. That can also hurt the chipmakers that are betting on a continued AI spending spree.\n\nA popular index tracking semiconductor chip stocks fell 1.6% Friday, putting it down 20% since hitting a record high in late June – and entering a technical bear market. The index was down 10% this week, its worst week in over a year, although it is still up 65% this year.\n\nAfter soaring in recent months on AI enthusiasm, chipmakers are dropping sharply. Chipmaker Micron (MU) is down about 30% since hitting a record high in late June but is still up almost 200% this year.\n\nCompetition from alternative, open-source models could hurt forecasts for AI companies’ growth and complicate plans for massive infrastructure spending, which could hurt revenue projections for chipmakers and companies betting on the AI boom.\n\nBreakthroughs by Chinese AI companies have rattled US markets in the past, such as in January 2025, when Chinese artificial intelligence companyDeepSeekunveiled a model that challenged assumptions about US dominance in the technology sector.\n\nWhile Kimi K3 rattled markets Friday, some investors said it needs to be seen just how impactful it will be. US stocks quickly recovered from the DeepSeek scare in January 2025, and tech companies continued to spending on the AI infrastructure buildout.\n\nShares of Google parent Alphabet (GOOG), which tumbled 4% Thursday after reports it is delaying the launch of a flagship AI model, slipped another 2% Friday.\n\nNvidia shares (NVDA) were down more than 2% Friday. The company’s market value briefly fell as low as $4.85 trillion, dipping below Apple’s and returning Apple to the status of the world’s most valuable company. Apple shares (AAPL) rose 0.1% and are up 15% this month.\n\nIt’s been six weeks since the S&P 500 and Nasdaq hit records highs. The S&P is down about 2% since then, while the Nasdaq is down about 6%. Nerves about whether investors were overpaying for AI and tech stocks were already resurfacing in recent weeks, and the announcement of new AI model that could rival the top US models adds to the anxiety.\n\n“We have been concerned over the past few weeks that tech, especially semis, had run too far, too fast,” Sameer Samana, head of global equities and real assets at Wells Fargo Investment Institute, said in an email. “Really markets were just looking for any excuse to sell.”\n\nBut Samana said he remains confident about the longer-term trajectory for American AI companies’ earnings and spending. “Chinese competition is not new and we believe the overall pie will grow enough to sustain US tech companies,” he added.\n\nAll told, the S&P 500 is still near record highs. Investors have also rotated into other sectors like financials while moving away from tech stocks. An exchange-traded fund tracking tech stocks is down more than 7% this month while one tracking financials is up 5%.\n\nAnother headwind for stocks was a continued rise in oil futures on US attacks overnight in Iran raising fears about the flow of oil from the Persian Gulf again being cut off. Rising oil prices could drive new inflation concerns which had abated as oil fell since early June on hopes of the war there being over.\n\nAnnual inflation measured 3.5% in June, compared to 4.2% in May,according to Consumer Price Index datareleased Tuesday by the Bureau of Labor Statistics. That came after a steep decline in gas prices as tensions eased in the Middle East.\n\nBut oil futures climbed during Friday trading, and the US average price of a gallon of regular gas is approaching $4 for the first time in a month, hitting $3.98 in the latest reading from AAA.\n\nBrent crude on Friday rose about 4.6% to settle at $88.10 per barrel, its highest level since June 11. WTI, the US benchmark, rose about 4.5% to settle at $82.49 per barrel, its highest level since June 12.\n\nWTI rose 15.5% this week, its biggest weekly surge since the first week of the war with Iran in early March. Brent jumped almost 16%, its biggest weekly jump since late April.\n\n“That combination of concerns around tech and inflation has really put a dent in the more buoyant narrative after the soft USCPI reportearlier this week,” said Deutsche Bank Research in a note to investors Friday.\n\nCNN’s Anna Cooban contributed to this report.\n\nCNN’s Anna Cooban contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/06/30/tech/anthropic-export-control-ban-lifted-white-house",
+      "text": "Claude Fable 5"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/MU",
+      "text": "MU"
+    },
+    {
+      "url": "https://www.cnn.com/2025/01/27/tech/deepseek-ai-explainer/index.html",
+      "text": "DeepSeek"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/GOOG",
+      "text": "GOOG"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/NVDA",
+      "text": "NVDA"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/AAPL",
+      "text": "AAPL"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/14/business/live-news/cpi-inflation-kevin-warsh-capitol-hill-testimony",
+      "text": "according to Consumer Price Index data"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/14/business/live-news/cpi-inflation-kevin-warsh-capitol-hill-testimony",
+      "text": "CPI report"
+    }
+  ],
+  "hash": "6267f61131c6c642b485406b848ce17267b8a233c9ebeb6a92532b86d8069d7b",
+  "scraped_at": "2026-07-19T08:39:37.812088+00:00"
+}
