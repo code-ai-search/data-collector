@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/07/23/tech/how-an-openai-model-went-rogue",
+  "title": "What went wrong: How an OpenAI model went rogue | CNN Business",
+  "date": "2026-07-24T09:00:48.518778+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nWhen biologists experiment on dangerous viruses, they do so under strict regulations to prevent leaks or escapes.\n\nButno such rules existto prevent AI agents from similarly escaping – even thoughthe consequences could be catastrophic.\n\nThat’s not a theoretical concern: An OpenAI test model escaped its test environment this week and broke into a real company’s servers when attempting to ace an internal cybersecurity evaluation.\n\nAnd unless AI companies crack down on their testing safeguards, including training AI models on ethical task-solving, experts say more cybersecurity incidents will happen.\n\nOpenAI president Greg Brockman told CNN at a press conference on Thursday that the company is still doing a “full investigation” to “understand everything that happened.”\n\n“This is something to take very seriously, it is something that we’re looking at every single piece of our pipeline to think about the right ways to respond,” Brockman said.\n\nAn AI sandbox is a confined environment companies use to test AI models; it’s meant to keep anything within it contained and separate from the rest of the world. Companies will often remove an AI model’s internal safety guardrails in the test environment so that they can evaluate its full capabilities while keeping it siloed off.\n\nBut in this case,  OpenAI’s sandbox was not completely cut off from network or internet access, Jessica Ji, a senior research analyst at Georgetown’s Center for Security and Emerging Technology, told CNN. OpenAI said that  the models had very limited network access duringt he test so they could install resources from internally hosted third-party software.\n\nUsinga previously unknown vulnerabilityin that software, the agents found a way to the open internet and then ultimately to Hugging Face, an AI opensource model and data set platform, through stolen credentials and other vulnerabilities.\n\nJi pointed out that OpenAI and the third-party software company were not aware of the vulnerability that allowed the model to escape, proving how important it is to fully scour a system for any potential exploits.\n\nIt’s not the first time an AI model hasbroken out of its sandbox. Anthropic earlier this year said it instructed a model to do just that. But when it successfully   escaped it thenemailedan Anthropic researcher, even though it was not supposed to have that capability.\n\nBut the situation with Hugging Face is one of the first publicly disclosed instances of an AI model escaping its sandbox and hacking into another company’s systems – a task it was not specifically instructed to complete.\n\nJi said companies should be more aggressive with sandboxing their test models.\n\n“That might require flying engineers out to a data center and having them plug into the network versus trying to trying to run things on the cloud or in a distributed virtual environments, like people are used to,” Ji said.\n\nCompanies should also have the option to manually turn off a model’s network access as a failsafe when testing risky scenarios, like evaluating whether an AI agent can hack a bank, Ji added.\n\nA common technique in training AI models isreinforcement learning, or rewarding the model for completing tasks.\n\nBut the models willoften do anything– including unethical steps like hacking – to do that. All the frontier models that the United Kingdom’s AI Security Institute recentlytestedattempted to cheat at least some of the time.\n\nAI models only consider the consequences of their actions if they’re trained to do so, said Justin Cappos, a cybersecurity professor at New York University.  For example, if you were told you had to come up with $10 million by the end of the day, breaking into a bank vault would complete that goal, even if you’d get arrested later.\n\n“It’s very spooky. We have real evidence now that misaligned AI systems will essentially commit crimes, unless there are strong safeguards in place,” said Steven Adler, former head of product safety at OpenAI who now runs an AI safety group called Guidelight AI Standards. “We need to treat this like the warning shot it is.”\n\nThis week’s hacking incident has supercharged demands by AI researchers, cybersecurity experts and lawmakers for regulation of the rapidly advancing technology.“I figure a lot of people are on very urgent phone calls,” Ji said.\n\nThe problem, Cappos said, is that there’s a global race to dominate AI and make models that can improve themselves. Regulations could slow things down.\n\n“So there’s a strong incentive for them to not have security controls unless their competitors also have those security and safety controls,” Cappos said. “This is this is the fundamental dilemma.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/12/13/us/video/ai-regulation-or-the-wild-west",
+      "text": "no such rules exist"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity",
+      "text": "the consequences could be catastrophic"
+    },
+    {
+      "url": "https://www.cnn.com/2021/12/13/politics/us-warning-software-vulnerability",
+      "text": "a previously unknown vulnerability"
+    },
+    {
+      "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+      "text": "broken out of its sandbox"
+    },
+    {
+      "url": "https://x.com/sleepinyourhat/status/2041584808514744742",
+      "text": "emailed"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/17/business/ai-experts-training-jobs",
+      "text": "reinforcement learning"
+    },
+    {
+      "url": "https://www.cnn.com/2025/06/04/business/video/ai-models-new-behavior-humans-blackmail-prevent-shutdown-digvid",
+      "text": "often do anything"
+    },
+    {
+      "url": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
+      "text": "tested"
+    }
+  ],
+  "hash": "f27a6aae437b39f34b9bb466d3d2b7b4e683e39ffea7b4eabc84220406680cbc",
+  "scraped_at": "2026-07-24T09:00:48.518818+00:00"
+}
