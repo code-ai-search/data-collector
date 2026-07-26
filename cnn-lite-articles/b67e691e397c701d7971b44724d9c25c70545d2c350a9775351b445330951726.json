@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/07/23/politics/russian-hacking-nuclear-scientists",
+  "title": "New warnings that Russian operatives are targeting the emails of US nuclear scientists and defense contractors | CNN Politics",
+  "date": "2026-07-26T08:43:32.238207+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nA group of Russian hackers has spent the last year targeting nuclear scientists, defense contractors, and government employees in a cyber-espionage campaign, according to private-sector researchers and warnings from spy agencies released Thursday.\n\nTheir targets suggested an interest in nuclear fusion technology and intelligence that may aid in the Kremlin’s war with Ukraine.\n\nUS email security firm Proofpoint, which investigated some of the activity,saidthe hackers went after email servers used by “nuclear installations and the defense industrial base” in the US. The hackers were “targeting entities and users with an interest in nuclear fusion,” Proofpoint researcher Greg Lesnewich told CNN. That was likely “to see what advancements [Russia’s] peers in the space have made,” he said.\n\nThe advisory from spy and security agencies from the US and over a dozen of its allies warned of an “ongoing” Russian espionage campaign that tested hacking techniques on Ukraine before using them on NATO countries. If new victims come forward, theadvisorycould help the US and its allies do a damage assessment of what intelligence the Russian operatives were able to gather.\n\nThe hackers used a rare software exploit that only requires a target with a vulnerable email system to open an email, rather than clicking on any links. The exploit is capable of stealing three months of a victim’s email communications along with an entire organization’s email directory, the federal advisory said.\n\nThe Department of Energy, which oversees multiple research labs focused on nuclear energy, did not respond to a request for comment on Proofpoint’s findings. The FBI and National Security Agency said officials were not immediately available for interviews about the federal advisory.\n\nThe Russian Embassy in Washington, DC, did not respond to a request for comment.\n\nFederal and local governments, law enforcement as well as the defense, education and energy sectors were all targeted in the cyber activity, the US and its allies said without divulging specifics.\n\n“The actor likely hoped to gain strategic insight into western military information, logistics, and policy decisions,” said Sherrod DeGrippo, vice president of threat intelligence at cybersecurity firm Palo Alto Networks’ Unit 42 division, which is also tracking the activity.\n\nThe activity shows an “increasing trend within Russian cyber threat groups to target Ukrainian users first — both as a priority target and as a testbench for malicious cyber techniques before broader global deployment,” the government alert said. “Based on the success of this and previous campaigns, it is very likely that the (Russian) group will continue to target” email systems used by Western organizations.\n\n“It’s particularly concerning that these thugs tested their methods on victims in Ukraine, before targeting members of NATO,” UK Security Minister Dan Jarvis said in a statement.\n\nThe detailed nature of the warning, which contains information not released by cybersecurity companies, suggests a broad collection of intelligence about the Russian espionage group by the US and allied intelligence services.\n\nLaw enforcement has pursued the hackers, too. Thai authoritiesarrestedone alleged member of the group in November, a Russian man in his 30s who was extradited and made his initial court appearance in Boston last month.\n\nAfter an initial lull following Russia’s full-scale invasion of Ukraine in 2022, “we have seen, probably over the last year or so, an uptick in [Russian cyber] targeting of the United States,” Brett Leatherman, assistant director of the FBI’s cyber division,told CNN this month.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.proofpoint.com/us/blog/threat-insight/ta488-targets-zimbra-mailservers-half-click-exploits",
+      "text": "said"
+    },
+    {
+      "url": "https://media.defense.gov/2026/Jul/22/2003965244/-1/-1/1/CSA_RUSSIA_PHISHING_TARGET_ZIMBRA.PDF",
+      "text": "advisory"
+    },
+    {
+      "url": "https://www.cnn.com/2025/11/15/asia/denis-obrezko-russia-hacker-thailand-void-blizzard",
+      "text": "arrested"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/14/politics/us-indicts-russia-cybercrime",
+      "text": "told CNN this month"
+    }
+  ],
+  "hash": "b67e691e397c701d7971b44724d9c25c70545d2c350a9775351b445330951726",
+  "scraped_at": "2026-07-26T08:43:32.238222+00:00"
+}
