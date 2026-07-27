@@ -1,0 +1,21 @@
+{
+  "url": "https://lite.cnn.com/2026/07/23/us/boston-ntsb-preliminary-report",
+  "title": "Two planes nearly collided in Boston after a false alarm and a controller forgot who he cleared for takeoff, the NTSB reports | CNN",
+  "date": "2026-07-27T10:15:55.051812+00:00",
+  "authors": [
+    "Aaron Cooper"
+  ],
+  "text": "Source: CNN\n\nTwo planes ended up on a collision course last month after an erroneous warning light slowed a takeoff and an air traffic controller got confused, according toa preliminary reportfrom the National Transportation Safety Board.\n\nOn June 20,Delta Air Lines Flight 2351 was cleared to land on runway 33L, following a small plane. A little more than a minute later, and before the Delta flight touched down, American Airlines Flight 3161 was cleared to take off on intersecting runway 27, the report said.\n\nThe American Airbus A319 started to roll down the runway but stopped after eight seconds when the pilots received an error message in the cockpit, according to the report. After double checking their systems, they determined it was a false alarm and 23 seconds later they started to speed down the runway toward the intersection.\n\nThe pilots in the Delta Boeing 737 saw the potential collision and aborted their landing, eventually circling the airport before safely touching down. The American pilots saw the other plane getting out of their way and continued to take off.\n\nAt the closest point the two jets, with a total of 318 people onboard, were 670 feet apart, the NTSB reported.\n\nThe controller told investigators he had seen the American flight start rolling, then turned his attention to the small plane to make sure it got out of the way of the incoming Delta flight. When an anti-collision alarm sounded in the tower, the Delta pilots had already taken evasive action and the controller “recalled feeling confused,” since the small plane was getting out of the way, the NTSB said. He normally slanted the paper flight strips controllers use to keep track of each plane when he cleared them for takeoff, but American’s strip was not tilted, he told investigators.\n\n“American 3161 where are you going?” the controller can be heard asking in air traffic control audio recorded by ATC.com.\n\n“You cleared us to take off,” the pilot responded.\n\nNeither plane received a collision warning in the cockpit, the pilots said in NTSB interviews.\n\nStoplights that could have warned the American flight of the impending conflict extinguished after the small plane landed and did not illuminate again until the Delta plane was on final approach, the report said.\n\nThe cockpit voice recorders in the plane that capture conversations between pilots retain only the most recent two hours of audio, and by the time the NTSB requested the black boxes, the audio from the close call had already been overwritten. The flight data recorders, which record for a longer time, captured information from systems on the plane at the time of the incident, and are currently being analyzed by the NTSB.\n\nThe board will determine the probable cause of the near collision at the end of the investigation, which usually takes one to two years.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://t.co/VVsFIjzUjs",
+      "text": "a preliminary report"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/20/us/faa-aircraft-boston-airport",
+      "text": "On June 20,"
+    }
+  ],
+  "hash": "d0d8776c43101a90fd888285e1fed5094276fa22ccddea6664025a1359dd17ef",
+  "scraped_at": "2026-07-27T10:15:55.051828+00:00"
+}
