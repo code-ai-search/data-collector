@@ -1,0 +1,84 @@
+{
+  "url": "https://lite.cnn.com/2026/07/27/health/emergency-room-records-cpsc",
+  "title": "Trump administration demands hospitals share emergency room records | CNN",
+  "date": "2026-07-28T09:13:00.377418+00:00",
+  "authors": [
+    "Amanda Seitz",
+    "Maia Rosenfeld",
+    "Darius Tahir",
+    "KFF Health News"
+  ],
+  "text": "A tiny federal agency tasked with protecting the public from injuries caused by lawn mowers and coffeemakers is demanding that some of the nation’s biggest health systems turn over detailed, personally identifiable medical records of all patients who seek help at their emergency rooms.\n\nThe Consumer Product Safety Commission, responsible for tracking and issuing recalls of dangerous products sold in the U.S., began discreetly pressuring hospital executives this year to share personally identifiable health data with a private contractor. But hospital lawyers and other industry experts have questioned the agency’s authority to collect, its ability to safeguard such a swath of sensitive information, and whether it has followed the legal process to overhaul its surveillance system.\n\nAfter KFF Health News asked the CPSC about the new system, theagency announcedthe program on July 21. Left unmentioned, however, is the alarm it has raised among hospital executives, as well as the nature and extent of the agency’s data demands.\n\nIn a stark departure from its product-focused mission, the agency’s goal is to obtain millions of Americans’ medical records from emergency room visits for most injuries, from a broken bone to a childhood vaccine reaction or even a suicide attempt, according to documents and emails obtained by KFF Health News, as well as interviews with five people involved or familiar with the discussions.\n\nA CPSC official also insisted in the emails that the institutions provide all ER patients’ identifiable information — such as names, addresses, diagnoses, and other personal details — to the contractor, Konza Health, for analysis. In correspondence withhospital executives, Konza representatives described participation as “mandatory” or “required.”\n\nAs a condition of viewing the correspondence, KFF Health News agreed not to republish some of the emails it obtained.\n\nThe CPSC wants at least 100 hospitals to start sending detailed medical records by the end of this year, according to aninternal memo.\n\n“The whole thing is troubling,” said Sharona Hoffman, a professor of health law at Case Western Reserve University, who noted that giving a private entity access to a sweeping collection of data will introduce risks to patient privacy. “If this company really is collecting identifiable information, that is worrisome for patients.”\n\nThe new project was launched amid upheaval at the traditionally independent agency, which is without a governing board since President Donald Trump fired the CPSC’s three Democratic board members. Nearly 1 in 5 career staffers left the CPSC in the first 16 months of the new administration, according to a KFF Health News analysis of federal workforce data.\n\nThe initiative also comes as the Trump administration has sought unprecedented access to millions of Americans’ medical records, with theOffice of Personnel Management requestingfederal workers’ sensitive health information and Health and Human Services Secretary Robert F. Kennedy Jr.using a private organizationto collect more medical records for his studies on vaccines and autism.\n\nSteve Roney, CPSC spokesperson, said in an emailed statement on July 10 that CPSC is “modernizing” its surveillance system. Asked whether the CPSC will file complaints against hospitals that do not participate, he said only that while the previous system “operated as a voluntary program, the ability of hospitals to opt out limited the sample size and usefulness of the data.”\n\nRoney also acknowledged that the agency had not yet notified the public, as “required by law.”\n\nFederal law requires the agency to provide notice and a public comment period before requesting information from 10 or more entities, a step it has not taken despite plans for 100 hospitals to join the surveillance system. KFF Health News independently confirmed with over a dozen hospitals that they had been approached.\n\nFederal public health authoritiescannot legally mandatethat private health data be reported. But CPSC officials havesuggested publicly and privatelythat if hospitals decline to share data with the new surveillance system, they could be subject to strict penalties from a data-sharing regulation known as “information blocking.”\n\nYet some hospital executives say they are reluctant to share patients’ sensitive data because they’re concerned about a different violation — that offederal privacy law.\n\nDozens of ERs across the country already participate in the CPSC’s voluntary National Electronic Injury Surveillance System, or NEISS, through which trained hospital workers report injuries involving consumer products, almost always stripped of patients’ identifiable information. The system helps the CPSC identify products, such as baby loungers, toys, and household appliances, with a pattern of injuring consumers.\n\nThe new injury surveillance program goes much further.\n\nAt a toy industry trade event in February, acting CPSC Chairman Peter Feldman said the agency is “investing in AI-enabled workflows that improve the quality and quantity of injury surveillance data, while also building up digital infrastructure to handle a massive new volume of electronic health records.”\n\nKonza Health, a Kansas-based organization that runs the state’s health data exchange, will automatically pull and analyze medical records of all patient visits from ERs nationwide. Konza won afive-year contractworth up to $15.9 million with CPSC last fall.\n\nIn email correspondence with hospital technology officials, Konza Health President and CEO Laura McCrary also has described ERs’ participation as “required,” stipulating that they share patients’ records with identifying information.\n\nMcCrary told KFF Health News by email that the company is not using AI to process the records it receives, saying instead that Konza will use “advanced analytic parsing and filtering capabilities.” Roney, the CPSC spokesperson, did not answer questions about theuse of AI.\n\nFor years, agency officialshave discussedmoving away from human contractors and automating NEISS to save time and money.\n\nBut without workers on-site, hospital staffers may no longer receive training to determine what clinical information is important to include for the CPSC. In short, the changes could dilute the quality of the product safety data the agency collects.\n\n“They want to suck in as much data as possible, but I’m not sure how thoughtful they’re being about what is collected and what is actually needed by the agency,” said former CPSC chair Alexander Hoehn-Saric, one of the Democratic appointees Trump fired last year.\n\nThe CPSC’s new data collection appears to contradict its own 214-pageoperating manual, which instructs hospitals not to include identifiable information “such as names, birthdates, or addresses” when reporting cases.\n\nThe agency is supposed to receive patients’ identifying information only when needed for follow-up investigations, which happens in fewer than 1% of reported cases, according to the manual.\n\nThe CPSC has also historically limited the records it collects to minimize privacy violations in case of a data breach.\n\nThe risk is not hypothetical: From 2017 to 2019, the agency improperly released personal health information of around 30,000 people, a disclosure that a top Republican at the timecalled “concerning.”\n\nKonza, however, will receive even more sensitive information on many more people. McCrary said in a statement that Konza will remove patients’ names, addresses, and medical information “not needed by CPSC” before sharing records with the agency.\n\nLeaving a private organization to collect sensitive information introduces risks, including that it could be stolen or used for business purposes, said Hoffman, the Case Western professor.\n\n“Very often, they will use information for marketing because now they’re going to know what conditions people have,” she said.\n\nRoney said that its contract with Konza, which has not been made public, prohibits the organization from selling or marketing the data it collects.\n\nThe CPSC’s manual also identifies types of ER visits that should not be reported to the CPSC, which has jurisdiction over only certain consumer products. Excluded injuries are those caused by food, illegal drugs, medical devices, alcohol, or plants, as well as injuries that did not involve consumer products — such as a cut from a rock or broken bones from a fall on the ground — and suicide attempts by adults.\n\nBut in acontract offeredto one hospital and reviewed by KFF Health News, Konza set no such limits on the information it would gather from ER records and said it would hold onto patient health information for at least 30 days.\n\nIn an email sent to hospital technology officials, McCrary wrote that Konza would provide CPSC with records when a patient is treated in the ER for any of more than 10,000 conditions. The expansive list of diagnostic codes Konza provided in the email includes injuries that do not involve consumer products.\n\nChild injuries resulting from “poisoning by” vaccines or contact with stingrays, neither of which is regulated by the CPSC, are included in the list.\n\nA limited number of hospitals once shared deidentified data on all injuries — regardless of product involvement — through the NEISS using the Centers for Disease Control and Prevention’s injury-tracking program. But the CDC halted that data collection, after funding and staffing were cut last year, and has not restarted it.\n\nCPSC Chief Data Officer Elizabeth Puchek, who joined the agency late last year after engineering U.S. Citizenship and Immigration Services’ data system, has told hospitals in emails that they must seek an exemption from the program if they decline to share patients’ emergency room records with Konza.\n\nThe CPSC’s targeted outreach has included some of the nation’s largest urban and rural health systems, as well as small, publicly owned hospitals.\n\nStaff members at Mary Greeley Medical Center in Ames, Iowa, said that Konza and federal officials told them their participation in the new program was mandatory. The hospital, which has long participated in NEISS, signed a new contract in April to share its ER records with Konza.\n\nYet the hospital is reevaluating its participation after being notified that the funds it received to participate in NEISS were “no longer available,” spokesperson Steve Sullivan said.\n\nSeveral hospital executives, lawyers, and others have raised doubts about CPSC’s claimed authority.\n\nHarborview Medical Center spokesperson Susan Gregg said the Seattle hospital’s emergency room has “voluntarily submitted de-identified data for many years, but we are not obligated to report this information.”\n\nIn Boston, Mass General Brigham has declined to participate in the new program, with spokesperson Kelly Mitchell saying that “to protect patient privacy, we are unable to provide these medical records.”\n\nHenry Ford Health in Detroit; St. Luke’s in Boise, Idaho; and Sanford Health based in Sioux Falls, South Dakota — which together handle over a million ER visits a year — are among the health systems that have been approached but not yet entered into an agreement with Konza, according to representatives. Several of the nation’s busiest hospital systems targeted for the program — including the Mayo Clinic in Minnesota, Yale New Haven Hospital in Connecticut, Nationwide Children’s Hospital and the Cleveland Clinic in Ohio, and Baylor Scott & White Health in Texas — declined to answer questions about whether they’re participating.\n\nHoehn-Saric, the agency’s former chairman, said he was surprised that the CPSC would insist that hospitals provide identifiable records from all emergency room visits.\n\n“This idea that they can simply demand patient information from a hospital and that the hospital would provide it — I really don’t understand the basis for that,” he said.\n\nKFF Health Newsis a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs atKFF— the independent source for health policy research, polling, and journalism.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://subscriber.politicopro.com/article/2026/07/trump-administration-to-upgrade-national-consumer-product-injury-database-01005506?site=pro&prod=alert&prodname=alertmail&linktype=article&source=email",
+      "text": "agency announced"
+    },
+    {
+      "url": "https://www.documentcloud.org/documents/28512992-nap-onboarding-letter-mary-greeley-2026-03-24/",
+      "text": "hospital executives"
+    },
+    {
+      "url": "https://www.cpsc.gov/s3fs-public/FY-2026-Mid-Year-Memo-to-Commission_V2-bl-signed.pdf?VersionId=jrsenxJP0O..L_GD_Uc_MrqEWht_5CLh",
+      "text": "internal memo"
+    },
+    {
+      "url": "https://kffhealthnews.org/news/article/trump-opm-federal-workers-medical-records-privacy/",
+      "text": "Office of Personnel Management requesting"
+    },
+    {
+      "url": "https://kffhealthnews.org/mental-health/sharing-patients-medical-records-access-rfk-jr-project-link-autism-vaccine-injuries/",
+      "text": "using a private organization"
+    },
+    {
+      "url": "https://www.cdc.gov/data-modernization/php/policy-standards/index.html",
+      "text": "cannot legally mandate"
+    },
+    {
+      "url": "https://www.cpsc.gov/Join-NEISS/What-is-NEISS",
+      "text": "suggested publicly and privately"
+    },
+    {
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html#limit",
+      "text": "federal privacy law"
+    },
+    {
+      "url": "https://www.usaspending.gov/award/CONT_AWD_61320625C0001_6100_-NONE-_-NONE-",
+      "text": "five-year contract"
+    },
+    {
+      "url": "https://www.cpsc.gov/s3fs-public/CPSC-2026-2030-Strategic-Plan.pdf#page=3",
+      "text": "use of AI"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8040093/",
+      "text": "have discussed"
+    },
+    {
+      "url": "https://www.cpsc.gov/s3fs-public/JANUARY-2025-NEISS-CPSC-only-Coding-Manual-Rev-1_0.pdf?VersionId=rkB.llQjEUI9dv6vTYeDUug1Zj_6swbh",
+      "text": "operating manual"
+    },
+    {
+      "url": "https://www.commerce.senate.gov/wp-content/uploads/media/doc/Scanned%20Wicker%20Letter%2010%2016%202019.pdf",
+      "text": "called “concerning.”"
+    },
+    {
+      "url": "https://www.documentcloud.org/documents/28510958-annotated-proposed-contract/",
+      "text": "contract offered"
+    },
+    {
+      "url": "https://www.cpsc.gov/Join-NEISS/What-is-NEISS",
+      "text": ""
+    },
+    {
+      "url": "https://kffhealthnews.org/about-us/",
+      "text": "KFF Health News"
+    },
+    {
+      "url": "https://www.kff.org/about-us/",
+      "text": "KFF"
+    }
+  ],
+  "hash": "42b4df780118c9b5f74eac79e9220d0d73c24eec89524e81b1789459855c80ac",
+  "scraped_at": "2026-07-28T09:13:00.377434+00:00"
+}
