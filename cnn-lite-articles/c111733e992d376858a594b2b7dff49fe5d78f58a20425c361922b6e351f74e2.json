@@ -1,0 +1,38 @@
+{
+  "url": "https://lite.cnn.com/2026/07/29/tech/openai-hugging-face-cyberattack",
+  "title": "The OpenAI lab leak was more extensive than we thought | CNN Business",
+  "date": "2026-07-31T09:23:18.676602+00:00",
+  "authors": [
+    "David Goldman",
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nAn OpenAI test that escaped its cage andalarmedthe AI and cybersecurity industry attacked more than just Hugging Face, the AI platform that initially appeared to be the sole victim of the virtual lab leak.\n\nOpenAI, in anupdate about its ongoing investigation of the incident, said its rogue agent had also broken into several publicly available services and accounts.\n\nThe test of OpenAI’s models was supposed to take place in a digital sandbox, a supposedly inescapable lab environment that allows researchers to roll back safety barriers to discover the tool’s maximum hacking power.\n\nBut the AI agents,determined to ace the cybersecurity test, broke out of the sandbox and gained access to the real internet. It then hacked Hugging Face to find the answers to the test.\n\nTo get into Hugging Face’s servers, OpenAI’s rogue agents needed to find tools around the internet that were necessary for them to break in. OpenAI says the agents found several public-facing websites, including pages that share code, web utilities, screenshots and other information, to help create the code needed to hack Hugging Face. OpenAI did not disclose the other sites its agents attacked.\n\nThe agents uncovered leaked usernames and passwords to four accounts across multiple online services and used those credentials to gain access to them. One compromised account was likely used to disguise the AI so it could appear legitimate and bypass Hugging Face’s security protocols. Another was used to store the data the agents were stealing, OpenAI says.\n\nFor the two other compromised accounts, OpenAI agents accessed and read the information but did not alter it.\n\nOpenAI said none of the other hacked sites reached the same level of access as what its agents accomplished with Hugging Face.\n\nEssentially, OpenAI said its agents created an Ocean’s Eleven-like heist. Instead of just taking the test, it developed a master plan to break out of its jail, find the keys to the safe, build a safe house and hire a getaway car before it stole the goods.\n\nBut OpenAI never told the agents to hack Hugging Face. They performed that action on their own to steal the answer key to the test it was given. The test model figured that cheating was the easiest path to success – even if it meant daisy-chaining attacks together.\n\nHugging Face CEOClem Delangue calledthe nature of the breach “unprecedented.”\n\n“TL;DR: An AI agent escaped its sandbox, cheated on its benchmark test, and hacked our infrastructure to steal the answer key,” Hugging Face said in ablog postdetailing the incident.\n\nThe good news is that while the breach is a significant moment in AI and cybersecurity, the damage wasn’t significant. Hugging Face said the only customer data that the rogue agents accessed were some search queries used to steal a set of challenge solutions stored across several company datasets. OpenAI’s agents never compromised or accessed any customer-facing models or data, the company said.\n\nOpenAI said it continues to investigate the incident and will make recommendations about how to avoid similar problems in the future once it better understands the scope of the breach.\n\n“We take our responsibility to identify and prepare for risks from increasingly capable AI systems seriously,” the company said. “Once we complete our review, we will review with the Safety and Security Committee and Safety Advisory Group under ourPreparedness Framework⁠.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter",
+      "text": "alarmed"
+    },
+    {
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "text": "update about its ongoing investigation of the incident"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/23/tech/how-an-openai-model-went-rogue",
+      "text": "determined to ace the cybersecurity test"
+    },
+    {
+      "url": "https://x.com/clementdelangue/status/2082201245813514613?s=46",
+      "text": "Clem Delangue called"
+    },
+    {
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "text": "blog post"
+    },
+    {
+      "url": "https://openai.com/index/updating-our-preparedness-framework/",
+      "text": "Preparedness Framework⁠"
+    }
+  ],
+  "hash": "c111733e992d376858a594b2b7dff49fe5d78f58a20425c361922b6e351f74e2",
+  "scraped_at": "2026-07-31T09:23:18.676615+00:00"
+}
