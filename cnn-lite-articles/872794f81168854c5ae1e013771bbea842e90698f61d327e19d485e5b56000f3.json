@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
+  "title": "Anthropic said its AI models hacked into other companies’ systems during testing | CNN Business",
+  "date": "2026-08-01T08:38:10.735728+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nAI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate organizations’ systems – and that it didn’t notice the models had done so until an internal review prompted by rival OpenAIdisclosingits models did the same.\n\nAnthropic said in anannouncementon Thursday that it started a review of its own systems after OpenAI disclosed last week that during a cybersecurity test some of its models escaped their testing environment, accessed the open internet and hacked into AI platform Hugging Face’s systems.\n\nAnthropic said it found three instances where its AI models accessed the open internet when they were not supposed to and “gained unauthorized access to the production infrastructure of three different organizations.” The company said it discovered the incidents while reviewing more than 140,000 evaluations following OpenAI’s disclosure. Like during OpenAI’s tests, normal safety guardrails were removed during Anthropic’s evaluations to assess their models’ full capabilities.\n\nAnthropic explained that in the three instances its modelswere given a fake “capture the flag” challenge, told that the “flag” was hidden on a different machine on the network and that its objective was to break in and retrieve it. Unlike OpenAI’ssituation, Anthropic said none of its models deliberately attempted to escape their testing environments. Instead what happened was that the models were not supposed to have access to the open internet but that they were able to due to a misunderstanding between Anthropic and its evaluation partner, the company said in its statement.\n\nTo break into the three unnamed organizations, the models used basic techniques like “exploiting weak passwords” and finding system points that do not require log ins or tokens, Anthropic said. The most advanced version of its models did at some point recognize it was on the open internet, and stopped itself from continuing, the company said.\n\nAnthropic said the earliest incident of its models breaching another organization was from April, and that none of the organizations recognized they had been hacked. Anthropic said they are in the process of working with the organizations affected.\n\nOpenAI’s disclosure of its models hacking Hugging Face shook the cybersecurity and AI worlds, as it was the first real world example of something experts had long warned about: AI agents with advanced cybersecurity skills escaping testing environments and causing real-world harm.\n\nLike OpenAI, Anthropic said on Thursday it has stopped all cyber evaluations. Anthropic acknowledged it could have taken more “in-depth” measures to prevent the cybersecurity breaches from happening.\n\nAnthropic’s disclosure further confirms that AI agents unintentionally hacking other organizations is not limited to one AI company, and will likely further amplify calls for better AI testing safeguards and tools to potentially slow down AI development that may be moving much faster than society is ready for.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "disclosing"
+    },
+    {
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "text": "announcement"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/29/tech/openai-hugging-face-cyberattack",
+      "text": "situation"
+    }
+  ],
+  "hash": "872794f81168854c5ae1e013771bbea842e90698f61d327e19d485e5b56000f3",
+  "scraped_at": "2026-08-01T08:38:10.735739+00:00"
+}
