@@ -1,0 +1,57 @@
+{
+  "url": "https://lite.cnn.com/2026/07/31/tech/apple-nvidia-ai-race",
+  "title": "The world’s most valuable companies are taking opposite paths in the AI race | CNN Business",
+  "date": "2026-08-02T08:41:38.386677+00:00",
+  "authors": [
+    "Analysis by Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nWhich is worth more: acompany that’ssitting outBig Tech’s mega AI spending spreeor a company that’s fueling it?\n\nThat’s the question Wall Street has been grappling with as Apple and Nvidia traded off for the title of world’s most valuable company. Apple snagged the title earlier this week, but Nvidia took it back just days later following the iPhone maker’s Thursday earnings report.\n\nThe back-and-forth is telling. Apple makes the phones and computers that billions of people use to access AI chatbots and agents. But it’s beenaccused of falling behind in AI, and its core business might have fewer growth opportunities than a rapidly advancing new technology. Plus it’s grappling with a component shortage that’s roiled the tech industry.\n\nMeanwhile, Nvidia makes the chips and developer tools that power AI. It’s essential to the technology’s future – and more vulnerable to the uncertainty that comes with it.\n\n“When we’re in the part where we’re creating (AI)… that’s where you’re going to be watching Nvidia,” said Joe Tigay, portfolio manager for the Rational Equity Armor Fund, a fund that prioritizes total return on investment. In the future,“we’re going to be looking for companies that are going to monetize the consumption of AI. And Apple absolutely wants to be that company.”\n\nUnlike many of its Big Tech peers, Apple isn’t pouring billions into building new data centers.Instead, itsrevenue is largely driven byiPhonesales –exactly the type of consistent and predictable business that appeals to investors.\n\nApple’s iPhone revenue grew 22% in the company’s most recent quarter compared to the same period last year; overall revenue rose 16% year-over-year and beat Wall Street’s expectations.\n\nBut analysts are wondering whether the company plans to revamp its hit products in the age of AI and develop new ones. Apple has faced setbacks with AI innovations such as itsSiri AI assistant, which is set to launch this fall.\n\nThe iPhone’s success, however, has satisfied some of those concerns for now, especially since Apple can partner with other companieslike Googleto use their AI models.\n\n“The reason why Apple has done so well is people finally recognize that they don’t need to spend hundreds of billions to be relevant in this market,” said Bloomberg Intelligence analyst Anurag Rana,“because they will use whichever best (AI) model that’s out there, and that model company would be privileged to be on the iPhone.”\n\nBut AI is impacting the company in another way:a memory shortagespurred by the AI data center buildout.\n\nApple has alreadyraised the pricesof Mac computers, iPads and other products, and some analysts believe iPhones could be next. It recentlylaunched a customer leasing programfor iPhones, iPads, Apple Watches and Macs instead of buying them, which could make the devices feel more affordable.\n\nApple said it’s expecting even higher memory costs for the September quarter. Shares dropped by more than 6% after the market closed on Thursday following Apple’s earnings report.\n\n“We reluctantly raised prices, I would say,” CEO Tim Cook said during his last earnings call as the company’s chief executive. “We did it because we’re in what I would characterize as a 100-year-flood on memory pricing, with exponential increases in memory prices.”\n\nNvidia’s chips areessential to AI data centers, pushing its business to stratospheric heights.\n\nThe company reported record revenue in its most recent earnings report in May, up 20% from the previous quarter and 85% from the same period a year ago. And it holds 81% of the market share revenue for data center chips, the International Data Corporationtold CNN earlier this year.\n\nBut that success means investors and analysts now expect nothing short of explosive growth every quarter. And whether it delivers on those expectations in the long term largely depends on whether tech giants continue spending big on data centers.\n\nThere have also been growing concerns that AI companies are propping each other up through a web of funding deals, with Nvidia at the heart of those worries. Nvidia has invested billions in companieslike OpenAIandAnthropic, which have in turn committed to buying Nvidia’s chips.\n\nNvidia’s chip sales have made it the biggest beneficiary of the AI boom – but consumers still need smartphones or laptops to use AI services – like the ones Apple makes.\n\n“Nvidia is selling horsepower,” said Rational Equity Armor Fund’sTigay. “Apple is selling the steering wheel.”\n\nThis story has been updated.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/05/04/investing/us-stocks-tech-ai",
+      "text": "Big Tech’s mega AI spending spree"
+    },
+    {
+      "url": "https://www.cnn.com/2025/03/19/tech/apple-iphone-siri-delay",
+      "text": "accused of falling behind in AI"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/10/tech/apple-iphone-air",
+      "text": "iPhone"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/08/tech/apple-wwdc-tim-cook",
+      "text": "Siri AI assistant"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/12/tech/apple-google-gemini-siri",
+      "text": "like Google"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/13/tech/ai-memory-shortage-apple-nintendo-price-hikes",
+      "text": "a memory shortage"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/25/tech/apple-hikes-the-prices-of-macbooks-and-ipads-because-of-memory-chip-shortage",
+      "text": "raised the prices"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/28/tech/apple-lease-products-iphone-mac",
+      "text": "launched a customer leasing program"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/07/business/nvidia-trillion-valuation-ai-chips-vis",
+      "text": "told CNN earlier this year"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "text": "like OpenAI"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership/",
+      "text": "Anthropic"
+    }
+  ],
+  "hash": "ec30d308556cceece03cd9788ad6f1955ffc9ca3ea0fecf792f4d2ed0683171e",
+  "scraped_at": "2026-08-02T08:41:38.386694+00:00"
+}
