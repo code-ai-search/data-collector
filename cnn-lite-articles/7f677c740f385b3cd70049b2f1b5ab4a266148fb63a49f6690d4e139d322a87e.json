@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/08/03/tech/white-house-meet-with-top-ai-companies-big-regulation-push",
+  "title": "White House to meet with OpenAI, Anthropic and other top AI companies in first big regulation push  | CNN Business",
+  "date": "2026-08-04T09:17:18.161451+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe White House will meet with representatives from several top AI companies on Tuesday to discuss a new framework for the government to review frontier AI models before they launch, multiple sources familiar with the invitation told CNN.\n\nThe meeting is a critical step toward broader AI regulation amid growing calls from both AI companies and Washington for more control over the pace of AI development. Though the framework was laid out as part of an executive order signed by President Donald Trump in June, the gathering comes just days after OpenAI and Anthropic both reported incidents of AI agents going rogue and hacking into other companies’ systems.\n\nThe new system is meant to give the government access to the most advanced AI models up to 30 days before they’re released publicly, according to the executive order. The government has emphasized that participation from the industry is voluntary, although the administration has taken steps in recent months to prevent ordelay the release ofadvanced AI models for safety reasons.\n\n“The voluntary framework outlined in the June 2nd executive order is complete. Discussions with industry about next steps are underway,” a White House official told CNN on Monday.\n\nAmong the companies attending Tuesday are OpenAI, Anthropic, Google and Meta, according to multiple sources familiar with the situation. Anthropic, Google and Meta declined to comment on the meeting. OpenAI pointed CNN to ablog postposted Monday by Chief Global Affairs Officer Chris Lehane, reiterating calls for national AI standards established through Congress.\n\n“The Administration’s expected action this week on frontier AI could be an important step toward closing the gap between innovation and governance: a clear, credible, national framework for evaluating the most advanced AI systems, with defined criteria, timelines, and a process that allows them to be deployed safely and quickly,” Lehane wrote.\n\nThe details of the framework will not be released publicly and many of the standards set within it will be classified, the June executive order states.\n\nMajor AI companies worked closely with the White House to draft the executive order and framework, but there has been much uncertainty over the final details, according to multiple sources familiar with the discussions.\n\nThat includes how the administration will define frontier AI models and whether open weight AI models – or AI models that can be downloaded to one’s computer and customized – will be part of it.\n\nIt’s also unclear which entity within the administration will lead the review. The administration has not designated a person or organization within the White House to lead outreach with the AI companies, multiple sources within the AI companies involved in the talks told CNN. National Cyber Director Sean Cairncross, Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick are among those who have been heading up the initiative.\n\nHowever, administration officials have said that multiple branches of the government will need to be involved since the impact of AI is so wide-reaching.\n\nThere’s also some confusion about the administration’s approach to evaluating and working with certain AI companies, namely Anthropic. The Pentagon designated Anthropic as a “supply chain risk” earlier this year after a disagreement over safety guardrails in the AI company’s models which the military had wanted to use.\n\nThe designation, which had never been used before on an American company, means the military or organizations working with them cannot use Anthropic’s products.\n\nWhile Anthropic and the Pentagon have been arguing over that designation in court, the White House has been working directly with Anthropic on the executive order and its latest model releases in ways that have been described as positive and productive. President Trump even toldAxiosin June that he no longer views Anthropic as a national security threat and that they’ve “behaved very responsibly.”\n\nCalls for more AI regulation have ramped up in recent days afterOpenAIandAnthropicdisclosed their AI agents had independently hacked into other companies during routine cybersecurity testing. More than 1,200 of the top staffers at the biggest AI companies, including Anthropic CEO Dario Amodei ,signed an open letterlast week calling on the US government to create tools to slow down the development of advanced AI models so that safety and security measures can catch up.\n\n“We may have to pace the rate of AI development to give ourselves enough time for society to harden around these new capability levels,” OpenAI CEO Sam Altman said on the “Invest Like the Best”podcastreleased last week.\n\nMeanwhile theEuropean Union’s AI Actwent into effect on August 2, which means the European Commission can demand to review AI models before they’re released. The act alsorequires companies to adhere to transparency and documentation obligations for advanced AI models or risk fines of up to 7 percent of a company’s annual gross revenue.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house",
+      "text": "delay the release of"
+    },
+    {
+      "url": "https://openaiglobalaffairs.substack.com/p/keeping-america-out-in-front-on-ai?r=4a2ejy",
+      "text": "blog post"
+    },
+    {
+      "url": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
+      "text": "Axios"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/29/tech/openai-hugging-face-cyberattack",
+      "text": "OpenAI"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
+      "text": "Anthropic"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter",
+      "text": "signed an open letter"
+    },
+    {
+      "url": "https://x.com/patrick_oshag/status/2082073587142234374",
+      "text": "podcast"
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "text": "European Union’s AI Act"
+    }
+  ],
+  "hash": "7f677c740f385b3cd70049b2f1b5ab4a266148fb63a49f6690d4e139d322a87e",
+  "scraped_at": "2026-08-04T09:17:18.161465+00:00"
+}
