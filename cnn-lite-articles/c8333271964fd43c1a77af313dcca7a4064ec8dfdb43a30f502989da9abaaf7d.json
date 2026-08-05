@@ -1,0 +1,42 @@
+{
+  "url": "https://lite.cnn.com/2026/08/03/science/spacex-starship-indian-ocean-recovery-satellite-images",
+  "title": "Satellite images capture race to recover Starship in the ocean | CNN",
+  "date": "2026-08-05T09:15:55.834466+00:00",
+  "authors": [
+    "Jackie Wattles",
+    "Thomas Bordeaux"
+  ],
+  "text": "Source: CNN\n\nSpace exploration enthusiasts have been tracking the unprecedented journey of SpaceX’s latest Starship prototype, which wound up floating in the Indian Ocean after the company’slatest test flight. Now, satellites have captured mind-bending images of boats working to haul the rocket back to shore.\n\nThe saga of Ship 40 — as this specific Starship prototype is called — began on July 24 with the launch of SpaceX’s 13th fully integrated test flight the rocket system, which includes the upper spacecraft, or “ship,” as well as the Super Heavy rocket booster, the bottommost part of the rocket that fires the ship off the launchpad and toward space.\n\nSpaceX has been hashing out how to return the upper spacecraft to a controlled landing after flight — a feat that is crucial to the company’s plans to eventually recover and rapidly reuse the vehicles, which could drastically drive down launch costs.\n\nSpaceX did not expect to recover Ship 40.\n\nBut during the July test flight, the vehicle showed marked improvement over its predecessors by retaining the function of all six of its engines, maintaining control throughout the violent process of reentering Earth’s atmosphere, and making its “softest” splashdown yet at its target landing site in the ocean, according to SpaceX spokesperson Dan Huot. The splashdown was a “dream scenario,” Huot said on SpaceX’s livestream of the test flight.\n\nThe landing was so gentle, in fact, that Ship 40 appeared to remain airtight and floated in the ocean rather than sinking to the bottom as prior prototypes have. A SpaceX recovery ship, called Go Australis, initially stayed near the vehicle.\n\nOn July 28, SpaceX CEO Elon Musk confirmed that the company wouldrecover the vehicle. Two more ships, Norwegian tugboats named Normand Ranger and Skimmer Tide have now joined that effort.\n\nSatellite images taken Sunday and Monday by Vantor, a Colorado-based geospatial intelligence company, show the recovery attempt, with a small boat deployed next to Starship and a line attached to its nose. It’s unclear from the images if the towing has begun yet, but ship tracking data from MarineTraffic on Monday showed Skimmer Tide and Normand Ranger moving at about one knot and broadcasting that they had restricted maneuverability. Go Australis separated from the other ships and is on its way back to Australia alone.\n\nSpaceX has made a concerted effort to analyze Ship 40 through every phase of its journey. The company even delayed liftoff in order to ensure that weather conditions were clear enough to capture detailed imagery of how the spacecraft looked during takeoff.\n\nMuch of SpaceX’s focus has been on gathering data about the vehicle’s heat shield, a coating of hexagonal, ceramic tiles designed to protect Starship from the extreme temperatures spacecraft experience while reentering Earth’s atmosphere after reaching orbital velocities, which can top 17,500 miles per hour.\n\nWhile Musk haspraisedimprovements in the heat shield’s performance, SpaceX still faces difficult engineering challenges when it comes to figuring out how to keep the vehicle unscathed and ready to be quickly launched again.\n\nNo rocket in the world has a rapidly reusable upper spacecraft. And NASA’s Space Shuttleexemplified the difficultiesin attempting to quickly re-fly objects that have traveled to space and back.\n\nBut Musk indicated that the last Starship test flight in July was so promising that SpaceX might attempt to catch the upper Starship spacecraft back on dry land after its next test run. It’s not clear when the next flight will be, and Musk stipulated that such a landing attempt would depend on data reviews.\n\nSo far, SpaceX’s Starship development program has demonstrated a mixed bag of successes and explosive failures —occasionally dangerous ones— over the past three years.\n\nOver the course of 13 test flights, SpaceX has attempted to fly Starship along roughly the same suborbital path, while the company has tweaked, re-imagined and designed around various issues that have emerged throughout the flight campaign.\n\nThe Starship rocket — which is by far the most powerful launch vehicle ever created, though it is not yet operational — has occasionally demonstrated stunning wins. For example, in 2024, SpaceX guided the Super Heavy rocket booster to a safe landing in thegiant metal arms of its launch tower, marking a crucial step forward in the company’s efforts to recover and refly every piece of the rocket.\n\nOther moments have marked serious setbacks: In 2025, two Starship spacecraftexploded near populated islandseast of Florida.\n\nEven after SpaceX learns to recover both Super Heavy and the upper ship, additional challenges lie ahead, including working out how the vehicle can be refueled while it sits in orbit.\n\nStarship is considered crucial to SpaceX’s long-term business plans. The company aims to build a lunar version of the vehicle that NASA can use to land astronauts on the moon. Other future objectives for the rocket system include deploying Starlink internet and AI data center satellites, and — eventually — carrying the first humans to Mars, according to Musk.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/24/science/live-news/spacex-starship-flight-13-launch",
+      "text": "latest test flight"
+    },
+    {
+      "url": "https://x.com/elonmusk/status/2082244164197183805?s=20",
+      "text": "recover the vehicle"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/24/science/live-news/spacex-starship-flight-13-launch?post-id=cmrznnd0z004c3b6sdlz7w2ep",
+      "text": "praised"
+    },
+    {
+      "url": "https://www.cnn.com/2024/04/05/world/nasa-space-shuttle-columbia-what-happened-scn/index.html?cid=external-feeds_iluminar_yahoo",
+      "text": "exemplified the difficulties"
+    },
+    {
+      "url": "https://www.cnn.com/2025/06/19/science/elon-musk-rocket-spacex-failure-mars",
+      "text": "occasionally dangerous ones"
+    },
+    {
+      "url": "https://www.cnn.com/2025/01/16/science/spacex-starship-megarocket-test-launch",
+      "text": "giant metal arms of its launch tower"
+    },
+    {
+      "url": "https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos",
+      "text": "exploded near populated islands"
+    }
+  ],
+  "hash": "c8333271964fd43c1a77af313dcca7a4064ec8dfdb43a30f502989da9abaaf7d",
+  "scraped_at": "2026-08-05T09:15:55.834481+00:00"
+}
