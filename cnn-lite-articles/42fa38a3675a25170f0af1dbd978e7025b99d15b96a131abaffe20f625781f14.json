@@ -1,0 +1,39 @@
+{
+  "url": "https://lite.cnn.com/2026/08/05/health/moderna-mrna-flu-vaccine",
+  "title": "FDA approves first mRNA-based flu vaccine | CNN",
+  "date": "2026-08-06T09:16:00.914405+00:00",
+  "authors": [
+    "Elise Haulund",
+    "Katherine Dillinger",
+    "Meg Tirrell"
+  ],
+  "text": "Source: CNN\n\nThe US Food and Drug Administration on Wednesday approved the United States’ first mRNA-based flu vaccine for adults 50 and older, drugmaker Moderna said.\n\n“Flu remains a significant public health challenge, and mFLUSIVA provides an important new option for America’s seniors,” Moderna CEO Stephane Bancel saidin a statement. “This approval also reflects the ongoing potential of our mRNA platform to help address important public health challenges through continued scientific innovation.”\n\nThe new vaccine was found to be about 27% more effective during the 2024–25 respiratory virus season than standard flu shots in Moderna’s study, which enrolled over 40,000 adults 50 and older.\n\nSide effects included injection-site reactions such as pain, tenderness and swollen lymph nodes; fatigue; headache; muscle or joint pain; nausea or vomiting; and fever.\n\nFor flu vaccines previously on the market, experts select flu strains for each fall’s seasonal vaccines during the preceding February. Moderna’s mRNA flu vaccine requires less time between strain selection and public circulation, which could allow for a closer match between the immunity conferred by vaccines and the season’s circulating influenza strains.\n\nModerna says it expects to have the vaccine available this fall.\n\nIn February, the FDA initiallydeclined Moderna’s request for review of the new flu vaccine, citing inadequate trials despite previous conflicting feedback within the agency. But the FDAswitched courseabout two weeks later and agreed to review the shot.\n\nModerna uses mRNA technology in its Covid-19 vaccines, as does drugmaker Pfizer, which also has mRNA-based flu vaccines indevelopment. An mRNA-based vaccine from Moderna targeting both Covid-19 and the fluwas approved in Europe earlier this year.\n\nAlthough the record-speed development of mRNA-based Covid-19 vaccines during the pandemic was a chief accomplishment of President Donald Trump’s first term, his second administration has withdrawn support for mRNA technology in infectious diseases. The US Department of Health and Human Services canceled 22 projects worth about $500 million focused on mRNA vaccine development in August 2025, with HHS Secretary Robert F. Kennedy Jr.claimingagainst evidence that “these vaccines fail to protect effectively against upper respiratory infections like COVID and flu.”\n\nBut in June, the FDA’s independent vaccine advisory panel — made up of nine physicians and vaccine scientists — unanimously voted that the benefits of the new Moderna vaccine outweigh the risks. The panel endorsed the drugmaker’s request for traditional approval for the vaccine in adults ages 50 to 64 and accelerated approval for adults 65 and older, which requires further trials to prove clinical benefit.\n\nTypically, after a new vaccine is approved, the US Centers for Disease Control and Prevention’s Advisory Committee on Immunization Practices will review data and weigh in on whether the agency should recommend it. However, a federal judge ruled in March that Kennedy did not follow federal legal procedures when he replaced all the committee’s members, and it hasn’t met since. The committee’s next meeting is currently scheduled for October.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://feeds.issuerdirect.com/news-release.html?newsid=4801915282452025&symbol=MRNA",
+      "text": "in a statement"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/10/health/fda-moderna-mrna-flu-vaccine",
+      "text": "declined Moderna’s request for review of the new flu vaccine"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/18/health/fda-moderna-mrna-flu-vaccine-reversal",
+      "text": "switched course"
+    },
+    {
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2416779",
+      "text": "development"
+    },
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-wins-eu-approval-combined-flu-covid-shot-older-adults-2026-04-21/",
+      "text": "was approved in Europe earlier this year"
+    },
+    {
+      "url": "https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html",
+      "text": "claiming"
+    }
+  ],
+  "hash": "42fa38a3675a25170f0af1dbd978e7025b99d15b96a131abaffe20f625781f14",
+  "scraped_at": "2026-08-06T09:16:00.914422+00:00"
+}

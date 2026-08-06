@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/08/06/business/ai-data-center-construction",
+  "title": "Americans are rallying against data centers. Surprisingly few are actually getting built | CNN Business",
+  "date": "2026-08-06T09:15:38.647769+00:00",
+  "authors": [
+    "David Goldman"
+  ],
+  "text": "Source: CNN\n\nPeople really don’t like AI data centers.\n\nPoliticians arerunning against them. A recentGallup pollshowed 71% of Americans oppose them. Several counties and states have proposed or passed laws toban them.\n\nBut this notion that AI data centers are quickly popping up everywhere is belied by the fact that their construction faces massive hurdles – regardless of whether anyone wants them in their backyard or not.\n\nConstruction delays are nothing new: Historically, around 72% of scheduled data center capacity comes online on time, according to Goldman Sachs.\n\nBut only abouthalfof the AI computing capacity scheduled to activate between now and 2028 via data center construction is actually expected to come online by its target date,Goldman Sachssaid. Data centers typically take 18 to 24 months to build, but completion times are getting stretched as delays are getting worse.\n\nDespite $750 billion in AI infrastructure investments this year alone, according to JPMorgan, data centers are struggling to get shovels in the ground. About 60% of data center capacity planned for completion in 2027 hasn’t even begun construction, according to JPMorgan. Another 7% of projects that have gotten underway have since been delayed.\n\nThe planned American data center boom is absolutely massive.\n\nThe United States had 5,427 data centers at the end of last year, according toStanford University’s AI Index Report. That number is set to nearly double: AI companies have announced plans for 3,969 new US data centers, according toAterio, a data center research company.\n\nOf those, just 802 are currently under construction.\n\nThere’s reason to believe many of those nearly 4,000 planned data centers were never real to begin with: Developers typically submit many simultaneous applications across multiple regions only to pick the most viable one, noted Goldman Sachs.\n\nThat’s why, of the 565 gigawatts of computing power AI companies are currently planning (more than 10 times today’s power), Columbia Business School real estate professor Stijn Van Nieuwerburgh expects just 180 gigawatts to actually get built over the next decade. Two-thirds of the pipeline is “implausible,” he says.\n\nThat still amounts to about $10 trillion of investment – 50% bigger than the next-biggest spending boom from the 19th century railroad expansion.\n\nBut sand is accumulating in the AI gears. That overwhelming demand for data center buildouts has vastly outstripped the industry’s ability to supply it.\n\nMaterials shortages:Building materials have become difficult to source because of surging demand.\n\nEven if construction materials were readily available, the chips that the massive buildings house are in short supply. That’s particularly true for Taiwan’s TSMC, which fabricates virtually every leading AI chip, including Nvidia’s Blackwell and AMD’s MI300X. That makes TSMC “a single point of dependency in the global AI supply chain,” according to Stanford University’s AI Index report.\n\nPower shortages: AI’s massive strains on the electrical grid have caused a significant supply and demand imbalance. Data centers already account for roughly 8% of US electricity usage, and that could grow to 12% by 2028, the American Edge Project, an AI data center advocacy group, predicts.\n\nTo compensate, many AI companies are building their own electricity-generation plants. But that plan has hit snags, too: Wait times for generation step-up transformers has tripled, according to JPMorgan. GE Vernova, the largest natural gas turbine manufacturer, reported that bookings for its power generators have doubled to $200 billion over a five-year period.\n\nSince 2020, inflation for transformers and power regulators has surged the second most of all 47 categories that the Bureau of Labor Statistics measures in its monthly Producer Price Index, a gauge of wholesale inflation.\n\nLabor shortages:To meet deadlines for the proposed data center buildouts, the United States would need to add 500,000 electricians, 300,000 welders and 550,000 plumbers, according to the American Edge Project. Recent changes in immigration policy haven’t helped.\n\n“Some of our clients are developing 24/7/365, and contractors are moving around all day, but there’s nothing they can do if all the labor is tied up in existing projects,” said Joe Macejak, head of Marsh Risk’s US property digital infrastructure business.\n\nPublic opposition:About a dozen states have proposed data center building moratoriums, including two states – New York and Texas – that recently put those temporary bans into action. Four additional states have taken up similar bills, but they failed to get enacted.\n\nBans aren’t the biggest hurdle, though: Getting construction permits approved is, noted Goldman Sachs.\n\nDespite the delays, spending on data center construction still jumped 7% in June to $68.3 billion, according to aCensus Bureau report. That was up an astounding 46% from a year earlier.\n\nA single state-of-the-art AI campus can cost around $8 billion, according to Van Nieuwerburgh. Despite that steep cost and the delays, Van Nieuwerburgh expects\n\nThere are now 438 unique data center developers with projects in the US, according to Cleanview, an energy data company.\n\nThe spending is so massive that data centers are helping fuel inflation, noted Minneapolis Federal Reserve PresidentNeel Kashkarilast week.\n\nStill, data centers can’t just pop up out of nowhere. They take years to plan and construct. And the web of contractors, local inspectors, developers, laborers, chipmakers and site managers adds cost, complexity, risk – and delays.\n\n“It’s very hard to get the timing right with these big buildouts, and often what ends up happening is we get overexcited and accrue too much debt and then a bunch of these investments go bust,” said Van Nieuwerburgh.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/08/04/politics/live-news/primary-election-michigan-virginia?post-id=cmsgcnvp600003b6r33ry2lsg",
+      "text": "running against them"
+    },
+    {
+      "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx",
+      "text": "Gallup poll"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/12/climate/maine-data-center-ban-bill",
+      "text": "ban them"
+    },
+    {
+      "url": "https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027",
+      "text": "Goldman Sachs"
+    },
+    {
+      "url": "https://hai.stanford.edu/assets/files/ai_index_report_2026_chapter_1_research_development.pdf",
+      "text": "Stanford University’s AI Index Report"
+    },
+    {
+      "url": "https://www.aterio.io/insights/us-data-centers",
+      "text": "Aterio"
+    },
+    {
+      "url": "https://www.census.gov/construction/c30/current/index.html",
+      "text": "Census Bureau report"
+    },
+    {
+      "url": "https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent",
+      "text": "Neel Kashkari"
+    }
+  ],
+  "hash": "b9b30d22b1448107ba1739d9d58d31c828c56d06ccb21d557f64b57427db955b",
+  "scraped_at": "2026-08-06T09:15:38.647786+00:00"
+}

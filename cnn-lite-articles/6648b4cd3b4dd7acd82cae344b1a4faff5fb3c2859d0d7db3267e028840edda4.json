@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/08/04/tech/ai-online-scams-protection",
+  "title": "AI is giving hackers an edge. Here’s how to protect yourself from online scams | CNN Business",
+  "date": "2026-08-06T09:18:21.082607+00:00",
+  "authors": [
+    "Auzinea Bacon"
+  ],
+  "text": "Source: CNN\n\nCybercriminals are increasingly using artificial intelligence to target people: Americans lost more than $893 million from AI-related crimes last year, according to theFBI.\n\nJust last week, OpenAI and Anthropic revealed that their AI agents accessed the internet during testing and hacked into other companies’ systems. Although customer-facing data wasn’t breached, the incidentsraised fresh concerns over cybersecurity.\n\nAI is growing moreaccessible, inexpensive and effective for pulling off attacks, said Chris Whyte, a professor at Virginia Commonwealth University.\n\nHere’s what experts suggest to protect against cyber scams.\n\nA deepfake can replicate faces or voices as well as videos or images depicting events that never happened.Roughly 12% of US scam victims last year said the hoax they fell for involved AI or a deepfake, according to aGallup report.\n\nSome deepfakes can even be used in Teams and Zoom meetings, Whyte said.\n\nFace filters can be advanced, but images may break if a scammer turns their head or is asked to stand and spin around, Whyte said. He recommended asking potential scammers to move on camera if possible.\n\n“It’s going to be difficult for the filter to maintain 100% of a veil,” he said.\n\nScams may also involve deepfakes of celebrities, CEOs and trusted figures, according to the FBI, which creates “fraudulent, high-stakes opportunities.” Last year, victims reportedly lost more than $632 million to investment scams involving AI, according to the FBI.\n\nIf the person or video recording requests money or account access, experts recommend first verifying the request with the person or organization through a known contact.\n\nAI-trained voices may be used for distress scams, such as posing as a loved one asking for money or creating real-time pressure, according to Laurel Cook, a marketing professor and digital well-being researcher at West Virginia University. Victims claimed over $5 million in fraud losses due to distress scams last year,according to the FBI.\n\n“Our own human abilities to detect issues are ill-fitting, so they often fall behind the sophistication of the tech,” Cook said. She suggests establishing ways to verify a relative or friend, such as choosing a safe word.\n\nJust a few seconds of audio can be used tocreate as much as an 85% voice match using AI, according to Whyte. And people accurately decipher an automated voice just 60% of the time,he said.\n\nIf you’re unsure whether a caller is authentic, hang up and call back on a different number or one that is associated with an institution, like a bank, said Sam Gregory, executive director of Witness, a technology and human rights organization.\n\nGaining access to your password is more complicated than using AI to decrypt your account details, experts say.\n\nAI makes guessing “more efficient” because it detects patterns from leaked passwords, says Siwei Lyu, director of the University of Buffalo’s Institute for AI and Data Science. AI can alsouse someone’s information to come up with more personalized password guesses.\n\nTo protect themselves, people can turn on multifactor authentication and use passwords with at least 12 characters, said Whyte. He also recommended using passkeys and password managers.\n\nWhyte warned against requirements for passwords — like one special character, number and capital letter — because it provides a checklist for hackers. A phrase, like a line from a poem, can work effectively.\n\n“As long as (the password is) long, you really only have to change when there’s evidence of some kind of compromise,” he said.\n\nSome scammers attempt to trick people using phony authentication methods. For instance, CAPTCHA verifications have prompts to check a box or verify images. A fake version will ask users to type a command, download software or change security settings, Lyu said.\n\nScammers may also convince users to authorize malicious apps that provide access to emails, contacts, files or other data, he warned. Lyu recommends usingGoogleandMicrosoftto review the apps connected to your accounts. Social media platforms like Instagram may also have security settings to review devices that haveaccess to your account.\n\nWhile AI detection software has been recommended for spotting scams, experts warn they’re not always foolproof.\n\n“We’ve got to defend ourselves in simple ways and be more cognizant of the digital footprint that we’re leaving,” said Kroll’s Burg.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+      "text": "FBI"
+    },
+    {
+      "url": "https://www.gallup.com/analytics/711827/scams-in-america.aspx",
+      "text": "Gallup report"
+    },
+    {
+      "url": "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+      "text": "according to the FBI"
+    },
+    {
+      "url": "https://support.google.com/accounts/answer/13533235?hl=en",
+      "text": "Google"
+    },
+    {
+      "url": "https://support.microsoft.com/en-us/accounts-billing/work-school/edit-or-revoke-application-permissions-in-the-my-apps-portal",
+      "text": "Microsoft"
+    }
+  ],
+  "hash": "6648b4cd3b4dd7acd82cae344b1a4faff5fb3c2859d0d7db3267e028840edda4",
+  "scraped_at": "2026-08-06T09:18:21.082628+00:00"
+}
