@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/08/06/tech/ai-rogue-anthropic-openai-hinton",
+  "title": "Godfather of AI: Brace for more rogue AIs | CNN Business",
+  "date": "2026-08-07T07:50:15.101471+00:00",
+  "authors": [
+    "Matt Egan"
+  ],
+  "text": "The smarter artificial intelligence gets, the harder it will be for humanity to control it, according to Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the “godfather of AI.”\n\nEven Hinton was alarmed by the sophisticated AI agents that recentlycaused real-world damageafterescaping their human-built testing environments.\n\n“What’s happening is these things are getting smarter,” Hinton told CNN on Wednesday during a press conference at an artificial intelligence convention. “I think as they get smarter, we’re going to see more and more complex intentions they have – and more and more ability to escape control.”\n\nThe problem, according to Hinton, is that humans will no longer be able to rely on outsmarting super-intelligent AI models.\n\n“I don’t believe we’re going to be able to keep control of them in the simple way of just outthinking them so they can’t escape,” Hinton said on the sidelines of Ai4, a conference in Las Vegas.\n\nLast month, the two leading frontier AI labs, OpenAI and Anthropic, disclosed that leading models they developed escaped their “sandbox” and hacked into other systems. On Wednesday,Meta similarly disclosedan AI agent that hacked into another organization’s systems.\n\nHinton found the incidents “somewhat scary” and said this is likely just the beginning of rogue AI hackers.\n\n“I anticipate there will be lots of nasty cyberattacks,” he said during a panel discussion at Ai4 in Las Vegas. “But I should emphasize the future is very uncertain. People say that the defender may have more resources than the attacker. The problem is the attacker only needs to be successful once, and the defender needs to be successful every time.”\n\nBritain’s AI Security Institute (AISI) revealed on Tuesday that Anthropic’s most advanced AI model – unprompted –used fake identities to deceive real peopleand attempt to plant malicious code.\n\nHinton, a former Google executive, has made a series of dire warnings in recent years about AI, even saying there is a10% to 20%the technology eventually wipes out humanity.\n\nSpeaking on a panel with Hinton, Fei-Fei Li, a computer scientist known as the “godmother of AI,” took issue with “doomerism” and “fear-mongering” over AI. But “total utopian talk” isn’t helpful either, said Li, the co-founder and CEO of spatial intelligence startup World Labs.\n\n“Every tool is a double-edged sword. AI is such a powerful tool. If not wielded in the right way, it will bring harm to our work and our life,” Li said.\n\nHinton defended his willingness to discuss the dangers of AI.\n\n“There’s a lot to be worried about, and I think unless we worry about it now, there could be problems,” he said. “Companies investing in AI have a vested interest in telling you two things: One, it won’t go rogue. And two, it won’t cause mass unemployment,” Hinton said.\n\nHinton acknowledged, however, that there is a great deal of uncertainty over how this will all play out.\n\n“Nobody knows what’s going to happen. If you ask what AI is going to be like in 10 years’ time, nobody really has a clue,” Hinton said.\n\nHe pointed to how a decade ago, few would have expected AI would have created chatbots that “know everything and can answer any question you ask and occasionally just make stuff up.”\n\nBen Goertzel, a computer scientist who helped popularize the term “artificial general intelligence,” said the Anthropic and OpenAI agents going rogue shows the importance of instilling morals in AI and making them care about humanity.\n\n“These models are not evil. They’re amoral,” Goertzel, the founder and CEO of SingularityNET, told CNN at Ai4. “It’s not like they hacked out of their sandbox thinking, ‘Ha-ha, I’m cheating.’ They didn’t know they’re cheating. They’re just trying to complete their goals.”\n\nHinton has arguedin the past that “maternal instincts” should be built into AI so that they really care about people – even when they are smarter than humans.\n\n“We have to figure out how to make them benevolent and make them care about us more than they care about themselves,” Hinton said on Wednesday. “And we might be able to do that because we’re still in control.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
+      "text": "caused real-world damage"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "escaping their human-built testing environments"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
+      "text": "Meta similarly disclosed"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+      "text": "used fake identities to deceive real people"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/06/17/ai-godfather-geoffrey-hinton-theres-a-chance-that-ai-could-displace-humans.html",
+      "text": "10% to 20%"
+    },
+    {
+      "url": "https://www.cnn.com/2025/08/13/tech/ai-geoffrey-hinton",
+      "text": "Hinton has argued"
+    }
+  ],
+  "hash": "9ed97a63e3adf2e28b67503c3a9e0a1070ba4d8e493c52253ccc6dfadce9936c",
+  "scraped_at": "2026-08-07T07:50:15.101479+00:00"
+}
