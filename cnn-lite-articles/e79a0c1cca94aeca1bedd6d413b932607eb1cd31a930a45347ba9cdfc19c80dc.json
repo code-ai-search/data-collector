@@ -1,0 +1,29 @@
+{
+  "url": "https://lite.cnn.com/2026/08/06/us/faa-737-max-cracks",
+  "title": "FAA orders inspection of hundreds of 737 Max jets for cracks | CNN",
+  "date": "2026-08-08T07:27:29.272873+00:00",
+  "authors": [
+    "Pete Muntean"
+  ],
+  "text": "Source: CNN\n\nThe Federal Aviation Administration has ordered inspections of hundreds of Boeing 737 Max jets for cracks in the body of the plane, warning that undetected damage could reduce the aircraft’s structural integrity.\n\nThenew airworthiness directiveapplies to an estimated 471 US-registered Boeing 737 Max 8s, Max 9s and Max 8-200 airplanes.\n\nCracks were found on some planes in a structural reinforcement around the forward service door on the right side of the airplane, next to the front galley, the FAA said.\n\nAirlines must inspect the area on a schedule based on each airplane’s usage and repair any cracking before returning an affected airplane to service.\n\nBoeing has conducted an engineering analysis to determine the cause of the cracks and is working on engineering changes to prevent it in the future, the company said in a statement.\n\nThe FAA did not order the aircraft grounded, saying the required inspection intervals provide multiple chances to detect cracks before they could compromise the airplane’s structural integrity.\n\nThe directive takes effect September 10.\n\nThis is not the first time the company has had to deal with structural cracking on 737s.In 2019, inspections were orderedfor some Boeing 737-700, 737-800, and 737-900 after some planes were found to have cracks in the component connecting the plane’s fuselage to the wings.\n\n“This issue has not been observed on the 737 MAX fleet, but Boeing extended the inspections to 737 MAX airplanes as the model shares a similar design and build process,” the company said in a statement. “We support both directives and continue to support our airline customers.”\n\nLast month, the FAA proposed another airworthiness directive that wouldrequire the inspection of seat assemblieson 453 Boeing 737 Max jets in case they were incorrectly installed.\n\nThe manufacturer has been under scrutiny sincea door plug blew outof an Alaska Airlines jet in January 2024. The National Transportation Safety Board found four bolts that were supposed to hold the door plug in place were missing when the plane was delivered the airline in October 2023.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.federalregister.gov/documents/2026/08/06/2026-15936/airworthiness-directives-the-boeing-company-airplanes?utm_source=chatgpt.com",
+      "text": "new airworthiness directive"
+    },
+    {
+      "url": "https://www.cnn.com/2019/09/27/business/boeing-737-ng-cracks",
+      "text": "In 2019, inspections were ordered"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/27/business/boeing-737-max-seats-incorrectsly-installed-intl-hnk",
+      "text": "require the inspection of seat assemblies"
+    },
+    {
+      "url": "https://www.cnn.com/2025/06/24/business/boeing-door-plug-ntsb-investigation-hearing",
+      "text": "a door plug blew out"
+    }
+  ],
+  "hash": "e79a0c1cca94aeca1bedd6d413b932607eb1cd31a930a45347ba9cdfc19c80dc",
+  "scraped_at": "2026-08-08T07:27:29.272889+00:00"
+}
