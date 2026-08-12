@@ -1,0 +1,26 @@
+{
+  "url": "https://lite.cnn.com/2026/08/11/business/wall-street-trump-truth-social",
+  "title": "Trump Media says Wall Street firms paying up to $100K for early access to Trump Truth Social posts | CNN Business",
+  "date": "2026-08-12T07:57:11.122006+00:00",
+  "authors": [
+    "David Goldman",
+    "Matt Egan"
+  ],
+  "text": "Source: CNN\n\nWall Street has begun to embrace Trump Media and Technology Group’s newest product:instant access to President Donald Trump’sTruth Social posts.\n\nTruth Social ownerTrump Media, in its first-ever earnings call with analysts Monday evening, said it has signed more than 10 customer agreements, mostly with high-frequency trading companies. Trump Media said those customers are willing to pay between $60,000 and $100,000 a month to gain access to the Truth Social data feed, known as an application programming interface (API). That direct link gives Wall Street a leg up over retail traders by delivering Truth Social posts split seconds faster than the public sees them.\n\nFor high-frequency trading machines, milliseconds can mean serious money. Their algorithms look for signs that they should buy or sell, and by the time regular traders notice, it’s often too late to take advantage.\n\nTruth Social’s most-followed and important poster, Trump, often announces policy decisions on his company’s platform – sometimes even before his own administration is aware. Instant access to proclamations about tariff policy, national security and executive orders that affect the economy could send oil, bonds, stocks or other assets sharply higher or lower.\n\nSpending tens of thousands of dollars for speedy access to those market-moving announcements could be a no-brainer for high-frequency trading firms. And apparently, it’s a profitable venture for Trump and his social media company, too.\n\n“We recognized a modest amount of revenue from these agreements today,” said Kevin McGurn, interim CEO of Trump Media, on a conference call with analysts. “We believe this can grow into a meaningful, durable contributor.”\n\nMcGurn announced that the company is in active conversations to grant Truth API access to news organizations and AI companies, including hyperscalers that provide huge amounts of computing powered by massive data centers and large language models.\n\nLast month, Democratic Sens. Elizabeth Warren and Adam Schiffurged federal regulators to investigatewhether Trump Media’s plan to give Wall Street firms access to Trump’s Social Media posts is legal.\n\nThe lawmakers described the plan as a “shocking abuse of the office of the President” and called for the Securities and Exchange Commission to determine if the arrangement violates federal securities law.\n\n“Early access to President Trump’s social media posts for Wall Street firms, wealthy insiders and high-frequency traders will erode investor confidence in basic fairness of the markets,” Warren and Schiff wrote in a letter to SEC Chair Paul Atkins.\n\nTrump Medialaunched in 2021with ambitions of creating a conservative social media counterweight to Big Tech. However, five years later and despite Trump using Truth Social as his principal means of presidential communication, the platform remains a very tiny player that, by some measures, is getting even smaller.\n\nIn July, Truth Social attracted just 261,300 daily active users, down 40% year over year, according to data shared with CNN by research firm Similarweb.\n\nDespite a modest decline in traffic, X (formerly Twitter) averaged 123.5 million daily active users in July – or nearly 500 times more than Truth Social.\n\nThat small amount of traffic and minuscule advertising revenue led to just $1.7 million in sales last quarter – and a $238 million loss. That was significantly larger than the $20 million loss the company reported in the same quarter a year earlier.\n\nThe company has never reported a quarterly profit.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/16/business/truth-social-data-wall-street",
+      "text": "instant access to President Donald Trump’s"
+    },
+    {
+      "url": "https://www.schiff.senate.gov/news/press-releases/news-schiff-warren-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts/",
+      "text": "urged federal regulators to investigate"
+    },
+    {
+      "url": "https://www.cnn.com/2021/10/21/business/trump-social-media-spac",
+      "text": "launched in 2021"
+    }
+  ],
+  "hash": "4f0d1a24f6b8b21cc7ee28b89279b81b98e4134817a8ad44f519baa03ff1438f",
+  "scraped_at": "2026-08-12T07:57:11.122020+00:00"
+}

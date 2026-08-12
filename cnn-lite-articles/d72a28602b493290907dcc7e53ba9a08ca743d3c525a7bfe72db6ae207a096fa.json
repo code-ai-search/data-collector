@@ -1,0 +1,21 @@
+{
+  "url": "https://lite.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl",
+  "title": "Nvidia and Wall Street team up on $500 billion bet on AI infrastructure | CNN Business",
+  "date": "2026-08-12T07:57:17.772609+00:00",
+  "authors": [
+    "Anna Cooban"
+  ],
+  "text": "Source: CNN\n\nNvidia is joining forces with Wall Street to allow its customers borrow more than half a trillion dollars to build AI infrastructure.\n\nThe US chipmaker announced on Monday that it had signed a preliminary agreement with heavyweight institutional investors Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to raise over $500 billion for lending.\n\nNvidia CEO Jensen Huang said in astatementshared on X that AI compute — the hardware and software underpinning AI models — was developing into an “investable asset class” that he referred to as “AI factories.”\n\n“We have moved from an era in which companies bought chips and built data centers project by project to one in which AI factories can be financed as productive infrastructure,” Huang wrote.\n\nThe future financing platforms are partly intended to make it easier for smaller, start-up AI companies to borrow money to buy compute, which is the processing power needed to train and build their models.\n\n“Modern compute has emerged as a scarce, mission-critical asset class with compelling investment characteristics,” Apollo President Jim Zelter said in astatement.\n\nNvidia is at the center of the AI boom, manufacturing chips and other hardware used in a raft of tech companies’ AI models. The company’s stock has more than quadrupled since the start of 2024 to reach a market valuation of $5.3 trillion.\n\nBut investors have grown nervous about the amount of money and debt-financed investment swirling around the sector. The circular nature of many deals — where, essentially, one AI company invests in a second on the proviso that it will buy the first company’s products — has raised concerns that demand for AI may be artificially inflated.\n\n“Chips have never been treated as a bankable, long-duration asset before, because chips depreciate fast and lose value the moment a newer generation arrives,” Nigel Green, CEO and founder of deVere Group, a financial advisory firm, wrote in a Tuesday statement.\n\n“Turning that into something institutions can lend against, the way they lend against a building or a highway, only works if the underlying asset actually holds its value over time,” he added.\n\nDavid Goldman contributed reporting.\n\nDavid Goldman contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://x.com/JensenHuang/status/2086934705207959965",
+      "text": "statement"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "text": "statement"
+    }
+  ],
+  "hash": "d72a28602b493290907dcc7e53ba9a08ca743d3c525a7bfe72db6ae207a096fa",
+  "scraped_at": "2026-08-12T07:57:17.772623+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://lite.cnn.com/2026/08/10/tech/meta-glimmer-mark-zuckerberg-future-of-ai",
+  "title": "Meta just picked a side in a big debate over the future of AI | CNN Business",
+  "date": "2026-08-12T07:58:10.531195+00:00",
+  "authors": [
+    "Lisa Eadicicco",
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nMeta is taking a stance on one of the biggest debates shaping the future of artificial intelligence: Should AI models be open for anyone to tinker with and modify, or should they be tightly controlled by the companies making them?\n\nFor Meta CEO Mark Zuckerberg, the answer is clearly the former. The tech giant on Monday launched a new “open-weight model” — which has parameters that users can customize to adjust how the AI performs or responds — called Glimmer.\n\nMeta says Glimmer is tailored for powering AI models that can run directly on personal computers instead of relying on computing power from data centers. Zuckerbergalso published a lengthy manifestolaying out his vision and approach to AI, attempting to assuage wide-ranging concerns about AI as the company combats criticisms about its data center buildout and AI smart glasses.\n\n“Rather than centralizing superintelligence, we should distribute it widely and give every person the ability to direct it,” he wrote.\n\nDebates over whether AI should be open or closedhave permeated both Silicon Valley and Washington. Closed models are generally thought to be more advanced and can be closely tested and monitored by the companies developing them. However, like open-weight models, closed models can still behave in unpredictable ways, as the recent reports of AI models going rogue and breaking into other companies have demonstrated.\n\nOpen models give developers the freedom to build their own products and services based on the technology. That creates an opportunity for companies offering open models to potentially become indispensable to businesses by offering technological blueprints for their products. Nvidia CEO Jensen Huang isalso a supporterof AI models with open weights, and thechip giant sayscompanies like Uber and Zoom are using its open models to build features and analyze data.\n\nMeta at one point had one of the more popularopen-weight models, called Llama, but late last year started focusing on developing its own closed-source model called Spark to compete with the most advanced models from OpenAI and Anthropic.\n\nPopular AI models from China, like those made by Moonshot and DeepSeek, are also open weight — raising questions over whether that approach is giving Chinese models an edge.\n\nAnd there’s another downside: Some experts say open-weight models tend to lag behind the most advanced closed models in performance and capabilities. Yet Zuckerberg and Huang maintain that open-weight models can lead to faster innovation because they allow for broader access.\n\nZuckerberg’s thesis paints an idyllic picture of the benefits of AI, writing that the technology will give every individual their own custom assistant, tools to build businesses and a tutor with “a PhD in every subject.” Society shouldn’t hand just a select few companies the keys to create, control and distribute these tools, he argued.\n\n“There is no technological solution that can align with everyone’s opposing interests and values at once,” he wrote. “Any singular superintelligence would have to prioritize some values over others and in the process would be incapable of being benevolent to everyone.”\n\nYet there’s been growing backlash over the technology’s rapid advancement and its influence on everything from jobs to cybersecurity, mental health, the economy and local communities. College studentsbooed mentions of AIduring commencement ceremonies this spring. Roughly $130 billion worth of data center projects were blocked or delayed in the first quarter of 2026 alone because of local opposition, according to research firmData Center Watch.\n\nAnd Meta has been embroiled in controversy over concerns about its AI smart glassesbeing used to record otherswithout their consent.\n\nZuckerberg argues that if everyone has access to “superintelligence,” the playing field will be equal. He also said Meta builds its own energy infrastructure to keep electricity prices low in the areas where it builds data centers.\n\nHe also called for more collaboration between frontier AI labs and the government, coming after representatives from Meta, OpenAI, Google and Anthropicmet with the White Houseto discuss a new framework for government review of AI models before they launch.\n\n“To develop the most advanced models and products,” he wrote, “we must recognize that AI is likely the most competitive industry in history.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.meta.com/thefutureisforeveryone/",
+      "text": "also published a lengthy manifesto"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/06/tech/open-closed-ai-models",
+      "text": "Debates over whether AI should be open or closed"
+    },
+    {
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "text": "also a supporter"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/nemotron-cosmos-reasoning-enterprise-physical-ai/",
+      "text": "chip giant says"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/19/business/video/ai-comments-commencement-speakers-booed-by-graduates-digvid-vrtc",
+      "text": "booed mentions of AI"
+    },
+    {
+      "url": "https://www.datacenterwatch.org/q1-2026",
+      "text": "Data Center Watch."
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/09/world/manfluencers-smart-glasses-intl",
+      "text": "being used to record others"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/03/tech/white-house-meet-with-top-ai-companies-big-regulation-push",
+      "text": "met with the White House"
+    }
+  ],
+  "hash": "4f334cadf1fd3cf54db871408406217b261457de362b1b706099f32fb79a0244",
+  "scraped_at": "2026-08-12T07:58:10.531208+00:00"
+}
