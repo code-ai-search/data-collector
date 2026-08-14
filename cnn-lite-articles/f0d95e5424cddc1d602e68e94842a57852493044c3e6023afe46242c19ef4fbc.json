@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/08/12/tech/google-pixel-android-ai-future",
+  "title": "Google’s Android chief lays out his vision for how AI will change our smartphones | CNN Business",
+  "date": "2026-08-14T07:57:24.949836+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nWhat if you didn’t have to dig through your inbox to schedule a follow-up doctor’s appointment or type on a tiny keyboard to send emails on your way to work?\n\nThat’s the future Google and other tech giants predict, withAI agents soon handling taskson our phones without constant prompting, potentially freeing us up to do other things.\n\nThe company’s newest Pixel smartphones, announced Wednesday, carry features aimed in that direction.A new light on the Pixel 11 Pro’s back will show whenGemini processes a command, and a new Android feature later this year called Halo will show an AI agent’s progress on a given task.\n\nThe new features come as Google and Apple, whose platforms run billions of smartphones around the world, continue to compete for dominance of our digital lives – and defend their turf against ChatGPT’s growing presence.\n\nGoogle typically considers how consumers will usetheir phones roughly three years ahead when planning versions of Android, said Sameer Samat, president of Google’s Android ecosystem. So the features introducedtoday are a window into Google’s prediction for how AI will change smartphones.\n\nRight now, that vision for Android is that “you articulate goals or what you mean or what you’re trying to achieve, and then the system is smart enough to do those things for you,” Samat told CNN.\n\nBut growing public unease over the technology’s social and economic impacts underscore the risks for AI’s future. And the tech is still far from being able to carry out the kind of future Samat outlined to CNN.\n\nStill, Google is banking on that vision.\n\n“I see a lot of folks, including myself, that are heads down in their phones, trying to get a lot of things done,” he said. “And if you can give people that time back, five minutes a day, 10 minutes a day, 30 minutes a day, think what you can do with that.”\n\nThe days of switching between apps to complete a task could be numbered.\n\nFor example, an AI agent may one day be able to go through the notes from your doctor’s appointment, check with your insurance company about coverage and schedule an MRI visit, Samat said.\n\nThat scenario isn’t possible in Android today. But Samat aims to move the software – whichpowersmore than 70% of smartphones globally– in a direction like this, where smartphones don’t need to be “micromanaged.”\n\nThe new light on the back of the Pixel 11 Pro shows when Gemini is processing a command or responding, which the company hopes will help users talk to the virtual assistant without picking up their phone to make sure the agent is listening.\n\nTech giants are preparing for a future in which talking to your tech becomes more common as part of this shift. That’s why Google is launching a new tool called Rambler on its Pixel 11 devices. Rambler, which was announced in May, processes speech, cleans it up and packages it in a text or email, stripping away the “umms,” “likes” and other tics.\n\nGoogle’s latest Pixel launch is part of a broader smartphone industry push toward AI agents.\n\nSamsung, one of the world’s largest smartphone makers by market share, partners with Google to deeply integrate Gemini across its software.\n\nApple plans to launcha revamped version of Siri, which it says can act across apps and incorporate personal information into answers, later this year. And OpenAI also released a big ChatGPT upgrade last month that makes talking to it feel more natural.\n\nBut consumers are growing increasingly wary of AI. Even though AI chatbot usage is growing, most Americans predict the technology will have a negative impact on society, according toPew Research. And 79% of Americans don’t trust businesses to use AI in a responsible way, according toa different study fromGallup and Bently University.\n\nIt’s unclear whether Google’s technology will live up to its claims – or if consumers will spend less time on their phones because of it.\n\n“It’s just a word that has come to mean a lot of things,” Samat said referring to AI. “Instead of talking about the tech, I think one of the things that’s been much more of a focus for us is… ‘How does it actually help you?’”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/03/18/business/video/marketplace-europe-a-block-mwc-agentic-ai-telecommunications-hottges-fasmer-spc",
+      "text": "AI agents soon handling tasks"
+    },
+    {
+      "url": "https://www.cnn.com/2023/12/06/tech/google-launches-gemini-compete-with-chatgpt",
+      "text": "Gemini processes a command"
+    },
+    {
+      "url": "https://counterpointresearch.com/en/insights/global-smartphone-os-market-share",
+      "text": "more than 70% of smartphones globally"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/13/tech/apple-siri-ai-update",
+      "text": "a revamped version of Siri"
+    },
+    {
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+      "text": "Pew Research"
+    },
+    {
+      "url": "https://www.bentley.edu/gallup/ai",
+      "text": "Gallup and Bently University"
+    }
+  ],
+  "hash": "f0d95e5424cddc1d602e68e94842a57852493044c3e6023afe46242c19ef4fbc",
+  "scraped_at": "2026-08-14T07:57:24.949855+00:00"
+}
