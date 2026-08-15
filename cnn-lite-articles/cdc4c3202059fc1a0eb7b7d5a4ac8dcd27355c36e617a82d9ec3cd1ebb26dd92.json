@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/08/13/tech/flock-cameras-police-auditing-controls",
+  "title": "Flock rolls out new police auditing and accountability controls following surveillance concerns | CNN Business",
+  "date": "2026-08-15T07:05:22.824469+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nLaw enforcement technology company Flock introduced new safety controls on Thursday, hoping to curb growing scrutiny and fears around surveillance and police misuse of its tools.\n\nFlock’s nationwide network of automated license plate readers (ALPR) cameras —mounted along public roads — take images of passing vehicles’ plates, color and other characteristics to feed into a database. Police departments contract with the company to search the database, billed as a tool to help solve crimes.\n\nBut astring of recent police officer resignations or arrestsfor alleged abuses of Flock’s license plate reader camera system, including to stalk exes or romantic interests, have added to nationwide concerns among privacy advocates and community members about the technology. Some cities have cancelled their Flock contracts, and some critics have gone so far as tovandalize the cameras.\n\nFlock CEO Garrett Langley was motivated to update Flock’s safety controls after realizing just how many people lack trust in law enforcement.\n\n“I’ve spent a lot of time in the last two years talking to individuals, and a lot of them have said, ‘Well, I don’t trust the police,’ and I go, ‘Why?’ ‘Oh, well, the police have abused their power so many times,’” Langley said in an interview ahead of the announcement. “What’s changed for me is realizing that we have a responsibility, maybe an obligation even, to the communities we serve to set the standard.”\n\nFlock is now requiring all customers to use its “Audit Assistance” tool by the end of this year. The tool flags abnormal search behavior — for example, by an individual officer. The tool could help address misuse like, for example, the former Milwaukee police officer who court documents showsecretly usedFlock to search the location of his romantic partner 124 times.\n\nWhen the system detects unusual searches, the user will be locked out of the systempending an administrator review, according to Flock.\n\nThe company says that around a third of its agency customers turned on the Audit Assistance before it became mandatory.\n\n“This is designed to intervene before misuse becomes recurring or widespread, rather than simply documenting misuse after the fact,” the company said in a statement.\n\nThe company will also require users to input a case number to justify each search, with the exception of “genuine emergencies” that will be automatically flagged for review, Flock says. This feature was previously optional for police departments,and Flock says it must be turned on for all agencies by the end of this year.\n\nFlock is reducing its standard data retention policy from 30 days — a length of time that theACLUand others had raised concerns about — to seven days. However, agencies can adjust that retention period based on state or local policy, the company said. It’s also adding an “evidence mode” feature that will allow agencies to preserve data longer than the retention policy allows when a search is tied to a specific case number.\n\nAnd the company will give local jurisdictions the option to limit how outside agencies can search data from their cameras; for example, allowing searches related to theft but not to immigration enforcement.\n\nLangley called the misuse of Flock cameras by police officers “completely unacceptable,” adding that building guardrails in the technology can help address surveillance concerns.\n\nWhile the company’s updates are intended to address potential misuse, Langley said he’d also like to see state regulators mandate more accountability from police. He suggested requiring audits and tools to detect unusual behavior across all technology used by law enforcement and harsher penalties for abuses of power.\n\nRebuilding trust in the company’s products — and in law enforcement’s responsible use of them — may be crucial for Flock’s business. Some cities thatcanceled contractswith Flock have recentlyinked dealswith competitor Axon.\n\n“Our customers are the community,” Langley said. “Police might pay the bills. Police might make the decisions, but our customer is the community, because that’s who actually receives the benefit of the product.”\n\nCNN’s Eric Levenson and T.M. Brown contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/26/us/flock-cameras-surveillance-abuse",
+      "text": "string of recent police officer resignations or arrests"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/30/us/flock-camera-vandalism-protests-cec",
+      "text": "vandalize the cameras"
+    },
+    {
+      "url": "https://mkepdpio.org/wp-content/uploads/2026/02/Criminal-Complaint_3-Ayala-Josue.pdf",
+      "text": "secretly used"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/26/us/flock-cameras-surveillance-abuse",
+      "text": "ACLU"
+    },
+    {
+      "url": "https://www.yahoo.com/news/us/articles/cities-ditching-flock-safety-cameras-172924943.html",
+      "text": "canceled contracts"
+    },
+    {
+      "url": "https://cnycentral.com/news/local/new-axon-cameras-are-installed-in-syracuse-with-fresh-data-and-transparency-rules",
+      "text": "inked deals"
+    }
+  ],
+  "hash": "cdc4c3202059fc1a0eb7b7d5a4ac8dcd27355c36e617a82d9ec3cd1ebb26dd92",
+  "scraped_at": "2026-08-15T07:05:22.824484+00:00"
+}
