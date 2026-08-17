@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/08/13/politics/cyber-privateers-trump-order-overseas-groups-hacking",
+  "title": "‘Cyber privateers’: Trump issues order allowing US companies to hack overseas groups under certain conditions | CNN Politics",
+  "date": "2026-08-17T07:30:49.645464+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nThe Trump administration is enlisting private companies to conduct cyberattacks on foreign cybercriminals in a major policy shift that experts say could come with legal risk for the companies.\n\nThe move gives vetted companies a prominent role in hacking operations that have historically been the dominion of US law enforcement, spy and military agencies.\n\nCompanies can use cyber tools to surveil foreign criminals and disrupt their networks under the “control and oversight” of the new federal program, according to a memo issued Wednesday by President Donald Trump.\n\nThe program’s goal is to punish foreign criminal groups that cause Americans billions of dollars in annual losses. The program’s remit is foreign criminal groups, not governments.\n\n“American businesses’ innovative capabilities have historically been underutilized in efforts to identify and disrupt criminal networks operating in cyberspace,” the memo says.\n\nThe US government is already doing a lot of hacking on foreign targets. The new program risks having too many cooks in the kitchen, some former officials said.\n\n“The real risk is that you end up with a bunch of cyber privateers running around without any clear coordination or direction at the federal level,” said Andrew Schoka, a former Army officer at US Cyber Command.\n\nDeconflicting in cyber operations “is already a major challenge for federal agencies, but now you’re adding in the complexity of private sector firms with a lot more capability and speed,” Schoka told CNN.\n\nThe new program could free up US government resources.Chinese government-backed hackersoutnumber FBI cyber personnel 50-to-1,accordingto former FBI director Christopher Wray.\n\n“Having private sector help to counter cyber criminals allows the US to disrupt more groups and frees up agencies like FBI and Cyber Command to focus more on countering nation states like China,” said Cynthia Kaiser, a former senior FBI cyber official.\n\n“But the devil is in the details,” Kaiser told CNN. “Before they sign up, companies will need more explicit information about liability protections, types of government oversight, and foreign criminal use of US infrastructure, among other concerns.”\n\nAnexplosion of scamstargeting every type of American in recent years has prompted some private citizens to hack back and compromise the networks of the scammers.\n\nChris “Weld Pond” Wysopal, co-founder of cybersecurity firm Veracode, said the new federal program would be a more organized way of dealing with the problem. But he also worried about the potential consequences of a government-sanctioned hacking operation carried out by a private firm that goes awry. Hacking a data center in a foreign country to target scammers could, for example, inadvertently affect a hospital, he said.\n\nForeign governments may also see employees of companies participating in the new hacking program who travel abroad as legitimate targets for detention or questioning, Wysopal said.\n\nOfficials from the departments of Justice and Homeland Security will oversee the new hacking group. Any program activity “directed at a United States person” must undergo extra legal scrutiny, including from the Justice Department, the memo says.\n\nBut Jason Kikta, a former Cyber Command official, said the new memo didn’t lay out a clear process for ensuring cyber operations uphold the civil liberties of American citizens.\n\n“There is no clear oversight or review process on the determinations that will be made by unnamed political appointees,” Kikta said. “Defenders (of the memo) will say that it still requires activity to be constrained by DOJ and DHS authorities. But this order pushes liability on to the companies.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2024/10/05/politics/chinese-hackers-us-telecoms",
+      "text": "Chinese government-backed hackers"
+    },
+    {
+      "url": "https://www.fbi.gov/news/speeches-and-testimony/director-wrays-opening-statement-to-the-house-select-committee-on-the-chinese-communist-party",
+      "text": "according"
+    },
+    {
+      "url": "https://www.cnn.com/2024/09/09/politics/crypto-fraud-increase",
+      "text": "explosion of scams"
+    }
+  ],
+  "hash": "425ef15dc536651d829f6c1aa01c38720d31b14e04cf4eeb95970aa58a4e27ef",
+  "scraped_at": "2026-08-17T07:30:49.645478+00:00"
+}
