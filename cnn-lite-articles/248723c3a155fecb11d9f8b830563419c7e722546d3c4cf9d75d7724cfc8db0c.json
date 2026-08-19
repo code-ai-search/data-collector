@@ -1,0 +1,21 @@
+{
+  "url": "https://lite.cnn.com/2026/08/18/business/google-spirit-airlines-data",
+  "title": "Google is buying all of Spirit Airlines’ data to feed its AI models | CNN Business",
+  "date": "2026-08-19T07:12:09.929464+00:00",
+  "authors": [
+    "Chris Isidore"
+  ],
+  "text": "Source: CNN\n\nDid you ever fly onSpirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.\n\nThe discount airlinehalted all operationsin May, and it’s been selling off its remaining assets through the bankruptcy process ever since. While most of that is planes, equipment, and real estate, there’s other things that are valuable, too.\n\nIt was disclosed late Monday that the company agreed to sell its data to Google for $10 million. That includes emails and internal communications, spreadsheets, transactions with the public including bookings and frequent flyer information as well as human resources information on its employees.\n\nThe data has been stripped of anything that would allow individuals to be identified, according to the court filing. But it is still a massive amount of useful intelligence.\n\n“We acquired part of an enterprise dataset from Spirit Airlines, which can be helpful in improving our products and AI models,” a spokesperson for Google said in a statement to CNN, which confirmed it will not receive any personal information as part of the purchase.\n\nNumerous airlines have said they are making increasing use of AI to set fares and schedule more efficiently. Another AI company,Mercor.io, had the second highest bid of $7.5 million for Spirit’s data. A bankruptcy court Judge Sean Lane is due to rule on the sale of the data at a hearing on Wednesday.\n\nThe sale is unusual, even if airline bankruptcies are not. Most bankrupt airlines are purchased whole, including their data, by another airline which folds it into those operations. But Spirit was the first significant US airline in 25 years that was forced to halt operations entirely, rather than be sold off to another airline.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights",
+      "text": "halted all operations"
+    },
+    {
+      "url": "http://Mercor.io",
+      "text": "Mercor.io"
+    }
+  ],
+  "hash": "248723c3a155fecb11d9f8b830563419c7e722546d3c4cf9d75d7724cfc8db0c",
+  "scraped_at": "2026-08-19T07:12:09.929475+00:00"
+}
