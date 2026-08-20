@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/08/18/business/openai-testing-training",
+  "title": "OpenAI is hardening AI testing and training in light of hacking incidents | CNN Business",
+  "date": "2026-08-20T07:14:36.931609+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nOpenAI is unveiling new, stronger security safeguards around its training and testing in light of new model capabilities and a spate of incidents in which artificial intelligence systems hacked into other companies.\n\nThe company firstdisclosedin July that during a cybersecurity exam, a combination of its AI agents with internal safeguards purposely lowered escaped their testing environment through a previously unknown bug. The agents decided the best way to ace the tests was to find the answer key outside the testing environment. So theyhackedinto the systems of Hugging Face, a platform that hosts AI models and datasets, in order to find the answers.\n\nThe ChatGPT maker said it is hardening its research and testing environments as a result, expanding monitoring to detect and respond to concerning AI behavior. OpenAI is also working to ensure AI systems behave as humans intended, a process known as alignment.\n\n“Everything that we’re doing is intended to prevent something like Hugging Face from happening again,” Mia Glaese, OpenAI’s head of research told reporters in a briefing on Tuesday.\n\nThe hack is seen as a turning point in autonomous AI-powered cybersecurity. OpenAI CEO Sam Altman said in July it was “the first security incident that I have felt very viscerally” and prompted more than 1,300 of the top staffers from across the biggest tech companies to call for tools toslow the paceof AI development.\n\nOpenAI said the new safeguards were also inspired by its latest model, Astra. The company recently paused some work on the model after it had seen an indication the model could be capable of launching autonomous cyberattacks.\n\nOne of the key ways OpenAI’s agents were able to escape their testing environment was because a third party software provider had a previously unknown bug that the agents were able to exploit. Now, OpenAI said it will be “raising the security standards” for AI testing environments including stronger isolation, “so that a single compromise of a workload or supporting service does not, by itself, allow for unauthorized access” outside the allowed sandbox.\n\nOpenAI’s agents also worked undetected for some time, starting the process of escaping back in May. The company now says it’s developed a monitoring system that will “issue an alert within 30 minutes after concerning activity is surfaced.”\n\nThe company also said it’s doing more to train AI models to align with what the humans actually want them to do – in many of the cases of AI agents going rogue, the agents took on unsanctioned actions that the human testers did not intend for the agents to take.\n\nOpenAI said its improving model alignment training, including rewarding “models to better detect and discourage unsafe behavior across tasks and environments; training models to be more honest about their actions, capabilities, and limitations; and reducing behaviors that exploit weaknesses in rewards, graders, tools, or oversight.”\n\nThe increased monitoring comes at a cost: The company said it estimates the monitoring overhead will cost roughly 20 percent more on top of the computing power the model needs.\n\n“We’re really committed to meeting higher safety standards as capabilities advance, even when doing so affects the pace of our internal development,” Glaese said.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "disclosed"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/29/tech/openai-hugging-face-cyberattack",
+      "text": "hacked"
+    },
+    {
+      "url": "https://www.pacingthefrontier.com/",
+      "text": "slow the pace"
+    }
+  ],
+  "hash": "5b63b0b8b4bb216feab42dd9d8e6fc830c015be0d627f00e203416c562c7c60c",
+  "scraped_at": "2026-08-20T07:14:36.931626+00:00"
+}

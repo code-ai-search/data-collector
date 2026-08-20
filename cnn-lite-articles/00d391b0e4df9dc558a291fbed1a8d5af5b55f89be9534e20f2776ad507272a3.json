@@ -1,0 +1,30 @@
+{
+  "url": "https://lite.cnn.com/2026/08/18/science/nasa-images-spacex-rocket-moon-collision",
+  "title": "New photos reveal impact site of SpaceX rocket moon collision | CNN",
+  "date": "2026-08-20T07:14:22.134309+00:00",
+  "authors": [
+    "Jackie Wattles",
+    "Ashley Strickland"
+  ],
+  "text": "Source: CNN\n\nNew images from a NASA satellite orbiting the moon reveal a fresh, 60-foot-wide crater formed by a wayward SpaceX rocket that slammed into the lunar surface earlier this month.\n\nThe crash involved the upper stage of a Falcon 9 rocket that originally launched on January 15, 2025,carrying two commercial lunar landers. While the rocket’s first stage — the booster used for liftoff — returned to Earth, its second, or upper, stage continued propelling the robotic landers on their path to the moon.\n\nAfter the rocket’s mission was complete, SpaceX intentionally discarded the upper stage in space — but it later became clear that quirks of orbital dynamics had pushed the booster ontoa collision course with the moon.\n\nResearchers and space agencies scrambled to capture imagery of the vehicle’s landing site after it hit the moon on August 5. The European Southern Observatory’s Very Large Telescope, located at the Paranal Observatory in Chile, was among the first to detect the impact. And the Korean Pathfinder Lunar Orbiter, called Danuri, shared images on social media shortly after the collision.\n\nNASA said it worked alongside the Korea AeroSpace Administration (KASA) and used the preliminary data that Danuri gathered to guide a narrow-angle camera on board NASA’s Lunar Reconnaissance Orbiter, or LRO, and capture clearer images, which NASA released Tuesday.\n\n“To capture imagery of the impact, engineers tilted the spacecraft so its cameras would point toward the crater each time LRO passed about 60 miles above the Moon, traveling 1 mile per second,” the sapce agency said in a news release Tuesday. “The orbiter circles the Moonfrom pole to pole every two hours, while the Moon slowly rotates underneath it.”\n\nIt took six days for the LRO’s orbital path to line up with the impact site, NASA noted, and additional time to process the imagery. Imaging the impact site required extreme precision, the space agency said, as even a 10-second delay in snapping a picture could cause the newly created crater to drift as much as 10 miles out of frame.\n\nThough the rocket collision was unplanned, NASA researchers said the event did not pose a threat to anyone on Earth or to the lunar surface.\n\n“This is not something we’re really concerned about. This is actually a technically accepted and safe method of disposing of hardware in low lunar orbit,” NASA lunar scientist Kelsey Young said in avideoposted to social media. “The moon is always being hit by things: meteors, asteroids, comets.”\n\nIn fact, Young said, scientists are using observations of the collision to learn more about the moon’s surface, and to “prepare for how to shield astronauts and any future infrastructure sent there.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/01/14/science/nasa-launch-firefly-ispace-moon-landing",
+      "text": "carrying two commercial lunar landers"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/04/science/spacex-rocket-moon-impact",
+      "text": "a collision course with the moon"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/lro/",
+      "text": "The orbiter circles the Moon"
+    },
+    {
+      "url": "https://x.com/NASA/status/2085101081260904717?s=20",
+      "text": "video"
+    }
+  ],
+  "hash": "00d391b0e4df9dc558a291fbed1a8d5af5b55f89be9534e20f2776ad507272a3",
+  "scraped_at": "2026-08-20T07:14:22.134325+00:00"
+}

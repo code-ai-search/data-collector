@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/08/18/tech/openai-chatgpt-for-teens",
+  "title": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety | CNN Business",
+  "date": "2026-08-20T07:14:57.982315+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nOpenAI is rolling out a new “ChatGPT for Teens” experience that it says will provide additional safety protections for teen users. The move comes as OpenAI faces a string of lawsuits alleging that inappropriate conversations with ChatGPT contributed to the harm or deaths of young people.\n\nThe experience will bring together new tools and a number of youth safety protections that OpenAI has rolled out over the past year, the company said in a blog post Tuesday.\n\nThose will include nudges for teen users to take a break if they’ve been active for 90 minutes within a three-hour window. OpenAI is also adding options for teens or parents to set “Quiet Hours” when ChatGPT is unavailable or “Study Hours” where ChatGPT’s study mode for learning will be on by default.\n\nThe company also said it has improved protections to prevent ChatGPT from expressing personal feelings toward a user. And it’s adding reminders that caution teens to think twice if they try to upload a private or sensitive image to the chatbot.\n\nThe new protections will apply “age-appropriate safeguards designed to reduce exposure to content that may be harmful or developmentally inappropriate,” the company said in its Tuesday blog post,” while preserving the ability to learn, create, and explore.”\n\nUsers who identify at sign-up that they are under 18 will be automatically placed into the protective settings. OpenAI also says it’s using AI to estimate users’ ages and will apply these protections to users who are suspected to be under 18 regardless of the birthdate in their profile.\n\nLauren Jonas, OpenAI’s head of youth and families, described ChatGPT for teens as a “dedicated, learning-focused experience for teens with additional protections and safeguards” in an interview with CNN on Tuesday.\n\nNearly a third of American teens use AI chatbots daily, aPew Research Center studypublished in December found. ChatGPT was by far the most popular AI chatbot in the survey, with more than half of those teens reporting having used it.\n\nOpenAI has facedscrutiny over concerns that ChatGPT risks exposing young people to inappropriate content,exacerbating loneliness or inhibiting learning. The company has facedmultiple lawsuitsfrom families who allege that ChatGPT contributed to, or even encouraged, their child’s suicide. The company has pushed back on these allegations.\n\nLast fall, OpenAI introduced controls that it said would let parents disable ChatGPT features like memory and chat history and receive notifications when the system detects “a moment of acute distress” during their child’s use of the chatbot. The company said on Tuesday that in the coming weeks, it will add alerts for parents related to eating disorders.\n\nSince then, the company has continuedto face claims that ChatGPT is responsible for harming young people.\n\nSeven families of victims of a school shooting in Tumbler Ridge, British Columbia,sued OpenAI and CEO Sam Altmanin April. They allege that ChatGPT was complicit in the injuries or deaths of their children because the shooter allegedly had extensive chatbot conversations related to gun violence. Altmanapologized to the families. In response to the lawsuit, the company said it had already strengthened its guardrails.\n\nIn June, the state of Floridasued OpenAI and Altman, claiming that they failed to address ChatGPT’s safety risks for minors. The lawsuit accusedChatGPT of helping mass shooters, encouraging suicide, causing “public humiliation” getting minors addicted to a tool with “no parental oversight” and causing users to lose “critical thinking skills.” OpenAI said at the time that it had “put in place industry leading protections and policies.”\n\nJust last week, a Massachusetts district attorneychargeda 17-year-old with two counts of murder in association with the deaths of his mother and brother. The teen had been engaged in conversations with ChatGPT about “theoretical ideas or fantasies regarding killing his family” in the lead-up to the incident, according to a news release from the DA’s office. OpenAI did not immediately respond to a request for comment about the case.\n\nOpenAI’s Jonas told CNN on Tuesday that “any one of these instances is too many.”\n\n“Our safety work is never done,” she said. “This is 24/7, 365, a continuous effort to make sure that we’re getting teens the support they need in the moments they need it.”\n\nCNN’s Hadas Gold contributed to this report.\n\nThis story has been updated with additional information.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/12/09/tech/teens-ai-chatbot-use-study",
+      "text": "Pew Research Center study"
+    },
+    {
+      "url": "https://www.cnn.com/2025/08/26/tech/openai-chatgpt-teen-suicide-lawsuit",
+      "text": "multiple lawsuits"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/29/tech/openai-tumbler-ridge-canada-shooting-lawsuits",
+      "text": "sued OpenAI and CEO Sam Altman"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/01/business/florida-sues-chatgpt-openai-sam-altman",
+      "text": "sued OpenAI and Altman"
+    },
+    {
+      "url": "https://www.middlesexda.com/press-releases/news/17-year-old-charged-murder-connection-death-family-members-acton",
+      "text": "charged"
+    }
+  ],
+  "hash": "d5a239ccdc11b8ab25bdbff9701dd44e1ca707ea8d8f640446baa336cd421452",
+  "scraped_at": "2026-08-20T07:14:57.982331+00:00"
+}
