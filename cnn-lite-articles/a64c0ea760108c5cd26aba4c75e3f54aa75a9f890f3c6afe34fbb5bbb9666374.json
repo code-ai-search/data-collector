@@ -1,0 +1,65 @@
+{
+  "url": "https://lite.cnn.com/2026/08/20/us/word-of-the-week-ai-watermark-cec",
+  "title": "What does it mean to put a ‘watermark’ on AI text? | CNN",
+  "date": "2026-08-21T07:14:28.148242+00:00",
+  "authors": [
+    "Harmeet Kaur"
+  ],
+  "text": "Source: CNN\n\nFor people who still care whether a bit of writing came from a machine or from a human brain, it’s harder and harder to tell the difference. Many people are quite bad at writing. AI models, meanwhile, have advanced to the point of producing text that is, if not what a professional wordsmith would considergood, at least perfectly serviceable.\n\nThe artificial intelligence company Anthropic seemed to offer a solution last week when itannouncedthat all text generated via its Claude system would soon carry a “watermark.”\n\nThe change, Anthropic said, is meant to comply with regulations that recently went into effect in the European Union, which mandate that companies mark AI-generated content and make it detectable to users. Other AI companies are likely to follow suit.\n\nWhile AI watermarks have been used to labelcomputer-generated imagesfor years now, text tagging capabilities are newer — Google introduced text watermark technology and made it generally available in October 2024; OpenAIreportedlydeveloped its own tool even earlier, but has so far held off on releasing it.\n\nEDITOR’S NOTE:CNN’s “Word of the Week” brings you the meaning behind the words in the news.\n\nOriginally, a “watermark” was a physical, observable creation. In the 1200s, Italian papermakers developed a technology to add subtle, distinctive markings to the paper that came from their individual mills. The English word, as it pertains to design, was first recorded in the 1700s and likely derived from an early technique: Wire was bent into a distinct shape and attached to the screens that pressed wet pulp into paper, embedding a design into each sheet. Once the newly made paper dried, holding it up to the light would reveal a permanent pattern of thicker and thinner areas.\n\nOver the centuries, watermarks came to signify quality and authenticity. They featured on postage stamps, currency, legal contracts and other official documents, often to protect against fraud. Sheets of US postage stamps from 1895 to 1910 featured a watermark reading “USPS” in a double line, for instance, while stamps from 1910 to 1916 carried a single line version.\n\nThe idea of including a built-in identifier would later extend to intangible media, even as physical markers gave way to covert signals embedded into data. In 1954,Emil Hembrookeof the Muzak Corporation, the United States’ dominant supplier of background music, invoked paper watermarking in a patent he filed for embedding inaudible identification codes into his company’s product: “The present invention makes possible the positive identification of the origin of a musical presentation and thereby constitutes an effective means of preventing such piracy, i.e. it can be likened to a watermark in paper.”\n\nDigital forms of watermarking took off in the ’90s and early 2000s as the internet made it easier than ever to pirate music, movies and other digital media, said Gili Vidan, a historian of computing at Cornell University. Watermarks would indicate that the rights to a song were owned by a particular music label or that the rights to a movie were held by a film studio.\n\nNow, as AI-generated content proliferates online, AI companies are beginning to tag output that came from their models. But if physical and digital watermarks were meant to verify authenticity, AI watermarks serve more to signal inauthenticity. Rather than protecting intellectual property, they cast doubt on whether the user can claim ownership of the words at all.\n\nWatermarks in digital text work roughly like this: Large language models are trained on enormous datasets of written material to predict the next word in a sequence. When there are multiple logical possibilities for what the next word should be, the model typically selects one of those words by chance, based on their relative frequencies in the data.\n\nBut in watermarking the text, AI systems readjust the probability of each of those possible words, biasing the model subtly in favor of some words over others. The model tends toward certain word choices repeatedly throughout a text, embedding a pattern that is meant to be perceptible only to someone with the key. The longer the text, the greater the chances that the watermark will be detectable. (Software engineer James Padolsey has published ahandy explainerillustrating this in clarifying detail.)\n\nUnlike most watermarks, which are either present or not present, AI text watermarks don’t conclusively convey whether something was written by a person or by an AI model, said Daniel Susser, a researcher and philosopher at Cornell University who studies AI ethics and policy. Instead, the watermarking provides statistical evidence that suggests whether AI was involved. “That evidence is not a definitive binary, yes/no signal,” he said. “It’s a signal that has to be interpreted.”\n\nHow should the general public read an AI text watermark? Anthropic’s announcement elicited panic among some enthusiastic Claude adopters, who expressed concern about what a label on AI use might signal about them. As one user wrote in a post on theReddit forum r/artificial: “And the stigma. Jesus, the stigma. Imagine sending a résumé and the company detects: ‘oh, this guy used AI.’ Imagine handing in a dissertation and your advisor sees the little red flag. We’re creating a caste of ‘dirty’ creators. People who dared to use a tool.”\n\nSome of the anxiety around Anthropic’s text watermark may be attributed to people realizing that they might face real consequences for duping others or avoiding genuine work. But Susser said the unease might also reflect that society hasn’t quite established clear norms around AI use. People in certain fields face immense industry pressure to use AI in their work; those in other fields are strongly discouraged from doing so. “I think people are often genuinely unsure about whether or not it’s okay to use AI,” he added. “And the idea that there might be a technical means of showing that they did feels kind of threatening.”\n\nSarah Fisher, a lecturer in philosophy at Cardiff University who hasadvocated for labeling synthetic content,said it can be useful to know whether a human or an AI model wrote something: It’s relevant to a professor whether a student formulated an argument on their own or whether they simply turned in whatever Claude spat out. And because society values human artistic expression differently than AI output, it’s relevant to publishers and consumers whether a manuscript was generated largely by AI.\n\nA text watermark is merely a tool, Vidan noted. Users shouldn’t rush to judgment based on the presence of one, while the absence of one shouldn’t immediately remove doubt, she said.\n\nFor all the concerns about how text watermarks might implicate a particular user or a particular piece of text, Vidan and Susser said the technology might be more useful as a measure of how much AI-generated content is proliferating overall. Susser compared it to testing individuals for Covid-19 compared to testing wastewater for the virus. The latter doesn’t indicate who exactly is infected, but it does provide helpful information about how widespread the virus is in a particular place at the moment.\n\n“We suggest that you can use watermarks to try and understand how much of our information ecosystems are being impacted by AI generated content in the aggregate,” Susser said.\n\nVidan pointed to the advent of watermarking for currency. Around the ‘80s, she said banks grew concerned that advancements in color printers and photocopiers would give rise to sophisticated fake banknotes. And if people believed that there was copious fake currency in circulation, she said, then they might begin to doubt the authenticity of all currency. In response, the US began incorporating watermark designs into bills.\n\nAI text watermarks, she said, might help address similar trust issues in the media landscape. “What is the problem if people believe that a lot of media is fake?” she said. “If I know that a lot of media is ‘fake’ or synthetically produced, then I start questioning anything that I see.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "text": "announced"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/11/business/video/invisible-watermarks-coming-claudes-ai-written-text-digvid-vrtc",
+      "text": "watermark"
+    },
+    {
+      "url": "https://www.cnn.com/2023/08/30/tech/google-ai-images-watermark",
+      "text": "computer-generated images"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/openai-tool-chatgpt-cheating-writing-135b755a",
+      "text": "reportedly"
+    },
+    {
+      "url": "http://www0.cs.ucl.ac.uk/staff/ingemar/Content/papers/2002/jasp02.pdf",
+      "text": "Emil Hembrooke"
+    },
+    {
+      "url": "https://declaude.org/watermarking/",
+      "text": "handy explainer"
+    },
+    {
+      "url": "https://www.reddit.com/r/artificial/s/oxCrM8MlTK",
+      "text": "Reddit forum r/artificial"
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/japp.12758",
+      "text": "advocated for labeling synthetic content,"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/13/us/word-of-week-low-key-cec",
+      "text": "What does Trump mean when he says the US is ‘low-keying’ negotiations with Iran?"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/06/us/word-of-week-lockdowns-covid-cec",
+      "text": "What were the Covid ‘lockdowns,’ really?"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/30/us/word-of-week-traitor-elon-musk-cec",
+      "text": "Who is Elon Musk calling a ‘traitor’?"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/23/entertainment/word-of-week-odyssey-cec",
+      "text": "What makes a journey an ‘odyssey’ anyway?"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/17/us/word-of-week-ceasefire-iran-cec",
+      "text": "How much shooting does it take to end a ‘ceasefire’?"
+    }
+  ],
+  "hash": "a64c0ea760108c5cd26aba4c75e3f54aa75a9f890f3c6afe34fbb5bbb9666374",
+  "scraped_at": "2026-08-21T07:14:28.148258+00:00"
+}
