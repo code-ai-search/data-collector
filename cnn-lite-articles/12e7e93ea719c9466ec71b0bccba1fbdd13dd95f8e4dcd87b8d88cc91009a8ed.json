@@ -1,0 +1,69 @@
+{
+  "url": "https://lite.cnn.com/2026/08/21/politics/polymarket-doj-military-prediction-market",
+  "title": "Polymarket referred dozens of possible military insider trading cases to DOJ, source says | CNN Politics",
+  "date": "2026-08-24T07:35:09.995600+00:00",
+  "authors": [
+    "Marshall Cohen"
+  ],
+  "text": "Source: CNN\n\nThe prediction site Polymarket referred dozens of accounts that showed signs of potential military insider trading to the Justice Department for investigation, a senior company official told CNN.\n\nThe referrals, which have not been previously disclosed, pertained to accounts flagged by a watchdog group in areportpublished Thursday, but the referrals predated the report.\n\nThat nonpartisan organization, the Anti-Corruption Data Collective, said it analyzed a massive trove of publicly available Polymarket data and found 152 accounts that profited about $8 million on war markets – including aboutthe Iran war– and contained several hallmarks of insider activity.\n\nThe Justice Department did not respond to CNN’s request for comment Friday. Polymarket itself has not been accused of wrongdoing.\n\nOn prediction markets, traders can bet on everything from sports, to culture, elections, the weather and war. (War markets are illegal under US law. But they are still available, and highly popular, on Polymarket’s offshore site.\n\nThis is the latest in aseries of revelationsabout potential military-related insider trading on Polymarket, which has climbed to new levels this year as prediction platforms have boomed in popularity, with billions of dollars in weekly trading volume.\n\nIn April, the Justice Departmentchargeda Special Forces soldier with using military secrets to bet on the US raid that captured Venezuela’s then leader, Nicolás Maduro. (He pleaded not guilty.) CNN also reported that one trader won nearly $1 million from dozens ofsuspicious tradesabout US and Israeli strikes against Iran.\n\nThere have also been insider-trading concerns on Kalshi, Polymarket’s main rival, but those cases involved trades aboutelections,cultureand “mention markets” about what President Donald Trump would say at hisspeeches.\n\nCNN has a partnership with Kalshi and uses its data to cover major events. Editorial employees are prohibited from using prediction markets.\n\nThe watchdog report said many of the 152 accounts they flagged showed signs of potential insider activity. For instance, many were brand-new wallets that placed remarkably well-timed bets with longshot odds. They had a staggering 97% win rate. (Most traders on prediction sites lose money.)\n\nThe senior Polymarket official, who was granted anonymity to discuss sensitive matters, agreed that these are often clues suggesting insider trading, but they stressed that those patterns alone don’t prove wrongdoing. They said the company’s internal surveillance tools monitor about 150 additional signals and trading patterns to hunt for insider activity.\n\nPolymarket founder and CEO Shayne Coplan spoke about the company’s efforts to crack down on insider trading Thursday at a public meeting of the Commodity Futures Trading Commission, the federal agency thatregulatesprediction markets. Coplan is a member of a CFTC advisory committee.\n\nHe touted the fact that the company recently hired a former FBI official who built “custom, proprietary surveillance software” for Polymarket’s platform.\n\n“We talk with our partners – Palantir, Chainalysis – and they’re like, ‘damn, you guys have this in-house? This is serious!’” Coplan said. “We’re grateful to have that, and we continue to invest more in it.”\n\nHe also said “the Maduro thing” and other insider-trading cases were “problematic,” but “when that happened, we worked with the commission, we worked with law enforcement.”\n\nAmid themounting scrutiny, Polymarketannouncedin March what it called “enhanced market integrity rules” for its offshore and US platforms. It banned trades based on insider tips, and said people in “a position of authority” to affect the outcome of an event can’t trade on related markets.\n\nThese measures haven’t stopped investigators from getting involved. And some lawmakers continue to advocate for more regulation on these platforms.\n\nThe Wall Street Journalreportedthat the CFTC is investigating whether Polymarket is operating within the law. The House Oversight Committee is alsoscrutinizingprediction markets for insider trading, and the New York City Council isprobingthese companies over their marketing practices.\n\nA bipartisan coalition of 44 state attorneys general is pushing for more regulation. So are an increasing number of Democrats and Republicans in Congress, who have said war markets could threaten national security by incentivizing corruption in the military and tipping off US adversaries.\n\n“We have a national security infrastructure designed to keep things secret,” said Michelle Kendler-Kretsch, one of the watchdog group’s researchers. “Providing an opportunity for someone to break that seal of secrecy, just to make some money, puts our entire national security structure at risk.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://acdatacollective.org/wp-content/uploads/2026/08/ACDC-Classifying-Insider-Trading-Risk.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/07/politics/iran-war-prediction-markets-polymarket-kalshi",
+      "text": "the Iran war"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/24/politics/prediction-market-insider-trading-suspicious-activity",
+      "text": "series of revelations"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "text": "charged"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/24/politics/iran-war-bets-prediction-markets",
+      "text": "suspicious trades"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/22/politics/kalshi-prediction-site-suspend-political-candidates",
+      "text": "elections"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/02/25/business/kalshi-mrbeast-employee-insider-trading-accusations.html",
+      "text": "culture"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/16/politics/trump-speech-kalshi-bets",
+      "text": "speeches"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/17/politics/trump-prediction-markets-michigan-kalshi",
+      "text": "regulates"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/30/politics/prediction-markets-justice-department",
+      "text": "mounting scrutiny"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260320997513/en/Polymarket-Publishes-Enhanced-Market-Integrity-Rules-Across-Its-DeFi-Platform-and-CFTC-Regulated-U.S.-Exchange",
+      "text": "announced"
+    },
+    {
+      "url": "https://www.wsj.com/finance/regulation/lawmakers-call-for-investigation-into-deceptive-advertising-by-polymarket-267e1857?mod=author_content_page_1_pos_1",
+      "text": "reported"
+    },
+    {
+      "url": "https://oversight.house.gov/release/comer-launches-investigation-into-insider-trading-on-prediction-market-platforms/",
+      "text": "scrutinizing"
+    },
+    {
+      "url": "https://council.nyc.gov/press/2026/08/12/3215/",
+      "text": "probing"
+    }
+  ],
+  "hash": "12e7e93ea719c9466ec71b0bccba1fbdd13dd95f8e4dcd87b8d88cc91009a8ed",
+  "scraped_at": "2026-08-24T07:35:09.995615+00:00"
+}
