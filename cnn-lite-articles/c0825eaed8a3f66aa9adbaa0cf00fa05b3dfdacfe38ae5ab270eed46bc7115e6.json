@@ -1,0 +1,65 @@
+{
+  "url": "https://lite.cnn.com/2026/08/24/politics/fact-check-trump-economy-statistic",
+  "title": "Why one of Trump’s favorite economic statistics is nearly meaningless | CNN Politics",
+  "date": "2026-08-25T07:14:43.049230+00:00",
+  "authors": [
+    "Analysis by Daniel Dale"
+  ],
+  "text": "Source: CNN\n\nPresident Donald Trump says not to believe themany pollsfinding that most Americans disapprove of his handling of the economy. On Friday, to argue that his numbers should be much better, he cited a nearly meaningless fact he portrayed as a major accomplishment.\n\n“I’ll see a poll,” hesaidat a rally in South Carolina, “and it’ll say, ‘Trump is at 44% on the economy.’ How can it be at 44? We have more people working now than ever before.”\n\nTrump heralded the same fact later in the speech: “Remember when I say, and I’ll say it again and again: There are more people working today in the United States of America than at any time in the history of our country.” And then, emphasizing the supposed importance of the fact, he repeated it a third time.\n\nIt’s not clear whether Trump is genuinely unaware this fact is insignificant or whether he is knowingly hyping an insignificant fact for political gain. Regardless, touting the fact “again and again” is unlikely to do anything for his economic approval — because the fact tells us almost nothing about the state of the economy.\n\nThe number of people working in the US generallyrises over timesimply because the population rises over time. With the exception of recessions, like those caused by the financial crisis of 2008 or the Covid-19 crisis of 2020, the number of employed people tends to just get higher as the years pass.\n\n“There are more Americans workingbecause there are more Americans.That’s the entire analysis,” Justin Wolfers, a University of Michigan professor of public policy and economics,wrotein his newsletter earlier this month.\n\nEvery US president since at least 1948, when modern federal data collection began, could have accurately said at some point during their tenure that more people were working in the US than ever before. That clearly isn’t because each of these presidents was presiding over a pristine economy.\n\nThe cost of living, not the state of the labor market, has almost certainly been the key driver of Trump’s dismal economic polling this year. But even if you’re looking only at jobs, there are much better ways to gauge the situation than the statistic Trump keeps citing. These other metrics show his second-term economy is far from historically strong.\n\nYou can look, for example, at theemployment-population ratio, which measures the percentage of the population ages 16 and over that is employed. It’s down from 60.1% in January 2025, the month of Trump’s second inauguration, to 58.9% in July 2026 — lower than it was during the entirety of Joe Biden’s last three years as president.\n\nThepace of job creationhas slowed dramatically in Trump’s second term compared with Biden’s term — even if you ignore the early part of Biden’s tenure, when the economy was still bouncing back to pre-pandemic levels. The USgained a seasonally adjusted 2.2 million jobsin Biden’s final 18 months in office, from August 2023 through January 2025. Conversely, the US gained a seasonally adjusted 590,000 jobs in the 18 months from February 2025, Trump’s first full month back in office, through July 2026.\n\nTheunemployment rate, which measures unemployment as a percentage of the labor force, was a touch worse in July 2026 (4.1%) than it was in January 2025 (4%). Even 4.1% is pretty good by historical standards, but it’s not the Biden-era low of 3.4% (set in April 2023) or the 3.5% low during Trump’s first term (in parts of late 2019 and early 2020).\n\nAnd thelabor force participation rate, which measures the percentage of the population ages 16 or older that is employed or actively looking for work, has dropped from 62.6% in January 2025 to 61.4% in July 2026. Part of that decline may be astatistical quirk, but there’s no sign of a boom.\n\nAs for Trump’s preferred metric, “people working today”? There has actually been a slight decline this year in thenumber of individual Americans employed, measured by one federal survey. But thetotal number of filledjobs, measured by a different federal survey, has continued to hit record highs as usual, so we’ll say Trump’s claim is accurate enough.\n\nIt’s just not informative.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.realclearpolling.com/polls/approval/donald-trump/issues/economy",
+      "text": "many polls"
+    },
+    {
+      "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-political-rally-myrtle-beach-south-carolina-august-21-2026/",
+      "text": "said"
+    },
+    {
+      "url": "https://fred.stlouisfed.org/series/CE16OV",
+      "text": "rises over time"
+    },
+    {
+      "url": "https://newsletter.platypuseconomics.com/p/the-birds-and-the-bees-of-economics",
+      "text": "wrote"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war",
+      "text": "The cost of living"
+    },
+    {
+      "url": "https://fred.stlouisfed.org/series/EMRATIO",
+      "text": "employment-population ratio"
+    },
+    {
+      "url": "https://data.bls.gov/timeseries/ces0000000001?output_view=net_1mth",
+      "text": "pace of job creation"
+    },
+    {
+      "url": "https://fred.stlouisfed.org/series/PAYEMS",
+      "text": "gained a seasonally adjusted 2.2 million jobs"
+    },
+    {
+      "url": "https://fred.stlouisfed.org/series/UNRATE",
+      "text": "unemployment rate"
+    },
+    {
+      "url": "https://fred.stlouisfed.org/series/CIVPART",
+      "text": "labor force participation rate"
+    },
+    {
+      "url": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation?utm_campaign=1785866850&utm_content=stlouisfed&utm_medium=social&utm_source=twitter&utm_term=",
+      "text": "statistical quirk"
+    },
+    {
+      "url": "https://fred.stlouisfed.org/series/CE16OV",
+      "text": "number of individual Americans employed"
+    },
+    {
+      "url": "https://fred.stlouisfed.org/series/PAYEMS",
+      "text": "total number of filledjobs"
+    }
+  ],
+  "hash": "c0825eaed8a3f66aa9adbaa0cf00fa05b3dfdacfe38ae5ab270eed46bc7115e6",
+  "scraped_at": "2026-08-25T07:14:43.049243+00:00"
+}
