@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/08/24/tech/openai-subpoena-hugging-face-attorney-general-alabama",
+  "title": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack | CNN Business",
+  "date": "2026-08-26T07:15:56.881899+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nAlabama’s attorney general on Monday subpoenaed OpenAI for more information related to its AI agentsautonomously hacking into another company’s serversin July.\n\nThe subpoena is part of an investigation into whether OpenAI’s practices “violated Alabama’s consumer protection laws” and pose a risk to Alabama citizens, the attorney general’s office said in a statement.\n\nLast month, OpenAIdisclosedthat during a test of its AI models’ capabilities on cybersecurity, the agents autonomously escaped the lab environment and hacked Hugging Face, an online platform for AI models and data sets, to obtain the answer to the test.\n\n“This AI lab leak showed that Alabamians’ and Americans’ worst fears about artificial intelligence are not just theoretical. Our investigation seeks to uncover the facts and address hard truths about the threats companies and consumers are facing from rogue AI,” Attorney General Steve Marshall said in the statement.\n\nOpenAI called the Hugging Face hack “unprecedented,” and the company’s president, Greg Brockman,saidthe incident “showed that we underestimated the real-world cyber capabilities of our AI models.” OpenAI halted some of its AI model training and ishardeningits testing, monitoring and training protocols following the incident.\n\n“The Hugging Face incident marked an important moment for AI safety and we are conducting a thorough review along with external advisors,” an OpenAI spokesperson told CNN on Monday. “Once the review is complete, we will share a technical report with relevant government authorities and publish our findings publicly.”\n\nMonday’ssubpoenacalls for OpenAI to document its safety protocols and model behavior records as well as ascertain all damages caused by the hack, in addition to other information.\n\nAlabama, along with 14 other Republican states’ attorneys general, sent aletterearlier this month to OpenAI demanding the company preserve information and documents related to the Hugging Face hack.\n\nThe problem of autonomous agents going rogue isn’t limited to OpenAI — Meta and Anthropic also disclosed their own systems took unsanctioned actions during cybersecurity tests, a wake-up call for the AI and cybersecurity industry.\n\nOpenAI faces a litany of lawsuits and investigations by various states. This includes cases related to its engagement algorithms, handling of consumer and health data, model “sycophancy,” and its marketing strategies directed at minors and senior citizens. In June, Florida became the first state tosueOpenAI and its CEO, Sam Altman, alleging the company knows ChatGPT is not safe for minors.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "autonomously hacking into another company’s servers"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "disclosed"
+    },
+    {
+      "url": "https://blog.gregbrockman.com/the-defenders-window",
+      "text": "said"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/18/business/openai-testing-training",
+      "text": "hardening"
+    },
+    {
+      "url": "https://www.alabamaag.gov/wp-content/uploads/2026/08/OpenAI-Subpoena_Final.pdf",
+      "text": "subpoena"
+    },
+    {
+      "url": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "text": "letter"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/01/business/florida-sues-chatgpt-openai-sam-altman",
+      "text": "sue"
+    }
+  ],
+  "hash": "bf7f0239a4694e6200d22a72876fd9a54a2483378e07e624c4d12d04a5ce19fa",
+  "scraped_at": "2026-08-26T07:15:56.881928+00:00"
+}
