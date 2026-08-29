@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/08/27/health/covid-19-vaccines-fda",
+  "title": "FDA approves updated Covid-19 vaccines | CNN",
+  "date": "2026-08-29T12:46:27.003596+00:00",
+  "authors": [
+    "Katherine Dillinger"
+  ],
+  "text": "Source: CNN\n\nThe US Food and Drug Administration has signed off on updated Covid-19 vaccines for many Americans.\n\nPfizer and BioNTech said Thursday that the agency hadapproved their mRNA-based Covid shotfor all adults 65 and older, as well as anyone ages 5 through 64 who has a condition that raises their risk of severe illness. It targets the XFG variant and generated immune responses against other currently circulating variants, the companies said.\n\nModerna said Thursday that it hadreceived approvalfor its two mRNA-based vaccines: Spikevax for people ages 6 months through 64 who have an underlying condition and anyone 65 or older; and mNexspike for people ages 12 through 64 who have an underlying condition and anyone 65 or older. Both formulations target the XFG subvariant of the JN.1 coronavirus strain.\n\nNuvaxovid, the only protein-based Covid vaccine available in the US, alsoreceived approvalfor everyone 65 and older and for those 12 through 64 who have an underlying condition, drugmakers Novavax and Sanofi said. It targets the XFG subvariant.\n\nHealth conditions that mayraise the riskof severe illness include asthma; heart, kidney, liver or lung disease; diabetes; obesity; and pregnancy, according to the US Centers for Disease Control and Prevention.\n\nUnderthe Trump administration, the federal government has shifted from a universal Covid vaccine recommendation to a more restricted one in which it’s recommended that everyone 6 months and over consult with a healthcare provider before getting the shot.\n\nIn May, the FDA’s independent vaccine advisory committeevoted to recommendthat XFG be the targeted variant in this year’s shots.\n\nThe CDC has yet to make an official recommendation for this year’s vaccines, but most medical organizations recommend getting one, and insurance companies have indicated that they will continue to cover the shot. Experts say the vaccines should begin hitting pharmacies and doctors offices in September.\n\nCovid case numbers aren’t especially high right now, and the United States isn’t recording many hospitalizations or deaths. But data from the CDC puts thetest positivity ratefor the week ending August 15 approaching 5% for the first time since early February, with numbers climbing in every state.\n\nThe CDC says it’s currently getting low numbers of viral sequences, but as of early July, XFG.1.1 was thepredominant coronavirus straincausing illness in the US.\n\nCorrection: A previous version of this story misstated the day updated Covid-19 vaccines were approved. The story has also been updated to specify variants targeted by updated vaccines.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-us-fda-approval-xfg-adapted",
+      "text": "approved their mRNA-based Covid shot"
+    },
+    {
+      "url": "https://feeds.issuerdirect.com/news-release.html?newsid=5391658462991287&symbol=MRNA",
+      "text": "received approval"
+    },
+    {
+      "url": "https://ir.novavax.com/press-releases/2026-08-28-Novavaxs-Partnership-Strategy-Continues-to-Deliver-with-XFG-adapted-Nuvaxovid-TM-Approvals-in-the-U-S-,-EU-and-Japan-for-2026-2027-Vaccination-Season",
+      "text": "received approval"
+    },
+    {
+      "url": "https://www.cdc.gov/covid/hcp/clinical-care/underlying-conditions.html",
+      "text": "raise the risk"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/29/health/covid-vaccine-changes-wellness",
+      "text": "the Trump administration"
+    },
+    {
+      "url": "https://www.fda.gov/vaccines-blood-biologics/industry-biologics/covid-19-vaccines-2026-2027-formula-use-united-states-beginning-fall-2026",
+      "text": "voted to recommend"
+    },
+    {
+      "url": "https://www.cdc.gov/nrevss/php/dashboard/index.html",
+      "text": "test positivity rate"
+    },
+    {
+      "url": "https://www.cdc.gov/covid/php/variants/variants-and-genomic-surveillance.html",
+      "text": "predominant coronavirus strain"
+    }
+  ],
+  "hash": "81937edfa9e056c83a995cc1efa82009ca183f6a31016ef83970950b0a07fd5e",
+  "scraped_at": "2026-08-29T12:46:27.003610+00:00"
+}
