@@ -1,0 +1,21 @@
+{
+  "url": "https://lite.cnn.com/2026/08/27/tech/anthropic-pentagon-supply-chain-risk-unlawful-hnk",
+  "title": "Judge rules the Pentagon’s supply chain risk label for Anthropic unlawful | CNN Business",
+  "date": "2026-08-30T12:04:23.289624+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nA federal judge ruled the Pentagon’s decision to label AI company Anthropic a ‘supply chain risk’ violated the law and ordered the designation be removed Thursday evening.\n\nJudge Rita Lin wrote that while the military should have wide latitude to decide which companies to work with, its actions against Anthropic “constituted unlawful retaliation in violation of the First Amendment” and that the company “was denied the pre-deprivation process required under the Fifth Amendment.”\n\nThe Department of Defense’s quarrel with Anthropic began earlier this year after the company refused to remove internal safety guardrails that would prevent the military from using its Claude AI model in autonomous weapons and mass surveillance. Anthropic argued its models were not reliable enough to be used for such purposes.\n\nDefense Secretary Pete Hegseth said the government could not allow the American military to be constrained or told how to use its tools by a private company and in February took the unprecedented step of labeling Anthropic a supply chain risk. The designation, which meant no part of the Pentagon including contractors could work with Anthropic’s products, had previously been used only for companies seen as connected to foreign adversaries.Anthropic sued in March.\n\nLin, an appointee of former President Joe Biden for the Northern District of California, rejected the Pentagon’s claims that the department’s inability to “trust” Anthropic was justification for the label.\n\n“The empty invocation of national security is not a blank check to punish and retaliate against government critics,” she wrote, adding that the evidence shows the Pentagon wanted to make a “public example out of Anthropic for its ‘arrogance’ in criticizing the government, not based on any articulable basis to believe that Anthropic would actually sabotage its model.”\n\nIn a statement, an Anthropic spokesperson said they “welcome” the ruling.\n\n“We remain focused on working productively with the government to harness AI for our national security so all Americans benefit from this technology,” the spokesperson added.\n\nThe Pentagon did not immediately respond to a request for comment.\n\nJudge Lin noted that other parts of the government continued working and meeting with Anthropic even after the Pentagon’s action.\n\n“None of that is consistent with a genuine fear that Anthropic is a saboteur who would poison its software to harm national security,” Lin wrote.\n\nIn a June interview withAxios, President Donald Trump said while he had previously viewed Anthropic as a national security threat, he no longer believed it was.\n\nA second lawsuit brought by Anthropic related to the supply chain risk label is still being considered by a Washington, DC, court.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/03/09/tech/anthropic-sues-pentagon",
+      "text": "Anthropic sued in March"
+    },
+    {
+      "url": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
+      "text": "Axios"
+    }
+  ],
+  "hash": "11589b3ed041eaf7179f3b42eedcdb796c0e3b4b65d8721a48e9243e41222ab3",
+  "scraped_at": "2026-08-30T12:04:23.289637+00:00"
+}
