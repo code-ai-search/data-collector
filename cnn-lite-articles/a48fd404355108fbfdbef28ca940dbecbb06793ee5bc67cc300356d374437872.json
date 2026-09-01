@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/08/31/politics/hackers-sensitive-data-bureau-alcohol-tobacco-firearms-explosives",
+  "title": "Hackers leak sensitive law enforcement files stolen from the DOJ | CNN Politics",
+  "date": "2026-09-01T11:49:49.131974+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nA likely Russian-speaking cybercriminal gang on Monday leaked what appear to be sensitive law enforcement files it stole from the Justice Department’sBureau of Alcohol, Tobacco, Firearms and Explosives.\n\nThe dumped files appear to include information on targets of past ATF investigations and analyses of their phone communications, according to a review of the data by CNN and an independent cybersecurity researcher. Some of the files correspond to specific ATF agents and high-profile cases they apparently worked on.\n\nThe data cover investigations related to armed robbery, arson, explosives and homicide, according to the researcher, Ron Fabela. A chunk of the cases mentioned in the files fall under the work the ATF’s Houston Field Division, Fabela said.\n\nIn astatementon Monday, ATF said it “cannot confirm the authenticity, nature, or scope” of the leaked data at this time and that the agency was working with the Department of Justice and other federal agencies to “assess the claims and take appropriate actions.”\n\n“As ATF previously stated, the affected system was not connected to – and the incident did not affect – ATF’s other operational systems. ATF’s ability to carry out its mission has not been impacted,” the agency’s statement continued.\n\nATF originally disclosed the hack last week, saying it met the threshold for a “major” cybersecurity incident that requires notifying Congress. Under federal law, a “major” cyber incident is generally one that could harm US national security, foreign policy or economic interests.\n\nA prolific ransomware group called Qilin previously claimed responsibility for the breach; on Monday, the group began leaking the files from its dark -web victim site. The group has claimed victims in the manufacturing, retail and healthcare sectors in recent years, leading Cisco’s cyber-intelligence unit tobrandit one of the “most prolific and damaging ransomware threats on a global scale.”\n\nHalcyon, another cybersecurity firm that tracks ransomware groups, hassaid it has “high-confidence”that Qilin are Russian speakers.\n\nThe ATF hack is the latest headache for federal agencies involving the cybercriminals they often pursue. A 2023ransomware attackon the US Marshals Service affected personal information of the subjects of the service’s investigations. That same year, hackersbreached a computer systemthe FBI’s New York field office used in investigations of images of child sexual exploitation, including a system used to store images related to the investigation of Jeffrey Epstein, according to people briefed on the matter.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/01/17/politics/trump-plan-merge-atf-dea-quietly-abandoned",
+      "text": "Bureau of Alcohol, Tobacco, Firearms and Explosives"
+    },
+    {
+      "url": "https://www.atf.gov/news/press-releases/atf-update-cybersecurity-incident",
+      "text": "statement"
+    },
+    {
+      "url": "https://blog.talosintelligence.com/uncovering-qilin-attack-methods-exposed-through-multiple-cases/",
+      "text": "brand"
+    },
+    {
+      "url": "https://www.halcyon.ai/threat-group/qilin",
+      "text": "said it has “high-confidence”"
+    },
+    {
+      "url": "https://www.cnn.com/2023/02/27/politics/us-marshals-service-ransomeware-attack",
+      "text": "ransomware attack"
+    },
+    {
+      "url": "https://www.cnn.com/2023/02/17/politics/fbi-cyber-incident-computer-network",
+      "text": "breached a computer system"
+    }
+  ],
+  "hash": "a48fd404355108fbfdbef28ca940dbecbb06793ee5bc67cc300356d374437872",
+  "scraped_at": "2026-09-01T11:49:49.131989+00:00"
+}

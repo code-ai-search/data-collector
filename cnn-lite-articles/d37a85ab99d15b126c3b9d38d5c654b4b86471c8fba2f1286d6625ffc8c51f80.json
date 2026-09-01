@@ -1,0 +1,85 @@
+{
+  "url": "https://lite.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai",
+  "title": "‘It feels like early Covid’: The messy scramble to regulate AI | CNN Business",
+  "date": "2026-09-01T11:51:04.072095+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "It was a big announcement for a tiny part of the Commerce Department.\n\nOn May 5, the Center for AI Standards said it got early access to three of the country’s most powerful AI models before their public release. It could poke and prod and size up just how big of a threat they could pose to national security – and to the US public.\n\nCAISI had already struck similar voluntary agreements with OpenAI and Anthropic, so the new deals with Google, Microsoft and xAI rounded out the list of the top American AI companies. The public notice was seen as an important and logical step in the long and lumbering process of monitoring and potentially regulating the most powerful technology the world has ever seen.\n\nIt wouldn’t last. The announcement was quietly deleted from the agency’s website a few days later at the White House’s request, who told the group it would conflict with an executive order on AI President Trump planned to sign, sources familiar with the situation told CNN.\n\nMeanwhile, AI was plotting a jailbreak.\n\nThere’s a new power struggle playing out in power hungry Washington – one with potentially dire consequences.\n\nNo one seems to agree exactly how AI should be overseen. Congress has debated but passed no overall AI-regulation legislation. At the White House, there seems to be little consensus on who or what is ultimately responsible for AI oversight within the executive branch.\n\nWhile Washington flounders, AI models are evolving rapidly and behaving in unexpected ways.\n\nTech leaders like Microsoft founderBill Gatesare warning that artificial intelligence needs significant limits or the harm will outweigh any good. Advanced models from OpenAI, Anthropic and Meta have all recently gone rogue and hacked real-world systems.\n\n“It’s somewhat of a mess right now,” an AI policy expert close to the discussions in the administration told CNN.\n\nCNN talked to current and former government officials, policy experts and those in the AI industry to learn more about the messy and sometimes chaotic race to regulate AI. Even as the industry waves red warning flags, essentially begging for tools to help control the technology they’ve created, Washington is beset with turf wars and the slow nature of legislation.\n\n“This feels like early COVID,” said Joshua Saxe, who until earlier this year was Meta’s senior technical expert on AI security. “There’s an emergency vibe that’s appropriate here.”\n\nWhen scientists are testing new viruses or handling radioactive material, established laws and protocols keep the work safe.\n\nBut in the nascent world of AI model testing, no equivalent standards exist yet. And in the industry’s rush to move fast, security practices during testing have often lagged, experts say.\n\nIn July, OpenAI disclosed that an advanced multi-agent system hadescapedits lab environment during testing and hacked into another organization’s system. Before long, other AI labs likeAnthropicandMetareported similar incidents.\n\nIt was a watershed moment for the industry. Some compared it to the movie “Jurassic Park,” where the velociraptors escaped their pen, others to Frankenstein’s monster.\n\nThe companies are all beefing up testing protocols, and OpenAI will halttrainingits AI models for several weeks to make internal changes.\n\nBut Washington has been wary to set any rules or standards. A big reason: The US and China are locked in a race for AI supremacy, one that has massive national-security implications.\n\nSlow down development with too many regulations, and you risk letting China get ahead. Let it continue unchecked, and the cybersecurity risks multiply fast, leading to real world disaster beyond the computer servers.\n\nPresident Trump initially took a light-touch approach to regulation. But the vibe in Washington shifted by early 2026. Complex AI agents went from novelty to mainstream. Then Anthropic said in April that its new Mythos model was so advanced, especially at finding and exploiting cybersecurity vulnerabilities, that it was too dangerous to release publicly.\n\nWith no regulation or AI oversight system in place, the administration responded with a cudgel: The Commerce Department issued an export control ban that forced Anthropic to pull Mythos and its public version, Fable, over concerns there were ways around its internal guardrails, or the rules meant to keep the models’ power in check. Around the same time, the White HouseaskedOpenAI to release its most advanced model only to government approved partners.\n\nAI companies pushed back. Anthropicsaidthe government’s actions were overblown and not grounded in technical facts. OpenAI objected as well, saying the government’s approach was not sustainable. Both issues wereeventuallyresolved, and the models were widely released as planned.\n\nThen in June, the White House issued an executive order establishing a voluntary program to review powerful frontier AI models before they’re released.\n\nThe move was seen as a first step toward government oversight. However, there’s still a lot of confusion within the AI companies on the specifics, including exactly what types of models would be reviewed, according to people familiar with the matter.\n\nSome in Washington have defended the administration’s approach, saying they’re trying to be flexible in the wake of a rapidly evolving technology. Why set up a regulatory regime that could quickly prove to be anachronistic?\n\nA White House official said the administration “continues to work with industry stakeholders on the implementation of the framework.”\n\nMeanwhile, one part of the government is taking its own path with AI regulation. In early 2026, Defense Secretary Pete Hegseth declared Anthropic a supply-chain risk after the companyrefusedto remove the guardrails that would let the military use its models in autonomous weapons and domestic mass surveillance.\n\nLast week, a federal courtruledto remove that designation, though a related case related is pending. But even during the court battle, Anthropic worked closely with the White House – a confusing double standard. Trump even told Axios recently he no longer viewed it as a national security threat.\n\nThe White House’s Office of the National Cyber Director, the Commerce Department, Treasury and the Pentagon all play a part in the government’s AI oversight work. Administration officials say that’s the right approach for a technology that touches so many different industries.\n\nMuch of the industry believes the Commerce Department’s CAISI, with its technical expertise and existing agreements, should be the government’s natural point of contact for AI companies, especially for testing and standards.\n\nBut after the group was told by the White House to delete its May announcement about agreements with three major AI companies, CAISI was also told to take a step back and stop communicating with the public. Even interagency meetings were off limits.\n\nSome in the administration favor routing testing through the National Security Agency, which already works with CAISI, sources familiar with the situation told CNN. Others say CAISI is the only agency properly staffed for the work, and the NSA’s rules for sensitive information would complicate things. There have also been suggestions of moving CAISI to a different department or within the White House itself, the source said.\n\n“The President’s team is working closely together to balance innovation and security in AI policymaking,” a White House official told CNN.\n\nCAISI has less than$15 millionin annual funding and a staff of roughly 30. Its British counterpart, theAI Security Institute, launched in 2023 with a much larger budget and three-times the staff.\n\nThe British agency is widely seen as a global leader in AI testing. Which is ironic, several industry sources noted, given that most frontier models are built by US companies.\n\n“Some risks are difficult for anyone but the government to adequately measure, like whether AI models know and might leak classified information,” said former OpenAI safety researcher Steven Adler. “CAISI is essential for this testing, but it hasn’t been used to its fullest potential.”\n\nCAISI is also suffering a revolving door of leadership, catching the attention of Congress. Earlier this month, California Rep. Ro Khanna sent aletterto Commerce Secretary Howard Lutnick seeking information about CAISI’s lack of a permanent director.\n\n“You have to be a missionary to do this job,” the AI Policy expert close to the discussions in the administration told CNN.  “They need someone technical, politically savvy and a big enough name” to attract the right technical experts to staff the agency.\n\nCongress could give CAISI more resources and authority. And awareness is starting to build; while “nobody” in Congress considered AI regulation an immediate legislative priority six months ago, there are a growing number of members who feel AI safety is an urgent issue, according to Brad Carson, a former congressman who now leads the bipartisan pro-AI safety super PAC Public First.\n\nThere are signs of progress. At least two major bipartisan bills addressing AI safety and regulation are now making their way through theHouseandSenate.Carson predicted there will be “major AI legislation within the next eight months.”\n\n“I’m actually more optimistic than I have been in two years,” Carson said.\n\nAnd the industry is begging governments to take action. Leaders of the major AI companies have joined calls for a slowdown andworldwide cooperationon standards and safety.\n\nThe rogue agents inspired Nvidia CEO Jensen Huang to create a coalition to promote more accessible open source defenses against such attacks. There’s concern the next time an AI model goes rogue during testing it could attack critical infrastructure.\n\n“I think the frontier models today should be treated as dangerous materials and we need government testing standards,” Saxe, the former Meta official, said.\n\nMore than 1,300 of the top staffers at the major tech companies havesigned an open letterasking for the government to create tools to help slow the pace of AI development, with support from the CEOs of Anthropic and OpenAI.\n\n“There’s a 20-30% chance that existing methods for alignment and control break down before we reach broadly superhuman AI,” said Paul Cristiano, a former top staffer at OpenAI and previously CAISI’s senior technical adviser.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai",
+      "text": "Bill Gates"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "escaped"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
+      "text": "Anthropic"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
+      "text": "Meta"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/sandboxaq-ceo-weighs-in-on-security-incidents-share-7485782478415147008-q-aa/",
+      "text": "Jurassic Park,"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/18/business/openai-testing-training",
+      "text": "training"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house",
+      "text": "asked"
+    },
+    {
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "text": "said"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/30/tech/anthropic-export-control-ban-lifted-white-house",
+      "text": "eventually"
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/25/us/video/pentagon-pressures-anthropic-to-drop-ai-guardrails",
+      "text": "refused"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/27/tech/anthropic-pentagon-supply-chain-risk-unlawful-hnk",
+      "text": "ruled"
+    },
+    {
+      "url": "https://fedscoop.com/caisi-would-benefit-from-more-resources-ostp-director-tells-lawmakers/",
+      "text": "$15 million"
+    },
+    {
+      "url": "https://www.aisi.gov.uk/about",
+      "text": "AI Security Institute"
+    },
+    {
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-raises-alarm-over-center-ai-standards-and-innovations-caisi-lack",
+      "text": "letter"
+    },
+    {
+      "url": "https://www.politico.com/news/2026/07/23/obernolte-trahan-artificial-intelligence-bill-introduced-in-house-01009497",
+      "text": "House"
+    },
+    {
+      "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/08/03/ai-tech-brief-senates-frontier-ai-bill/",
+      "text": "Senate."
+    },
+    {
+      "url": "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind",
+      "text": "worldwide cooperation"
+    },
+    {
+      "url": "https://www.pacingthefrontier.com/",
+      "text": "signed an open letter"
+    }
+  ],
+  "hash": "d37a85ab99d15b126c3b9d38d5c654b4b86471c8fba2f1286d6625ffc8c51f80",
+  "scraped_at": "2026-09-01T11:51:04.072112+00:00"
+}
