@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/08/31/business/ai-risk-global-financial-system-intl",
+  "title": "Advanced AI threatens the world’s financial system, watchdog says | CNN Business",
+  "date": "2026-09-02T11:32:12.440636+00:00",
+  "authors": [
+    "Anna Cooban"
+  ],
+  "text": "Source: CNN\n\nThe head of the world’s financial stability watchdog warned on Monday of the serious risk posed by advanced AI models to the global financial system.\n\nIn aletterto finance ministers and central bank governors for G20 countries, Andrew Bailey, chair of theFinancial Stability Board, said the potential for such models to conduct cyberattacksrepresented the “most immediate concern” for a highly interconnected global financial network.\n\n“The risks associated with frontier AI will not respect national borders,” he wrote.\n\nBailey, who also serves as Bank of England governor, warned about the absence of proper guardrails around the technology, underscored by recent incidents in which frontier AI models being tested went rogue.\n\n“Recent developments have also highlighted to me that many jurisdictions do not have the protocols in place to manage the development, release, and deployment of advanced frontier AI models,” he wrote.\n\nLast month, OpenAI said some of its experimental AI models hadescapeda test environment and hacked into a different company’s system. Days later, Britain’s AI Security Institute said that Anthropic’s most advanced AI model had used fake identities to cover its tracks and attempt to plant malicious code during testing.\n\nIn astatement on X, Anthropic said the models were tested under “deliberately permissive conditions” with no specific restrictions on how the internet should be used.\n\nFinance ministers and central bank officials of G20 countries convene in Asheville, North Carolina on Monday and Tuesday as the US-Iran war grinds into its sixth month, raising inflation expectations and keeping energy prices elevated.\n\nAlongside the threat posed by AI-enabled cyberattacks, Bailey pointed to stretched valuations of AI companies as well as ballooning levels of government and private sector debt as additional risks to the stability of financial markets.\n\nThe Financial Stability Board was established by the G20 in 2009 to boost regulation after the global financial crisis and monitor marketrisks.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.fsb.org/uploads/P310826.pdf",
+      "text": "letter"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "escaped"
+    },
+    {
+      "url": "https://x.com/anthropicai/status/2084748111239344556?s=46",
+      "text": "statement on X"
+    }
+  ],
+  "hash": "48dd08a083395c97d2a498ce475f8cb7a718656f62d93720619ade3312dc59cf",
+  "scraped_at": "2026-09-02T11:32:12.440648+00:00"
+}
