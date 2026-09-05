@@ -1,0 +1,53 @@
+{
+  "url": "https://lite.cnn.com/2026/09/03/tech/nvidia-hugging-face-ai-acquisition",
+  "title": "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI | CNN Business",
+  "date": "2026-09-05T10:48:05.612836+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nNvidia announced on Thursday that it will buy artificial intelligence startup Hugging Face for $12.9 billion, a massive bet by the chipmaker to expand the reach ofopen-source AI technology.\n\nHugging Face, a service for hosting and accessing open-source AI models and data sets, has been in the spotlight recently afterit was hackedby OpenAI models that went rogue during a testing incident.\n\nThe company has also been at the center of an industry debate over whether access to advanced AI technology should be available openly — or whether it should be “closed,” like popular models from OpenAI and Anthropic, and restricted to prevent misuse. Hugging Face said it was forced to use an open-source Chinese model to defend itselffrom the OpenAI hackbecause of restrictions in how popular closed models could be used.\n\nUnlike closed models, open-source AI models like those hosted on Hugging Face allow companies and developers to download the parameters that determine how a model functions and customize them for specific purposes. By downloading and running the models on their own infrastructure, some believe it also makes customers’ proprietary or sensitive data more secure.\n\nNvidia CEO Jensen Huang hasspoken in supportof open models, arguing they can improve safety and speed up innovation. The acquisition could also benefit Nvidia’s plans to secure its role as thetechnology backboneof the AI boom.\n\nHuang said in a blog post on Thursday that by acquiring Hugging Face, Nvidia could expand access to the platform’s models to more developers and companies around the world. Already, Hugging Face boasts more than 18 million developers and researchers using more than 3 million models, as well as 200,000 enterprise customers. Nvidia itself has released more than 500 open models on Hugging Face, prior to the deal.\n\n“To the millions of builders on Hugging Face: thank you for pushing the boundaries of what is possible,” Huang said in ablog post,reiterating Nvidia’s plan to keep the platform open. “Together, we will make AI more open, more capable and more accessible to people and institutions around the world.”\n\nThe chipmaker last week said itssales more than doubledin the most recent quarter to more than $96 billion. But investors continue to question whether the spending spree on AI infrastructure will continue, and whether Nvidia can stay ahead of a growing slate of competitors.\n\nNvidia has made major investments in propping up and expanding the AI ecosystem, includinginvesting in AI labsandlending money to customerswho buy its chips to build data centers.\n\nUnder the deal announced Thursday, Nvidia will pay $11.9 billion to Hugging Face shareholders. The agreement also includes an additional $1 billion in equity to retain Hugging Face employees joining Nvidia. The acquisition is expected to close in the first half of next year, according to a securities filing.\n\nThe agreement marks a significant jump from Hugging Face’s $4.5 billion valuation in 2023, following a $235 million funding round. Hugging Face turned down a $500 million investment from Nvidia last year that would have valued it at $7 billion, wanting to keep its independence, according to areportfrom the Financial Times.\n\nBut Hugging Face CEO Clem Delangue said in aninterview with CNBCon Thursday that he pursued the deal with Nvidia over the summer after realizing that open-source AI was at a “turning point and that it needed more resources, more scale, more visibility.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/08/06/tech/open-closed-ai-models",
+      "text": "open-source AI technology"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "it was hacked"
+    },
+    {
+      "url": "https://x.com/JensenHuang/status/2080643682408321103/photo/1",
+      "text": "spoken in support"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/26/tech/nvidia-earnings",
+      "text": "technology backbone"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "text": "blog post,"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/26/tech/nvidia-earnings",
+      "text": "sales more than doubled"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/22/business/nvidia-openai-investment",
+      "text": "investing in AI labs"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl",
+      "text": "lending money to customers"
+    },
+    {
+      "url": "https://www.ft.com/content/d14419c5-7fa5-4128-9858-7f83259ca02e?syn-25a6b1a6=1",
+      "text": "report"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "text": "interview with CNBC"
+    }
+  ],
+  "hash": "c5fc700e1d4134a3fe6dfe2d82f82816b7cd1148693d43025ef72cf24ab015da",
+  "scraped_at": "2026-09-05T10:48:05.612851+00:00"
+}
