@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology",
+  "title": "US claims Chinese AI firms are carrying out ‘industrial-scale’ theft of trade secrets | CNN Politics",
+  "date": "2026-09-09T11:34:50.359671+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nChinese artificial intelligence firms are committing “industrial-scale” theft of their American counterparts’ trade secrets to save money and bring the coveted technology to market faster, US federal agencies alleged Tuesday.\n\nMajor Chinese tech companies are using “distillation,” which involves training lesser AI models on more advanced ones, to “extract restricted proprietary functionalities and capabilities of U.S. frontier AI models,” the FBI, National Security Agency, and Cybersecurity and Infrastructure Security Agencyclaimedin an advisory.\n\nDistillation can be a legitimate research technique, but American officials and AI executives have long complained that the volume and targeted manner of Chinese distillation campaigns against US firms amount to stealing. The new advisory puts more evidence behind those accusations and adds to the growing tensions between US and China over AI technology. President Donald Trump has said that AI will be among the discussion topics when he hosts Chinese leader Xi Jinping in Washington, DC, later this month\n\n“The sheer scale of these campaigns and their sophistication indicate that distillation is not a supplement to these companies’ AI model development, but the critical core of it,” the new advisory says.\n\nChina-based AI firms “use a gray market of proxies known as ‘transfer stations’” to get around US AI firms’ geographic restrictions, safeguards, and terms of use, the US agencies said. They singled out several Chinese tech firms, including DeepSeek and Alibaba Group, as having conducted “high-volume knowledge distillation campaigns” against US AI firms.\n\nTreasury Secretary Scott Bessent threatened sanctions against Chinese companies that distill American AI.\n\n“When [People’s Republic of China] firms conduct covert, industrial-scale distillation attacks that cross the line into IP theft, sanctions and Entity List designations will be on the table,” he wrote on X.\n\n“The U.S. side’s hyping of the so-called ‘distillation’ concept is deliberate attack on China’s development and progress in the AI industry. China firmly rejects it,” a spokesperson for the Chinese Embassy in Washington, DC, said in a statement.\n\nOn Wednesday, China’s Foreign Ministry spokesperson Mao Ning said China’s AI development reflected its high level of self-reliance and strength in science and technology. The US, she said, should refrain from making “unfounded accusations against or smearing China.”\n\n“China and the United States are both major powers in artificial intelligence and should strengthen cooperation,” Mao said.\n\nCNN has requested comment from DeepSeek and Alibaba.\n\nAnthropic alleged that three Chinese AI labs had been behind an “industrial-scale campaign” to extract capabilities from Anthropic’s AI model, Claude. The Chinese labs “generated over 16 million exchanges with Claude through approximately 24,000 fraudulent accounts,” Anthropicclaimed.\n\nChinese open-weight AI models are growing in popularity since they are highly customizable, can operate off the cloud and tend to be less expensive.\n\nThe global race for AI supremacy has put a bull’s-eye on American firms in other ways. Hackers of various stripes are “increasingly targeting AI assets,” Google’s Threat Intelligence Group said in a report released Tuesday.\n\nHackers with a range of motivations have targeted “proprietary AI models and source code,” thereportsaid. “This shift underscores that enterprise AI assets—from model weights to cloud compute quotas—are high-value targets for espionage, extortion, and resource theft.”\n\nThis story has been updated with additional information.\n\nCNN’s Hadas Gold and John Liu contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+      "text": "claimed"
+    },
+    {
+      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "text": "claimed"
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai?e=48754805",
+      "text": "report"
+    }
+  ],
+  "hash": "805d98897e3425a67830470a706fa72625ad9243eb2b306c5bdd05f17dd1fdf1",
+  "scraped_at": "2026-09-09T11:34:50.359681+00:00"
+}

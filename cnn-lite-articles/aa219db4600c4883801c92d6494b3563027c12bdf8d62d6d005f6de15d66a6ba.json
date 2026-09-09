@@ -1,0 +1,44 @@
+{
+  "url": "https://lite.cnn.com/2026/09/09/health/patient-records-trump-administration",
+  "title": "Democrats demand Trump administration halt collection of patients’ ER records | CNN",
+  "date": "2026-09-09T11:35:12.670898+00:00",
+  "authors": [
+    "Amanda Seitz",
+    "Maia Rosenfeld",
+    "Darius Tahir",
+    "KFF Health News"
+  ],
+  "text": "A group of Democratic lawmakers is calling for the Trump administration to suspend a new surveillance program it quietly launched to collect the personal and identifiable health data of Americans who visit emergency rooms.\n\nKFF Health Newsfirst reportedthat the Consumer Product Safety Commission — a federal agency tasked with monitoring injuries from household items — was pressuring hospitals to provide a private company with personally identifiable health information for analysis. The rollout of the program has inspired broad pushback from hospitals and privacy advocates.\n\nThe CPSC’s goal is to obtain millions of Americans’ medical records from emergency rooms for most injuries, even when a consumer product is not involved, internal emails and documents reviewed by KFF Health News revealed. The agency instructed hospitals to share detailed patient information for more than 10,000 types of injuries or conditions, such as vaccine reactions, suicide attempts, or stingray stabs.\n\nThe scope of data CPSC is collecting far exceeds the agency’s mission and should be immediately suspended, Massachusetts Sen. Ed Markey, who sits on the Senate Health, Education, Labor, and Pensions Committee, and other House and Senate Democratswrote in a letterto CPSC acting Chairman Peter Feldman.\n\n“This unprecedented and sweeping effort to collect identifiable patient data is untethered from the Commission’s statutory mission and authority, and is ripe for misuse by an administration that has repeatedly sought access to Americans’ most personal information,” the letter stated. “Americans should be able to seek medical care without fear that their personal health information will be swept into a federal database and repurposed for political ends.”\n\nAmong other Democrats signing the letter were Sen. Richard Blumenthal of Connecticut, Rep. Jan Schakowsky of Illinois, and Sen. Ron Wyden of Oregon, the ranking member of the Senate Finance Committee.\n\nCPSC spokesperson Steve Roney did not answer several questions about the program and the call for it to be suspended.\n\n“We received the letter, and will respond directly, through the appropriate channels,” he said in a statement.\n\nThe CPSC is one of several agencies thathave launched broad acquisitionsof Americans’ sensitive medical records during Trump’s second term. The Office of Personnel Management has requested federal workers’ sensitive health information. Health and Human Services Secretary Robert F. Kennedy Jr. deputized at least one private organization to collect more medical records for his studies on vaccines and autism.\n\nThe CPSC has operated a voluntary program for decades that enables trained hospital workers based in about 70 hospitals nationwide to report injuries involving consumer products, called the National Electronic Injury Surveillance System, or NEISS. Compared with the current initiative, the agency’s data collection has historically been far narrower, and previously requested patients’ identifiable information, generally for follow-up, in fewer than 1% of cases.\n\nWithout public notice, CPSC staffers overhauled the program early this year — rebranding it as NEISS-R — and told hospital executives that participation is mandatory, requiring they report far more identifiable patient details from more injuries to a private company called Konza Health. The Kansas-based company won a five-year contract last year worth up to $15.9 million with the CPSC.\n\nIn emails and contract language reviewed by KFF Health News, Konza representatives described hospital participation as “mandatory” or “required.” Emails sent this year by CPSC chief data officer Elizabeth Puchek said hospitals would need to apply for an exemption from participation or face penalties. Those penalties, for what’s called unlawful “information blocking,” were established in a federal data-sharing regulation designed to make sure patients could access their medical records. The agency’s website reiterated that threat, claiming information-blocking regulations require hospitals “to make electronic health information (EHI) available to public health authorities, such as CPSC, upon request, unless a specific exception applies.”\n\nThe power play inspired widespread resistance. The American Hospital Associationsent a letter in Augustasking for modifications to the program, citing “confusion and concern about the scope of patient information” demanded by the agency.\n\nNow the agency is backtracking, removing in recent weeks mentions of “information blocking” penalties from its public page.\n\nThe CPSC’s Feldman, a Trump appointee, said in an interview last month with Nextgov/FCW that the new program would“remain a voluntary” one.\n\nThe Democrats highlighted these discrepancies and changes, also noting that the agency has bypassed regulations and failed to publicly lay out any detailed plan for its data collection, as required by law.\n\n“The Commission has since quietly removed the information blocking rationale from its public NEISS webpage, without any public correction or acknowledgment that the claim it spent months promoting was without basis,” the letter said. “This reversal does not undo the coercion hospitals experienced, but rather raises the question of whether the Commission’s purported legal justifications were ever more than post-hoc cover for an agenda that had little to do with its statutory authority.” The Democrats’ letter asks CPSC to respond by Sept. 18.\n\nKFF Health Newsis a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF—an independent source of health policy research, polling, and journalism. Learn more aboutKFF.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://kffhealthnews.org/health-industry/cpsc-consumer-product-safety-commission-trump-er-injury-data-grab-neiss-konza/",
+      "text": "first reported"
+    },
+    {
+      "url": "https://www.markey.senate.gov/imo/media/doc/markey_letter_to_cspc_9326.pdf",
+      "text": "wrote in a letter"
+    },
+    {
+      "url": "https://kffhealthnews.org/series/data-grab/",
+      "text": "have launched broad acquisitions"
+    },
+    {
+      "url": "https://www.aha.org/letterscomments/2026-08-12-aha-comment-letter-consumer-product-safety-commission-agenda-and-priorities-fy-2027-andor-2028",
+      "text": "sent a letter in August"
+    },
+    {
+      "url": "https://www.nextgov.com/policy/2026/08/trump-administration-softens-demand-hospitals-share-emergency-room-medical-records/415600/",
+      "text": "“remain a voluntary” one"
+    },
+    {
+      "url": "https://kffhealthnews.org/about-us",
+      "text": "KFF Health News"
+    },
+    {
+      "url": "https://www.kff.org/about-us",
+      "text": "KFF"
+    }
+  ],
+  "hash": "aa219db4600c4883801c92d6494b3563027c12bdf8d62d6d005f6de15d66a6ba",
+  "scraped_at": "2026-09-09T11:35:12.670906+00:00"
+}
