@@ -1,0 +1,49 @@
+{
+  "url": "https://lite.cnn.com/2026/09/09/politics/cnn-polls-guide-to-midterm-polls",
+  "title": "An onslaught of midterm polling is coming. Here’s how to sort through it | CNN Politics",
+  "date": "2026-09-10T11:33:29.269250+00:00",
+  "authors": [
+    "Ariel Edwards-Levy"
+  ],
+  "text": "Source: CNN\n\nThese days, it’s easier than ever to conduct some form of polling and as difficult as it’s ever been to get it right.\n\nCompletely faked numbers like aphony “poll” of the Los Angeles mayoral racethat made waves last month are thankfully rare. That said, even real polls can have serious flaws in the ways they’re conducted or an agenda behind their release. And the most rigorous polling doesn’t come with any guarantees.\n\nBut if read carefully, high-quality polls can still tell you a lot about how this year’s midterms are shaping up – and keeping a few simple questions in mind can help you sort through the overwhelming and sometimes overblown deluge of data.\n\nAt CNN, we ask pollsters to answermore than a dozen questionsabout their work before we cover it, from revealing who paid for the poll to sharing the technical details of their sampling and weighting. Even if you’re not an expert on methodology, there are a few things you can look for to get a sense of whether a poll is worth your time – and to get the most information out of its results.\n\nHere are some of the most important questions to ask:\n\nAs a starting point, look for pollsters who are transparent about what they’re doing. If there aren’t many details available about who conducted and sponsored the poll, how they carried it out or what questions they asked, that’s your first sign to be skeptical.\n\nFor an idea of what that methodological information might look like, you can read more about how CNN conducts its own pollinghereor find detailed explanations of how outlets likethe Pew Research CenterorThe New York Timesconduct their surveys. The American Association for Public Opinion Research also has ahelpful guide to the information you should be looking for.\n\nFundamentally, polls work by talking to relatively small groups of people who are selected to be demographically representative of a much larger universe (say, “adults in the US,” or “people who are likely to vote in the next election”).\n\nHow do pollsters choose which people to talk to? In past decades, many did so by calling a randomly selected set of phone numbers. These days, very few polls are conducted by interrupting Americans’ dinners with calls to their landlines. Instead, pollsters are trying to reach people however they can, whether that’s through cell phone calls, text messages, postcards in the mail, panels of people who’ve agreed to answer surveys or a combination of all these approaches.\n\nWhat’s critically important across these methods, though, is that the people taking any individual survey are selected by the pollster, not the other way around. Feel free to ignore “polls” that let anyone answer, which can’t reflect the opinions of anybody beyond those who happened to answer.\n\nWhen looking at the sample size of a poll, keep in mind that a relatively small but representative sample is better than a very large, unrepresentative one. But a small sample does increase the margin for error, particularly among subgroups of people – like young voters, or those from minority groups – that make up only a smaller share of the population.\n\nPolls shouldn’t come out of nowhere. Look for polls that are transparent about the people who conducted them, and the precise survey companies or tools they used to carry them out. If the pollster has a track record of previous work – or if they’ve never released polling before – that’s helpful context, too.\n\nIt’s also important for polls to disclose who, if anyone, funded their surveys, whether that’s a media outlet, a think tank, or a campaign. Anyone putting in the time and effort to conduct a survey has a reason for doing so. Sometimes, that’s simply to inform the public. But campaigns are often selective in releasing only internal data that supports the narrative they want to share, or that might drive fundraising and engagement, and advocacy groups are often trying to shape a conversation around the policies they support.\n\nThe way a poll question is framed can have major impacts on the results of the poll, particularly around unfamiliar candidates or complicated topics.\n\nSo can the order that questions were asked in – for instance, a neutrally worded question about a choice between two candidates can still be thrown out of balance if voters were first asked a series of questions about controversies facing one candidate.\n\nLook for polls that share the exact wording of their questions, so that you can evaluate whether those questions seem balanced and get the clearest sense possible of what the people taking the survey actually meant by their answers.\n\nPretty much any data point is more useful in context. When looking at new data, it’s helpful to know whether it’s broadly in agreement with other polling, or whether it’s saying something new – or if there isn’t much else out there to compare it to. Just because a poll is an outlier, of course, doesn’t mean it’s necessarily wrong. But sometimes, the variation between polls can tell you something. For instance, if minor changes in wording produce very different reads on an issue, that’s probably a topic where public opinion isn’t very settled.\n\nWhile surveys can capture how voters are feeling at a given point in time, they can’t predict the future. This can pose a particular challenge in races like primary elections that often see multiple candidates, varied turnout and a lot of movement - see theDemocratic primary in Michigan, where polls may have misread the composition of the electorate, andin Wisconsin, where polls also overstated the eventual support for the progressive candidatebut accurately reflected that the race remained highly in flux.\n\nPolls also aren’t meant to be precision instruments, which means that in a tight race, they may not be able to reliably measure which candidate is ahead – merely that the race is close. But even in an election year, most surveys also ask questions beyond whom voters are planning to support.\n\nThese questions can provide a sense of the dynamics behind the race: For instance, measuring anti-incumbent sentiments, highlighting voters’ ongoing concerns with cost of living, ortracking big partisan shifts. That’s often more illuminating than the horserace itself.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.latimes.com/california/story/2026-08-17/poll-showing-bass-leading-raman-by-double-digits-was-bogus-company-says",
+      "text": "phony “poll” of the Los Angeles mayoral race"
+    },
+    {
+      "url": "https://www.cnn.com/2019/07/09/politics/read-cnn-transparency-questionnaire-polling",
+      "text": "more than a dozen questions"
+    },
+    {
+      "url": "https://www.cnn.com/2021/09/10/politics/cnn-polling-new-methodology",
+      "text": "here"
+    },
+    {
+      "url": "https://www.pewresearch.org/u-s-survey-methodology/",
+      "text": "the Pew Research Center"
+    },
+    {
+      "url": "https://www.nytimes.com/article/times-siena-poll-methodology.html",
+      "text": "The New York Times"
+    },
+    {
+      "url": "https://aapor.org/journalist-guide-to-understanding-polls-surveys/",
+      "text": "helpful guide to the information you should be looking for"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/michigan-primary-election-polling.html",
+      "text": "Democratic primary in Michigan, where polls may have misread the composition of the electorate"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/12/politics/kalshi-wisconsin-michigan-prediction",
+      "text": "in Wisconsin, where polls also overstated the eventual support for the progressive candidate"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/16/politics/cnn-poll-political-parties-independent-democrats-republicans",
+      "text": "tracking big partisan shifts"
+    }
+  ],
+  "hash": "2fbee111a9d9cb2cd271469926df1073ab2cb91f819644b5fd6c158dbb35d4b4",
+  "scraped_at": "2026-09-10T11:33:29.269264+00:00"
+}
