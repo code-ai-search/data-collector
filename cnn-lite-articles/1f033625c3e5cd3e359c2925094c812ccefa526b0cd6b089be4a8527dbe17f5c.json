@@ -1,0 +1,55 @@
+{
+  "url": "https://lite.cnn.com/2026/09/09/tech/ai-anthropic-safety",
+  "title": "‘Gambling with our lives’: Another AI employee quits over safety concerns | CNN Business",
+  "date": "2026-09-11T11:36:11.970289+00:00",
+  "authors": [
+    "Hadas Gold",
+    "Martin Goillandeau",
+    "David Goldman"
+  ],
+  "text": "Source: CNN\n\n“The people building AI earnestly believe that it could kill us all by the end of the decade.”\n\nThat blunt admission from former Anthropic employee Jacob Coxon made waves Tuesday, as the just-quit 27-year-old AI researcher spilled the beans on his way out the door in aresignation threadon X.\n\nAs alarming and serious as Coxon’s revelations sound (“These will soon be superhuman systems that can hack anything, revolutionize any field overnight, and acquire real power and resources”), they’re also not new. Anthropic got its start in exactly this way, as OpenAI employees concerned about the company’s safety protocols left Sam Altman’s startup to launch their own AI company, arguing their approach was more responsible.\n\nThe concerns are becoming commonplace. A number of AI employees have loudly quit their companies over safety concerns over the past several months and years. Others have publicly voiced worries that the technology is moving too quickly and will one day outpace humans’ ability to control it.\n\nIn July, nearly 1,400 AI company employees signed anopen letterurging the US government to regulate the technology to rein in Big Tech and slow the pace of AI to ensure its safety. And two days ago, OpenAI Chief Scientist Jakub Pachockiwarnedthat AI capabilities are advancing faster than researchers’ ability to reliably monitor and control them.\n\nNow, a relatively junior researcher has become the latest to sound the alarm.\n\n“They are racing straight to self-improving superintelligence and gambling with our lives,” Coxon posted.\n\nCoxon’s post gained attention after a more senior Anthropic employee, Evan Hubinger, commented that Coxon was correct.\n\n“We really do earnestly believe AI could kill all humans!” Hubingerposted on X. He said he personally believes the chance is under 10% over the next decade, and despite Anthropic’s good intentions it doesn’t have a plan to avoid so-called superintelligence that could exceed humans’ ability to control AI.Superintelligence, a state at which AI surpasses human capabilities, is a widely debated theoretical milestone with no benchmark that some AI researchers believe has already been achieved and others believe will never come.\n\nHubinger shortly after clarified his statement in a follow-up post that Anthropic’s ownRisk Reportacknowledges the concern but says present AI poses little chance of gaining such power.\n\n“We have always been transparent that AI will bring both enormous benefits and unprecedented risks,” an Anthropic spokesperson said in a statement. “To address these risks, we continue to build models with some of the strongest safeguards in the industry.”\n\nAnthropic CEO Dario Amodei has alsorepeatedly warnedthat the race to move fast on the technology could unintentionally result in a catastrophic human-caused error that causes a company to lose control of its AI.\n\n“This is a complex engineering problem and I think something will go wrong with someone’s AI system. Hopefully not ours,” Amodei told theNew York Times in February.\n\nDespite the constant stream of warnings,regulation seems far off.The Trump administration has actively worked to undermine state AI regulations and Congress has so far been unwilling to rein in the technology. A common refrain: Any effort to regulate AI represents a capitulation to China, which is under no such constraints.\n\nExcept China has introduced AI regulation, particularly aimed at risk management and safety. Last year, the government required AI companies to label AI-generated content to make it transparent and traceable. However, China has resisted the kind of stringent regulation that would prevent the kind of problems Silicon Valley researchers have raised.\n\nIn the meantime, in the US at least, AI companies are more or less responsible for policing themselves.\n\nThe White House has moved toward a voluntary framework to review certain AI models before launch, sources familiar with a meeting last month between the Trump administration and several top AI companies told CNN.\n\nAmong the representatives were those from OpenAI, Anthropic, Google and Meta, according to multiple sources familiar with the situation. The details of the framework will not be released publicly and many of the standards set within it will be classified, according to a June executive order on the framework.\n\nIn July, Altman suggested it may be time to slow AI development, saying in theInvest Like The Bestpodcast that the recent testing incidents involving advanced models were raising “long-term questions” about how AI companies should manage rapid advances in capabilities.\n\n“We may have to pace the rate of AI development to give ourselves enough time for society to harden around these new capability levels,” Altman said.\n\nAnthropic, in a statement on Wednesday, concurred with Altman.\n\n“We believe the world would benefit from the industry adopting a lawful, verifiable way to work together to pace how we release powerful models.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://x.com/hilbertspaess/status/2097476196791709843",
+      "text": "resignation thread"
+    },
+    {
+      "url": "https://www.pacingthefrontier.com/",
+      "text": "open letter"
+    },
+    {
+      "url": "https://openai.com/index/an-alien-mind/",
+      "text": "warned"
+    },
+    {
+      "url": "https://x.com/evanhub/status/2097497037956891126?s=46",
+      "text": "posted on X"
+    },
+    {
+      "url": "https://www.cnn.com/2025/08/13/tech/ai-geoffrey-hinton",
+      "text": "Superintelligence"
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "text": "Risk Report"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/05/business/anthropic-calls-for-ai-brake-pedal",
+      "text": "repeatedly warned"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html",
+      "text": "New York Times in February"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai",
+      "text": "regulation seems far off."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+      "text": "Invest Like The Best"
+    }
+  ],
+  "hash": "1f033625c3e5cd3e359c2925094c812ccefa526b0cd6b089be4a8527dbe17f5c",
+  "scraped_at": "2026-09-11T11:36:11.970301+00:00"
+}

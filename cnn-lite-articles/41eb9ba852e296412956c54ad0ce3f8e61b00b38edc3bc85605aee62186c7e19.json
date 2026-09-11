@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/09/10/politics/sam-bankman-fried-appeals-conviction-to-supreme-court",
+  "title": "Sam Bankman-Fried appeals conviction to Supreme Court | CNN Politics",
+  "date": "2026-09-11T11:34:09.992271+00:00",
+  "authors": [
+    "John Fritze"
+  ],
+  "text": "Source: CNN\n\nSam Bankman-Fried, the formercryptomogul who wasconvicted of defrauding investorsby secretly diverting billions of dollars of their money, asked the Supreme Court on Thursday for a new trial and to throw out a court order requiring him topay $11 billionas part of his sentence.\n\nBankman-Fried wassentenced to 25 yearsin prison in 2024 after prosecutors said he directed billions of dollars from the crypto exchange FTX to a hedge fund he controlled called Alameda Research, where the funds were used for risky investments, political donations and his own personal benefit.\n\nThe Supreme Court appeal, which was reviewed by CNN, raises a technical question about evidence that was submitted at his trial, and whether Bankman-Fried should have been permitted to demonstrate that his investments were ultimately sound and would have covered any losses by FTX customers.\n\nHe also argues that the $11 billion forfeiture violates the 8th Amendment’s prohibition on excessive fines.\n\n“Where the government pursues a theory of fraud under which it doesn’t matter whether any victims lost money, introducing evidence suggesting that people actually lost money is distracting and prejudicial,” veteran Supreme Court attorney Jeffrey Fisher told CNN. “All the more so where the truth is the victims did not lose money, and the defendant is unable to make that clear.”\n\nThe 2nd US Circuit Court of Appealsrejected the argumentsearlier this year.\n\nThe case hinges in large part on a recent decision from the Supreme Court centered on a US Department of Transportation contractor who promised to meet disadvantaged business requirements to secure a multi-million-dollar bridge painting contract. The contractor ultimately failed to work with that disadvantaged business, instead setting up a passthrough scheme and submitting false certifications to cover up the arrangement.\n\nAfter prosecutors secured wire fraud and conspiracy convictions, the company and its manager appealed to the Supreme Court, arguing that such a deception couldn’t constitute wire fraud if the defendants never intended to cause economic harm. After all, the work was completed.\n\nThe Supreme Courtrejected that appeal unanimouslyin 2025.\n\nBankman-Fried’s claim acknowledged that decision but raises a more nuanced question. If prosecutors don’t need to demonstrate economic loss to bring fraud charges under the “fraudulent inducement” theory the high court embraced last year, then why allow prosecutors to admit evidence of economic loss at all? And if they can do so, Bankman-Fried argues, then defendants should be able to submit evidence working the other direction.\n\nThe Supreme Court will review the appeal later this year.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2024/03/28/business/ftx-sam-bankman-fried-sentencing",
+      "text": "convicted of defrauding investors"
+    },
+    {
+      "url": "https://www.cnn.com/2024/03/29/investing/sam-bankman-fried-forfeiture-11-billion",
+      "text": "pay $11 billion"
+    },
+    {
+      "url": "https://www.cnn.com/2024/03/28/business/ftx-sam-bankman-fried-sentencing",
+      "text": "sentenced to 25 years"
+    },
+    {
+      "url": "https://ww3.ca2.uscourts.gov/decisions/OPN/24-961_opn.pdf",
+      "text": "rejected the arguments"
+    },
+    {
+      "url": "https://www.supremecourt.gov/opinions/24pdf/23-909_f2q3.pdf",
+      "text": "rejected that appeal unanimously"
+    }
+  ],
+  "hash": "41eb9ba852e296412956c54ad0ce3f8e61b00b38edc3bc85605aee62186c7e19",
+  "scraped_at": "2026-09-11T11:34:09.992284+00:00"
+}
