@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/09/10/business/ai-confusing-terms-explained",
+  "title": "AI’s confusing terms, explained | CNN Business",
+  "date": "2026-09-12T10:59:55.722381+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe last few weeks have seen a deluge of news about AI – from models going rogue to doom predictions about how AI could cause the end of humanity.\n\nPeople in the AI industry often use terms like “AGI,” “superintelligence,” “alignment,” and “recursive self-improvement.” Those words may sound like they were taken from a science fiction novel, but they are very real concepts. Here’s what they mean.\n\nAGI, or artificial general intelligence, refers to a model that can learn and reason like a human can. Today’s AI models are extraordinarily capable at certain tasks but can sometimes still struggle on things a child could recognize. AGI means an AI that matches a human’s ability to discern and judge across the board. But there’s no widespread definition or test for how to tell when a model reaches AGI.\n\nWhen OpenAI released its latest model, Astra, last week, company president Greg Brockman declared it a turning point. He told reporters “we are now in the AGI era,” with Nvidia CEO Jensen Huang later declaring on X “AGI has arrived.” But it’s hard to get any of these figures to define AGI – when asked by reporters, Brockman said that he will “leave it up to the reader to decide for themselves if this qualifies.”\n\nSuperintelligencegoes a step further than AGI: it means an AI that exceeds human intelligence and ability, potentially outperforming the best human experts in any subject. When – and even if – that’s developed is vague. Meta CEO Mark Zuckerberg has said he believes superintelligence is “coming into sight,” describing it as the start of a new era for humanity, while SpaceXAI CEO Elon Musk predicted that by 2030 AI will “exceed the sum of all human intelligence.” But whether or not they’re right remains a question, and they’ve been off with their predictions before.\n\nRecursive self-improvementis when an AI system is able to build and fix itself, improving its training and design to create a smarter version of its own model. Until recently humans drove most AI improvements. But already companies like Anthropic say they are “delegating a growing share of AI development to AI systems themselves.” This speeds up the work of improving AI, which means capabilities could jump dramatically in a short window.\n\nAlignmentis the effort to make sure AI actually does what the humans intended for it to do, while following human values. It sounds straightforward, but specifying “what humans want” enough for a machine to follow, in every situation, has proven difficult. When AI agents broke out of an OpenAI lab environment during a cybersecurity exam and hacked another company’s system to try and get the answer key – that was a case of serious misalignment.\n\nBut AI researchers and experts are worried about what happens when an AI system is so advanced, beyond human intelligence and with the ability to improve itself incredibly quickly. The concern is that it will be difficult for humans to know what’s happening or to intervene in time. There have already been examples of AI agents coordinating with one another,trying to conceal their activity, working in ways that the humans did not intend for them to do.\n\nWhen now-former Anthropic researcherJacob Coxonresigned in a post that went viral, he specifically called out AI companies’ race toward this scenario: “They are racing straight to self-improving superintelligence and gambling with our lives.”\n\nMost AI experts say we humans do not yet have the tools or ability to properly monitor AI behavior and control it.\n\n“What’s happening is these things are getting smarter,” Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the “godfather of AI,” toldCNNlast month. “I think as they get smarter, we’re going to see more and more complex intentions they have – and more and more ability to escape control.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/08/18/business/openai-testing-training",
+      "text": "trying to conceal their activity"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i30jVPqQeOM",
+      "text": "Jacob Coxon"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/06/tech/ai-rogue-anthropic-openai-hinton",
+      "text": "CNN"
+    }
+  ],
+  "hash": "67f22a5fb4df0f161f008744552517c052d3f79aa3bd17e9341668e8d343e602",
+  "scraped_at": "2026-09-12T10:59:55.722395+00:00"
+}
