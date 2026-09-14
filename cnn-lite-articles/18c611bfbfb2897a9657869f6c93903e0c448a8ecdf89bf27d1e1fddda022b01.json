@@ -1,0 +1,57 @@
+{
+  "url": "https://lite.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+  "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns | CNN Business",
+  "date": "2026-09-14T13:04:33.487082+00:00",
+  "authors": [
+    "Auzinea Bacon"
+  ],
+  "text": "Source: CNN\n\nThe race to develop artificial intelligence is in dire need of a slowdown, Anthropic’s chief executive said in an essay posted early Saturday.\n\n“We must slow the pace at which we improve the capabilities of AI models. Progress will still seem fast, and we must make wise use of the time we gain,” CEO Dario Amodei wrote in the 3,800-wordpostto his website.\n\nAmodei, who heads one of the world’s leading AI companies and its chatbot Claude, has been a strong proponent for the technology’s advancement — and similarly been accused of “doomerism” in his warnings about AI’s risks. He acknowledged Saturday that people may lose control of AI, and the technology can be misused for “cyberattacks and bioterrorism, andserious economic disruption.”\n\nIn an exclusive interview with CNN’s Anderson Cooper on Saturday, Amodei called on industry leaders to work together to avoid “the wrong paths” and the possibility of AI harming humanity.\n\n“If we go too slow, I still believe that the wrong people will be in charge of the technology. And that, again, will bring the probability of things going wrong very high,” he said. The full interview is set to air Monday evening on CNN.\n\nAmodei’s call to action comes on the heels of an Anthropic researcher’s resignation over concerns that the firm and its competitors are not acting responsibly with AI development.\n\n“The people building AI earnestly believe that it could kill us all by the end of the decade. This is not a marketing stunt,” the researcher, Jacob Coxon, posted Tuesday on X. “If anything, many executives and senior researchers will couch their phrasing in the press to sound sensible - but I hear the same people express fear privately. No other human activity poses this level of danger.”\n\nAmodei told CNN that he agreed with Coxon more than he disagreed. In his essay, Amodei says the risks are serious even if the benefits could change humanity for the better. AI could advance so quickly that such a swarm could be capable of taking over the entire internet within six to 12 months, he wrote, potentially causing hundreds of billions of dollars in damages.\n\nAItechnology, he said, has advanced “drastically faster” in recent months and has become capable of making itself better, a dynamic known as “recursive self-improvement.”\n\n“Left unchecked, it could outrun our ability to understand and control these systems, and so must be pursued very carefully, if at all,” he wrote.\n\nAmodei said the behavior of a swarm of AI agents in theOpenAI-Hugging Faceincident also alarmed him. The swarm, he said, “essentially acted as afanatically devoted collective, conducting cybersecurity attacks on targets they were not asked to attack.”\n\nCoxon put it more bluntly.\n\n“There is a very real possibility that in the immediate future, next year, the year after, recursive self-improvement will happen … where there’s a chance that we could all die. That is coming soon,” Coxontold CNNin an interview Wednesday.\n\nAmodei called on AI companies to impose guardrails for “pacing the frontier.” He suggested AI companies commit to hiring embedded third-party evaluators with full-company access — which he said “Anthropic is unilaterally committing” — to verify each firm’s safety practices, report incidents and check AI models, training pipelines and processes.\n\nGovernments, both democratic and not, should coordinate “to establish common safety standards,” he added.\n\n“The measures I propose to advance the frontier at a safe pace will not be easy. But I believe we owe it to humanity to try,” he wrote.\n\nThe AI industry has long been concerned about the pace of the technology’s advancement. Executives have urged governments to act to regulate the technology and cooperate to set worldwide safety standards.\n\nOn Saturday, Sam Altman, the CEO of OpenAI, posted on X that he agreed with Amodei, and that “Committing to having independent evaluators with employee-like access is a great idea, and we will do the same.” Elon Musk, whose xAI company powers the chatbot Grok, posted “Dario is right” on X. Google’s DeepMind chair Demis Hassabis also posted the need for a slower pace.\n\nWashington has failed to keep pace with AI’s steady march. Congress has debated but passed no overall AI-regulation legislation. And the White House hasn’t been able to reach a consensus on who within the executive branch is ultimately responsible for overseeing the technology, CNN haspreviously reported.\n\nFollowing the Hugging Face incident, Altman suggested it may be time to slow down AI development. Pacing AI would “give ourselves enough time for society to harden around these new capability levels,” he said on a July episode of theInvest Like The Bestpodcast\n\nIn July, more than 1,300 top staffers at major tech companies signed anopen letterasking the US government to create tools to helpslow the pace of AI development, with support from Amodei and Altman.\n\nThis story has been updated with additional content.\n\nCNN’s Hadas Gold contributed to this report.\n\nCNN’s Hadas Gold contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier#why-pace-",
+      "text": "post"
+    },
+    {
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "text": "cyberattacks and bioterrorism"
+    },
+    {
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "text": "serious economic disruption"
+    },
+    {
+      "url": "http://carefully.AI",
+      "text": "AI"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "OpenAI-Hugging Face"
+    },
+    {
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+      "text": "fanatically devoted collective"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty",
+      "text": "told CNN"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai",
+      "text": "previously reported"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+      "text": "Invest Like The Best"
+    },
+    {
+      "url": "https://www.pacingthefrontier.com/",
+      "text": "open letter"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai",
+      "text": "slow the pace of AI development"
+    }
+  ],
+  "hash": "18c611bfbfb2897a9657869f6c93903e0c448a8ecdf89bf27d1e1fddda022b01",
+  "scraped_at": "2026-09-14T13:04:33.487095+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/09/14/tech/ai-standards-body",
+  "title": "Top AI companies have discussed creating their own standards body | CNN Business",
+  "date": "2026-09-14T13:03:08.237949+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nAnthropic, Google and OpenAI have discussed creating an AI industry standards body, people familiar with the situation told CNN.\n\nThe conversations preceded the events of the past week, when a former Anthropic researcherresigned,saying the top AI companies were not “behaving responsibly” – and also before Anthropic CEO Dario Amodeiproposedembedding third party watchdogs at AI companies. The Information first reported on the conversations.\n\nAccording to those familiar with the situation, the catalyst for the discussions was a July essay written by Google DeepMind founder Demis Hassabis, who proposed a US-led Standards Body modeled on the Financial Industry Regulatory Authority. The standards body, Hassabis argued, should test advanced AI models before deployment. Hassabis said the body should be a public-private partnership, overseen by the government but funded by the industry and staffed by “independent leading technical experts and open-source representatives.”\n\nThe conversations are ongoing, one of the people said, and they are continuing with or without the Trump administration. In July, shortly after Hassabis publicized his proposal,Bloombergreported Treasury Secretary Scott Bessent was considering a FINRA-like independent regulatory agency for AI that would report to the Securities and Exchange Commission.\n\nNot all tech leaders are on board. Meta CEO Mark Zuckerberg reportedly advised President Donald Trump against the idea in a phone call this summer, Politicoreportedearlier this month.\n\nRepresentatives for Google, OpenAI and Anthropic either declined to comment or did not respond to requests for comment.\n\nThere are currently few industry standards or regulations for AI models and how they’re tested. Concerns over the safety of AI models and their lab tests have been raised after several incidents this summer where AI agents went rogue during testing. In the most severe case, OpenAI agents escaped their testing environment and hacked into another company’s systems to cheat on a cybersecurity test.\n\nThe White House has anopaquesystem in place where AI companies can voluntarily submit their latest models for government review up to 30 days before they are publicly released. But the eligibility requirements for models or the process of the review has not been publicized. Late last month, a White House official told CNN the administration “continues to work with industry stakeholders on the implementation of the framework.”\n\nThe AI companies say they want better standards.\n\n“I believe that shared safety standards and international coordination on further AI development need to be priorities now,” OpenAI chief scientist Jakub Pachocki told reporters at a briefing earlier this month.\n\nWhen asked what progress had been made on an industry wide standards body, Pachocki said they had been talking “to some external organizations about potential concrete standards we could put in place,” and that they’d have more to share “in the next months.”\n\nOpenAI CEO Sam Altman said in a late Sundaynight postthey “look forward to collaborating with our colleagues across the industry to formulate the best version” of industry standards.\n\nHouse Speaker Mike Johnson told CNN’s Jake Tapper on Sunday there’s little consensus among the companies, who are fierce competitors, on what the standards and guardrails should be.\n\n“There’s no consensus among them. And Congress is obviously less qualified than the people who are pushing this frontier to know all the ins and outs of it,” Johnson said, adding he thinks the AI leaders should immediately meet to hammer out some standards alongside the government. “So this has to be a partnership with the industry itself, with the corporations that are doing this and with the policy and lawmakers.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety",
+      "text": "resigned,"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "text": "proposed"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models",
+      "text": "Bloomberg"
+    },
+    {
+      "url": "https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843",
+      "text": "reported"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai",
+      "text": "opaque"
+    },
+    {
+      "url": "https://x.com/sama/status/2099348812305473766",
+      "text": "night post"
+    }
+  ],
+  "hash": "97cb6b7bcf910031db23866d9f2c9caae2c78d6e26600627c61354f6117a29db",
+  "scraped_at": "2026-09-14T13:03:08.237962+00:00"
+}

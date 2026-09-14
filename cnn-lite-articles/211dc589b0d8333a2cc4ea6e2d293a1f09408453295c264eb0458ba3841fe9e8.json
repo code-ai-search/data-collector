@@ -1,0 +1,18 @@
+{
+  "url": "https://lite.cnn.com/2026/09/11/politics/mike-johnson-house-recess-ai",
+  "title": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards | CNN Politics",
+  "date": "2026-09-14T13:05:27.192947+00:00",
+  "authors": [
+    "Ellis Kim",
+    "Lauren Fox"
+  ],
+  "text": "Source: CNN\n\nA group of House Democratic lawmakers is pressuring Speaker Mike Johnson to reconvene the chamber immediately and cancel an upcoming break to address what they describe as the “catastrophic risk posed by advanced artificial intelligence.”\n\nIn a letter to the speaker, the Democrats cite potential threats, including “mass cybersecurity breaches and development of biological or chemical weapons,” and point to recent examples of the possible misuse of artificial intelligence by foreign actors.\n\n“Reasonable minds may disagree about precisely how Congress should regulate this rapidly evolving technology. We cannot disagree about the imperative for Congress to act,” the letter states. It is signed by Reps. Sam Liccardo, George Whitesides, Lori Trahan and Ted Lieu, who call on Speaker Johnson to bring the House back “immediately and remain in session until Congress advances meaningful, bipartisan AI safeguards.”\n\nThe House reconvenes Monday for a legislative week, but plans to recess after Thursday for several weeks, returning November 9 after the midterm elections. Members had been scheduled to work at the Capitol the last two weeks of September, but House leaders earlier this month canceled those two weeks, giving members more time to campaign in their districts ahead of the elections.\n\n“While AI safety experts and Americans increasingly urge action to confront this conflagration of risk, Congress fiddles,” said the House members’ letter.\n\nThe letter pointed to several recent incidents documenting risks and the potential for misuse of artificial intelligence. For example, it cited areportfrom Anthropic this week that said it disrupted efforts to use its Claude models “in ways that could support biological weapons development.”\n\nThe company also said it disrupted a Chinese government-linked surveillance and recruitment operation targeting Uyghurs in Syria, and in another instance, an Iran-linked effort to use Claude to analyze publicly accessible data “to develop targeting recommendations against US naval forces in the region.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "text": "report"
+    }
+  ],
+  "hash": "211dc589b0d8333a2cc4ea6e2d293a1f09408453295c264eb0458ba3841fe9e8",
+  "scraped_at": "2026-09-14T13:05:27.192961+00:00"
+}
