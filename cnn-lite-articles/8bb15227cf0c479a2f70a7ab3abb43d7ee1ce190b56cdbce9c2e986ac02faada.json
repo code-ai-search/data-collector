@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/09/14/economy/federal-reserve-ai-inflation-rate-hike",
+  "title": "The Fed is preparing to raise rates. What if it doesn’t work? | CNN Business",
+  "date": "2026-09-15T11:55:47.984319+00:00",
+  "authors": [
+    "Analysis by Bryan Mena"
+  ],
+  "text": "Source: CNN\n\nThe Federal Reserve has spent years holding off on higher interest rates, wary of doing unnecessary damage to the US economy. Now, as it prepares to raise rates this week, officials are facing a new question: Will they need multiple rate hikes to bring inflation down?\n\nThe monthslong conflict in the Middle East has pushed inflation higher this year, andthe risk of those price pressures spreadingacross the economy is one big reason why the Federal Reserve is expected to raise interest rates this week for the first time since July 2023.\n\nBut Fed officials are increasingly worried about another inflation threat, one that could prove much harder to tame: the massive build-out of AI infrastructure.\n\nAccording to the official minutes from the Fed’s policy meeting in July, “several” members of the rate-setting committee said the huge investments in data centers could have “broader effects on prices by pushing up aggregate demand.”\n\nThat’s because data center construction is fueling huge spending on everything from semiconductor chips and power to skilled workers. The multibillion-dollar companies driving the boom are aggressively competing for limited resources. And if that demand keeps outstripping supply, it could set the stage for higher inflation for longer.\n\nNew York Fed President John Williams, the vice chair of the central bank’s rate-setting committee and a permanent voting member, identified that as his primary inflation concern.\n\nAll of this creates a particular problem for the Fed. AI-driven demand seems to be so strong that even the three quarter-point hikes that Wall Street is expecting in the next few months may not be enough to meaningfully slow the spending boom.\n\n“If you’re a company that’s a technological service provider or a chip maker, your goal is to capture as much market share as you possibly can at the very early stages of this new technological development,” said Jim Caron, chief investment officer of portfolio solutions at Morgan Stanley Investment Management. “The longer you wait, the harder it’ll be to get more ingrained in the field.”\n\nThe scale of the spending is enormous.\n\nAccording to a report from PricewaterhouseCoopers released earlier this month, spending on data centers is running atan estimated $800 billionand is expected to swell to $1.1 trillion by 2030. Anotherreportfrom global research firm Gartner estimated early this year that spending on data centers will reach $1.37 trillion in 2026, on top of billions more spent on software, services, cybersecurity and model development, equaling $2.52 trillion this year alone.\n\n“The demand is soinsatiable that these companies, these hyperscalers, will pay almost any price for those inputs, and they need things built yesterday,” Cleveland Fed President Beth Hammack told Yahoo Finance in a July interview. Minneapolis Fed President Neel Kashkari saidin a July statementthat the “massive investment in data centers has also added a new demand element to the high inflation Americans are experiencing.”\n\nHammack, Kashkari and Dallas Fed President Lorie Logandissented from the central bank’s July decisionto hold rates steady, instead backing a rate hike. They’re expected to vote for a rate hike this week.\n\nThe Fed’s main tool — its key interest rate — functions on the demand side, either by cooling or stimulating the US economy, depending on whether officials want to address high inflation or high unemployment.\n\nBut that mechanism is less powerful when facing an AI spending spree. In theory, higher interest rates should cool the economy by reducing spending and bringing down prices. But that’s harder to pull off when companies have so much money to spend and are racing to build out infrastructure.\n\n“Hyperscalers have balance sheets that are in a very strong position,” said Ian Kresnak, senior investment strategist at Vanguard, referring to tech companies Amazon, Microsoft, Google, Meta and Oracle.\n\n“They see this as all about building the future for this technology, so will a marginal increase in interest rates really change that dynamic?” he added.\n\nFurther complicating the picture, the hyperscalers are increasingly turning to the bond market to help finance their enormous costs.\n\n“Everybody is monitoring these big hyperscalers more closely because they went from companies that had tons of cash to now taking up so much money on the credit market,” said Bjoern Griesbach, head of macroeconomics and capital markets research at Allianz Trade.\n\nIf investors start to question whether all that spending will generate enough profit, and if they become less willing to finance it, they could demand higher returns on their loans, adding even more to the costs.\n\n“The million-dollar question is whether all these investments in data centers, chips and software will pay off,” Griesbach said.\n\nThat leaves the Fed with a difficult task: While it can raise rates to cool the economy, that may not be enough to slow the AI spending boom, and could even weigh on other parts of the economy, such as the labor market.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/09/11/economy/cpi-inflation-august",
+      "text": "the risk of those price pressures spreading"
+    },
+    {
+      "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/global-investment-in-ai-infrastructure.html",
+      "text": "an estimated $800 billion"
+    },
+    {
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026",
+      "text": "report"
+    },
+    {
+      "url": "https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent",
+      "text": "in a July statement"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/31/business/fed-interest-rates-dissents",
+      "text": "dissented from the central bank’s July decision"
+    }
+  ],
+  "hash": "8bb15227cf0c479a2f70a7ab3abb43d7ee1ce190b56cdbce9c2e986ac02faada",
+  "scraped_at": "2026-09-15T11:55:47.984332+00:00"
+}

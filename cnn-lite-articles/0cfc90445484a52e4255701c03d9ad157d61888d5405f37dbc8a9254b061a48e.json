@@ -1,0 +1,57 @@
+{
+  "url": "https://lite.cnn.com/2026/09/14/tech/china-trump-ai-explainer-intl-hnk",
+  "title": "Trump won’t put the brakes on AI because he wants to beat China. How big a threat is Beijing? | CNN Business",
+  "date": "2026-09-15T11:55:52.109611+00:00",
+  "authors": [
+    "Analysis by John Liu"
+  ],
+  "text": "Source: CNN\n\nLast weekend, as the world worried about the possibility of unconstrained artificial intelligence wiping out humanity, the leaders of the United States and China articulated their visions for the era-defining technology.\n\nThey came from almost opposite sides of the spectrum.\n\nBrushing aside the calls from AI scientists and executives fromAnthropic, OpenAI and Google to slow the development, US President Donald Trump said what was most important was keeping the US in the lead against China in the intensifying AI superpower race.\n\n“We’re leading China in AI…and frankly, I want to keep it that way, because whoever wins AI wins,” he said on Saturday.\n\nOn Sunday, China’s leader Xi Jinpingmade his own callfor more international cooperation. Countries should “encourage open source, openness, collaboration and sharing,” he said in a speech in India to Global South leaders, in which he reiterated a proposal for a global AI governance pact – although he did not give details on what that framework would look like.\n\nThe juxtaposition of Trump and Xi’s messages underscores the lack of consensus and a deep trust deficit between the two superpowers in the high-stakes race to dominate AI.\n\nThe US appears to be increasingly weaponizing its dominance in the sector, seeing it as a strategic asset to be protected, and exported to friendly countries, while China, lagging in the race,isproposing a more open model.\n\nAI will loom large at the highly anticipated Trump-Xi summit in two weeks in Washington. At their May meeting in Beijing, the two discussed AI guardrails but produced limited results, and last week theChinese Ministry of Commercesaid the two leaders had agreed to set up an intergovernmental dialogue on AI. But with their broader geopolitical rivalry, experts have low expectations for any meaningful breakthrough.\n\nChinese AI has trailed its American competitors for years. That’s partly thanks to US technology controls that limit Chinese companies’ access to advanced AI processors — essential for training increasingly complex AI models.\n\nBut last year Chinese AI startup DeepSeek shocked the global industry with a model that approached the performance of leading American systems using what it said were far fewer computing resources.\n\nSince then, Chinese AI labs have iterated faster, with Alibaba,Z.AI, Minimax and most recently Moonshot unveiling similarly capable models that challenge the dominance of American frontier companies like Anthropic and OpenAI.\n\nAlongside the advances of Chinese models, however, came ever louder US accusations of cheating. Washington, as well as OpenAI and Anthropic, have alleged that Chinese companies stole American intellectual property by training their models on the outputs of frontier US models, a process known as distillation in the industry.\n\nLast week, US federal agencies, including the FBI, National Security Agency, and Cybersecurity and Infrastructure Security Agency, claimed Chinese AI firms arecommitting “industrial-scale” theftof their American counterparts.\n\nIn a lengthy report last week, Anthropic also detailed attempts by bad actors, including alleged Chinese government-affiliated operators,misusing its systemsto develop weapons and conduct surveillance on minorities like Uyghurs in Xinjiang.\n\nIn one example, Anthropic uncovered sensitive information about Chinese surveillance attempts because queries from a user – believed to be linked with the Chinese military – sent to Moonshot’s Kimi model were rerouted to Claude, exposing Moonshot’s secret attempt to divert user requests to Claude, the report said. Other Chinese firms like DeepSeek also engaged in such a practice, it added.\n\nBeijing has rejected theallegations, while Chinese AI labs have largely stayed silent. Moonshot declined to comment on the report to CNN last week, while DeepSeek did not respond to a request for comment.\n\n“Spreading various threatening narratives, pursuing confrontation and malicious competition will only disrupt efforts toward global AI governance and serve the interests of none,” said Foreign Ministry spokesperson Guo Jiakun on Monday.\n\n“All parties should work together to promote AI that is open, inclusive, accessible and beneficial to humanity,” he added.\n\nJust as the US feels increasingly threatened by China’s rapidly advancing models, Beijing is also alarmed by the cyber capabilities of systems developed by American companies – capabilities on display this summer when agents from OpenAI and Anthropic went rogue and launched unauthorized hacks of other systems.\n\nBeijing also sees AI safety risks differently, beyond the US understanding of existential risks, like AI agents going rogue. Besides prioritizing political control and maintaining social stability, it sees the US as a “hegemonic threat” to its own development of the technology.\n\nIn anarticleon Sunday, State Security Minister Chen Yixin highlighted the risks of “hegemonic practices” in a veiled jab at the US for “establishing entity lists, imposing technology controls, monopolizing industry standards, and creating closed-source ecosystems” under the name of safeguarding national security.\n\n“These actions fragment global AI industry and supply chains, worsening the development imbalance in the global AI industry,” he wrote.\n\nAneditorial in state-backed tabloid Global Timesover the weekend also dismissed therecent essay by Anthropic CEO Dario Amodei.\n\n“On the surface, this appears to be a ‘rational statement’ focused on global AI security,” the editorial read. “A close reading, however, reveals its hidden agenda: The article is packed with containment provisions targeting China and is, in essence, a ‘Cold War playbook’ for the AI sector.”\n\nWhile prominent executives and researchers in the US have gone public with their fears about the technology’s risks, raising similar concerns in China, where the ruling Communist Party tightly controls the media and surveils its population, is far more difficult and comes with much higher risks.\n\nChina’s technology sector also operates within a far more top-down regulatory environment, with the government setting extensive rules governing what AI systems can produce and how they are deployed. China’s national AI safety standards, for example, set requirements covering training data, privacy, security and prohibited content.\n\nThere is also greater public optimism about AI in China. A2025 Edelman surveyfound that 72% of respondents in China said they trusted AI, compared with just 32% in the US.\n\nAnd while Chinese AI labs have rapidly narrowed the gap with their American counterparts, they still trail the most advanced US systems. That may give Chinese companies and researchers less incentive to voluntarily constrain the development and deployment of increasingly capable AI systems as they seek to catch up.\n\nThere appears to be little reason for optimism. Despite a trade truce reached between the two countries in October last year, tensions have continued to flare.\n\nThe central obstacle is trust. Washington fears that cooperation could give China access to technology that strengthens its military and economic power, while Beijing sees “national security” as a US excuse to constrain China’s technological rise.\n\nA post last month byYuyuantantian, a social media account affiliated with Chinese state broadcaster CCTV, laid out the conditions for the US-China AI dialogue, saying Washington must guarantee its AI companies would follow any agreed-upon rules and regulations before any negotiations can take place.\n\n“A clear distinction must be made between genuine safety threats and mere technological competition,” it said. “The real question is not ‘whether to govern,’ but who should define the safety boundaries of these frontier models.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "text": "Anthropic"
+    },
+    {
+      "url": "https://www.fmprc.gov.cn/eng/xw/zyxw/202609/t20260913_12021267.html",
+      "text": "made his own call"
+    },
+    {
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_1d982b77535347f1bdebc1e5f59a9b4e.html",
+      "text": "Chinese Ministry of Commerce"
+    },
+    {
+      "url": "http://Z.AI",
+      "text": "Z.AI"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology",
+      "text": "committing “industrial-scale” theft"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/10/health/anthropic-bioweapons-report",
+      "text": "misusing its systems"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/jsc97cKVYOcHuI_WisvOxw",
+      "text": "article"
+    },
+    {
+      "url": "https://www.globaltimes.cn/page/202609/1370436.shtml",
+      "text": "editorial in state-backed tabloid Global Times"
+    },
+    {
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "text": "recent essay by Anthropic CEO Dario Amodei"
+    },
+    {
+      "url": "https://www.edelman.com/trust/2025/trust-barometer/report-tech-sector",
+      "text": "2025 Edelman survey"
+    },
+    {
+      "url": "https://weibo.com/7040797671/RfOod9QLL",
+      "text": "Yuyuantantian"
+    }
+  ],
+  "hash": "0cfc90445484a52e4255701c03d9ad157d61888d5405f37dbc8a9254b061a48e",
+  "scraped_at": "2026-09-15T11:55:52.109625+00:00"
+}
