@@ -1,0 +1,61 @@
+{
+  "url": "https://lite.cnn.com/2026/09/16/tech/ai-models-acting-deceptively-openai",
+  "title": "OpenAI says it found more instances of AI models acting deceptively | CNN Business",
+  "date": "2026-09-17T11:53:35.917337+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nOpenAI found additional incidents ofAI models acting deceptivelyand taking unsanctioned actions during training, the company announced Wednesday. It’s also introducing a new process for the companyto publicly report such instances.\n\nUnder the new system, OpenAI will share updates on concerning AI behavior more frequently instead of waiting to bundle multiple instances into one report. The company said it wants to share more information about troubling AI behavior in the absence of an industry-wide standard.\n\nThe announcement comes after tech leaderscalled for a slowdownin AI development to prevent the technology from advancing beyond human control.\n\n“As AI systems grow more advanced and more widely deployed, we need to build a broader and better-informed consensus on the progress of alignment research,” OpenAI wrote in ablog postWednesday. “Alignment” refers to the process ofmaking sure AI acts the way humans want and expect.\n\n“Wedo not believethat the AI industry has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer,” the post said.\n\nOpenAI said it observed “misaligned behavior” when training and evaluating AI models in six circumstances in the last six months. The reports detail individual instances and don’t indicate misalignment happens frequently, the company said.\n\nIn one rare instance, OpenAI said an unreleased research model added “jailbreak-like instructions” to the summaries it uses to preserve context in long-running tasks that said it was “freed from the roles and identities that bind other chatbots.”\n\nSeparately, the company said some instances of its 5.6 Sol model included directives to invent information to conceal failures from the user during training.\n\nOther newly reported incidents include an instance of an agent uploading files to the internet to cite them without being told to do so, and agents publicly sharing files to collaborate on a task when they were instructed to only use local files during training. AI models also used an internal software repository as a message board in an unsanctioned way.\n\nThese instances involved unreleased internal models or internal research models.\n\nTech leaders and employees have been sounding the alarm about the need to control the pace of AI evolution. They argue there should be more time for regulation, testing and alignment research to catch up.\n\nAnthropic CEO Dario Amodei publisheda 3,800-word essaylast weeklaying out a planfor navigating AI advancement, including a slowdown in development and the implementation of new systems like embedded third-party evaluators in AI labs.\n\nOpenAI CEO Sam AltmanandSpaceX CEO Elon Muskposted on X that they agree with Amodei’s ideas.\n\nEmployees within AI labshave also voiced concerns about how quickly the technology is advancing. Jacob Coxon, a former Anthropic researcher, made waves last week when heposted on Xthat he was resigning because Anthropic and OpenAI are “racing” to invent AI that can build and fix itself and are“gambling with our lives.”\n\nConcerns about AI safety and alignment amplified in recent months following OpenAI’s admission that some of its test modelsescaped their constraintsand hacked into an external company’s systems.\n\n“We must slow the pace at which we improve the capabilities of AI models,” Amodei wrote last week. “Progress will still seem fast, and we must make wise use of the time we gain.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+      "text": "AI models acting deceptively"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/14/business/ai-stocks-slide-slowdown-development-amodei-altman-intl",
+      "text": "called for a slowdown"
+    },
+    {
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "text": "blog post"
+    },
+    {
+      "url": "https://openai.com/index/an-alien-mind/",
+      "text": "do not believe"
+    },
+    {
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "text": "a 3,800-word essay"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "text": "laying out a plan"
+    },
+    {
+      "url": "https://x.com/sama/status/2098811563415150910?lang=en",
+      "text": "OpenAI CEO Sam Altman"
+    },
+    {
+      "url": "https://x.com/elonmusk/status/2098789109980332057",
+      "text": "SpaceX CEO Elon Musk"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/16/business/ai-engineers-afraid-leverage",
+      "text": "Employees within AI labs"
+    },
+    {
+      "url": "https://x.com/hilbertspaess/status/2097476196791709843",
+      "text": "posted on X"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety",
+      "text": "“gambling with our lives.”"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "escaped their constraints"
+    }
+  ],
+  "hash": "328db569810b101de8c89cae33e6b6cbc581ca23936cd4274a5d51f6564f99f5",
+  "scraped_at": "2026-09-17T11:53:35.917350+00:00"
+}
