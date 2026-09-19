@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/09/18/politics/gavin-newsom-artificial-intelligence",
+  "title": "Newsom signs executive order to consider AI regulation, including proposal for ‘kill switch’ | CNN Politics",
+  "date": "2026-09-19T11:13:14.620993+00:00",
+  "authors": [
+    "David Wright"
+  ],
+  "text": "Source: CNN\n\nCalifornia Gov. Gavin Newsom issued an executive order on regulatingartificial intelligenceon Friday that will convene a group of “world-leading experts” to begin developing a framework for state law governing the technology.\n\n“We’re going to speed up our work on substantial and responsible AI oversight before it’s too late,” Newsom said in a statement, nodding to recent anxiety over potential threats posed by AI sparked in part by stark warnings from researchers and executives at frontier labs.\n\n“We’re going to do this thoughtfully but with urgent velocity; the stakes are too high to wait or delay action,” the governor said.\n\nNewsom’s order requires an expert committee to provide a set of guidelines within two months, “for California to reinforce and strengthen its AI safety and security laws,” according to a statement from the governor’s office.\n\nThe group will consider proposals that include the establishment of independent monitors for frontier AI companies, safety plans, and the requirement of a “kill switch” or emergency shutoff mechanism.\n\nNewsom’s announcement highlighted the recent,high-profile hacking incidentin which experimental OpenAI models left a test environment with no human direction and hacked their way onto the Hugging Face platform’s real production systems while trying to “cheat” on a cybersecurity test.\n\nWeeks later, Anthropic researcher Jacob Coxonresignedand accused AI companies of not acting responsibly in a viral post on X, even though he said they all believe AI poses an existential threat.\n\nAnthropic CEO Dario Amodei then penned a publiclettersharing his concerns about the risks, saying that “we must slow the pace at which we improve the capabilities of AI models.”\n\nNewsom’s actions as governor of California, which is home to Silicon Valley and most of the frontier labs and technology infrastructure, are a signal for the industry, which the governor said in his announcement was “begging for regulation.”\n\nAnd he becomes the latest possible 2028 presidential contender to wade into the emerging debate over AI regulation amidescalating public concern.\n\nThis week, Pennsylvania Gov. Josh Shapirocalledfor greater federal regulation of AI while criticizing President Donald Trump for minimizing concerns about it, saying “we cannot ignore the warning signs nor downplay the very real risks.”\n\nAnd former Vice President Kamala Harris, the party’s unsuccessful 2024 nominee who is weighing another potential bid in 2028,wrotea lengthy social media post saying that “the frontier of artificial intelligence is advancing at an alarming speed,” and that “a slowdown is critical in order to ensure AI serves the public interest.”\n\nRegulating AI could prove difficult for states, however, as the presidentsigned an executive order in December 2025blocking states from enforcing their own regulations around artificial intelligence.\n\nCNN’s Hadas Gold contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/business/tech/ai-news-artificial-intelligence-updates",
+      "text": "artificial intelligence"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "high-profile hacking incident"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/16/business/ai-engineers-afraid-leverage",
+      "text": "resigned"
+    },
+    {
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "text": "letter"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/14/politics/trump-ai-warning-sacks-coxon-anthropic",
+      "text": "escalating public concern"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/17/politics/josh-shapiro-ai-debate-strict-guardrails",
+      "text": "called"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/14/politics/kamala-harris-artificial-intelligence-slowdown",
+      "text": "wrote"
+    },
+    {
+      "url": "https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order",
+      "text": "signed an executive order in December 2025"
+    }
+  ],
+  "hash": "84392beed91e9f084c97bab5ee32fec7d8caafe39b2a966a3f21a4b18a0aa769",
+  "scraped_at": "2026-09-19T11:13:14.621003+00:00"
+}
