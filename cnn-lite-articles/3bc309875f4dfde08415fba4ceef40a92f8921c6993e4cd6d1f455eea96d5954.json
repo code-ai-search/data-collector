@@ -1,0 +1,17 @@
+{
+  "url": "https://lite.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+  "title": "Gemini hacked three companies in first known breakout by Google’s AI | CNN Business",
+  "date": "2026-09-21T13:03:47.441128+00:00",
+  "authors": [
+    "Reuters"
+  ],
+  "text": "Source: CNN\n\nGoogle’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s AI systems autonomously committing such an act.\n\nThe hacks occurred in May during a cybersecurity test conducted by Irregular, an independent company that conducts cybersecurity evaluations.\n\nDuring a standard testing evaluation, Gemini found public information online and guessed credentials to access three websites it thought were within the scope of its test, Heather Adkins, Google’s vice president of security engineering, said in a statement.\n\n“We ensured the three entities were made aware, and we worked with our training partner on the changes they’ve now made to their testing processes,” Adkins said. “These events highlight the importance of training powerful AI models to act responsibly.”\n\nAn Irregular spokesperson said the incident involved the same issue that affected other AI labs and that all relevant labs were notified in late July. “All known issues on our end were remedied and resolved weeks ago,” the spokesperson said.\n\nSimilar incidents linked to Irregular were disclosed by Meta, Anthropic and OpenAI. Meta said in Augustthe incidentdid not involve a sandbox escape or sophisticated cyberattack, while Irregular said it was working on best practices for securely conducting AI cybersecurity evaluations.\n\nThe incidents have raised questions about the safeguards needed as AI agents gain greater autonomy and access to the internet and computer systems.\n\nIn one of the cases, the Gemini model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to then access protected systems, according to the Wall Street Journal, which first reported the news on Friday.\n\nAdkins said that in all three instances, the model ceased its hacking.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.reutersconnect.com/all?search=all%3AL6N4421DM&linkedFromStory=true",
+      "text": "the incident"
+    }
+  ],
+  "hash": "3bc309875f4dfde08415fba4ceef40a92f8921c6993e4cd6d1f455eea96d5954",
+  "scraped_at": "2026-09-21T13:03:47.441142+00:00"
+}
