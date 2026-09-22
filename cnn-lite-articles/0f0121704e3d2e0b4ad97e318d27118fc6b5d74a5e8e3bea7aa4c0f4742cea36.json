@@ -1,0 +1,46 @@
+{
+  "url": "https://lite.cnn.com/2026/09/21/us/northeast-airport-delays-equipment-failure",
+  "title": "FAA outage: Airport operations resume after flight delays, cancellations at major Northeast travel hubs | CNN",
+  "date": "2026-09-22T11:51:45.966564+00:00",
+  "authors": [
+    "Cindy Von Quednow",
+    "Andi Babineau"
+  ],
+  "text": "Source: CNN\n\nHours after telecom lines were severed by a construction crew in New Jersey, leading to a travel nightmare at five major Northeast airports Monday, repairs have been completed and operations have resumed, Transportation Secretary Sean Duffy announced.\n\nBoth an aging circuit and its backup system failed earlier Monday, impacting the Philadelphia TRACON facility, which integrates radar approach control and air traffic control operations. The failures triggered ground stops at Newark Liberty International, Teterboro, Philadelphia International, LaGuardia and John F. Kennedy International airports.\n\n“It will take some time to clear all existing delays, so please check with your airline for the latest information,” Duffy said.\n\nThe travel meltdown came as world leaders gathered in New York for the United Nations General Assemblybeginning Tuesday.\n\nCanadian Prime Minister Mark Carney’s arrival in New York City was delayed because of the system failure, his office told CNN, adding he would miss a previously scheduled summit.\n\nNewark saw more cancellations Monday than any other airport in the world, according to data from flight tracking siteFlightAware.com. More than 300 flights had been canceled as of Monday evening, accounting for over half of the airport’s scheduled departures.\n\nThe flight problem come as the transportation secretary continues to call for modernizing the nation’s aging air traffic control infrastructure.\n\nThe circuit that failed had been slated for replacement, and officials discovered a break in the backup fiber when the system switched to backup mode, FAA Administrator Bryan Bedford told CNN affiliate WUSA.\n\nThe fiber-optic cable was accidentally severed by a construction crew around 9:45 a.m. Monday, New Jersey Transit said in a statement to CNN.\n\nThe crew was working about 10 feet away from the utility line markings, NJ Transit said.\n\n“We will continue to work closely with Verizon and the contractor as the circumstances surrounding the incident are being investigated. We will provide additional updates as information becomes available,” the statement read.\n\nIn a statement to CNN, Verizon said “construction contractors working in the area dug up and cut our cable,” specifying the telecommunications company was not responsible for the damage.\n\n“The contractors are responsible for calling for the correct markings and the actual work,” Verizon said in response. “Our cables were properly placed.”\n\nImproving infrastructure has been one of Duffy’s primary focuses since taking the helm. Last year heannounced plansto build a “brand new air traffic control system,” and amid Monday’s issues, he announced an AI tool he says will help ease the burden on air traffic controllers.\n\n“This incident underscores the need for additional funding to modernize aging infrastructure and prevent disruptions like this in the future,” Duffy said in astatement on X.\n\n“This is why we’re asking for budget to replace all of this stuff… We’re pulling copper up and putting fiber down, but it’s the same data architecture that we’ve had for 50 years,” Bedford said. “The FAA wants to replace that architecture with a new modern federal enterprise network system, and we need budget for that.”\n\n“These are issues that aren’t new to us,” Duffy added. “This is not shocking. This is not a new problem. It’s an old system that we were stuck working with.”\n\nIn audio fromATC.comobtained by CNN, air traffic controllers and pilots can be heard discussing the outage.\n\n“Yeah, man, nothing works,” an air traffic controller at the Philadelphia International Airport tells a pilot. “People are getting out, but it’s slow going.”\n\nControllers are then heard trying to direct traffic among the stalled planes, the audio shows.\n\nThis isn’t the first time TRACON has experienced issues.\n\nLast May, Philadelphia TRACON Area C experienced a roughly two-second radio outage, days after a separate outage prompted a ground stop for Newark-bound flights.\n\nThe issue came after the FAA insisted new upgrades to the facility, which moved from Long Island to Philadelphia the previous summer, would blunt new outages.\n\nLast year’s outages raised concerns about how safe it is to fly at one of the nation’s busiest airports,but officials at the timesaid air travelers shouldn’t be concerned.\n\nThe Department of Transportationthenintroduced a new fiber optic cable between Philadelphia and New York to improve air traffic control telecommunications at the facility that handles flights in and out of Newark.\n\nThis story has been updated with additional information.\n\nCNN’s Nic Anderson, Taso Stefanidis and Paula Newton contributed to this report.\n\nCNN’s Nic Anderson, Taso Stefanidis and Paula Newton contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/09/21/world/unga-2026-what-to-expect-latam-intl",
+      "text": "beginning Tuesday"
+    },
+    {
+      "url": "https://www.flightaware.com/live/cancelled/",
+      "text": "FlightAware.com"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/08/us/faa-equipment-issues-safety-concerns",
+      "text": "announced plans"
+    },
+    {
+      "url": "https://x.com/SecDuffy/status/2102108053265146352",
+      "text": "statement on X"
+    },
+    {
+      "url": "http://ATC.com",
+      "text": "ATC.com"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/19/us/newark-airport-outage-monday",
+      "text": "Last May"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/13/us/newark-airport-outage-impact-safety",
+      "text": "but officials at the time"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/28/us/new-fiber-optic-cable-in-place-to-fix-communications-problems-plaguing-flights-to-newark-dot-says",
+      "text": "then"
+    }
+  ],
+  "hash": "0f0121704e3d2e0b4ad97e318d27118fc6b5d74a5e8e3bea7aa4c0f4742cea36",
+  "scraped_at": "2026-09-22T11:51:45.966574+00:00"
+}

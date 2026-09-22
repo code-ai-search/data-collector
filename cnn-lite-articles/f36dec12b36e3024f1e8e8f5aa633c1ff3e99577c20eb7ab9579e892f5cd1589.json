@@ -1,0 +1,38 @@
+{
+  "url": "https://lite.cnn.com/2026/09/19/politics/democrats-letter-ai-investigation-military",
+  "title": "Democrats call for investigation into faulty AI-assisted intel report | CNN Politics",
+  "date": "2026-09-22T11:54:22.344496+00:00",
+  "authors": [
+    "Logan Schiciano",
+    "Zachary Cohen"
+  ],
+  "text": "Source: CNN\n\nA group of top Democratic senators is calling on government watchdogs to investigate a series of mistakes in US military targeting plans caused by artificial intelligence, after a CNN report detailed how one such error, according to a source familiar with the incident, “almost started a war.”\n\nIn a letter to Defense Secretary Pete Hegseth and Director of National Intelligence Jay Clayton sent on Saturday, the senators citeCNN’s reportingon a close call with a Chinese ship in the Middle East as an example of recent events that “have given us growing concern about the extent to which agencies under your oversight have prioritized acceleration of AI capability adoption and ‘experimentation’ over effective governance.”\n\nCNN reported Friday that a special operations command analyst relied on AI to generate an intelligence report that inaccurately identified the material on a Chinese cargo ship.\n\nThe report led the US military to believe the ship was transporting components of a nuclear weapons program, according to sources. The military began facilitating plans to intercept the vessel before officials realized, only just before the planned operation, that the report had been generated with the help of AI and was “entirely false.”\n\nThe kind of “hallucination” that the tool conjured has not been an isolated incident across the intelligence community since the use of AI began proliferating across government, one source familiar with the episode told CNN.\n\nIn the letter, Sens. Mark Warner, Jack Reed and Chris Coons called for an “immediate investigation by relevant Inspectors General, with a higher degree of public transparency in the ultimate findings, given the impacts these perceived failures have on public confidence in our intelligence and warfighting missions.”\n\nThe letter also references a deadly February US strike on a school in Minab, Iran, that killed nearly 200 children and adults. Three sources told CNN earlier this year the strike came after senior US military commanders bypassed warnings in critical databases, including one powered by AI, that intelligence about potential targets in Iran wasseverely out of date.\n\n“Public reports that AI targeting platforms have repeatedly generated spurious outputs (based on outdated input data or outright hallucination) risk serious operational error, in addition to undermining the confidence of both the American public and international partners in the accuracy and reliability of U.S. intelligence and intelligence-informed kinetic action,” the senators wrote.\n\nThe senators’ letter demands Hegseth and Clayton “promptly investigate this matter” and provide relevant inspectors general with “unrestricted access to both instances this year in which media reports have suggested significant errors in AI-enabled targeting workflows, as well as any additional instances that may have so far not been publicly reported.”\n\nThe letter comes as thedebateover the government’s role in implementing AI safeguards has come to dominate the halls of Congress. Democratic members have intensified their calls for regulation, while Republicans, including President Donald Trump and House Speaker Mike Johnson, have warned that slowing development may cost the US in theAI race with China.\n\nAt the Pentagon, Hegseth’s push to broadly infuse AI into military operations has not come without roadblocks. The Defense Department has sparred with Anthropic over the AI company’srefusal to remove internal safety guardrailsthat would prevent the military from using its Claude AI model in autonomous weapons and mass surveillance. Anthropic argued its models were not reliable enough to be used for such purposes.\n\nCorrection: This story has been updated to reflect that the letter to Defense Secretary Pete Hegseth and Director of National Intelligence Jay Clayton was sent on Saturday.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://us.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "text": "CNN’s reporting"
+    },
+    {
+      "url": "https://www.cnn.com/2023/08/29/tech/ai-chatbot-hallucinations",
+      "text": "hallucination"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/07/politics/us-commanders-intelligence-iran-school",
+      "text": "severely out of date"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/18/politics/congress-ai-inaction",
+      "text": "debate"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/14/politics/trump-vance-ai-alarms",
+      "text": "AI race with China"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/27/tech/anthropic-pentagon-supply-chain-risk-unlawful-hnk",
+      "text": "refusal to remove internal safety guardrails"
+    }
+  ],
+  "hash": "f36dec12b36e3024f1e8e8f5aa633c1ff3e99577c20eb7ab9579e892f5cd1589",
+  "scraped_at": "2026-09-22T11:54:22.344506+00:00"
+}
