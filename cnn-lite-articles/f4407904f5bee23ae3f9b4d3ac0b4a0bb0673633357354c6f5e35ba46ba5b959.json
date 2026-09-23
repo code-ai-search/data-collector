@@ -1,0 +1,53 @@
+{
+  "url": "https://lite.cnn.com/2026/09/22/health/telehealth-medical-data-what-to-do",
+  "title": "Telehealth companies keep exposing their customers’ medical data. What should they do? | CNN",
+  "date": "2026-09-23T11:53:19.713113+00:00",
+  "authors": [
+    "Associated Press"
+  ],
+  "text": "Source: AP\n\nThe appeal oftelehealthis easy to explain: Instead of calling a doctor, booking an appointment and hoping to eventually get a prescription, you can log onto an app or website andget approved for a new medicationwithin minutes.\n\nSince the COVID-19 pandemic, scores ofonline health serviceshave launched with the promise of quick, convenient access to drugs for ADHD, sexual dysfunction, anxiety, weight loss and more.\n\nIncreasingly, though, government regulators are accusing these companies ofdeceptive, unethical business practices, including disclosing their customers’ health data, signing them up for hard-to-cancel subscriptions and bypassing real-time consultations with doctors.\n\nThe Federal Trade Commission’slatest lawsuitalleges that telehealth pioneerHims & Hersengaged in all of those tactics, running afoul of U.S. consumer protection laws.\n\nHims has disputed the government’s claims, calling them “an effort to generate headlines at our expense.”\n\nIn recent years, FTC officials have filed similar cases against more than a half-dozen telehealth companies, including online therapy providerBetterHelpandpharmacy discount service GoodRx. In both cases, regulators said the companies shared users’ health data with online platforms such as Meta and Google, without getting permission.\n\nExperts say part of the problem is that federal laws that govern the handling of health information generally don’t apply to telehealth companies.\n\n“There’s an entire universe of companies collecting huge amounts of consumer health data every day that aren’t covered by our current health sector-specific laws,” said Andrew Crawford, an attorney with the nonprofit Center for Democracy and Technology.\n\nHere are some things to know before signing up for a telehealth service:\n\nNearly all telehealth visits begin with a questionnaire in which users provide details about their medical history and possible medications they’re interested in.\n\nAccording to the FTC’s lawsuit, Hims customers were automatically enrolled and billed for recurring prescriptions with “virtually no opportunity to review the provider’s recommended treatment.”\n\nResearchers have documented similar practices across the industry, even for injectable weight-loss drugs that typically require a physical exam and other precautions before beginning treatment.\n\nA recent analysis of nearly 50 telehealth companies sellingGLP-1 drugsfound that less than a third actually required any real-time video or audio consultation with a physician. In some cases, the prescriptions were approved within minutes.\n\n“What we saw overwhelmingly was that it was incredibly easy to get access to the GLP-1s,” said Dr. Reshma Ramachandran of Yale University, who led the study. “Most of the time, the prescription was automatically sent, without even an opportunity to stop the dispensing.”\n\nThe lack of a real-time conversation means many patients aren’t getting the type of care recommended by medical societies that prescribe GLP-1s, including discussions about weight-loss goals, past efforts and eating disorders.\n\nOnly a little more than half the websites had a question about eating disorders — which GLP-1 drugs can induce or worsen — on their intake questionnaires, the researchers found.\n\nAmericans often assume that any personal health information they share is protected by HIPAA, thefederal privacy lawthat governs the handling of medical information. But the law generally only applies to specific types of health businesses, including medical offices, hospitals and insurers, not telehealth companies offering prescriptions, counseling, DNA tests and other online services.\n\nPrivacy experts say that legal gap is one reason companies continue to disclose sensitive health information to advertisers and search engines.\n\n“There isn’t a clear federal law saying: ‘Don’t do this,’” said Justin Brookman, Consumer Reports’ director of technology policy. “There’s just a body of soft law and settled cases with the FTC that many companies probably aren’t even aware of.”\n\nBecause HIPAA does not cover every direct-to-consumer health platform, the FTC has generally used its broader authority to take action against “fraudulent, deceptive or unethical business methods.” In practice, that means showing that telehealth companies disclosed their customers’ health information after initially saying they wouldn’t.\n\nHims told customers that its platform offered a “100% online, private and secure” means of sharing information with the company’s medical professionals, according to the FTC complaint. But instead the company shared the data with Meta and other online platforms, the FTC alleges.\n\nStill, experts say the penalties available to regulators are limited. In most cases, companies sign a legal agreement stating that they’ll stop the practices cited by regulators.\n\nLawmakers in California, Connecticut, Maryland and other states have passed new online privacy laws that include special protections for health information. But there’s been little enforcement against telehealth companies that break those rules.\n\nFor now, privacy experts recommend using ad blockers and private web browsers — sometimes called “incognito” windows — when logging onto telehealth websites. Those tools can make it harder for companies to track your location, online history and other personal information.\n\nIt’s also a good idea to read any user agreements to get a sense of how the company plans to use your personal data, said Crawford. Some telehealth sites, for example, explicitly state in their privacy policies that they have the right to sell data about users’ sex lives.\n\nThe only surefire way to protect your information may simply be to decline the terms of service, usually one of the first steps required before accessing telehealth.\n\n“The system we have now overly burdens consumers to do a ton of work in terms of understanding how each piece of technology collecting their personal data is going to handle it,” he said. “But even if you do all that work, you often have little agency.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://apnews.com/article/hims-ro-lemonaid-subscription-health-care-6bbd960335fd8a7cc71563858e1a441a",
+      "text": "telehealth"
+    },
+    {
+      "url": "https://apnews.com/general-news-18f50ba8671d44e592ac7c46a614cd22",
+      "text": "get approved for a new medication"
+    },
+    {
+      "url": "https://apnews.com/article/telemedicine-keys-limits-pandemic-eb70627d08ef0428118698c27d223bb7",
+      "text": "online health services"
+    },
+    {
+      "url": "https://apnews.com/article/technology-politics-california-health-prescription-drugs-5934cea79a747ae869c63267a4acb561",
+      "text": "deceptive, unethical business practices"
+    },
+    {
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "text": "latest lawsuit"
+    },
+    {
+      "url": "https://apnews.com/article/hims-drug-ads-tv-fda-rfk-9c08db3481dcfd67c433fad1ae07d941",
+      "text": "Hims & Hers"
+    },
+    {
+      "url": "https://apnews.com/article/betterhelp-ftc-health-data-privacy-befca40bb873661d1f8986bb75d8df07",
+      "text": "BetterHelp"
+    },
+    {
+      "url": "https://apnews.com/article/98b6137d61c747d58099d00829ca19f9",
+      "text": "pharmacy discount service GoodRx"
+    },
+    {
+      "url": "https://apnews.com/article/glp1-weight-loss-healthy-habit-41e4c84a7fed9586057b9b49fc4738dc",
+      "text": "GLP-1 drugs"
+    },
+    {
+      "url": "https://apnews.com/article/what-to-know-private-health-data-tracking-trump-422f5b03d24115326d91a3b58a486f11",
+      "text": "federal privacy law"
+    }
+  ],
+  "hash": "f4407904f5bee23ae3f9b4d3ac0b4a0bb0673633357354c6f5e35ba46ba5b959",
+  "scraped_at": "2026-09-23T11:53:19.713125+00:00"
+}

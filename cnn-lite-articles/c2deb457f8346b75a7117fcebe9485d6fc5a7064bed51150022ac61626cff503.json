@@ -1,0 +1,46 @@
+{
+  "url": "https://lite.cnn.com/2026/09/22/politics/fbi-investigating-stolen-agents-data-hackers",
+  "title": "FBI investigating apparent breach after hackers claim to have stolen thousands of federal agents’ data | CNN Politics",
+  "date": "2026-09-23T11:52:00.713338+00:00",
+  "authors": [
+    "Sean Lyngaas",
+    "Evan Perez"
+  ],
+  "text": "Source: CNN\n\nThe FBI is investigating an apparent breach of its networks after a prolific cybercriminal group claimed on Tuesday to have stolen thousands of FBI agents’ personal data, according to two sources familiar with the matter.\n\n“The FBI is aware of claims regarding unauthorized activity affectingFBIjobs.govand is currently investigating,” the bureau said in a statement to CNN. A job application portal on the FBI’s website was down on Tuesday as the agency dealt with the incident. A note on the site said the “Special Agent Applicant Portal” was currently unavailable.\n\nThe FBI’s statement came hours after the hacking group, known as Shiny Hunters, claimed the FBI as a victim on its dark website. The group said it was “offended” by a recent publicadvisoryfrom the agency that analyzed the group’s alleged tactics for extorting victim organizations.\n\nThe hackers claimed to have accessed the FBI data beginning Monday evening.\n\nShiny Hunters, the FBI said in that May advisory, targets “major companies across tech, finance, and retail, often stealing millions of customer records at once.”\n\nIn the ensuing months, Shiny Hunters has hacked multiple large-scale healthcare organizations, leading an industry group tocallthe hackers a “clear and present danger to the global health sector.”\n\nThe hackers’ endgame with the FBI was unclear on Tuesday. They demanded the bureau remove or revise its online advisory, but claimed they weren’t “financially motivated” in this case. US government agencies don’t typically pay ransoms to hackers.\n\nIt’s just the latest example of US law enforcement agencies being targeted by the cybercrime groups they are investigating.\n\nIn March, CNN reported on a separate suspectedcybersecurity incidenton a sensitive computer network that the FBI uses to manage wiretaps and intelligence surveillance warrants.\n\nA likely Russian-speaking cybercriminal gang last month leaked what appear to be sensitive law enforcement files it stole from the Justice Department’sBureau of Alcohol, Tobacco, Firearms and Explosives. The dumped files appear to include information on targets of past ATF investigations and analyses of their phone communications,accordingto a CNN review of the data.\n\nA 2023ransomware attackon the US Marshals Service targeted the subjects of their investigations. That same year, hackersbreached a computer systemthe FBI’s New York field office used in child sexual exploitation investigations, including a system used to store images related to the Jeffrey Epstein probe, according to people briefed on the matter.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "http://FBIjobs.gov",
+      "text": "FBIjobs.gov"
+    },
+    {
+      "url": "https://www.ic3.gov/PSA/2026/PSA260515",
+      "text": "advisory"
+    },
+    {
+      "url": "https://health-isac.org/urgent-threat-alert-shinyhunters-vishing-campaigns-and-domain-impersonation/",
+      "text": "call"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/05/politics/fbi-investigating-cyber-breach-critical-surveillance-network",
+      "text": "cybersecurity incident"
+    },
+    {
+      "url": "https://www.cnn.com/2026/01/17/politics/trump-plan-merge-atf-dea-quietly-abandoned",
+      "text": "Bureau of Alcohol, Tobacco, Firearms and Explosives"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/31/politics/hackers-sensitive-data-bureau-alcohol-tobacco-firearms-explosives",
+      "text": "according"
+    },
+    {
+      "url": "https://www.cnn.com/2023/02/27/politics/us-marshals-service-ransomeware-attack",
+      "text": "ransomware attack"
+    },
+    {
+      "url": "https://www.cnn.com/2023/02/17/politics/fbi-cyber-incident-computer-network",
+      "text": "breached a computer system"
+    }
+  ],
+  "hash": "c2deb457f8346b75a7117fcebe9485d6fc5a7064bed51150022ac61626cff503",
+  "scraped_at": "2026-09-23T11:52:00.713349+00:00"
+}
