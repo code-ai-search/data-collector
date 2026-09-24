@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/09/22/science/herculaneum-scrolls-lead-ink-experiment",
+  "title": "How lead could be a clue to deciphering the Herculaneum scrolls | CNN",
+  "date": "2026-09-24T12:02:20.602630+00:00",
+  "authors": [
+    "Taylor Nicioli"
+  ],
+  "text": "Source: CNN\n\nCharred to a crisp during Mount Vesuvius’ eruption in AD 79, hundreds of papyrus scrolls lie tucked away unread in Italy’s National Library of Naples.\n\nThe majority of these carbonized artifacts, known asthe Herculaneum scrolls, are so fragile that they can’t be physically unrolled. Now, researchers and citizen scientists alike are using X-ray technology and advanced artificial intelligence to unlock the writings of ancient authors hidden within.\n\nA new study, published September 16 in the scientificjournal PLOS One, may offer another clue toward this daunting goal. By re-creating the papyri with inks containing varying amounts of lead, the researchers found that X-ray imaging could more easily detect ink with lead — present in some of the ancient scrolls — than nonmetallic ink.\n\nSo far, only a few of the real scrolls have been virtually unrolled. The study’s findings could help identify which Herculaneum scrolls are the next best candidates to noninvasively unroll and decipher, the authors suggest.\n\n“The scrolls are really just like a brick of charcoal that you buy for your barbecue. There’s not a lot of difference,” said lead author Douglas Seiler, a research volunteer with theUniversity of California, Berkeley. “It’s just carbon, and that’s what the problem has been in reading these things. The ink is made from soot.”\n\nAI has difficulty picking up the ink in scrolls that have no metal, as it is essentially “dark carbon on dark carbon,” Seiler said. But when lead is introduced, the ink lights up in the X-ray scans, allowing AI to better detect the text.\n\nThe next step after re-creating the scrolls, Seiler added, is to test the real Herculaneum ones to determine what percentage contain lead. “If they took these scrolls one by one to a facility, they could find out in a matter of minutes whether or not they had lead in them,” he said. “A lead signal is very strong.”\n\nTo date,one entire scrolland passages from others have been deciphered, largely thanks to theVesuvius Challenge, a project launched in 2023 that encourages researchers to decode scrolls for cash prizes.\n\nFor the most part, the scrolls studied are the ones in the best shape, “the nice ones that look like toilet paper or a roll of a paper towel — symmetrical,” Seiler said. But there are more than 600 unopened scrolls, and many in the Naples library are crushed and in fragments. For these scrolls, the best method for virtually unrolling and deciphering text would be to scan for lead first, according to Seiler.\n\nComputer scientist Brent Seales, cocreator of the Vesuvius Challenge, first uncovered the metallic ink in Herculaneum scrolls in 2009 while studying one of them at the University of Kentucky in Lexington. Later,a 2016 studyidentified lead in two other fragmented scrolls, suggesting that the metal was intentionally added into the ancient ink.\n\nTo find out whether the lead could be useful in decoding the scrolls, Seiler and a team of researchers re-created multiple scrolls using Egyptian papyrus and carbon ink similar to that used in Pompeii. After writing their own passages — including material from the Bible, scripts from Alfred Hitchcock movies and the television show “The Outer Limits” — the researchers rolled up these scrolls and charred them in a low-oxygen, high-temperature furnace to carbonize them, mimicking the conditions that preserved the original scrolls during the eruption of Mount Vesuvius.\n\nThe team sent the replica scrolls to researchers at the National Institute of Standards and Technology in Gaithersburg, Maryland, to decipher. Using X-ray tomography and virtual unrolling techniques, the researchers were able to reconstruct the scrolls and identify readable text at each lead concentration level.\n\n“In fact, they picked up the images much, much better than we thought,” Seiler added.\n\nThe results provide a “new opportunity to finally read some of the more complex Herculaneum scrolls,” according toa news releasefrom the journal. Furthermore, the team’s method of re-creating the Herculaneum scrolls could allow for more training of AI and potentially improve the algorithm’s success at reading ancient texts, the study authors wrote.\n\nSeales, professor of computer science at the University of Kentucky, said that those studying the Herculaneum scrolls have seen “wide variability” in the ink formulations, and there are scrolls with higher concentrations of metal. But the variation and overall low concentrations point to the metal being an accidental addition rather than a standard ingredient at the time, he added.\n\n“Scrolls with metal in the ink are somewhat easier to read using virtual unwrapping. But that doesn’t mean that the scrolls without metal cannot be read,” Seales said in an email. “The Vesuvius Challenge has applied the power of analytical artificial intelligence to every phase of the problem, showing that even the most stubborn of scrolls can yield evidence of ink.”\n\nSeales, who not involved with the new study, said he admired the team’s “enthusiasm and tenacity.”\n\n“Somehow the scrolls found a way to survive, and we have found a way to redeem them,” he added. “If their revelation is helped by accidental chemistry like lead that found its way into the ink, we can add another miracle to a string of them needed to bring those words back from the brink.”\n\nTaylor Nicioli is a freelance journalist based in New York.\n\nSign up forCNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2024/02/07/world/herculaneum-scroll-passages-decoded-philodemus-vesuvius-scn",
+      "text": "the Herculaneum scrolls"
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353485",
+      "text": "journal PLOS One"
+    },
+    {
+      "url": "https://news.berkeley.edu/2026/09/16/to-read-2000-year-old-burned-scrolls-scientists-burn-their-own/",
+      "text": "University of California, Berkeley"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/26/science/papyrus-scroll-vesuvius-ai-scli-intl",
+      "text": "one entire scroll"
+    },
+    {
+      "url": "https://scrollprize.org/",
+      "text": "Vesuvius Challenge"
+    },
+    {
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1519958113",
+      "text": "a 2016 study"
+    },
+    {
+      "url": "https://phys.org/news/2026-09-lost-ancient-scrolls-eruption-mount.html",
+      "text": "a news release"
+    },
+    {
+      "url": "https://www.cnn.com/newsletters/wonder-theory?source=nl-acq_article",
+      "text": "CNN’s Wonder Theory science newsletter"
+    }
+  ],
+  "hash": "99dbbaf7ff27efa06c6e7fbfade5c5336cff65eb28b11212ea4a4a4e1c12f19a",
+  "scraped_at": "2026-09-24T12:02:20.602646+00:00"
+}
