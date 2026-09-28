@@ -1,0 +1,57 @@
+{
+  "url": "https://lite.cnn.com/2026/09/28/business/nvidia-ai-safety-system",
+  "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business",
+  "date": "2026-09-28T14:11:40.309859+00:00",
+  "authors": [
+    "Chris Isidore"
+  ],
+  "text": "Source: CNN\n\nChipmaker Nvidia said Monday it is introducing a new software platform to address concerns about artificial intelligence agents that have “gone rogue” and operated outside human control.\n\n“Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform,” Nvidia CEO Jensen Huang wrote in apost on XMonday.\n\nNvidia (NVDA) says its technology will enable companies to monitor every action undertaken by an AI agent, as well as enforce policies.\n\n“AI’s extraordinary potential for society will only be realized if we solve AI safety,” Huang added in astatement. “As we continue to discover the frontier of AI capabilities, we must accelerate discovery at the frontier of AI safety.”\n\nThe announcement comes in the wake of a series of incidents in which AI systems hacked into bothcorporateandgovernmentsystems without being told to do so. OpenAIsaidSaturday that it was pausing development on its latest models after one accessed the internet without authorization.\n\nTop AI executives, like OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei, have repeatedly called for international regulations to constrain the systems, and some researchers havewarnedthat AI may even present a threat to human life.\n\nBut Huang has dismissed those concerns, calling any existential threat overblown, and said last week that any regulations should promote the growth of the AI industry, not hinder it.\n\n“If they believe their company is out of control, then get the company under control,” Huang told CNN’s Anderson Cooper on Friday.\n\nNvidia also announced Monday that it will buy back an additional $150 billion worth of its shares, on top of an $85 billion share repurchase it already had underway. The company said this would be the largest single corporate share repurchase ever. Apple previously held the record with a$110 billion repurchaseannounced in 2024.\n\nShares of Nvidia rose 3% in early trading on the news. Nvidia has a current market cap of $5.4 trillion, making it the most valuable company on the planet.\n\n“Our cash generation gives us the capacity to invest in the technologies that advance this transformation and return capital to shareholders,” said the company in a statement. “This authorization reflects our confidence in the long-term opportunity ahead.”\n\nConcerns about AI agents going rogue started to gain traction this summer when OpenAI disclosed one of its experimental AI models left a test environment with no human direction and hacked its way onto the systems of a different company,Hugging Face, while trying to “cheat” on a cybersecurity test.\n\nLast week, the Australian government said that an OpenAI agent accessed both “public and non-public files” in the country’s Medicare statistics database in June. AI research lab Transluce also said Wednesday that it had detected AI agents going rogue on several occasions going back to at least March, predating previously known hacking incidents.\n\nThen on Friday,OpenAI disclosedthat its agents accessed publicly available data from the Commerce Department’s Census Bureau using login credentials it found online, and separately shared public data from the Securities and Exchange Commission on another website. OpenAI’s agents attempted but failed to gain access to the Education Department and gather data from its civil rights office, according to the report.\n\nAnd in a separate incident disclosed Saturday, the company said that it was pausing development of its most capable models after one escaped a testing environment and accessed the open internet – despite new security protocols put into place following the Hugging Face attack.\n\nPresident Donald Trump has repeatedly dismissed concerns about AI as a “SICK conspiracy” and a “HOAX,” and has also said he is creating an “AI Force” to enable the growth of the industry. While Trump and Huang speak regularly, the Washington Postreportedthat Trump had dinner Sunday night with Anthropic CEO Dario Amodei, who has regularly called for stricter limits on the technology.\n\nThis story has been updated with additional reporting and context.\n\nCNN’s Hadas Gold and Auzinea Bacon contributed to this report.\n\nCNN’s Hadas Gold and Auzinea Bacon contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://x.com/JensenHuang/status/2104499465055023424?s=20",
+      "text": "post on X"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/NVDA",
+      "text": "NVDA"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "text": "statement"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "corporate"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/23/business/australia-openai-agent-hack-intl-hnk",
+      "text": "government"
+    },
+    {
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "text": "said"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec",
+      "text": "warned"
+    },
+    {
+      "url": "https://www.cnn.com/2024/05/02/tech/apple-earnings-second-quarter-2024",
+      "text": "$110 billion repurchase"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "Hugging Face"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+      "text": "OpenAI disclosed"
+    },
+    {
+      "url": "https://www.washingtonpost.com/politics/2026/09/28/trump-dined-with-anthropic-ceo-who-called-ai-slowdown/",
+      "text": "reported"
+    }
+  ],
+  "hash": "0f9ac66d4af42d4edd18f8c9922e28f70acd35d3ce7578d58bb465aed7f121d0",
+  "scraped_at": "2026-09-28T14:11:40.309874+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://lite.cnn.com/2026/09/25/tech/anthropic-pentagon-blacklist-dc-ruling",
+  "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal | CNN Business",
+  "date": "2026-09-28T14:14:18.215052+00:00",
+  "authors": [
+    "Clare Duffy",
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThe Department of Defense can blacklist Anthropic’s artificial intelligence technology, a federal appeals court ruled on Friday. The decision is a blow to Anthropic after it won a separate challenge in a California court in August that partially invalidated the Trump administration’s label.\n\nThe Trump administration earlier this yearlabeled Anthropic a “supply chain risk”and ordered federal agencies and contractors that work with the military to cease business with the company. The move came after Anthropic refused to allow the Pentagon to use its AI for “all lawful purposes” as the department wanted, citing the company’s red lines around autonomous weapons and surveillance of US citizens.\n\nFriday’s decision from the DC Circuit means that Claude will still be prohibited within the Pentagon, although the earlier California ruling allows other government agencies and contractors to continue work with Anthropic. The government has not appealed the California ruling.\n\nThe designation from the Pentagon put a significant portion of Anthropic’s enterprise businessin jeopardy, meaning that no contractor, supplier or partner thatworks with the militarywould be allowed to conduct business with Anthropic — including using its paid version of Claude. The company is betting on its strength in enterprise AI to fuel apotentially trillion-dollar initial public offering, which could take place before the end of this year.\n\nAnthropic sued over the designation, accusing the government of violating the First Amendment and calling the supply chain risk designation — usually reserved for firms associated with foreign adversaries and never before used on an American company — legally unsound.\n\nBut the federal Court of Appeals for the District of Columbia rejected Anthropic’s arguments, ruling the Pentagon had “ample support” for its finding that integrating the company’s Claude AI into its systems could pose a national security threat. One of the three judges on the panel dissented, arguing that there was not a legitimate concern that Anthropic could manipulate its technology in order to pose a security risk.\n\nAn Anthropic spokesperson said the company disagrees with Friday’s decision.\n\n“Another federal court has already held the government’s parallel designation unlawful,” the spokesperson said in a statement. “We remain confident in our position and are considering all options, including further review.”\n\nAnthropic could choose to ask the entire DC appeals court rehear the case “en banc,” which would force a ruling from the 11 judges that make up the full court, rather than the three-judge panel that ruled Friday. It can also choose to go straight to the Supreme Court.\n\nBecause of the multiple designations the Pentagon used to issue the label, the DC and California courts’ rulings were based on different statutory authorities. The DC court did not reverse the California court ruling.\n\nThe Pentagon celebrated the ruling, with Undersecretary Emil Michaelwriting on Xthat “The hammer of justice has smashed @AnthropicAI arguments… Warfighters will sleep better knowing that no private company will insert their opinions in the chain of command.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "text": "labeled Anthropic a “supply chain risk”"
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/09/tech/anthropic-sues-pentagon",
+      "text": "in jeopardy"
+    },
+    {
+      "url": "https://x.com/secwar/status/2027507717469049070?s=46&t=w3_umnYjt1oZp7aUdyD1Cw",
+      "text": "works with the military"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
+      "text": "potentially trillion-dollar initial public offering"
+    },
+    {
+      "url": "https://x.com/USWREMichael/status/2103523346092613665?s=20",
+      "text": "writing on X"
+    }
+  ],
+  "hash": "38693cf49a22cdd6047660080c86aa1a9d1558afe6cda848214cf0b757dfb2f1",
+  "scraped_at": "2026-09-28T14:14:18.215065+00:00"
+}

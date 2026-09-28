@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+  "title": "Rogue OpenAI agents targeted three separate US government websites | CNN Business",
+  "date": "2026-09-28T14:13:22.102834+00:00",
+  "authors": [
+    "Auzinea Bacon"
+  ],
+  "text": "Source: CNN\n\nOpenAI said Friday that some of its AI agents went rogue and probed US government websites this summer — the latest revelation of the artificial intelligence company’s technology.\n\nThe New York Times first reported that the AI agents went rogue and attempted to gain access to the Education Department, the Commerce Department and the Securities and Exchange Commission, according to security researchers at AI research lab Transluce.\n\nOpenAI said Saturday that its agents accessed publicly available data from the Commerce Department’s Census Bureau using login credentials it found online, and separately shared public data from the SEC website on another website. OpenAI’s agents attempted but failed to gain access to the Education Department and gather data from its civil rights office, according to the report.\n\nOpenAI told CNN in an email that it notified the agencies of the findings while continuing an “extensive review of misaligned model activity.”\n\n“Most of the activity we’ve reviewed so far involved routine research tasks, such as accessing public web content to answer questions. Some involved government websites because our models often turn to them as authoritative sources of public information,” the spokesperson said.\n\nThe Commerce Department, SEC and Education Department did not immediately respond to CNN’s requests for comment.\n\nRep. Jay Obernolte, the Republican co-chair of the AI caucus, told CNN’s Anderson Cooper on Friday that the incident is “another example of a loss of human control.”\n\n“We need to align the values that these models are trained on with human values, and if we can do that, we can get these models to conform to our standards for human behavior,” he said.\n\nThe report comes just days after Australia’s prime minister said that an OpenAI agent hacked into the country’s national healthcare database, marking thefirst known caseof AI hacking a government network. Transluce on Wednesday said that it had detected AI agents going rogue dating back to at least March, unsuccessfully targeting a University of New Mexico library and the Australian Institute of Health and Welfare site.\n\nThe Australian website probe occurred in June, an OpenAI spokesperson previously told CNN, but the company was only made aware of it in August.\n\nOpenAI has been investigating agents’ use of internet access since the breach of AI start-up Hugging Face in July.\n\nSam Altman, OpenAI’s chief executive, said Friday on social media site X that the company was not “as fast as we would have liked.”\n\n“We are trying to balance our desire for transparency with gaining a clear understanding … Hugging Face is still the most severe event we’ve seen,” hewrote.\n\nCompetitorsAnthropic,MetaandGooglehave also reported that their agents have gone rogue during breach attempts.\n\nSuch breaches have raised alarms within the artificial intelligence community. Tech leaders have jointly called for a slowdown of the technology’s development following Anthropic CEO Dario Amodei’s essay about “pacing the frontier” in mid-September. Amodei warned that people may lose control of AI, which could be misused for “cyberattacks and bioterrorism.”\n\nDuring the United Nations’ General Assembly on Wednesday, Amodei and Altman urged the UN Security Council to set international standards. Altman said countries need accurate and speedy reporting so that the “world can learn from failures before they become catastrophes.”\n\nAmodei’s warning followed a former Anthropic researcher, Jacob Coxon, whose viral post on X called out AI companies for not acting responsibly with the technology’s development and warned that it “will kill us all.”\n\nAI “doomerism” has faced pushback from tech leaders like Nvidia CEO Jensen Huang, who said there’s a “0% chance” of the world coming to an end in 2030.\n\nCNN’s Hadas Gold, Hilary Whiteman and Max Saltman contributed to this report.\n\nCNN’s Hadas Gold, Hilary Whiteman and Max Saltman contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/09/23/business/australia-openai-agent-hack-intl-hnk",
+      "text": "first known case"
+    },
+    {
+      "url": "https://x.com/sama/status/2103567198690349362?s=20",
+      "text": "wrote"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
+      "text": "Anthropic"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
+      "text": "Meta"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+      "text": "Google"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "text": "pacing the frontier"
+    }
+  ],
+  "hash": "7fddebd5ae0e6e03783d203a92ed902d3d7acdb83f2e7e97487a42b2de5cfa5e",
+  "scraped_at": "2026-09-28T14:13:22.102847+00:00"
+}
