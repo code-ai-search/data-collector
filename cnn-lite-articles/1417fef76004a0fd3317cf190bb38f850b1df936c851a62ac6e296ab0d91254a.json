@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/09/29/tech/apple-iceblock-app-removal-raskin",
+  "title": "Apple explains last year’s controversial decision to remove ICE tracking apps from app store | CNN Business",
+  "date": "2026-09-29T13:07:39.820084+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nApple says its decision toremove ICEBlock and similar platformsfrom the app store last year was prompted by concerns — including those raised by the Trump administration — about agent safety following afatal shootingthat left two detainees dead at a Dallas Immigration and Customs Enforcement office.\n\nApple’s explanation came in a July letter to Rep. Jamie Raskin, a Maryland Democrat and ranking member of the House Judiciary Committee, who earlier this yearlaunched an investigationinto the Justice Department’s role in the removal of the apps from Apple’s and Google’s app stores and the impact on constitutionally protected speech. The letter has not previously been reported.\n\nRaskin said the move suggests that Apple may be “working with the government to violate its customers’ First Amendment rights to record and report on the activities of their own government” in a response letter sent Monday to Apple’s senior director of government affairs, Timothy Powderly. Raskin added that there’s “no evidence” such apps were used to conduct the Dallas shooting and directed the company to conduct a new, independent review as to whether the apps violate Apple’s policies.\n\nThe letters shed new light on the removal of the ICE tracking apps. The apps had sparked intense backlash from Trump administration officials, who claimed they put agents’ safety at risk. But the apps’ creators and proponents argued the apps were simply a way for users to avoid contact with law enforcement and bore little difference in how Apple and Google maps let users alert others to police speed traps.\n\nICEBlocklet users add a pin on a map when they saw agents operating in their area; other users within a five-mile radius would then receive a push alert notifying them of the sighting. Similar apps cropped up around the same time.\n\nICEBlock creator Joshua AaronsuedTrump administration officials in December, claiming the government abused its power and infringed on his free speech by pushing Apple to remove the app. Aaron has called the claim that ICEBlock was designed to harm law enforcement officers “patently false.” The officials,including then-Attorney General Pam Bondi, have moved to dismiss the case, denying they were directly responsible for the app’s removal and therefore rejecting the First Amendment violation claim.\n\nRaskin’s inquiry could reignite a fraught political issue for Apple that began under previous CEO Tim Cook, at a time when new CEO John Ternus is attempting to focus the company’s efforts on AI and hardware innovation.\n\nApple did not immediately respond to CNN’s request for comment.\n\nThe Department of Homeland Security, which oversees ICE, has stood by its claim that ICE tracking apps endanger agents.\n\n“Our law officers are facing an over 1,600% increase in assaults, a 3,300% increase in vehicle attacks, and an 8,000% increase in death threats,” a spokesperson for DHS said in a statement Monday. “Further, these apps are a method to interfere with law enforcement activities and harbor illegal aliens.”\n\nCNN has also reached out to the Justice Department for comment.\n\nApple said in its letter to Raskin that it approved ICEBlock for the app store in April 2025, after Aaron addressed “certain user privacy concerns” identified during its initial review process. The company says it was “attentive” to news coverage and backlash to the app in the subsequent months.\n\nFollowing the September 2025 Dallas ICE facility shooting, Bondi “expressed serious concerns to Apple that ICEBlock posed a threat to the safety of federal officers,” the company wrote. A29-year-old gunmanwho opened fire at the facility killed two detainees and wounded another before taking his own life.\n\nThe letter also points to reports on statements from officials such as FBI Director Kash Patel, who claimed at the time that the shooter had searched for apps that tracked ICE agents’ locations. And Apple noted a “significant increase in ICE activity and threats against ICE” at the time, which it said endangered both agents and detainees — and all of which the company says prompted a new review of the app.\n\nUltimately, Apple determined ICE tracking apps violated its guidelines because they provided “precise location information about ICE officers (and, as a result, other individuals who may be in proximity to ICE agents, such as protestors or detainees), thus providing a potential roadmap for targeted violence and creating a significant risk of harm,” the company said in its letter.\n\nApple “does not take decisions about removing apps from the App Store lightly, but acts when it must — especially when there are serious concerns that an app is creating safety risks,” it said in the letter, which is signed by Powderly.\n\nBut Raskin raised questions about that justification in his Monday response to the company.\n\nRaskin noted that while the shooter may have searched for ICE tracking apps, “he did not need a tracking app to locate the fixed position of a government building” and “is reported to have found the address using an app that comes standard on Apple devices.”\n\n“There appears to be no direct connection between the Dallas incident and the apps you removed,” Raskin wrote. He also pointed to navigation apps still available within Apple’s app store that also track the real-time location of law enforcement officers.\n\nRaskin requested that Apple send a full list of the apps it removed following concerns from the Justice Department and conduct an independent review of those removal decisions.\n\n“Monitoring the actions of federal immigration authorities who have been deployed to (users’) neighborhoods … is a core First Amendment right and not a crime,” Raskin wrote.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2025/10/03/tech/iceblock-apple-removed-trump",
+      "text": "remove ICEBlock and similar platforms"
+    },
+    {
+      "url": "https://www.cnn.com/2025/09/30/us/dallas-ice-facility-shooting-detainee-dies",
+      "text": "fatal shooting"
+    },
+    {
+      "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-expands-investigation-into-apple-and-google-for-enabling-doj-efforts-to-shut-down-apps-for-reporting-on-ice-activity",
+      "text": "launched an investigation"
+    },
+    {
+      "url": "https://www.cnn.com/2025/06/30/tech/iceblock-app-trump-immigration-crackdown",
+      "text": "ICEBlock"
+    },
+    {
+      "url": "https://www.documentcloud.org/documents/26360437-iceblock-complaint-as-filed/",
+      "text": "sued"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/13/us/dallas-ice-shooter-radiation-practiced-shooting-hnk",
+      "text": "29-year-old gunman"
+    }
+  ],
+  "hash": "1417fef76004a0fd3317cf190bb38f850b1df936c851a62ac6e296ab0d91254a",
+  "scraped_at": "2026-09-29T13:07:39.820096+00:00"
+}
