@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/09/28/business/openai-chatgpt-safety-concerns",
+  "title": "‘Didn’t quite meet the bar’: OpenAI won’t release new AI model due to safety concerns | CNN Business",
+  "date": "2026-09-30T12:49:58.852573+00:00",
+  "authors": [
+    "Auzinea Bacon"
+  ],
+  "text": "Source: CNN\n\nOpenAI said it won’t release its latest model, dubbed GPT-6.1 Astra, because it “didn’t quite meet the bar” for safety.\n\nThe decision, which the Wall Street Journalfirst reportedon Monday, comes as industry leaders call for an AI development slowdown. Anthropic CEO Dario Amodei first proposed “pacing the frontier” earlier this month in an essay published online, to which OpenAI CEO Sam Altman and other executives agreed to commit to imposing more safeguards.\n\nOpenAI describes its Astra model on its website as “state-of-the-art on computer use, browsing, professional work, software engineering, cybersecurity, and science.”\n\nThere are trade-offs regarding AI safety, said Saachi Jain, OpenAI’s head of safety systems, in a statement to CNN. AI safeguards require a balance of “staying within scope” and “avoiding laziness” when models work towards tasks, he said.\n\n“While (GPT-6.1 Astra) improved on axes such as model laziness, it didn’t quite meet the bar in terms of staying within scope and authorization, and how it communicates back to the user about the type of work it’s done,” said Jain.\n\nHe added that there is an “extremely high bar” regarding safety when AI models are made available to consumers. GPT-6.1 Astra was set to debut in October, according to the Journal. The company will continue to release other models in the future.\n\n“Of course we want to make sure our model development is safe no matter whether that’s in the company, or when we ship it to users,” said Jain.\n\nConcerns regarding AI safety have escalated since this summer, when OpenAI revealed in July that its agents escaped a testing environment and breachedAI startup Hugging Face. CompetitorsAnthropic,MetaandGooglehave also said their agents were involved in separate breach attempts.\n\nOpenAI has been investigating agents’ use of internet access since the Hugging Face breach, and recently reported that agents targeted government websites in theUnited StatesandAustralia.\n\nCNN’s Hadas Gold contributed to this report.\n\nCNN’s Hadas Gold contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
+      "text": "first reported"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "text": "pacing the frontier"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "AI startup Hugging Face"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
+      "text": "Anthropic"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
+      "text": "Meta"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+      "text": "Google"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+      "text": "United States"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/23/business/australia-openai-agent-hack-intl-hnk",
+      "text": "Australia"
+    }
+  ],
+  "hash": "6aaf44064640c1b3dce83789d114b553e1c432c00b7d1139a39dcef57516a886",
+  "scraped_at": "2026-09-30T12:49:58.852588+00:00"
+}
