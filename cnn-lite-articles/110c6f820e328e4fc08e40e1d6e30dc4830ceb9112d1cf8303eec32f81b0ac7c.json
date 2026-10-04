@@ -1,0 +1,57 @@
+{
+  "url": "https://lite.cnn.com/2026/10/01/science/google-ai-data-center-satellites-space",
+  "title": "Google is launching its first test of an orbital AI data center | CNN",
+  "date": "2026-10-04T12:36:58.190813+00:00",
+  "authors": [
+    "Jackie Wattles"
+  ],
+  "text": "Source: CNN\n\nAs rural communities across the United States wageintensifyingbattlesto keep AI-computing data centers out of their backyards, some tech giants are mulling methods that could sidestep such local resentment — by sending the facilities to space.\n\nThere are no guarantees the technology will work, nor is it clear whether sending data centers to Earth orbit will make economic sense. But Google is testing the waters.\n\nThe company is set to launch its first test satellite for Project Suncatcher, its orbital data center initiative. The prototype took off aboard a SpaceX Falcon 9 rocket on a rideshare mission called Transporter-18 on Thursday from Vandenberg Space Force Base in California.\n\nIt’s not the first time AI chips have been tested in space. But Google’s experimental satellite is designed to figure out specifically how the company’s tensor processing units, or TPUs, perform after undergoing the jarring forces associated with launching to orbit atop a rocket and being battered by the radiation-riddled environment of space.\n\n“This first launch is about seeing what works, identifying points of failure, and applying those findings to future missions,” Travis Beals, Google’s senior director of paradigms of intelligence, said in anews release.\n\nGoogle intends to continue its research in 2027 by sending up two additional satellites.\n\nGoogle is just one of several companies that have proposed sending data centers to space as the race to produce ever more sophisticated machine learning has created an insatiable demand for computing power.\n\nA similar idea partly fueledSpaceX’s record-shattering IPOearlier this year.\n\nYet much remains to be seen. The environment of Earth orbit presents numerous technological quandaries that need to be solved, as Google noted in a newvideo seriesabout Project Suncatcher.\n\nCongestion in space — and the risks of collisions between satellites — is already a concern, and data centers could exacerbate that threat.\n\nFor computing, the radiation environment can also create data errors, called “bit flips.” And hardware has a limited life when it’s constantly bombardedby high-energy particles.\n\nAttempts to simulate the in-space environment on the ground — carried out at the Crocker Nuclear Laboratory at the University of California, Davis — showed Google’s TPU chips fared “remarkably well,” the company said, “but some things can only be tested in space.”\n\nRadiation is only part of the battle. In-space data centers will also have to contend with the question of how to dissipate heat.\n\nOn Earth, that process is simple — but also a strain on local resources — as data centers make use of the simple physics of convection. Cooling towers can disperse heat by evaporating water.\n\nThat solution is not viable in the vacuum of space, where there are no air molecules to aid the process.\n\nSo, data-processing satellites built to house AI computing will likely need massive radiators to expel heat away from their inner processing chips.\n\nGoogle said it will test a combination of radiators and heat pipes to solve that problem, with plans to “refine our designs as we learn more.”\n\nBut notably, the company’s prototype satellite likely won’t do much to prove the technology needed to solve the cooling quandary.\n\nA Google spokesperson told CNN that the test vehicle — which is mostly seeking to verify how well the TPU chips function in orbit — will “have to power down every 20 minutes, because we don’t want it to overheat.”\n\nThose shutdowns will be required even though the TPU chips won’t be consuming nearly as much power as may be necessary for operational satellites. Google’s test satellite will supply only about 1 kilowatt of power to the TPUs,according to theNew York Times. (Google declined to comment to CNN about the test satellite’s power production levels.)\n\nThat’s far less than what existing telecommunications satellites produce — and even smaller compared to what fully operational AI data center satellites will have to conjure, noted Caleb Henry, director of research at Quilty Space, an advisory firm based in St. Petersburg, Florida.\n\nCurrently, operational telecommunications satellites run on about 10 to 20 kilowatts, Henry noted. The required power for AI-computing spacecraft, however, may be as high as 100 kilowatts.\n\nA new paper from Google’s research team, published Thursday in the peer-reviewed journal Joule, confirms that data center satellites may need to produce as much power as the typical data rack on Earth — which is about “50-100 kW.”\n\nIt’s not clear how much power the two test satellites Google intends to deploy next year will generate or what heat-management equipment they’ll have on board — but the company spokesperson confirmed they will be able to continuously operate without needing to shut down to avoid overheating. (Crucially, the two prototypes may be able to test another key capability: beaming data between each other using laser communication. Such technology is nascent and has so far only been demonstrated at scale by SpaceX’s Starlink satellites.)\n\nStill, the technological problems associated with space-based data centers may be solvable.\n\nBut myriad other questions loom — each of which may affect whether tech companies like Google will still consider orbital data centers cost-effective when compared with Earth-based facilities.\n\nPutting AI computing chips in space, for example, makes it more difficult to upgrade hardware when better technology becomes available: AI chips “advance every 1–2 years, while satellites last 5–7 years, making hardware obsolescence a persistent challenge,” market analytics firm JLL Research explained ina June report.\n\nThe only way that orbital data centers become more attractive than terrestrial ones, the report concludes, is if the price of getting new satellites into space drops dramatically.\n\nBut launch costs are not falling. They’re likely climbing — and areexpected to keep rising.\n\nThis is where SpaceX has an advantage: The company builds its own rockets and leads the industry in satellite production and orbital launch volume.\n\nAnd the scale of orbital data centers could be massive: SpaceX said it plans to deploy a constellation of up to 1 million AI-computing satellites. Google has not said how large it may seek to grow a Project Suncatcher constellation, buta 2025 papersuggested the company proposed operating the technology in “clusters” of 81 satellites. It’s not yet clear how many clusters Google would need to deploy for a fully operational system, the spokesperson said.\n\nTrends and forecasts may change, however, and Google says it’s playing the long game.\n\n“Just as early research into autonomous driving and quantum computing required years of experimentation before we got to practical systems, exploring compute in space begins with measured, deliberate steps,” Google said in a news release.\n\nThe company’s partner for this project, San Francisco-based Planet Labs, a veteran satellite operator, has indicated a similar commitment. Planet Labs referred CNN’s questions to Google.\n\n“I do think it’s a very viable project long-term,”said Will Marshall, Planet Labs’ cofounder and CEO, whenaskedabout the Google partnership during an earnings call. “This will take significant R&D dollars — and these companies are going to be willing to put dollars behind it.”\n\nSign up forCNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/04/12/climate/maine-data-center-ban-bill",
+      "text": "intensifying"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/26/us/texas-data-center-park-deed",
+      "text": "battles"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "text": "news release"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/03/business/spacex-ipo-valuation-musk",
+      "text": "SpaceX’s record-shattering IPO"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLAeFjVYtuU34",
+      "text": "video series"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+      "text": "according to the"
+    },
+    {
+      "url": "https://www.jll.com/en-us/insights/data-centers-in-space",
+      "text": "a June report"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/30/science/starship-spacex-falcon-9-dragon",
+      "text": "expected to keep rising"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.19468",
+      "text": "a 2025 paper"
+    },
+    {
+      "url": "https://stockanalysis.com/stocks/pl/transcripts/384048-q3-2026/",
+      "text": "asked"
+    },
+    {
+      "url": "https://www.cnn.com/newsletters/wonder-theory?source=nl-acq_article",
+      "text": "CNN’s Wonder Theory science newsletter"
+    }
+  ],
+  "hash": "110c6f820e328e4fc08e40e1d6e30dc4830ceb9112d1cf8303eec32f81b0ac7c",
+  "scraped_at": "2026-10-04T12:36:58.190825+00:00"
+}
