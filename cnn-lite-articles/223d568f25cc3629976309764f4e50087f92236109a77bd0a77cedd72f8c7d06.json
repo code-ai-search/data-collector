@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/10/08/tech/fired-open-ai-researchers-pushed-out",
+  "title": "Fired OpenAI safety researchers say they were pushed out over ‘suspicious’ circumstances | CNN Business",
+  "date": "2026-10-09T13:29:52.948649+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nThree OpenAI safety researchers say they were fired from the company and are openly questioning the reasons for their dismissals.\n\nThe three researchers, Mikita Balesni, Tomak Korbak and Jasmine Wang, all worked on AI safety or alignment within the company, making sure the AI systems did what their human operators intended for them to do in a safe manner.\n\nBut the three say they were unceremoniously let go last week, weeks after they say they played key parts in investigating an incident in which OpenAI agents autonomouslyhackedinto AI company Hugging Face while undergoing testing.\n\nKorbacksaidon X that he was told he was being fired because of how he communicated with AI safety organization METR, which OpenAIpartneredwith to investigate the Hugging Face incident. Korback said he was OpenAI’s “main technical point of contact” with METR.\n\nKorback said he believes he was fired because “for months, I’d been raising safety concerns that  we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave.” He added he’s worried his firing will be used as a pretext for OpenAI to stop working as closely with METR, which is well respected in the AI safety world.\n\nBalesniechoedKorbak’s theories for why they were fired, writing on X that he was told he was “speaking too much to third party safety organizations.” He said he understood OpenAI was implying he leaked OpenAI intellectual property, which he denies.\n\nThe three firings come on the heels of a wave AI industry insiders expressing dire safety concerns. And while several former AI staffers havepublicly resignedover safety concerns, the three OpenAI researchers  instead allege they were pushed out for expressing similar concerns.\n\nWangsaidshe was told she was fired because she “accessed an executive’s email,” which she said she was given for recruiting purposes. Wang said she had repeatedly asked to for her access to be revoked, but when she accidentally accessed a “sensitive email,” she told the executive “within minutes” and told OpenAI’s IT team again.\n\n“The reasons that we were provided for our terminations are simply not adding up,” Wang wrote on X.\n\n“We were not the first to be pushed out of OpenAI under suspicious circumstances,” she added. “Unless the employees take a stand now against this kind of maneuver, I am concerned we will not be the last.”\n\nThe three researchers wrote a letter to OpenAI leadership expressing their concerns and the reasons for their firings. The Wall Street Journal first reported on thefiringsand theletter.\n\n“We do not believe the path to superintelligence can be navigated safely if the people closest to the risks can no longer work in high-trust, high-bandwidth ways with each other and with third parties,” the researchers wrote. “It is that culture we’re trying to defend.”\n\nOpenAI told CNN that the researchers were fired not for raising safety concerns, but rather for specific conduct that violated the company’s policies on handling sensitive information. It also said that there were a number of violations that went beyond mishandling information with an outside evaluation group, and that they were fired based on conduct that fell outside of legally protected disclosures.\n\nIn a statement, OpenAI said it parted ways with the three “for violating our policies on accessing and handling sensitive company information.”\n\n“Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,” the OpenAI spokesperson added.\n\nIn a memo to staff provided by OpenAI, an unnamed OpenAI research leader said they “strongly agree” with the three researchers about the importance of working with outside safety groups.\n\n“I want to be very clear that these decisions were not about raising safety concerns or speaking out. We have always encouraged that and always will. We do not terminate employees for raising concerns,” the research leader wrote, according to the memo.\n\nBut the three fired researchers say they are already hearing from colleagues about a culture of fear developing within OpenAI.\n\n“My former colleagues are telling me they are confused about what to believe. They also are afraid to speak, and worry their personal phones will be searched for messages to us and third parties,” Balesni said. “I worry the pervading fear to speak up and engage with third parties will mean OpenAI will cut corners on safety behind closed doors.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "hacked"
+    },
+    {
+      "url": "https://x.com/tomekkorbak/status/2108266859397283953",
+      "text": "said"
+    },
+    {
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "text": "partnered"
+    },
+    {
+      "url": "https://x.com/balesni/status/2108262825621885328",
+      "text": "echoed"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety",
+      "text": "publicly resigned"
+    },
+    {
+      "url": "https://x.com/j_asminewang/status/2108263319148920838?s=46",
+      "text": "said"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
+      "text": "firings"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94",
+      "text": "letter"
+    }
+  ],
+  "hash": "223d568f25cc3629976309764f4e50087f92236109a77bd0a77cedd72f8c7d06",
+  "scraped_at": "2026-10-09T13:29:52.948665+00:00"
+}

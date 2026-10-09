@@ -1,0 +1,69 @@
+{
+  "url": "https://lite.cnn.com/2026/10/08/science/ai-biology-anthropic-dna-discovery",
+  "title": "Is AI making biological discoveries? Why scientists are concerned | CNN",
+  "date": "2026-10-09T13:30:47.245131+00:00",
+  "authors": [
+    "Katie Hunt"
+  ],
+  "text": "Source: CNN\n\nAI executives are betting big on biology. They say their large language models that have already dramatically changed the fields of coding and software development and mathematics can upend biological research in the same way.\n\nBut one company’s attempt to do so has already set off a wave of skepticism and controversy.\n\nAnthropic, the AI and research giant behind Claude, last month said its biology research lab had used AI agents to discover an unusual pattern of DNA in the genetic code of viruses, specifically a “novel enzyme system.” The signature is similar to the microbial system harnessed in gene-editing tools such as CRISPR Cas-9, which is used to modify the DNA of living organisms. The technology is commonplace in labs around the world and won theNobel Prize in chemistryfor its inventors in 2020.\n\nDario Amodei, the chief executive of Anthropic, said on social media the finding offered great scientific potential. “Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a new gene editing mechanism,” hewroteon X.\n\nAnthropic said the discovery had been made “with only high-level direction from our scientists” and shares ofcompanies developing gene-editing technologyfell shortly after the announcement.\n\nHowever, some experts not involved in the work said the finding was early and incremental, and far from a genuine breakthrough.\n\n“These are very interesting preliminary results, but at this point they don’t demonstrate gene editing or provide a mechanistic picture of exactly what’s happening,” said Aaron Engelhart, an associate professor at the University of Minnesota’s Department of Genetics, Cell Biology, and Development.\n\nThe Anthropic researchers have not determined what the newfound viral sequences actually do and thus whether they represent a mechanism that has practical applications similar to those used in CRISPR tools, according to a document detailing the research.The researchalso has not been published in a peer-reviewed scientific journal.\n\nScientists, including Engelhart, said Anthropic’s finding definitely warrants further investigation, and a news release from the company quoted Feng Zhang — a professor at MIT and the Broad Institute in Cambridge, Massachusetts and a pioneer of CRISPR genome editing for sickle cell disease treatment among other advances — who called the work “genuinely intriguing.”\n\nBut just days after Anthropic’s announcement, Mario Rodríguez Mestre, who said he usedClaudeextensively for his recently completed doctoral research at the University of Copenhagen, claimed his unpublished research describes the same viral signatures.\n\n“It is essentially the same finding. This is not simply a case of two groups studying related protein families or similar biological systems,” Mestre told CNN via email.\n\nMestre’s claims echo those made by mathematicians after OpenAI, which built ChatGPT, announced it had solveda longstanding and high-profile math problem. They also raise questions about how Claude’s find unfolded.\n\nThe biologists working at the Anthropic lab said they gave Claude a prompt to search a massive database of DNA sequences for “interesting new examples” of reverse transcriptase, or RT, an enzyme that copies RNA into DNA and thus plays a role in the spread of genetic information in an organism.\n\nThe company said 950 AI agents, which can independently plan and execute tasks, spent 21 hours searching the data, picking out 3,500 RTs. It narrowed the pool down to the 20 most compelling. For an experienced scientist, this type of analysis can take weeks to months, according to a statement from Anthropic.\n\nThen, “one of the agents spotted something remarkable: a repeating pattern of DNA sequences that occurs next to the gene for an odd-looking RT,” the company noted in the statement. “After a thorough analysis it was convinced that it had found a new biological system, and filed a report for human review.”\n\nAnthropic said scientists at its biology lab then analyzed and tested the finding, which they described as a “previously uncharacterized” biological system in bacteriophages, a type of virus that attacks bacteria, with a similar structure to CRISPR, which is naturally found in bacteria.\n\nMestre, however, said he had shared unpublished research on his private Claude account, including drafts of his dissertation, analyses and material describing these systems.\n\n“I am not claiming that Anthropic deliberately took our work. I cannot demonstrate that,” he told CNN via email.\n\n“Either information related to our work somehow reached the model and it was trained on it. The second possibility, which I currently think is more plausible, is that there was considerably more prior scientific knowledge and human direction behind the search than the phrase ‘autonomous discovery’ suggests,” Mestre added, referring to language used in the release.\n\nAnthropic did not respond to an emailed request to comment.\n\nIt’s not unusual in the scientific process for different research groups to converge on the same result, but Mestre’s allegation is serious, and many scientists may think twice in the future about inputting their unpublished results into these tools, said Ilya Finkelstein, a professor in molecular biosciences at University of Texas at Austin.\n\nStill, Anthropic’s announcement does suggest that AI is beginning to work with more autonomy in science, said Gustavo Sudre, a professor of genomic neuroimaging and artificial intelligence at King’s College London.\n\n“It received a broad direction and then had to use its own judgement about what was interesting in the data. That is a real shift from the usual ‘analyze this dataset for me,’” he said in an email.\n\nAI excels at the “needle in a haystack search,” rather than the “imaginative breakthrough,” Finkelstein added. AI tools would help explore domains where students would get too tired or bored with finding an interesting pattern worth further investigation, he noted.\n\n“They can pursue a very large number of unproductive paths rapidly,” Finkelstein told CNN. “They are really good at grunt work when orchestrated by experts in the field.”\n\nFinkelstein also noted that the Anthropic paper’s lead author is Dr.Peter Yoon, who used to work in the lab of Jennifer Doudna, who is one of CRISPR Cas-9’s architects and shares the2020 Nobel Prizewith Emmanuelle Charpentier. So, Anthropic’s AI agents were guided by people at the top of their fields, he said.\n\n“Four of six authors are senior molecular biologists and domain experts. Give that group a heap of compute and frontier models (without safeguards, I’m guessing), and I’m sure we’ll be seeing more interesting bioinformatic discoveries,” Finkelstein wrotein a blog poston his lab’s website.\n\nHowever, other researchers say talk of autonomous AI-driven discovery is hype that gets ahead of the actual science, and models aren’t yet able to generate meaningful results on their own — despite the claims to the contrary.\n\nLetting a model comb through data at a scale no human can match does move a field forward, but it doesn’t necessarily herald a big advance, Sudre said. “From experience I can tell you that the gap between ‘interesting pattern’ and ‘useful knowledge’ is where most of the work lives,” he noted.\n\nAnthropic launched Claude Science, its tool designed for research, earlier this year. Its rivals have all recently unveiled similar tools. OpenAI has GPT-Rosalind, Microsoft has Quine and Google DeepMind has Co-Scientist. They operate like large language models but also harness specific scientific datasets such as DNA sequences.\n\nHowever, models are only as reliable as the data they are trained on. For example, the strength of Google DeepMind’s AlphaFold, whichwon the 2024 Nobel Prize in chemistryfor decoding protein structures, comes from training the AI system on a narrow, specializeddata source collected over decades.\n\nAI developers are under intense public scrutiny amid growing concern over rogue AI agents and whether AI companies can adequately police them. Biological discoveries can offer company executives an opportunity to craft a more positive narrative thatcounterbalances some of the doomsayingsurrounding their products.\n\nBut moving toward significant and tangible findings in the field likely requires integrating the AI models into hands-on lab work through robotics.\n\n“Biology is not maths and at some point the intelligence has to be expressed in the physical world through a robot that can do the fiddly one-off experimental tasks that a good student would normally do almost instinctively,” said Yuval Elani, an associate professor in biochemical technologies at Imperial College London. “From what I have seen of robotics and automation we aren’t really close. So it will be a while until we can really justify the hype around AI in biology.”\n\nAnthropic says it understands there is a limit to what artificial intelligence can do alone and is investing in “model hardware” that will allow AI agents to safely operate physical devices.\n\nSudre at King’s College, whose work integrates genomic, clinical, neural and cognitive data to predict how mental health symptoms will develop in children, is emphatic that the role of humans in science isn’t shrinking. The risk isn’t that scientists will get pushed out of discovery, but that they’ll get lazy and won’t use their judgment to understand whether a result is meaningful, he said.\n\nThe next step for Anthropic’s scientists is to do the slow work of physical lab experiments to understand the pattern they have identified, and whether the signature might have a practical use in biotechnology.\n\n“Sure, in future some of that can go to robots, too,” Sudre said. “But here is the thing, the questions worth asking in science don’t stay hidden in databases waiting to be found. They come from us — from what we care about, what worries us.”\n\nSign up forCNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "text": "novel enzyme system."
+    },
+    {
+      "url": "https://cnn.com/2020/10/07/health/nobel-prize-2020-winner-chemistry-scn-intl",
+      "text": "Nobel Prize in chemistry"
+    },
+    {
+      "url": "https://x.com/DarioAmodei/status/2102831170299834652",
+      "text": "wrote"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4646229-gene-editing-stocks-fall-anthropic-crispr-like-discovery?utm_source=chatgpt.com",
+      "text": "companies developing gene-editing technology"
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf",
+      "text": "The research"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk",
+      "text": "a longstanding and high-profile math problem"
+    },
+    {
+      "url": "https://www.linkedin.com/in/peter-hyungjun-yoon",
+      "text": "Peter Yoon"
+    },
+    {
+      "url": "https://www.cnn.com/2020/10/07/health/nobel-prize-2020-winner-chemistry-scn-intl",
+      "text": "2020 Nobel Prize"
+    },
+    {
+      "url": "https://finkelsteinlab.org/blog/harvesting-and-replenishment-in-biomedicine/",
+      "text": "in a blog post"
+    },
+    {
+      "url": "https://cnn.com/2024/10/09/science/nobel-prize-chemistry-proteins-baker-hassabis-jumper-intl",
+      "text": "won the 2024 Nobel Prize in chemistry"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-021-03819-2",
+      "text": "data source collected over decades"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec",
+      "text": "counterbalances some of the doomsaying"
+    },
+    {
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "text": "model hardware"
+    },
+    {
+      "url": "https://www.cnn.com/newsletters/wonder-theory?source=nl-acq_article",
+      "text": "CNN’s Wonder Theory science newsletter"
+    }
+  ],
+  "hash": "74146ea03a5414969c9041766fb7255551d8eb8c9042c11861b0e0bb5b9461f7",
+  "scraped_at": "2026-10-09T13:30:47.245145+00:00"
+}
