@@ -1,0 +1,30 @@
+{
+  "url": "https://lite.cnn.com/2026/10/09/politics/fbi-arrest-shinyhunters-hack",
+  "title": "FBI arrests key suspect in major hack of agents’ data | CNN Politics",
+  "date": "2026-10-10T12:45:11.126452+00:00",
+  "authors": [
+    "Sean Lyngaas",
+    "Evan Perez"
+  ],
+  "text": "Source: CNN\n\nThe FBI arrested a man in Pennsylvania who officials believe helped orchestrate a recent damaging hack that exposed sensitive data of current and former FBI personnel, according to two sources familiar with the matter.\n\nFBI Director Kash Patel announced the arrest on Friday but did not disclose where it occurred or what role the man is suspected of playing in the hack.\n\n“Earlier this week, our agents in the field arrested another suspected co-conspirator” of the cybercriminal group believed to be responsible for the hack, Patel said on Friday.\n\nAn investigation is ongoing into other people believed to be involved in the hack, the sources said.\n\nLast week, the FBI announced that Dutch authorities arrested “one of the alleged leaders” of the criminal group, known as ShinyHunters.\n\nThe New York Times first reported on the arrest of themanin Pennsylvania.\n\nThe FBI declined to provide additional details to CNN.\n\nThe forceful FBI response comes after one of the most serious breaches of the bureau’s data in years. ShinyHunters last month claimed responsibility for breaking into an FBI jobs portal and gaining access to the personal data on thousands of current and former FBI employees. The identities of FBI personnel working in sensitive units on China and Russia were exposed, according to sources who have seen the data.\n\nShinyHunters used their dark-web site to demand that the FBI amend a previousadvisoryissued about the group, before the hack, saying it was “offended” over how the agency described its alleged tactics for extorting victim organizations. Many in the cybersecurity industry took the demand as a tacit threat that ShinyHunters would leak the stolen data. The hackers later claimed that was never their intention.\n\nSome FBI employees felt underwhelmed by the security resources being offered to victims of the breach, CNNpreviously reported.\n\nAmid the internal criticism and media scrutiny, Patel and a senior FBI cyber official, Brett Leatherman, put out a series of public statements and video messages with updates on the investigation. Some were addressed to the cybercriminals.\n\n“Arrests have a way of changing who is willing to talk and seized infrastructure has a way of showing us who is left,” Leatherman said in a video posted after the arrest by Dutch authorities. “The longer you stay in this, the more we learn about you. You know how to find us, and we know how to find you. I suggest you reach out first while the choice is still yours.”\n\nThere has also been an inquest at the FBI over how such a critical security lapse happened. The FBI determined that acontractormanaging the bureau’s jobs portal failed to update software “explicitly issued to secure the platform,” Leatherman said last week. The FBI has “removed the contractor,” he said.\n\nThe software in question is a human-resources platform made by Oracle, ShinyHunters has said. The hackers previously used a flaw in the software to attack targets in the education sector in May and June, according to Google’s Threat Intelligence Group. But months later, the FBI contractor apparently still had not applied a security patch that was available for the software.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.nytimes.com/2026/10/09/us/politics/fbi-hack-shinyhunters-arrest.html?unlocked_article_code=1.HVE.Ogf5.1ZlEY_o3WoDo&smid=nytcore-ios-share",
+      "text": "man"
+    },
+    {
+      "url": "https://www.ic3.gov/PSA/2026/PSA260515",
+      "text": "advisory"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/28/politics/fbi-fallout-data-breach-hacking",
+      "text": "previously reported."
+    },
+    {
+      "url": "https://www.reuters.com/technology/accenture-contractor-removed-fbi-following-damaging-data-breach-sources-say-2026-10-06/",
+      "text": "contractor"
+    }
+  ],
+  "hash": "2e1a2388501ae4c2ccb9d875cc46c7c1146751fe134b95b57267bbb7716e03b4",
+  "scraped_at": "2026-10-10T12:45:11.126464+00:00"
+}
