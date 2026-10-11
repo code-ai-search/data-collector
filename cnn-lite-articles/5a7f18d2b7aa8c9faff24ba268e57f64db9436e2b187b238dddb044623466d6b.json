@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/10/08/investing/openai-nasdaq-stocks",
+  "title": "Tech stocks drop after report that OpenAI’s revenue is lower than expected | CNN Business",
+  "date": "2026-10-11T13:09:27.569755+00:00",
+  "authors": [
+    "John Towfighi"
+  ],
+  "text": "Source: CNN\n\nTech stocks dropped on Thursday after a news report that OpenAI’s annualized revenue is about $20 billion less than previously reported.\n\nOpenAI, the maker of ChatGPT, recently told investors that its annualized revenue was nearing $50 billion, according to the Financial Times. That’s lower than the $70 billion figure previously reported by media, including the FT, based on information from investors.\n\nThe discrepancy could rattle investors already questioning whether demand for AI will be strong enough to help companies like OpenAI and Anthropic turn a profit and justify the industry’s enormous spending on the AI buildout.\n\nThe Nasdaq Composite sank 1.25%, its worst day since mid-August. The S&P 500 fell 0.5%, weighed down by a drop in the tech sector. The indexes had opened lower but declines accelerated after the FT report published midday.\n\nA source familiar with the documents said the $70 billion figure did not come from OpenAI and likely came from a desire by firms to compare OpenAI’s numbers with Anthropic’s, which includes gross revenue from cloud providers. OpenAI’s is based on net revenue.\n\nOpenAI declined to comment.\n\nThere was selling across semiconductor chipmakers, cloud providers and other tech companies involved in the AI buildout. Nvidia (NVDA) fell 2.9%, Intel (INTC) fell 5.3% and Oracle (ORCL) fell 5.5%.\n\nThe outlook for many tech stocks is based on investors’ conviction that demand for AI will continue to grow. If there are wrinkles in that story, like OpenAI earning less revenue than expected, that could send ripples throughout the supply chain for the AI buildout, said Ross Mayfield, investment strategist at Baird.\n\n“There are going to be tremors throughout all of the related sub-industries,” Mayfield said.\n\nThe stakes are higher now because the stock market in recent weeks has been buoyed by gains in tech and AI stocks, while other sectors have struggled under the pressure ofrising bond yields.\n\n“This has become a much narrower market that’s dependent on the AI names to keep it afloat,” Mayfield said. “Certainly, this is going to hit that complex in a big way.”\n\nOpenAI CEO Sam Altman announced in September that the company would postpone its initial public offering until at least next year, citing concerns about AI safety.\n\nAnthropic is expected tolaunch its IPOlater this fall, reportedly seeking a $2 trillion valuation. In August, Bloomberg and Reuters reported the company is on track to generate an annualized revenue of more than $65 billion.\n\nCNN’s Hadas Gold contributed reporting.\n\nCNN’s Hadas Gold contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/markets/stocks/NVDA",
+      "text": "NVDA"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/INTC",
+      "text": "INTC"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/ORCL",
+      "text": "ORCL"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/25/investing/bond-market-oil-stocks",
+      "text": "rising bond yields"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/05/business/anthropic-ipo-stock-market",
+      "text": "launch its IPO"
+    }
+  ],
+  "hash": "5a7f18d2b7aa8c9faff24ba268e57f64db9436e2b187b238dddb044623466d6b",
+  "scraped_at": "2026-10-11T13:09:27.569774+00:00"
+}
