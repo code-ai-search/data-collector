@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/10/08/politics/iranian-operatives-used-ai-to-plant-fake-stories-in-us-media",
+  "title": "Iranian operatives used AI to plant fake stories in multiple US media outlets | CNN Politics",
+  "date": "2026-10-12T15:48:39.155074+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nOperatives in Iran used OpenAI models and fake personas to help plant news articles critical of theUS war against Iranin multiple US media outlets, OpenAI said on Thursday.\n\nAbout a dozen outlets around the world ran roughly 100 articles by seven fake journalists, OpenAI said in ablog post. The firm said it banned ChatGPT accounts that were prompting the AI tool in Farsi to tweak articles and editorial pitches, and generate social media comments.\n\nSome of the AI-assisted articles had provocative titles, including, “Is America’s Iran Policy Being Privatized? The Jared Kushner Question,” and “The Iran War and the Collapse of Western Moral Credibility.”\n\nIt’s the latest example of AI agents playing a key role in the propaganda battles that coincide with the US and Israel’s war with Iran. Young Iranians have also used AI to make viral Lego-themed videos mocking US leaders, while President Donald Trump has posted AI-generated videos depicting US strikes on Iran.\n\nNone of the publications that ran the articles appear to be a major, mainstream news outlet, but some of them have sizable online followings. One of the outlets, Middle East Monitor, which is based in London, has almost two million followers on Facebook.\n\nGetting the anti-war narratives in front of a US audience could count as a successful information operation for whoever was behind it. Who that is, and whether they’re affiliated with the Iranian government, is unclear, OpenAI said.\n\n“The overall activity appeared consistent with a commercial actor running a for-hire influence campaign, but we are unable to identify the particular actor involved,” the AI firm wrote in its blog.\n\nThe article about Kushner and US foreign policy was published by the LA Progressive, which describes itself as an “independent, justice-driven publication” based in Los Angeles. CNN has requested comment from LA Progressive.\n\nDaud Abdullah, Director of the Middle East Monitor, told CNN he will look into the articles OpenAI flagged and “take the appropriate action.” Another representative for the Middle East Monitor later told CNN that the articles had been taken down and that the publication was reviewing its submissions process.\n\nAfter the articles published, the Iranian operatives asked ChatGPT to generate comments they could post on social media purporting to be people reacting to the articles, according to OpenAI.\n\n“The users asked for comments on topics such as missile strikes, ceasefires, and diplomatic maneuvering, specifying outputs that portrayed the US as the aggressor, Israel as an unreliable ally of the US, and Iran as a defiant but resilient victim,” the blog says.\n\n“It’s remarkable that the Iranians managed to land their content in real media outlets, expanding the potential reach of their campaign,” said Jessica Brandt, who ran the Office of the Director of National Intelligence’s now-shuttered Foreign Malign Influence Center from 2023 to 2025.\n\n“We’re witnessing AI enable foreign adversaries to better hide their hand, building more sophisticated false fronts than they might otherwise be able to in order to launder their content through authentic channels, leveraging those channels for reach,” Brandt told CNN.\n\nOpenAI’s findings show how AI is increasingly being used to shape perceptions of war. This spring, a false AI-assisted US intelligence report about a purported Chinese ship transporting nuclear components almost led the US military to board the ship, CNN previouslyreported.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/world/middleeast/iran",
+      "text": "US war against Iran"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+      "text": "blog post"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "text": "reported"
+    }
+  ],
+  "hash": "9136aabe0bcae0b91717542a9f7c441ed5cac70bda4b293af1d91c5b18c81d10",
+  "scraped_at": "2026-10-12T15:48:39.155086+00:00"
+}
