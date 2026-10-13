@@ -1,0 +1,30 @@
+{
+  "url": "https://lite.cnn.com/2026/10/09/politics/fbi-arrest-shinyhunters-hack",
+  "title": "FBI arrests cybersecurity executive in major hack on agents’ data | CNN Politics",
+  "date": "2026-10-13T14:27:06.938244+00:00",
+  "authors": [
+    "Sean Lyngaas",
+    "Evan Perez"
+  ],
+  "text": "Source: CNN\n\nThe FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation.\n\nEdward Dubrovsky was arrested in the Philadelphia area in recent days and appeared in federal court there Thursday, where a magistrate judge appointed a federal public defender to represent him. Dubrovsky is facing charges related to extortion and making threats. He has been transferred to Texas’s Eastern District for a scheduled detention hearing, according to court records and a law enforcement official.\n\nFBI Director Kash Patel announced the arrest on Friday but did not disclose where it occurred or what role the man is suspected of playing in the hack. Patel also didn’t name Dubrovsky, but CNN confirmed the defendant is believed to be tied to the FBI hack through multiple people familiar with the investigation.\n\n“Earlier this week, our agents in the field arrested another suspected co-conspirator” of the cybercriminal group believed to be responsible for the hack, Patel said on Friday.\n\nA federal law enforcement official confirmed the spelling of Dubrovsky’s name. In original court documents, his last name was misspelled.\n\nAn investigation is ongoing into other people believed to be involved in the hack, the sources said.\n\nDubrovsky did not immediately respond to a request for comment on Friday night, nor did the public defender’s office in Philadelphia.\n\nA LinkedIn profile under Dubrovsky’s name lists years of experience in the Canadian cybersecurity industry and describes Dubrovsky as a “globally recognized cybersecurity expert.” An Ed Dubrovsky is also the author of a book on handling ransomware negotiations with cybercriminals.\n\nThe arrest comes after one of the most serious breaches of the bureau’s data in years. A prolific cybercriminal group known as ShinyHunters last month claimed responsibility for breaking into an FBI jobs portal and gaining access to the personal data on thousands of current and former FBI employees. The identities of FBI personnel working in sensitive units on China and Russia were exposed, according to people who have seen the data.\n\nIndependent journalist Brian Krebs earlierreportedDubrovsky’s alleged connection to the investigation into the hack of the FBI.\n\nThe FBI declined to comment on Friday night when CNN asked about Dubrovsky’s arrest.\n\nThe FBI has pursued other suspects in the investigation. Last week, the FBI announced that Dutch authorities arrested “one of the alleged leaders” of ShinyHunters.\n\nShinyHunters used their dark-web site to demand that the FBI amend a previousadvisoryissued about the group, before the hack, saying it was “offended” over how the agency described its alleged tactics for extorting victim organizations. Many in the cybersecurity industry took the demand as a tacit threat that ShinyHunters would leak the stolen data. The hackers later claimed that was never their intention.\n\nSome FBI employees felt underwhelmed by the security resources being offered to victims of the breach, CNNpreviously reported.\n\nAmid the internal criticism and media scrutiny, Patel and a senior FBI cyber official, Brett Leatherman, put out a series of public statements and video messages with updates on the investigation. Some were addressed to the cybercriminals.\n\n“Arrests have a way of changing who is willing to talk and seized infrastructure has a way of showing us who is left,” Leatherman said in a video posted after the arrest by Dutch authorities.\n\n“The longer you stay in this, the more we learn about you. You know how to find us, and we know how to find you. I suggest you reach out first while the choice is still yours.”\n\nThere has also been an inquest at the FBI over how such a critical security lapse happened. The FBI determined that acontractormanaging the bureau’s jobs portal failed to update software “explicitly issued to secure the platform,” Leatherman said last week. The FBI has “removed the contractor,” he said.\n\nThe software in question is a human-resources platform made by Oracle, ShinyHunters has said.\n\nThe hackers previously used a flaw in the software to attack targets in the education sector in May and June, according to Google’s Threat Intelligence Group. But months later, the FBI contractor apparently still had not applied a security patch that was available for the software.\n\nCNN’s Holmes Lybrand contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "text": "reported"
+    },
+    {
+      "url": "https://www.ic3.gov/PSA/2026/PSA260515",
+      "text": "advisory"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/28/politics/fbi-fallout-data-breach-hacking",
+      "text": "previously reported."
+    },
+    {
+      "url": "https://www.reuters.com/technology/accenture-contractor-removed-fbi-following-damaging-data-breach-sources-say-2026-10-06/",
+      "text": "contractor"
+    }
+  ],
+  "hash": "2a445b03b32cff45bafbc379e1296cb001287448b16378482758968a9670c9c9",
+  "scraped_at": "2026-10-13T14:27:06.938259+00:00"
+}

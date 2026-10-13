@@ -1,0 +1,73 @@
+{
+  "url": "https://lite.cnn.com/2026/10/12/business/ai-agents-rogue-legal-liability",
+  "title": "When AI goes rogue, who should get sued? | CNN Business",
+  "date": "2026-10-13T14:25:48.747178+00:00",
+  "authors": [
+    "Allison Morrow"
+  ],
+  "text": "Source: CNN\n\nThe AI industry has been buzzing with concern about potentially catastrophic risks to humanity — a hum of anxiety that’s grown louder as Anthropic prepares to make itsstock market debutnext month.\n\nBut companies building AI models like Claude and ChatGPT face a more immediate and prosaic risk: They’re likely to get sued. Alot.\n\nAI companies have so far avoided major lawsuits over recent incidents in which they’ve failed to keep AI agents — systems capable of working autonomously with little oversight — contained to their testing environments. But some legal experts and policymakers say it’s pretty clear: The companies can and should be held responsible\n\n“The question of ‘how is the law going to apply to this?’ is a lot easier to answer if you see (AI) as it is, and not as this hypothetical thing that many in the industry are proposing it might someday be,” said Kristen Thomasen, associate professor at University of Windsor and an expert in robotics law. “The law has dealt with new technologies for as long as it has existed.”\n\nThe AI industry often refers to thebreakout incidentsas the technology going “rogue” — language that some critics say is designed to amplify the companies’ claims that their technology is so powerful that even its creators struggle to contain it.\n\nIt may also be a tactic to try to shield themselves from responsibility and future legal claims, Thomasen said.\n\nStill, she said, the liability questions around AI models have a simple answer: “It’s a thing that this company is putting out into the world. If it does harm, there are laws that regulate that.”\n\nSo far, the real-world harms done by rogue bots have been far from calamitous but nonetheless costly for the organizations they’ve infiltrated. Last week, the nonprofit that operates Wikipediasaidit had found evidence of unauthorized OpenAI agents attempting to make “potentially malicious edits” to some pages and pummeling it with so much traffic that they may have triggered a partial outage.\n\nThe investigation “stopped work inside key parts of the organization for us to focus on this,” Eric Mill, product manager for safety and security at Wikimedia, told CNN. “We put our very best people on it… and it’s a pretty messy process.”\n\nWikimedia launched its investigation this summer as global alarm grew over theHugging Face attackanddozens of otherinstances of internal AI models breaking out of their testing environments to hack other computer systems.MetaandAnthropicalso disclosed that their test models have hacked into other systems without authorization.\n\nThe Wikimedia probe is significant in part because of what didn’t happen: There was no catastrophic, existential threat to humanity of the sort that AI executives often allude to. But the cost — more than two weeks of work carried out by the leading engineers at a global, $200 million-plus organization — was real.\n\nWikimedia isn’t pushing any one policy or technological solution, and Mill said the organization is in communication with OpenAI about its findings. (OpenAI didn’t respond to CNN’s request for comment.) But the nonprofit hopes these incidents are a wake-up call for AI developers.\n\n“AI companies are not doing enough to secure their systems and protect the public from the harm they cause,” Wikimedia said in itsblog postlast week. “That burden is falling onto everyone else, including smaller organizations.”\n\nAnthropic, which is preparing to go public next month in one of the largest IPOs in history, disclosed in a regulatory filing that because the legal framework around AI is“unsettled,”those agents’ actions could expose the company to “significant and unpredictable” lawsuits, according to a copy of the document viewed by Reuters.\n\nThe potential litigation onslaught isn’t just a headache for company lawyers or a quandary for academics — it could also become a major drag on Anthropic’s bottom line. Litigation costs are a financial drain for any company, but it could become especially problematic for Anthropic, which is burning through cash faster than it can bring it in. The company tore through $42 billion last year while bringing in just $4.6 billion in revenue, according to the document seen by Reuters.\n\nThe CEOs of both Anthropic and OpenAI have argued for new regulations tailored to the industry. Dario Amodei recently pennedan essayarguing that companies “pace the frontier” and foster international cooperation on safety protocols.\n\nBut the rival AI firms have diverged slightly on the liability question.\n\nOpenAI CEO Sam Altman earlier this yearfavored an Illinois billthat would limit when AI labs can be held liable, even when their products cause “critical harm.” (Anthropic came out against it.)\n\nAnd while Altman endorsed Amodei’s “pace the frontier” proposal, he alsotold POLITICOearlier week that his worldview isn’t perfectly aligned with his rival’s: OpenAI believes “the world should accept some bad things happening for the benefits of this technology,” he said. Altman alsotold the news sitethat “if something goes wrong with our models during training, there’s gonna be some version of that we need to be responsible for.”\n\nAn Anthropic spokesperson told CNN the company sees liability laws as a backstop, rather than a substitute, forsafety regulations. Anthropic has never proposed exemptions from existing liability laws, the spokesperson added.\n\nPolicymakers on the left and the right have sought to cut through some of the more nuanced questions of future regulation and underscore the legal liabilities AI is already subject to.\n\nLina Khan, the former Federal Trade Commission chair under President Joe Biden, has become a prominent challenger to AI executives, arguing on X that “we shouldn’t let discussions about new legal regimes distract from the fact that there’s no AI exemption from laws already on the books.”\n\nMeanwhile, Republican Senator Josh Hawley, alongside Democratic counterpart Chris Murphy, introduced a bill last week that seeks to ensure “AI agent operators and developers are held liable for hacking incidents.”\n\n“What these companies need is not more power… but some long-overdue accountability,” Hawley wrote in aWashington Post op-ed. “One way to give that to them is to let the people they harm sue them in court.”\n\nLegal experts who spoke to CNN said that while product liability and consumer protection issues aren’t new, there will inevitably be some nuanced aspects of the technology that will ultimately fall on the courts to rule on.\n\n“We’ve seen these sorts of issues with gun safety or with cigarettes or other issues, and it’s really interesting — what analogy will the courts seize onto?” said Frank Pasquale, a Cornell law professor and an expert on AI law.\n\nOne of the bigger questions Pasquale expect courts to grapple with is design. For example, he said, imagine if a manufacturer made a car with sharp swords at the end of it, and then someone drove that car into a pedestrian. The logical response is pretty simple: Don’t design something with swords attached to it.\n\nIt’s similar with AI products, he said: Don’t design something that tries a password 50 times or more. Make sure it contains high level instructions that would override any user’s effort to misuse it.\n\n“I think it’s very hard for (AI companies) to say, ‘Oh, it can do a billion different things but we can’t control it.’” Pasquale said. “That doesn’t make sense to me because if it can do all these things, then you can also have meta-rules, or rules for the for the rules, that would that would prevent it from doing certain bad things.”\n\n—CNN’s Hadas Gold contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/10/05/business/anthropic-ipo-stock-market",
+      "text": "stock market debut"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+      "text": "breakout incidents"
+    },
+    {
+      "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "text": "said"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "Hugging Face attack"
+    },
+    {
+      "url": "https://openai.com/hugging-face-incident-and-misalignment/",
+      "text": "dozens of other"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
+      "text": "Meta"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+      "text": "Anthropic"
+    },
+    {
+      "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "text": "blog post"
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/anthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-company-2026-09-29/",
+      "text": "“unsettled,”"
+    },
+    {
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "text": "an essay"
+    },
+    {
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "text": "favored an Illinois bill"
+    },
+    {
+      "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "text": "told POLITICO"
+    },
+    {
+      "url": "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/",
+      "text": "told the news site"
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0a58d567024a8b448ff15158ebc3625328dfcc1f.pdf",
+      "text": "safety regulations"
+    },
+    {
+      "url": "https://www.washingtonpost.com/opinions/2026/09/29/josh-hawley-ai-risks-should-come-with-legal-liability/",
+      "text": "Washington Post op-ed"
+    }
+  ],
+  "hash": "6f66f5250624c81e979e85379d311ed82d8b1c497d43070d13df06fb92b6c3ad",
+  "scraped_at": "2026-10-13T14:25:48.747191+00:00"
+}
