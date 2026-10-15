@@ -1,0 +1,61 @@
+{
+  "url": "https://lite.cnn.com/2026/10/14/business/europe-ai-act-safety-debate-intl",
+  "title": "Europe leads the world on AI rules. So why is it missing from the AI safety debate? | CNN Business",
+  "date": "2026-10-15T11:45:56.073162+00:00",
+  "authors": [
+    "Hanna Ziady"
+  ],
+  "text": "Source: CNN\n\nEurope has been conspicuously absent from high-level talks about how to use artificial intelligence safely, despite crafting the world’s first comprehensive set of rules to govern the technology.\n\nThe irony underscores how far Europe has fallen behind the United States and China in the AI race. Although Europe took the lead on AI regulation years ago, it has fewer frontier models, data centers and big tech companies to compete on an equal footing with its larger trading partners.\n\n“Europe is at acute risk of marginalization on the global stage because of the extraordinary developments of AI,” warned Nobel-prize winning French economist Philippe Aghion. He co-wroterecent reportthat argues Europe needs an urgent “course correction if it wants to thrive in the AI era.”\n\nThe European Union has long aspired to be the global leader in “safe AI,” with a strategy that includes hefty fines. Yet, as mostly American AI executives recently committed to “self-police” the world’s leading AI models, it was patently clear that the EU’s approach was not the one being followed.\n\nEurope has long struggled to produce the tech giants boasted by Silicon Valley. Theproblem now extends to a lack of frontier AI models that can rival the likes of OpenAI’s ChatGPT, Anthropic’s Claude or comparable tools from China’s DeepSeek.\n\nEuropean Central Bank president Christine Lagarde last month described the continent’s AI predicament as “awkward.”\n\n“Either (Europe) holds back on adopting, because it cannot protect its data, and forgoes the growth — or it adopts AI quickly, becomes highly dependent, and risks losing the freedom to organize  its economy according to its own values,” she said in aspeech.\n\nParis-based Mistral AIunveileda model last week that it argues is on par with its better-known American competitors, providing a glimmer of hope for Europe’s AI industry, but it remains to be seen if it will provide a serious rival to offerings from the AI giants.\n\nYears before debates about how to police AI models became thetopic du jour, European lawmakers draftedthe AI Actto hold companies accountable for the risks arising from their tools, including strict requirements in areas for data quality, human oversight and cybersecurity.\n\nNon-compliance can result in forced changes to tools or fines of up to 3% of annual turnover, or total income, which would amount to billion of dollars for the biggest tech companies.\n\nThe AI Act is “a crucial piece to putting guardrails in place. And it puts Europe in the position to shape global efforts on how to tackle” the dangers of the technology, European Commission President Ursula von der Leyen said in herstate of the unionaddress last month.\n\nBut in practice, the law has proven difficult to enforce, with several EU member states yet to establish authorities to police compliance.\n\nThe law, alongside other tech regulations like the Digital Markets Act and the General Data Protection Regulation, has also contributed to delays in the rollout of AI products in Europe.\n\nMeta AI, for example, arrived in Europe in March 2025, some 18 months after its US rollout began.\n\n“It’s taken longer than we would’ve liked get our AI technology into the hands of people in Europe as we continue to navigate its complex regulatory system,” Metasaidat the time.\n\nRegulation holds back European companies, too. Roughly half of 157, 000 firmssurveyedlast year by Eurostat, the EU statistics office, cited a lack of clarity about legal consequences and concerns about violating the bloc’s stringent data protection laws as reasons not to adopt AI.\n\nThe AI Act and related national regulations are “slowing us down,” said Eléonore Crespo, the co-founder of Pigment, a Paris-based firm valued at more than $1 billion that builds AI software for businesses.\n\nEurope’s economy needs “innovative companies” to survive. “If regulation holds us back, it’s not going to work,” she told CNN.\n\nThe European Commission has itself tacitly acknowledged the regulatory burden. TheAI Omnibus, a package of legislation introduced last year, watered down some requirements of the AI Act and extended the timeline for the implementation rules relating to high-risk AI systems to December 2027.\n\nLegal experts and AI researchers say it is too soon to judge whether the AI Act has been a success, partly because the rules are still being phased in. But doubts remain about whether the legislation can keep pace with AI’s rapid-fire development.\n\n“The prohibitions (of the act) are broadly sound and the transparency requirements are relatively straightforward,” said Amir Banifatemi, the chief responsible AI officer at Cognizant AI lab, a research firm based in San Francisco. “The high-risk regime is the weak point, and it has not yet begun to apply,” he told CNN.\n\nBanifatemi pointed to AI agents as one potential problem. He said agents may combine tools from different providers, raising thorny problems over who’s accountable if something goes wrong.\n\nRegulation is far from the only barrier to greater AI uptake in Europe. A lack of investment in infrastructure and private companies may be an even bigger problem.\n\nPrivate AI investment in Europe totaled roughly $21 billion last year, a fraction of the $285.9 billion invested in the United States, according to theStanford Institute for Human-Centered Artificial Intelligence.\n\nThe center’s recentAI Index Reportshows the United States hosts 10 times more data centers than any other country and produced 59 notable AI models in 2025, compared to China’s 35 and just one in each of France and the United Kingdom.\n\nEurope is in the “middle ages” when it comes to AI, Crespo quipped. But she remains optimistic that it will eventually have its “renaissance.”\n\n“I’m quite positive about the potential because I see some very cool projects,” she said, pointing to the emergence of more AI companies and tools on the continent as well as a depth of technical talent.\n\nOther experts are also optimistic, arguing that Europe’s industrial might and high-quality data is a distinct advantage when it comes to exploiting real-world applications for AI.\n\n“Europe has deep industrial expertise and valuable domain data in manufacturing, energy, mobility and healthcare,” Banifatemi said.\n\n“That is where much of AI’s economic value may ultimately be created.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://transformative-ai.eu/",
+      "text": "recent report"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump",
+      "text": "self-police"
+    },
+    {
+      "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+      "text": "speech"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/07/business/mistral-ai-open-weight",
+      "text": "unveiled"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/13/politics/ai-washington-regulation-politics-obama-trump",
+      "text": "topic du jour"
+    },
+    {
+      "url": "https://www.cnn.com/2023/06/15/tech/ai-act-europe-key-takeaways",
+      "text": "the AI Act"
+    },
+    {
+      "url": "https://ec.europa.eu/commission/presscorner/detail/ov/SPEECH_26_1868",
+      "text": "state of the union"
+    },
+    {
+      "url": "https://about.fb.com/news/2025/03/europe-meet-your-newest-assistant-meta-ai/",
+      "text": "said"
+    },
+    {
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Use_of_artificial_intelligence_in_enterprises#Reasons_for_not_using_AI_technologies",
+      "text": "surveyed"
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+      "text": "AI Omnibus"
+    },
+    {
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "text": "Stanford Institute for Human-Centered Artificial Intelligenc"
+    },
+    {
+      "url": "https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf",
+      "text": "AI Index Report"
+    }
+  ],
+  "hash": "021948df7180be09b306093318fd07ecc7c14c7e362310c286737421464e3dc4",
+  "scraped_at": "2026-10-15T11:45:56.073174+00:00"
+}
