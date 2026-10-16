@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/10/14/investing/us-stocks-ai-chipmakers",
+  "title": "AI stocks drop after hot inflation report bolsters bets for Fed rate hikes | CNN Business",
+  "date": "2026-10-16T11:39:57.745692+00:00",
+  "authors": [
+    "John Towfighi"
+  ],
+  "text": "Source: CNN\n\nHigh-flying technology stocks are taking a bruising this week, as investors grow more skeptical about whether the AI boom will live up to expectations.\n\nStocks dropped on Wednesday, led by declines in the tech sector, after a hotter-than-expectedinflation reportbolstered bets that the Federal Reserve will raise interest rates further. The S&P 500 fell 1.11% and the Nasdaq Composite fell 1.88%, each posting their worst day since July.\n\nShares of companies involved in the AI data center buildout — the “picks and shovels” of the AI boom — stumbled, from semiconductor chipmakers to cloud providers. Marvell (MRVL), a chipmaker, fell 8.7%, Oracle (ORCL) sank 8.8% and Dell (DELL) dropped 11.3%.\n\nA benchmark index tracking semiconductor stocks fell 4.3%, putting it down roughly 12% over the past week. Nvidia (NVDA) fell 3.2%, leaving it down roughly 7.5% since hitting a record high earlier this month.\n\nInvestors are digesting a range of concerns that are shaking sentiment around AI. Higher bond yields and sticky inflation have led to elevated borrowing costs, making the data center buildout more expensive. That’s raising concerns for the riskier, debt-heavy corners of the AI ecosystem.\n\nMeanwhile, chip stocks have had a rocky week after Chinese semiconductor company CXMT announced progress on advanced memory chips. That’s stoking concern about competition with US and South Korean manufacturers that have outlooks that are “priced to perfection,” according to analysts.\n\nSemiconductor stocks have soared on expectations that companies will lock in hefty profits because of the AI boom’s insatiable demand for chips. But a slowdown due to higher rates, or an increase in competition from China, could knock expectations for chipmakers’ future revenues and growth.\n\nThe fate of the “picks and shovels” of the AI boom matters because tech and AI stocks have propelled the market torecord highsthis year. With other sectors of the market continuing to struggle under the pressure of higher bond yields, the stakes are higher for how these stocks perform.\n\n“There’s just so much good news priced into the chip sector right now that you’re going to find it’s susceptible to meandering without some fresh catalysts,” Steve Sosnick, chief strategist at Interactive Brokers, told CNN.\n\nAfter strong rallies earlier this year, Wall Street keeps raising the bar for expectations for chipmakers’ earnings, leaving room for disappointment or profit taking.\n\n“Trees don’t grow to the sky,” Sosnick said. “You can’t just go up forever and ever and ever, assuming that nothing is going to go wrong.”\n\nInvestors are also watching riskier corners of AI. CoreWeave (CRWV), a so-called neocloud that is backed by Nvidia and leases compute power for the AI boom, plunged 15.5% on Wednesday after commentators raised concerns about a surge in the company’s bond yields.\n\nThe company has tens of billions of dollars of debt on its balance sheet as it borrows money to try and expand its business and market share. As interest rates rise, it’s getting more expensive to finance that debt.\n\nThe market is increasingly coming around to concerns about how companies taking on enormous debt are going to pay for it all, especially given concerns about delays to data center projects and uncertainty about the timeline of Anthropic’s and OpenAI’s initial public offerings, according to Sosnick.\n\n“There’s just so much money being thrown at this, and a lot of it has to be borrowed, and borrowed at increasingly high interest rates,” Sosnick said. “It’s an interesting conundrum.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/10/14/economy/us-cpi-inflation-september",
+      "text": "inflation report"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/MRVL",
+      "text": "MRVL"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/ORCL",
+      "text": "ORCL"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/DELL",
+      "text": "DELL"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/NVDA",
+      "text": "NVDA"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/06/investing/us-stocks-bonds",
+      "text": "record highs"
+    },
+    {
+      "url": "https://www.cnn.com/markets/stocks/CRWV",
+      "text": "CRWV"
+    }
+  ],
+  "hash": "0ba93a6eaf6c424bbbd1e4cbb50e02e2230c7668f47386fe919f98314d0782bd",
+  "scraped_at": "2026-10-16T11:39:57.745697+00:00"
+}

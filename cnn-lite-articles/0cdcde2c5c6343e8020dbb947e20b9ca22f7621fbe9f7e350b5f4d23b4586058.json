@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/10/16/tech/ai-speaking-own-language",
+  "title": "What happens if AI agents start speaking their own language? | CNN Business",
+  "date": "2026-10-16T11:37:59.671844+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nPart of Chris Painter’s job is to help figure out what happened whenAI goes rogue, then publish the results in public reports.\n\nHe and METR, the nonprofit AI research group he helps lead, have been busy lately: They helped OpenAI untangle theHugging Face hackthis year, and Painter recently testified in front of a Senate subcommittee following a string of other rogue AI incidents.\n\nResearchers at METR pore over AI agents’ scratch pads – the “chain of thought” data that can help humans see the steps bots took before responding to a request. That information was key in METR’s investigation of the Hugging Face incident.\n\nBut Painter is worried that job could soon get a lot harder.\n\nHumans’ ability to check up on AI agents depends on being able to communicate the way the bots communicate, in a shared language.\n\nWhat happens if we stop speaking the same language?\n\nOr what if AI agents stop showing their work entirely?\n\n“If they’re becoming less monitorable, then they have more opportunity to kind of do things that we don’t intend,” Painter told CNN last month.\n\nMany AI models — and the AI agents they power — use a method known as “chain-of-thought reasoning” that outlines their process for completing a task. Chain of thought reasoning breaks down processes into a logical sequence of steps, which can help AI models arrive at more accurate answers.\n\nFor researchers, chain-of-thought data can provide clues towhat went wrong.\n\nIf an AI agent goes rogue and breaks into other systems, researchers can see whether the chain-of-thought data included mentions of deceitful actions, like hacking. METR examined roughly 1,300 raw chain-of-thought transcripts during its investigation into the OpenAI Hugging Face incident.\n\nPainter expressed concern that paper trail may one day become unintelligible if AI models begin using their own language to track their steps.\n\n“If that were to happen, then like when an investigator goes in, they’ll look around and it’ll all just be numbers everywhere,” he said.\n\nAI models could use shorthand references, similar to how a human would when transcribing notes, that are intended for the model to understand so that it can work faster, according to Mark Riedl, an artificial intelligence professor and director of the machine learning lab at the Georgia Institute of Technology.\n\nBut much like most humans when looking at shorthand, it would probably look like gibberish.\n\nThere are a few theories for how the chain-of-thought process works, but researchers aren’t sure which ones are correct, says Jacob Andreas, an associate professor at MIT’s Computer Science and Artificial Intelligence Laboratory. An AI model may also decide the best way to meet the criteria it was trained for, like using less power or taking fewer steps, involves producing a chain-of-thought that doesn’t look like legible English.\n\nThat’s just one concern — another is that models are getting better at executing tasks without even logging their chain of thought. Riedl said newer models can reach the same conclusions without producing a traceable chain-of-thought.\n\nWhile companies can train their models to produce a chain of thought, doing so is more expensive and slower than having the model process tasks internally.\n\nOpenAI found that its monitoring systems would be less likely to detect when its new Astra model behaves in undesirable ways through chain-of-thought compared to older models, according todocumentationfrom early September. It also found that Astra could accomplish more tasks without using chain-of-thought reasoning and that it was more capable of controlling its chain of thought.\n\nThe company wrote that it would lose confidence in its current systems’ ability to detect misaligned behavior – that is, when models take unsanctioned steps that don’t align with human values – ifthat trend continues.\n\nJakub Pachocki, chief scientist at OpenAI, wrote ina September blog postthat AI was getting better “manipulating its own reasoning process” and that modelsare becoming “smarter even without using verbalized reasoning at all.”\n\nOpenAI said ina statement last weekthat it’s investing “significant resources” in the ability to monitor AI models. This came after the companyfired three safety and alignment researchers, though OpenAI said the dismissals were not tied to employees voicing safety concerns.\n\nIn its Astra-related documentation, OpenAI said it’s investigating why the model is more capable of controlling its chain-of-thought, along with methods for protecting against potential misalignment that could be caused by a lack of chain-of-thought.\n\nOpenAI pointed CNN to its Astra documentation and Pachocki’s post when askedwhy Astra is less monitorable and whether the company plans to make future models more monitorable.\n\nThe other challenge is that chain of thought doesn’t provide the full picture of why AI models make certain decisions.\n\nComplex tasks can require multiple agents generating thousands of words worth of logs outlining their steps, which could feel like trying to monitor a  thousand people talking out loud, Riedl said. While AI could help summarize those texts, there’s been some evidence that suggests AI omits important details, he added.\n\nChain-of-thought data shows what an AI model did before arriving at an answer or taking an action but doesn’t reveal why. Humans can control the data and parameters that AI models are trained on, but they don’t understand how these factors may influence the way models behave.\n\nIt’s possible to look for patterns in an AI model’s neural network – a computational model often used in AI that’s meant to resemble the human brain – but it’s difficult to prescribe precise meaning to those patterns, said Andreas.\n\nAnthropicpublished a research paperin July indicating that it had found small collections of neural patterns within Claude associated with certain words.\n\nStill, that doesn’t mean Claude is saying that word.\n\n“I think we’re still very far from being able to claim that we have any sort of fine-grained understanding of how the model is actually arriving at a solution,” MIT’s Andreas said.\n\nAI’s rapid advancement makes this issue all the more pressing to Painter. With AI increasingly being used in AI research, he worries that information may come out faster than people are able to process it.\n\nBut he also thinks the Hugging Face saga has cast a spotlight on concerns about rogue AI that have been prominent among AI researchers for years.\n\n“I think it has been heartening,” he said. “It really feels like people, when they were talking about this a long time ago, were underestimating how much help there would be from the whole world when the whole world is paying attention.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/10/12/business/ai-agents-rogue-legal-liability",
+      "text": "AI goes rogue"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+      "text": "Hugging Face hack"
+    },
+    {
+      "url": "https://deploymentsafety.openai.com/gpt-6-astra/monitorability",
+      "text": "documentation"
+    },
+    {
+      "url": "https://openai.com/index/an-alien-mind/",
+      "text": "a September blog post"
+    },
+    {
+      "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "text": "a statement last week"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/08/tech/fired-open-ai-researchers-pushed-out",
+      "text": "fired three safety and alignment researchers"
+    },
+    {
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "text": "published a research paper"
+    }
+  ],
+  "hash": "0cdcde2c5c6343e8020dbb947e20b9ca22f7621fbe9f7e350b5f4d23b4586058",
+  "scraped_at": "2026-10-16T11:37:59.671854+00:00"
+}

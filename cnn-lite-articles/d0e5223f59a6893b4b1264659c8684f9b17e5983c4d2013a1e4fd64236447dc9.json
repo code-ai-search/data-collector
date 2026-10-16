@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/10/14/tech/openai-accuses-former-employee-of-leaking-intel-on-ai-device-to-apple",
+  "title": "OpenAI accuses former employee of leaking intel on AI device to Apple | CNN Business",
+  "date": "2026-10-16T11:39:53.487791+00:00",
+  "authors": [
+    "Hadas Gold"
+  ],
+  "text": "Source: CNN\n\nOpenAI is accusing a former employee of stealing intellectual property related to an unreleased device and later sharing some of the information with Apple.\n\nThe employee, OpenAI alleges, had previously worked at Apple, then joined OpenAI for six months, before going back to Apple, according to acourt filingfrom OpenAI on Wednesday.\n\nThe company said the employee downloaded over 100 highly confidential files to his personal accounts before rejoining Apple. The transferred files include “detailed images of the unreleased device(s), as well as highly confidential engineering and manufacturing data about the device(s),” according to the filing. The last file was sent in June on the employee’s final day, OpenAI alleges.\n\nOpenAI went on to claim the former employee, who it did not name, “made a presentation about OpenAI’s product plans to Apple’s senior leadership, including Apple’s vice president of operations in Asia.”\n\n“That presentation appears to have happened months ago—and now, armed with that information, Apple is making a new push into AI-enabled products,” OpenAI wrote in the filing.\n\nApple told CNN it has found no evidence to support the allegations and that it has strict policies in place to make sure new employees don’t use confidential information from previous workplaces. The company also said it would work with OpenAI to remediate any of OpenAI’s information found on Apple’s systems.\n\nApple accused OpenAI of trying to create a distraction from the original claims of their case. The allegations came as part of a filing in an ongoinglawsuitthat Apple brought against OpenAI in July, alleging the AI company stole the iPhone maker’s trade secrets to develop its own gadgets. Apple alleged in its original filing thatformer employees who went to work for OpenAI downloaded confidential files, and urged job candidates to bring Apple parts to interviews at OpenAI. OpenAI has denied the claims, saying Apple hasn’t been able to identify any stolen trade secrets and has sought to dismiss the case.\n\nBoth companies are racing to create AI-enabled devices. This week, Apple announcedHomeView, its biggest push into the smart home market in nearly a decade with a revamped version of Siri, making it a critical piece of Apple’s AI strategy. OpenAI is working on an AI-enabled device,reportedto be a small screen-free smart speaker. Last year, OpenAI brought on former Apple product design chiefJonny Iveand his company, io, to take over design and creative responsibilities across the company.\n\nWhile engineers and researchers regularly switch companies in Silicon Valley, Apple said in a court filing that OpenAI has hired more than 400 of its former employees.\n\nCNN’s Lisa Eadicicco contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0_1.pdf",
+      "text": "court filing"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit",
+      "text": "lawsuit"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/13/tech/apple-homeview-siri-ai",
+      "text": "HomeView"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg",
+      "text": "reported"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/21/tech/jony-ive-apple-design-chief-openai",
+      "text": "Jonny Ive"
+    }
+  ],
+  "hash": "d0e5223f59a6893b4b1264659c8684f9b17e5983c4d2013a1e4fd64236447dc9",
+  "scraped_at": "2026-10-16T11:39:53.487796+00:00"
+}
