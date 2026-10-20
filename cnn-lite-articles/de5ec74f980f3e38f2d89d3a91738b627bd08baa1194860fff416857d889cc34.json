@@ -1,0 +1,12 @@
+{
+  "url": "https://lite.cnn.com/2026/10/20/europe/google-cloud-outage-london-revolut-intl",
+  "title": "Google Cloud services face outage in London, Revolut services down too | CNN",
+  "date": "2026-10-20T11:51:34.559101+00:00",
+  "authors": [
+    "From Reuters"
+  ],
+  "text": "Source: Reuters\n\nMultiple Google Cloud services experienced disruptions in the company’s London region on Tuesday, according to its service status page, while British digital bank Revolut also reported a service outage.\n\nA person familiar with the matter told Reuters that Revolut’s service outage was related to the Google Cloud service disruption.\n\nRevolut’s status page showed most of its services were unavailable or partially unavailable, including card payments and ATM withdrawals.\n\n“We are currently experiencing a service disruption affecting multiple services. We can confirm that all our customers’ money and data are safe,” Revolut said on X.\n\nGoogle said its engineering team was investigating the issue, which impacted the London-based data center.\n\nAlphabet’s Google did not immediately respond to a Reuters request seeking further details.\n\nSeparately, ING Germany said there were problems logging into online banking and its banking app due to a technical issue.\n\nSee Full Web Article",
+  "links": [],
+  "hash": "de5ec74f980f3e38f2d89d3a91738b627bd08baa1194860fff416857d889cc34",
+  "scraped_at": "2026-10-20T11:51:34.559119+00:00"
+}
