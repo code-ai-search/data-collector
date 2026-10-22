@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/10/22/tech/social-media-user-algorithm-control",
+  "title": "Taking back the algorithm: Social media platforms are restoring users’ control of their feeds | CNN Business",
+  "date": "2026-10-22T12:06:37.502122+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nAs a new mom-to-be, my social media feeds have clocked me — funneling endless videos my way about pregnancy, nursery prep and birth stories, to the point of baby information overload. I needed a break.\n\nI recently told my Instagram algorithm I’m no longer interested in seeing content about “pregnancy” or “birth,” although at least for now I’ve kept its suggestion to show me “newborn parenting hacks.”\n\nInstagram this year expanded its feature that lets users provide this kind of specific feedback to tailor their feed. And across the social media ecosystem, platforms are increasingly offering similar options to give users greater control over what they see as they scroll.\n\nIt’s something users have been asking for after social platforms spent years leaning into relying on their own algorithmic recommendations to populate feeds.\n\nIn addition to Meta’s Instagram and Facebook, YouTube, TikTok and smaller social media upstarts likeDivinehave all recently rolled out features to let users tailor their main “For You” pages, or create custom feeds around specific topics.\n\n“What we’ve really tried to focus on is: how can we recreate the sense of agency that you had when you were controlling the accounts that you followed, but in a world that still gives you the benefits of recommendations,” such as more easily discovering new content, Instagram’s Vice President of Product Tessa Lyons told CNN.\n\nAdvances in AI’s understanding of language make it possible for the platforms to process specific feedback from users about their interests and dislikes, rather than simply making guesses based on what users view and engage with.\n\n“We’re able to do something we’re never able to do before, which is actually enable people to use human language… to say, like, I want to see more of this topic or less of this topic,” Lyons said, adding that previously, “we were not able to accurately enough understand that if you said ‘tennis,’ what the most relevant tennis content was.”\n\nIt’s a stark reversal from the approach major platforms had taken in recent years: replacing chronological feeds based on who users followed with algorithmic recommendations. The thinking was that — thanks to the huge volume of data social media companies collect about users through their activity on and off their sites — these platforms could predict better than users themselves what they’d want to see and what would keep them scrolling.\n\nThe shift may have been good for business, but users often lamented that lack of control, complaining that the recommendation algorithms could send them down rabbit holes of irrelevant or even toxic content. Platforms have faced particularscrutinyrelated to their sometimesharmfulcontent recommendationsfor young people.\n\nThat user frustration has only ramped up over the past year as AI has played a growing role in mediating what people see across the internet, colliding with a wider populist backlash to AI, said Tim Weninger, a computer science and engineering professor at the University of Notre Dame who studies AI and social media.\n\n“People have gotten fed up with AI feeding them stuff,” Weninger said. “They miss the old days … They just want to be able to follow what they follow and see the latest updates.”\n\nIn 2022, Instagrambrought backthe chronological feed as an option with “following” and “favorites” feeds that would show users only content from accounts they opted to see, although the app defaulted to the main recommended feed each time a user opened it.\n\nThen last June, TikTokintroduceda “manage topics” feature that lets users tweak their main feed by adjusting how much content they want to see from certain categories — such as fashion and beauty, or health and fitness — on a sliding scale. The tool doesn’t remove certain topics from the feed altogether, but it does give TikTok’s algorithm a more direct signal on what users want to see.\n\nTikTok also added “smart keyword filtering,” which removes from the feed any videos containing a keyword that a user has flagged, plus those containing similar, related keywords.\n\nMonths later, Instagram took the trend a step further by rolling out“your algorithm,”which lets users see which topics the app believes they’re interested in and add topics they want to see, as well as those they want to avoid. The feature, which was originally rolled out just for the Reels tab, now applies to the full Instagram app andrecently expandedto Facebook.\n\nThe feature makes it easier for the app to adjust when users’ interests change quickly — for example, someone may no longer want to see wedding planning content after they’re married, or videos of their ex-boyfriend’s favorite band after a breakup, Lyons said. Her “your algorithm” selections currently include topics like “family rituals” and “Celine Dion.”\n\nIn the coming months, Instagram plans to prompt users to engage more with the feature, which is currently accessible via a button on the upper righthand side of the Reels tab.\n\nYouTube last month announced its own “custom feeds” offering at its annual “Made on YouTube” product launch event, which lets users create dedicated tabs alongside the main feed tailored to specific needs or interests, such as workout videos or “late night ASMR.”\n\nBut these features may not necessarily enable social media users to prevent AI-generated content from popping up in their feeds. YouTube CEO Neal Mohan told reporters at the September event that separating AI-generated from human-made content is an “artificial distinction,” and that many videos combine both.\n\nYouTube’s custom feeds feature, he said, is instead really about letting viewers “program their feeds” around certain topics and “dial up and dial down what you’d like to see, and you can change it throughout the course of the day.”\n\nIt remains to be seen exactly how these changes will impact users, Weninger said. While users may tell a platform that they want to see content on topics they enjoy, people are often more likely to view, comment on or share content that upsets or angers them, which could confuse the algorithms.\n\n“If you say that you like soccer, and then you never actually watch a soccer video, then what’s the AI supposed to do?” he said. “People engage with things that make them upset and sad, that’s kind of part of our nature. Hopefully this will change that attitude a little bit.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/08/23/tech/divine-vine-reboot-app",
+      "text": "Divine"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/28/us/video/moms-react-meta-digvid-vrtc",
+      "text": "scrutiny"
+    },
+    {
+      "url": "https://www.cnn.com/2021/10/04/tech/instagram-facebook-eating-disorders",
+      "text": "harmful"
+    },
+    {
+      "url": "https://www.cnn.com/videos/business/2023/04/18/teen-tiktok-experiment-clare-duffy-zw-orig.cnn-business",
+      "text": "ontent recommendations"
+    },
+    {
+      "url": "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/",
+      "text": "brought back"
+    },
+    {
+      "url": "https://newsroom.tiktok.com/more-ways-to-discover-new-content-and-creators-you-love?lang=en",
+      "text": "introduced"
+    },
+    {
+      "url": "https://techcrunch.com/2025/12/10/instagrams-new-your-algorithm-tool-gives-you-more-control-over-the-reels-you-see/",
+      "text": "“your algorithm,”"
+    },
+    {
+      "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+      "text": "recently expanded"
+    }
+  ],
+  "hash": "e2cc28db8bfefab26ee525b02077a1b48c01e8216dcd2666d2e53a24e6216ac5",
+  "scraped_at": "2026-10-22T12:06:37.502129+00:00"
+}

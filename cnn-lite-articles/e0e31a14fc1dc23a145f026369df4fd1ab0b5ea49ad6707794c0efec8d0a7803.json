@@ -1,0 +1,42 @@
+{
+  "url": "https://lite.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl",
+  "title": "AI finds cybersecurity issue affecting 70% of the internet, forcing websites to shut down | CNN Business",
+  "date": "2026-10-22T12:06:12.811955+00:00",
+  "authors": [
+    "Lisa Eadicicco",
+    "Hanna Ziady"
+  ],
+  "text": "Source: CNN\n\nGovernment and company websites around the world briefly went dark and suspended some services, as operators scrambled to patch their systems after artificial intelligence helped find critical vulnerabilities in a widely used programming language.\n\nA UK government spokesperson told reporters Thursday that work was underway “across the government” to identify and fix potential vulnerabilities. “No large public-facing critical services are being affected by the exercise but some limited services may temporarily be offline while security work is carried out,” the spokesperson said.\n\nThe US National Security Agency and Europe’s cybersecurity agency have advised companies to take immediate action to address two critical flaws in PHP, a programming language that powers 70% of all websites in the world, including WordPress and Drupal, an open-source content management system.\n\nThe PHP Foundation, the organization behind the coding language, has released a patch for the bugs, which have been hidden in their software for years,and is urging website operators to update their systems immediately.\n\nPopular Irish news website The Journal was temporarily offline Thursday morning while it bolstered its “defences,” it said in a notice. The Journal is Ireland’s second most-used online news source, behind only RTÉ, the national broadcaster, according to the Reuters Institute.\n\nThe flaws in PHP – which originally stood for Personal Home Page – were uncovered by teams atOpenAI, Google-owned cybersecurity companyWiz,and another cybersecurity company,Calif. The bugs, collectively called PHP2Shell, could allow attackers to hack into websites and read memory that could contain sensitive information, like passwords.\n\n“With PHP behind such a vast share of the web, the exposure could reach almost everywhere people spend money online,” said Nigel Green, the CEO of deVere Group, a financial advisory firm.\n\n“Booking platforms, marketplaces, subscription services, ticketing sites, delivery apps and utility portals could all be holding card details on systems built with the same kind of code,” he added.\n\nEven world leaders urged organizations to take action. Dutch Prime Minister Rob Jettensaidthat his cabinet was “closely monitoring the situation surrounding the vulnerabilities in PHP.”\n\nJapan’s Prime Minister Sanae Takaichi said companies should consider suspending services if necessary in order to reduce their exposure. “Please check if your publicly available websites use PHP, and prepare to apply the fix patch that will be released tonight… as soon as possible,” sheposted on XWednesday.\n\nJapanese airline ANA, railway operator JR West and the country’s largest bank, MUFG, were among companies that reported some webpages and services temporarily suspended.\n\nIn Europe, government websites in France, Denmark, Finland and the Netherlands, including the Dutch cyber security agency, were temporarily taken offline while security fixes were implemented.\n\nThe Wikimedia Foundation, the non-profit that operates Wikipedia, told CNN Thursday that it was “in the process of addressing security vulnerabilities in PHP,” and that a number of its systems had been taken down as a “precautionary measure.”\n\nAI played a crucial role in finding and fixing vulnerabilities “that had remained hidden in the PHP codebase for more than a decade,” according to Wiz, which said the episode marks an “AI inflection point.”\n\n“What AI changed was the ability to understand the weaknesses and turn them into a working exploit,” Wiz researchers wrote in ablog postWednesday in which they described PHP as a “backbone of the web.”\n\n“With frontier AI models and the right tools, a single researcher completed in a week what previously would have taken a world-class team months of work,” they added.\n\nThe bugs were discovered in late August but were disclosed to the public only on Wednesday, after PHP had come up with a fix.\n\nThe flaws could allow attackers to remotely execute code, disrupt services and expose customer data, according to web infrastructure providerCloudflare, which has been working with the PHP Foundation,Calif,OpenAI and Wiz to address the issue.\n\nResearchers at Wiz used Google’s Gemini 4 Argon, Wiz Atlas and OpenAI’s GPT-5.6 Sol during the research process.\n\nWiz researchers say the issue is on par withthe Heartbleed bugfrom 2014, which impacted an encryption technology estimated to be used by two-thirds of the Web. Heartbleed allowed cybercriminals to access data that should have been protected.\n\nLike Heartbleed, the researchers at Wiz say PHP2Shell could similarly serve as a turning point in cybersecurity. While the vulnerabilities existed for years, AI made it practical to deploy them.\n\n“The underlying flaws had been present for decades, but demonstrating their exploitability required an exceptionally complex chain of steps, at the edge of what human researchers could practically achieve,” the researchers said.\n\n“Frontier AI models substantially reduced that barrier, turning a longstanding flaw into an exploit.”\n\n–CNN’s John Liu, Anna Cooban, Amy Croffey and James Frater contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "text": "OpenAI"
+    },
+    {
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "text": "Wiz,"
+    },
+    {
+      "url": "https://calif.io/",
+      "text": "Calif"
+    },
+    {
+      "url": "https://x.com/MinPres",
+      "text": "said"
+    },
+    {
+      "url": "https://x.com/takaichi_sanae/status/2112890642590564386",
+      "text": "posted on X"
+    },
+    {
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "text": "blog post"
+    },
+    {
+      "url": "https://www.cnn.com/2014/04/08/tech/web/heartbleed-openssl",
+      "text": "the Heartbleed bug"
+    }
+  ],
+  "hash": "e0e31a14fc1dc23a145f026369df4fd1ab0b5ea49ad6707794c0efec8d0a7803",
+  "scraped_at": "2026-10-22T12:06:12.811967+00:00"
+}
