@@ -1,0 +1,57 @@
+{
+  "url": "https://lite.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained",
+  "title": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days | CNN Business",
+  "date": "2026-10-24T11:19:00.415661+00:00",
+  "authors": [
+    "Analysis by David Goldman"
+  ],
+  "text": "Source: CNN\n\nIn July 2004, security researcher Stefan Essersent a warning.\n\nAcritical flaw in PHP, the programming language that powers 70% of the world’s websites, could allow an attacker to do some seriously nefarious stuff: read passwords, steal databases or even take over entire websites.\n\nBut Esser’s warning went mostly ignored for decades. In 2020, another researcher discovered a related problem, and the PHP overseers issued a partial fix. A similar PHP vulnerability was uncovered in 2024 – but was left unfixed.\n\nWhy was one of the most severe threats to the foundation of the internet left unresolved for 22 years?\n\nBecause it would have taken mind-numbing work for a human to figure out how to take advantage of it: tedious, time-consuming, monotonous coding. That rendered the PHP vulnerability impractical to exploit.\n\nAI just figured out how to do it in two days.\n\nOn Wednesday, OpenAI’s public revelation of the exploit was announced in conjunction with a security update to fix the problem.\n\nPhew, you might think. The good guys got to it first. But the AI-assisted discovery deeply concerned cybersecurity researchers, because the next one might come from someone who wants to weaponize it.\n\nAnd AI doesn’t care who’s pulling the trigger.\n\nThe internet is held together with shoestring and bubblegum.\n\nAn aptxkcd cartoonvisualizes “all modern digital infrastructure” as a giant Jenga tower supported by one, thin, vertical block with the label: “a project some random person in Nebraska has been thanklessly maintaining since 2003.”\n\nOn July 30, researchers at AI security company Calif, in conjunction withOpenAI’s new Patch the Planetsecurity initiative, decided to point a large-language AI model at one of those Jenga blocks – PHP – and see what came of it. It didn’t expect to find anything critical.\n\nOn August 1, it found amethod to attack PHP’s vulnerabilities. Days later, it found another. Then another. Later that month, Google-backed security company Wiz – another Patch the Planet participant – discovered new exploits for PHP vulnerabilities, too.\n\nThe patch went out Wednesday, and the companies publicly disclosed their findings.Wiz called itone of the most severe vulnerabilities in software history.\n\nThe security community lit up social media with I-told-you-sos.\n\n“The security industry has long been warning about the coming security apocalypse, because AI can do these things very, very quickly – better than humans,” said Vyas Sekar, professor of computer engineering at Carnegie Mellon University. “This may be the first of many. This is a wakeup call.”\n\nSekar says there are more PHP-like vulnerabilities out there to discover and exploit. A lot more. Some are known, and many are unknown.\n\nThe wide availability of AI tools has significantly lowered the barrier to entry for hackers to take advantage of potential security vulnerabilities. That fact freaked out Anthropic enough that the AI companypaused deploymentof its Mythos model in June, as it was so good at exposing security vulnerabilities and finding vectors for attack that the US government labeled it a national security threat.\n\nBut Calif researcher Ryan Austin noted in ablog postthat the company didn’t use any special AI models that weren’t generally available to the public.\n\nThat democratization of AI tools made clear that “security by exhaustion” is no longer a viable safeguard against bad guys, said Nick Rogers, CEO of Fieldwork AI.\n\nFor 22 years, PHP was like a bank with no security guards. Anyone could walk down to the vault and make off with the cash – if they had the time to try every code. It was such arduous work, it wasn’t worth anyone’s time.\n\nBut AI doesn’t get tired. And it can crack safes way faster than humans.\n\n“Taking a theoretical (vulnerability) and proving you can exploit it is quite tedious and mechanical work,” said Rogers. “AI can keep churning until it figures it out. You don’t even need to try. You can drink coffee while it does it.”\n\nEffectively, PHP is an engine that powers most of the internet. Until it was patched Wednesday, it had a fatal flaw.\n\nA vulnerability left open a patch for an attacker to mess around with the way PHP processes requests to run websites. If a server crashed because it ran out of memory, it would leave stale data behind that could be exploited to leak the data or execute bad code.\n\nThink of the exploit like taking advantage of a busy restaurant kitchen. Customers could overwhelm the chef with too many complex orders – so much that she quits midway through dinner, leaving dirty pans, raw ingredients and recipes strewn about the counter. Then, when a new chef is hired, he serves the contaminated food on filthy dishes – and even sends some recipes to customers along with their dinner orders.\n\nAlthough the vulnerability was long known to be theoretically exploitable, figuring out how to do it proved exceedingly difficult. Hackers had to force the server into an out-of-memory crash at a specific instant to bypass PHP’s safety limits.\n\nWhen researchers pointed AI at the problem, it quickly found a couple ways around that. One solution exploits a mismatch between the way PHP measures compressed files and decoded files. Effectively, it allowed compressed files through its gates, letting the file unpack itself and take over from the inside.\n\nAnother attacks PHP with deeply nested file structures that overwhelmed PHP’s directory structure, triggering the memory failure.\n\nThe vulnerability was patched, but the threat may not be over, noted Adam Meyers, vice president of counter adversary at security companyCrowdStrike. Many outdated versions of PHP are still in use, and the patch almost certainly didn’t fix all of PHP’s problems.\n\nAlso, an apparent leak about the vulnerability before the patch was released resulted in thousands of exploits in the hours ahead of the announcement,according to security company Cloudflare.\n\n“Bad guys don’t need to find the vulnerability first – they can weaponize it after the fact,” Meyers said. “We are still waiting to see how much of this shows up in the wild.”\n\nOpenAI offered several suggestions in itsdisclosure about the PHP patch, all of which basically boil down to: Write better, more secure code from the start.\n\nThat’s not super helpful if your web application has been written using PHP.\n\n“Migrating away from PHP is a pretty expensive process,” noted Meyers. “It’s not like switching from Microsoft mail to Google mail; you need to rebuild the whole application.”\n\nIf the solution isn’t to migrate 70% of the web to a new programming language, then fixing its underlying problems – and all the other software problems in the world – would hardly be an easy fix, either.\n\nWhat’s needed, then, may be a paradigm shift in the way the security community operates. Effectively, assume everything poses a security risk.\n\nCompanies need to treat every single business operation like air traffic controllers treat their surroundings, said Madhu Shashanka, cofounder of security company Concentric AI.\n\n“Everything is a potential vulnerability,” Shashanka said. “Every business operation is a high-stakes operation.”\n\nFor example, companies that leave certain software unpatched – even for a few days – are exposing themselves to vulnerabilities that are no longer too difficult or expensive for bad actors to exploit.\n\n“Lots of vulnerabilities are out there that are never exploited because it takes effort,” said Shashanka. “AI has rendered that effort meaningless.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://marc.info/?l=bugtraq&m=108981780109154&w=2",
+      "text": "sent a warning"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl",
+      "text": "critical flaw in PHP"
+    },
+    {
+      "url": "https://xkcd.com/2347/",
+      "text": "xkcd cartoon"
+    },
+    {
+      "url": "https://openai.com/index/patch-the-planet/",
+      "text": "OpenAI’s new Patch the Planet"
+    },
+    {
+      "url": "https://calif.io/php2shell/",
+      "text": "method to attack PHP’s vulnerabilities"
+    },
+    {
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "text": "Wiz called it"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/13/business/anthropic-mythos-model-national-security",
+      "text": "paused deployment"
+    },
+    {
+      "url": "https://calif.io/php2shell/",
+      "text": "blog post"
+    },
+    {
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
+      "text": "CrowdStrike"
+    },
+    {
+      "url": "https://x.com/eastdakota/status/2113079352682570051",
+      "text": "according to security company Cloudflare"
+    },
+    {
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "text": "disclosure about the PHP patch"
+    }
+  ],
+  "hash": "1d3dcc26acaf0281ec56b62363162d9717a37863268d82c497cf17bb5e4077ba",
+  "scraped_at": "2026-10-24T11:19:00.415678+00:00"
+}

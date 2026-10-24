@@ -1,0 +1,54 @@
+{
+  "url": "https://lite.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl",
+  "title": "Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet | CNN Business",
+  "date": "2026-10-24T11:19:48.650255+00:00",
+  "authors": [
+    "Lisa Eadicicco",
+    "Hanna Ziady"
+  ],
+  "text": "Source: CNN\n\nGovernments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world’s websites.\n\nSome websites and services briefly went dark after the set of vulnerabilities were announced Wednesday.\n\nTheUS National Security Agency andEurope’s cybersecurity agencyadvised companies to take immediate action to address two critical flaws in PHP, a programming language that powers 70% of the world’s websites.\n\nThe flaws in PHP were uncovered and addressed by teams atOpenAI, Google-owned cybersecurity companyWiz,and another cybersecurity company,Calif. The underlying flaws had existed for a decade, but exploiting them involved a complex set of steps “at the edge of what human researchers could practically achieve,” according to Wiz. Researchers then deployed AI to adapt techniques for taking advantage of those vulnerabilities – known as as “exploits” in cybersecurity – and analyze the results.\n\nThe bugs, collectively called PHP2Shell, could allow attackers to break into websites and read memory that could contain sensitive information, like passwords.\n\nThe PHP Foundation, the organization behind the coding language, has released a patch for the bugs, which have been hidden in their software for years, and is urging website operators to update their systems immediately. The CEO of Cloudflaresaid on Xthat his company’s network has observed millions of attempts to exploit the vulnerabilities in the past couple of days.\n\n“With PHP behind such a vast share of the web, the exposure could reach almost everywhere people spend money online,” said Nigel Green, the CEO of deVere Group, a financial advisory firm.\n\n“Booking platforms, marketplaces, subscription services, ticketing sites, delivery apps and utility portals could all be holding card details on systems built with the same kind of code,” he added.\n\nThe vulnerabilities involve an issue with how the PHP language works with a computer’s memory. When a website request unexpectedly ends, PHP could leave data behind in the memory that can be accessed and potentially corrupted or exposed later.\n\nThe flaws could allow attackers to remotely execute code, disrupt services and expose customer data, according to web infrastructure provider Cloudflare, which has been working with the PHP Foundation, Calif, OpenAI and Wiz to address the issue.\n\n“Think of a hotel room where you check out, but your key still works,” Patrick Fussell, global head of adversary simulation at IBM, told CNN. “And so you can just go back into that hotel room later, and now somebody else’s stuff is there.”\n\nThe bugs were discovered in late August but were disclosed to the public only on Wednesday, after PHP had come up with a fix.\n\nAI played a crucial role in identifying and fixing vulnerabilities “that had remained hidden in the PHP codebase for more than a decade,” according to Wiz. The company called PHP the “backbone of the web” and said the episode marks an AI inflection point.\n\n“What AI changed was the ability to understand the weaknesses,” Wiz researchers wrote in ablog postWednesday, and then quickly exploit those weaknesses into a way to attack.\n\n“With frontier AI models and the right tools, a single researcher completed in a week what previously would have taken a world-class team months of work,” they added.\n\nResearchers at Wiz used Google’s Gemini 4 Argon, Wiz Atlas and OpenAI’s GPT-5.6 Sol during the research process.\n\nGlobal leaders urged organizations to take action. Dutch Prime Minister Rob Jettensaidthat his cabinet was “closely monitoring the situation surrounding the vulnerabilities in PHP.”\n\nJapan’s Prime Minister Sanae Takaichi said companies should consider suspending services if necessary in order to reduce their exposure. “Please check if your publicly available websites use PHP, and prepare to apply the fix patch that will be released tonight… as soon as possible,” sheposted on XWednesday.\n\nJapanese airline ANA, railway operator JR West and the country’s largest bank, MUFG, were among companies that reported some webpages and services temporarily suspended.\n\nIn Europe, government websites in France, Denmark, Finland and the Netherlands, including the Dutch cyber security agency, were temporarily taken offline while security fixes were implemented.\n\nThe Wikimedia Foundation, the non-profit that operates Wikipedia, told CNN Thursday that it was “in the process of addressing security vulnerabilities in PHP,” and that a number of its systems had been taken down as a “precautionary measure.”\n\nNearly three dozen UK government services are unavailable and four are “partially unavailable” while security upgrades take place, UK government minister Elizabeth Lloyd told the House of Lords Thursday. The Journal, Ireland’s second most-popular news outlet, was temporarily offline Thursday morning while it bolstered its “defences,” it said in a notice.\n\nWiz researchers say the issue is on par withthe Heartbleed bugfrom 2014, which impacted an encryption technology estimated to be used by some two-thirds of the Web. Heartbleed allowed cybercriminals to access data that should have been protected.\n\nLike Heartbleed, the researchers at Wiz say PHP2Shell could similarly serve as a turning point in cybersecurity. While the vulnerabilities existed for years, AI made it practical to deploy them.\n\n“The speed with which vulnerabilities are being discovered is well beyond what it ever was before,” said Fussell.\n\nEven though a patch has been released, it’s likely that not all companies and organizations will update their systems at the same time, according to Gang Wang, associate professor of computer science at the University of Illinois. That could give bad actors a window to exploit it now that the vulnerability has been made public – and they can now do so faster using AI.\n\nBut taking advantage of the vulnerability is no easy task, even with the help of AI, according to Fussell.\n\n“This is being touted as like, ‘Hey, you can push a button and basically take over a server type of thing,’” he said. “…To actually pull this off requires a couple of conditions that are actually fairly complex and not always going to work out in favor of somebody who’s trying to go and exploit this bug.”\n\n–CNN’s John Liu, Anna Cooban, Amy Croffey and James Frater contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/",
+      "text": "US National Security Agenc"
+    },
+    {
+      "url": "https://www.enisa.europa.eu/news/joint-statement-on-critical-php-vulnerabilities",
+      "text": "Europe’s cybersecurity agency"
+    },
+    {
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "text": "OpenAI"
+    },
+    {
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "text": "Wiz,"
+    },
+    {
+      "url": "https://calif.io/",
+      "text": "Calif"
+    },
+    {
+      "url": "https://x.com/eastdakota/status/2113079352682570051",
+      "text": "said on X"
+    },
+    {
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "text": "blog post"
+    },
+    {
+      "url": "https://x.com/MinPres",
+      "text": "said"
+    },
+    {
+      "url": "https://x.com/takaichi_sanae/status/2112890642590564386",
+      "text": "posted on X"
+    },
+    {
+      "url": "https://www.cnn.com/2014/04/08/tech/web/heartbleed-openssl",
+      "text": "the Heartbleed bug"
+    }
+  ],
+  "hash": "fbfd82dc9e7031b30c41410c6d70e597d6a9a7183c9e9af643b4f0fdd06b4733",
+  "scraped_at": "2026-10-24T11:19:48.650271+00:00"
+}
