@@ -1,0 +1,31 @@
+{
+  "url": "https://lite.cnn.com/2026/10/26/tech/anthropic-files-ipo",
+  "title": "Anthropic set to make stock market debut as questions swirl about safety of AI | CNN Business",
+  "date": "2026-10-26T13:19:50.770071+00:00",
+  "authors": [
+    "Lisa Eadicicco",
+    "Clare Duffy",
+    "John Towfighi"
+  ],
+  "text": "Source: CNN\n\nAnthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history — even as its CEO has warned that the advanced AI that the company and its competitors create poses an existential risk to humanity.\n\nAnthropic, the US-based company behind the Claude chatbot, did not disclose in its filing with the Securities and Exchange Commission how many shares it intends to sell nor at what price.The listing could reportedly value the company up to $2 trillion.\n\nThe IPO filing offers insights into how Anthropic views the future of its business despite those concerns and uncertainties. Anthropic’s revenue grew sharply in the first six months of this year to $16.3 billion, although the company reported an overall net loss of over $80 billion because of the steep costs of the computing infrastructure needed to power its AI advances, according to the SEC filing.\n\nAnthropic’s IPO will testWall Street’s appetite for AI, as the general public, policymakers and the industry’s own technologists raise major questions about the risks posed by AI — and whether the rapidly advancing research and data center buildout should be slowed.\n\nThe company’s stock will trade under the ticker ANT and will be listed on the Nasdaq exchange.\n\nTech giants including Meta, Google, OpenAI and Anthropic are pouring billions of dollars into the AI race, all hoping to become the dominant player in what they promise will be a society-changing industry. Global spending on AI across services, software, infrastructure and other areas is expected to reach roughly $3.6 trillion in 2027, up from $1.8 trillion in 2025, according to market research firmGartner.\n\nOpenAI had an early lead following ChatGPT’s launch in November 2022, but the competition has intensified in the last four years. Anthropic’s Claude Code tool quickly became a favorite among software developers after launching in early 2025, and the company sought to replicate that success for other office jobs earlier this year with its Cowork agent.\n\nClaude Cowork helped kickstart the shift from AI chatbot to agents — andrattled software stocksin the process over anxieties that it could make other businesses’ software tools obsolete. Fintech firmRamp reportedthat 43.8% of US businesses paid for services from Anthropic in September, compared to OpenAI’s 40.6% share.\n\nThe Claude app has also seen a surge in growth this year. Market intelligence firm Sensor Tower estimates that it has more than 67 million monthly active users as of the third quarter of 2026, compared to 9.4 million a year ago.\n\nAnthropic was valued at $965 billion after raising $65 billion from investors in May.\n\nBut OpenAI also beefed up its own agents this year by launching its Codex coding app in February and ChatGPT Work agent in July for accomplishing multistep tasks like writing a brief or analysis.\n\nNow, tech companies are racing to create AI agents that will become the gateway to our entire digital lives, handling everything from shopping to booking restaurants and messaging friends. Anthropic is challenging Meta and OpenAI in this space with its new Duet agent, designed to complete tasks that require taking multiple steps across several apps.\n\nAt the same time, Anthropic has landed at the center of ongoing concerns over the breakneck pace of AI advancement.\n\nLast month, CEO Dario Amodei called for an industry-wide slowdown to allow time for safety research, industry standards and regulation to catch up, a sentiment echoed by some other top AI leaders. His essay came after an employee resigned over fears that AI could pose a threat to humanity, and follows reports from Anthropic and its rivals of AI models hacking into other companies during testing.\n\nThis is a developing story. It will be updated.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-planned-ipo-c2f58908?eafs_enabled=false",
+      "text": "The listing could reportedly value the company up to $2 trillion"
+    },
+    {
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-09-16-gartner-forecasts-worldwide-ai-spending-to-grow-49-point-5-percent-in-2026",
+      "text": "Gartner."
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/tech/anthropic-claude-plugins-office-jobs",
+      "text": "rattled software stocks"
+    },
+    {
+      "url": "https://ramp.com/data/ai-index-august-2026",
+      "text": "Ramp reported"
+    }
+  ],
+  "hash": "18a0c3606706f3208f1a02623784a63747bf811ef926ef57f4b2a8b00e61ca1a",
+  "scraped_at": "2026-10-26T13:19:50.770084+00:00"
+}
