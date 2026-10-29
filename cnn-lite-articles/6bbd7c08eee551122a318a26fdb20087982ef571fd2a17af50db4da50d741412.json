@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/10/29/politics/ai-hardware-hacked-research-shows",
+  "title": "AI hardware can be hacked so chatbots provide dangerous answers, research shows | CNN Politics",
+  "date": "2026-10-29T13:21:26.483388+00:00",
+  "authors": [
+    "Sean Lyngaas"
+  ],
+  "text": "Source: CNN\n\nThe hardware underpinning major AI models can be hackedso that chatbots provide faulty and dangerous answers to questions from users, according to new research shared exclusively with CNN.\n\nThe researchers were able to subvert answers to sensitive national security and personal health questions. In one instance, they were able tovastly increasethe probability that an AI model assigns to a Chinese invasion of Taiwan by remotely tampering with the “weights” the model uses to process information. In another scenario, an AI model running the tampered hardwaretold a userseeking medical advice for chest pain to stay at home instead of going to the hospital.\n\nWhile much of the global anxiety over AI has centered on the actions of AI firms themselves, the research focuses on the security of the multibillion-dollar hardware industry the AI models run on. That includes the chips, memory and data center servers, all of which can affect a model’s behavior.\n\n“We can’t trust the [AI] model if we can’t trust the infrastructure it’s running on,” Yuriy Bulygin, chief executive of Eclypsium, the Portland-based firm that conducted the research, told CNN. The firm is staffed by security engineers who previously worked at hardware giants like Intel.\n\nEclypsium demonstrated the attack on a computing platform made by tech giant Nvidia. However, the attack scenario is not unique to Nvidia and could apply to other hardware and the code it runs, the researchers say.\n\nState actors like China, Russia or the US are capable of conducting a targeted attack on an AI user using the methods outlined in the research, according to Eclypsium. Security protections against such attacks are available, too.\n\n“We reviewed the hypothetical scenarios and did not identify anything the industry wasn’t previously aware of,” a Nvidia spokesperson told CNN, adding that the firm welcomed working with Eclypsium on the research. Strong memory access protections can block the attack path, the spokesperson noted.\n\nNvidia last monthannounceda new security platform designed to guard against hardware attacks and keep AI agents from going rogue. That new platform offers more security monitoring for AI agents, according to Eclypsium.\n\nThe effectiveness of security controls against attack scenarios outlined by the researchers “depends on how they are configured and used,” Eclypsium said in a statement to CNN. “We have been working with NVIDIA to ensure these controls are effective.”\n\nThe Eclypsium attack requires some technical know-how (which many AI agents can help with), and certain conditions to be met. The attacker generally needs to be on a network with access to either a data processing unit (DPU), a system on a chip that helps run data centers, or a baseboard management controller (BMC), a small computer used to manage servers remotely. Certain security configurations also have to be disabled. With access to the DPU, an attacker can read and modify code and data in the machine’s memory — and change the AI model’s behavior in the process. The attack takes less than a minute, and the user of the AI is none the wiser, the researchers said.\n\nCNN has asked Anthropic and OpenAI, whose models run on Nvidia chips, about the new research.\n\nThe research comes as the race for AI supremacy between China and the US has intensified and as real-world cases demonstrating AI’s implications for national security are multiplying.\n\nAnd there are concerns about the reliability of AI models, even when there is no suggestion they have been tampered with.This spring, a false AI-assisted US intelligence report about a purported Chinese ship transporting nuclear components almost led the US military to board the ship,CNN previously reported. A US military analyst queried a chatbot about intelligence on the ship’s manifest, and the chatbot falsely reported that the ship contained nuclear components. It was not clear whether the chatbot was a commercially available one or a US government product.\n\nPresident Donald Trump discussed AI last month at the White House with Chinese leader Xi Jinping, but the meeting did not produce a substantive accord on the technology. Trump has resisted calls for guardrails on advanced AI models out of concern that the US will fall behind China in the race for AI supremacy.\n\nThe new findings highlight another risk to the integrity of AI models following multiple reports of AI agentsgoing rogueand attacking governments and corporations alike.\n\n“Everybody’s talking about model safety, which is perfectly fine. Please do that,” Eclypsium senior vice president John Loucaides told CNN. “I just am trying to make sure that we don’t forget about all the computers it’s running on.”\n\nThe potential attack surface is vast. This summer, longtime cybersecurity researcher HD Mooredisclosedmultiple vulnerabilities in BMCs. Those very vulnerabilities offer a way into sensitive hardware systems in the research conducted by Eclypsium.\n\nEclypsium executives said they briefed the National Security Agency and the Cybersecurity and Infrastructure Security Agency on their findings. The two agencies are charged with protecting military and civilian federal computer networks, respectively. CNN has asked those agencies for comment.\n\nTwo independent hardware security experts who reviewed the Eclypsium findings at CNN’s request said that they were credibleand important to consider.\n\n“The attacks are fundamentally the same as any other [direct memory access] attacks and I don’t see any reason to doubt their findings or results,” said Joe FitzPatrick, a hardware security instructor and researcher.\n\nDominic Rizzo, senior fellow at the nonprofit Institute for Security and Technology, told CNN: “What [Eclypsium is] describing is a pretty general attack path on modern infrastructure and they are correct to point out that the solutions have to start much deeper in the stack.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.youtube.com/watch?v=P_OJWaznPOI",
+      "text": "vastly increase"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FgnRZkKMGwU",
+      "text": "told a user"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/28/business/nvidia-ai-safety-system",
+      "text": "announced"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "text": "CNN previously reported"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+      "text": "going rogue"
+    },
+    {
+      "url": "https://www.runzero.com/blog/bmc-research/",
+      "text": "disclosed"
+    }
+  ],
+  "hash": "6bbd7c08eee551122a318a26fdb20087982ef571fd2a17af50db4da50d741412",
+  "scraped_at": "2026-10-29T13:21:26.483401+00:00"
+}
