@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/10/30/business/binance-hackers-crypto-safety",
+  "title": "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last | CNN Business",
+  "date": "2026-10-31T12:49:26.410667+00:00",
+  "authors": [
+    "Analysis by Allison Morrow"
+  ],
+  "text": "Source: CNN\n\nFor years, the crypto industry has tried to shed its affiliation with crime while marketing itself as a safe alternative to traditional banking and investing. But once again,a record-shattering heistis deepening concerns about crypto’s vulnerabilities.\n\nOn Thursday, the world’s biggest crypto exchange, Binance, saw more than $6 billion siphoned from its system in the span of about 20 minutes. About half of those funds were linked to a kind of cryptocurrency known as stablecoins, which were quickly frozen by the firms that issue them. The other funds were tied up in digital tokens such as bitcoin and ether, which don’t have centralized governing authorities and are likely impossible to recover, according to crypto researchers.\n\nBinance’s losses could top $3 billion, according to researchers. While that is a small fraction of the exchange’s$155 billionin total user assets, it eclipses the $1 billion emergency fund Binance had set aside for situations like this. The company pledged to cover the losses with those emergency reserves and other assets, emphasizing that “user funds are safe.”\n\nBinance suspended deposits and withdrawals Thursday, just hours after a smaller security breach throttled operations at Polymarket, the crypto-powered prediction market. This was the second apparent hack of Polymarket since June and was likely unrelated to the Binance incident.\n\nSome 700 Polymarket users lost $2.7 million in unauthorized withdrawals, according to analytics firmBubblemaps. Like Binance, Polymarket promised to make customers whole.\n\nBut security experts warn that covering customer losses isn’t much of a long-term strategy.\n\n“The fact that Binance may have the balance sheet to absorb the damage is encouraging, but I wouldn’t confuse financial strength with operational security,” Ryan Kirkley, CEO of crypto infrastructure firm Global Settlement Network, said in an email.\n\n“We’re talking about the world’s largest crypto exchange relying on emergency freezes and reimbursement promises,” he said. “That’s a serious problem for an industry asking institutions to trust it with substantially more capital.”\n\nTo be sure, any business can be vulnerable to a cyberattack. But centralized exchanges like Binance have become high-value targets for hackers, in part because they exist outside the strict regulations that banks and other financial institutions must adhere to. And crypto has long been favored by criminal enterprises because it can move funds quickly and anonymously across borders.\n\nBinance, which was founded in China but lacks a fixed headquarters,pleaded guilty in 2023 to violatingUS federal anti-money-laundering rules, among other charges — a case that landed its Canadian founder, Changpeng Zhao, in prison for four months.Zhao was pardonedby President Donald Trump last year but remains legally prohibited from running Binance.\n\nAI isturbocharging security risksacross the internet.\n\nIn Thursday’s Binance hack, researchers at Chainalysis saidthey observed “laundering patterns we have not seen before” and that “thousands of transactions in a short period suggest that the attackers are using automation toobscure the trail of funds.”\n\nAnd despitea warm embracefrom the Trump administration, crypto remains a risky business with few regulations on the books. In the United States, the vast majority of people investing in crypto do so through centralized exchanges that lack the kind of federal deposit insurance provided by traditional banks.\n\n“Centralized exchanges pose a risk because they’re centralized… once that system gets hacked, everybody’s funds can be compromised,” said Iman Shafiei, founder ofKeystone Research Group, in an email.\n\nThe simplest protection, he said, is to not leave funds sitting on the same exchanges where you buy and sell. “The moment you want to hold, move your crypto to a self-custody wallet.”\n\nOf course, self-custody, in which a person manages their own digital wallet, comes with its own potential headaches. If an account holder loses their password, there is no customer service hotline to call and those funds are effectively gone. In 2021, Chainalysis estimated that around 20% of all the bitcoin ever created may be lost or stranded in wallets that account holders can no longer access.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl",
+      "text": "a record-shattering heist"
+    },
+    {
+      "url": "https://www.binance.com/en/square/post/36000248844457",
+      "text": "$155 billion"
+    },
+    {
+      "url": "https://x.com/bubblemaps/status/2115898329788014733?s=20",
+      "text": "Bubblemaps"
+    },
+    {
+      "url": "https://www.cnn.com/2023/11/21/investing/binance-changpeng-zhao-treasury/index.html",
+      "text": "pleaded guilty in 2023 to violating"
+    },
+    {
+      "url": "https://www.cnn.com/2025/10/23/politics/binance-founder-trump-pardon",
+      "text": "Zhao was pardoned"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/26/tech/ai-internet-safety-tips",
+      "text": "turbocharging security risks"
+    },
+    {
+      "url": "https://www.chainalysis.com/glossary/money-laundering/",
+      "text": "obscure the trail of funds"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/15/business/trump-crypto-bitcoin-legislation-clarity-act",
+      "text": "a warm embrace"
+    }
+  ],
+  "hash": "fef87e44a5b9f1c06d7bc00b3a7252c486182871f49c4ac47f9bd32d9665b5bb",
+  "scraped_at": "2026-10-31T12:49:26.410683+00:00"
+}

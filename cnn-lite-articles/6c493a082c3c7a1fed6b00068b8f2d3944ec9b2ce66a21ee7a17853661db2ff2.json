@@ -1,0 +1,30 @@
+{
+  "url": "https://lite.cnn.com/2026/10/29/economy/us-economy-pce-inflation-gdp",
+  "title": "Last snapshot of the US economy before midterms shows stronger growth but higher inflation | CNN Business",
+  "date": "2026-10-31T12:51:11.799147+00:00",
+  "authors": [
+    "Alicia Wallace",
+    "Elisabeth Buchwald"
+  ],
+  "text": "Source: CNN\n\nUS economic growth accelerated last quarter at its fastest pace in a year; however, rising gas prices helped to lift inflation in September to a four-month high, new data showed Thursday.\n\nThe Personal Consumption Expenditures price index rose 0.5% from August, bringing the annual rate of inflation to 3.6% from 3.4%, according to new Commerce Department data, well above the Federal Reserve’s 2% inflation target.\n\nThursday’s inflation data wasin line with economists’ expectations and echoed the trends seen in the SeptemberConsumer Price IndexandProducer Price Indexreports, which showed inflation remaining stubbornly high because of a war-driven energy shock as well as other price pressures.\n\nExcluding food and gas, categories that tend to be volatile, the core PCE price index rose 0.3% from August, lifting the annual rate to 3.1% from 3%.\n\nThe PCE price index is part of the Commerce Department’s monthly Personal Income and Outlays report, which includes comprehensive data on how Americans earn, spend and save.\n\nAmericans pumped the brakes on their spending last month, the report also showed. Consumer spending rose 0.5%, slowing from a gain of 0.9% the month before. When adjusting for inflation, consumer spending was flat from the month before.\n\nConsumer spending has held up despite broader economic shocks – including a war-driven spike in energy costs – but it has come partly at the expense of savings as income growth has slowed. Thursday’s report showed that the personal savings rate (savings as a percentage of after-tax income) fell 0.2 percentage points to 3.8%, the lowest rate in nearly four years.\n\nPersonal income grew 0.2% from August, slowing from a rate of 0.3%. However, US households are taking home less: Inflation-adjusted after-tax income fell 0.3% from September, Commerce Department data shows.\n\n“It’s easy to talk on the aggregate and say the consumer is really holding the economy aloft, and in many ways they are, but that’s not uniform across households,” said Elizabeth Renter, lead economist at Life360 and former senior economist at NerdWallet. “Obviously, some households are going to feel a lot more stress from the higher inflation than others.”\n\nSeparately on Thursday, the Commerce Department reported that US economic growth accelerated during the third quarter, with gross domestic product expanding at a 3.4% inflation-adjusted annualized rate, a faster pace than the 3.0% rate economists had projected. GDP captures the value of all goods and services across the economy.\n\nLast month, the central bank raised rates for the first time in three years. But the rate increase has yet to slow business investment as companies looked to build up more AI-related infrastructure last quarter. Business investment skyrocketed last quarter to an annualized pace of 12.7% from 9% in the prior quarter.\n\nUS consumers also played a large part in boosting the economy, with spending remaining at a robust 3.8% annualized pace. Consumer spending accounts for more than two thirds of US GDP.\n\nBut US economic growth would have been even higher had exports not declined by 5.7% last quarter. In calculating GDP, the government factors in the value of total exports minus total imports.\n\nThat means that when the value of exports exceeds that of imports, it helps lift overall GDP. And last quarter there was an especially large gap between the two, with imports surging to a nearly 20% annualized pace, a likely reflection of businesses stockpiling ahead ofCanadian tariffstaking effect, combined with data center-related purchases.\n\nStill, the past quarter’s strong growth story gives the Fed more of a runway to combat rising prices by increasing interest rates by at least a quarter point at its next monetary policy meeting in December.\n\nThe latest reports land a day afterFed policymakers left interest rates unchanged, indicating a desire to consider more economic data before making their next policy move.\n\n“The AI boom and the irrepressible American consumer are keeping the economy from cooling, even as monetary policy becomes more restrictive,” said Olu Sonola, head of US economics at Fitch Ratings. “The Fed is tightening the screws, but the economy has yet to get the memo. If the Fed needed another reason to hike in December, this report just gave it one.”\n\nCNN’s Matt Egan contributed to this report.\n\nCNN’s Matt Egan contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://us.cnn.com/2026/10/14/economy/us-cpi-inflation-september",
+      "text": "Consumer Price Index"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/15/economy/us-retail-sales-wholesale-inflation-ppi-september",
+      "text": "Producer Price Index"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/25/business/canada-us-tariffs-american-consumers",
+      "text": "Canadian tariffs"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october",
+      "text": "Fed policymakers left interest rates unchanged"
+    }
+  ],
+  "hash": "6c493a082c3c7a1fed6b00068b8f2d3944ec9b2ce66a21ee7a17853661db2ff2",
+  "scraped_at": "2026-10-31T12:51:11.799164+00:00"
+}
