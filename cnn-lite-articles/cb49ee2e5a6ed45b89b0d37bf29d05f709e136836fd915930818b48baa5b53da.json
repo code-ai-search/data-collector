@@ -1,0 +1,22 @@
+{
+  "url": "https://lite.cnn.com/2026/11/03/politics/exit-polls-voter-poll",
+  "title": "Exit polls have become the CNN Voter Poll. Here’s what that means | CNN Politics",
+  "date": "2026-11-03T14:28:47.197188+00:00",
+  "authors": [
+    "Jennifer Agiesta",
+    "Ariel Edwards-Levy"
+  ],
+  "text": "Source: CNN\n\nCNN’s Election Nightcoveragehas for decades featured the results of surveys, known as exit polls that aim to explain how and why voters made their decisions. This year, those surveys are changing and they have a new name.\n\nThe CNN Voter Poll incorporates traditional in-person exit polling techniques alongside a robust, large-sample nationwide survey fielded before Election Day. The two sample sources combined will yield an in-depth look at the electorate nationally as well as in the 45 states holding US Senate or governor elections this midterm.\n\nThe earliest results from the Voter Poll will be reported after 5 p.m. ET on Election Day. Data that could characterize the outcome of a race is not reported until after the polls have closed. And as in the past, the results of the survey will change throughout the night as additional interviews are conducted and, later on, as the data is adjusted to reflect the results of the election.\n\nThe Voter Poll is based on interviews with roughly 100,000 voters and is conducted by SSRS on behalf of CNN and other major news organizations, including ABC, the Associated Press, CBS, Fox News, MS NOW and NBC.\n\nLike the exit polls that CNN has relied on in the past, the Voter Poll helps us better understand who came out to vote, how different groups of people voted and how they feel about some of the biggest issues of the campaign.\n\nIt incorporates several different survey techniques to represent voters regardless of how or when they choose to cast their ballots.\n\nNearly 80,000 voters participated in the pre-election survey, which was conducted between October 19 and November 3. These voters came from several sources. Some were chosen randomly from a list of registered voters across the country, and were contacted by postcard, telephone, text message or email and invited to take the survey. Others came from online panels of people who are signed up to take surveys through SSRS or Verasight, but were also matched back to the same voter file.\n\nSince all survey participants were connected back to the voter file, researchers conducting the poll have the same basic information about whether they’ve voted in the past as well as demographic and political traits for all people who took the poll. They can use that information to assess how likely each respondent is to actually turn out to vote and to ensure the surveys are representative through a process called weighting.\n\nThose voters who participated in the survey but were not verified as having cast a ballot before Election Day are then recontacted on Election Day or just before to confirm that they did indeed cast a ballot and to check whether their vote choice remains the same.\n\nIn 15 states with highly competitive races, those pre-election interviews are then combined with Election Day exit polls conducted in-person, by distributing paper questionnaires to a randomly selected set of voters chosen from voting locations around each state. The polling locations were themselves selected through random sampling, meaning the resulting interviews should be representative of Election Day voters across the state. Roughly 22,000 voters are expected to be interviewed this way.\n\nRespondents to both pre-election and Election Day surveys were able to complete the poll in either English or Spanish. Results for the full national sample have a margin of error of plus or minus 0.6 percentage points; it is larger for subgroups and in individual states. More details on the methodology of the Voter Poll are availablehere.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/11/01/politics/midterms-cnn-election-coverage",
+      "text": "coverage"
+    },
+    {
+      "url": "https://ssrs.com/wp-content/uploads/2026-Voter-Poll-Methods-Statement.pdf",
+      "text": "here"
+    }
+  ],
+  "hash": "cb49ee2e5a6ed45b89b0d37bf29d05f709e136836fd915930818b48baa5b53da",
+  "scraped_at": "2026-11-03T14:28:47.197204+00:00"
+}

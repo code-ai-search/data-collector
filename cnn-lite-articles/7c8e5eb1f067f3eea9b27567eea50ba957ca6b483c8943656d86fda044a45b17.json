@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai",
+  "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning | CNN Business",
+  "date": "2026-11-03T14:29:58.552186+00:00",
+  "authors": [
+    "Lisa Eadicicco"
+  ],
+  "text": "Source: CNN\n\nPeople already use OpenAI’s ChatGPT for things like helping with homework and creating presentations.\n\nNow, the tech giant claims its AI models are getting better at everyday tasks largely left up to humans — like shopping and creating a budget.\n\nOpenAI on Monday announced a new internal tool for assessing how AI handles tasks like these, along with research on how its own models performed. OpenAI claims its GPT-6 Astra model scored 93.1% at finding the right kindergarten after moving, a 98% score at managing community volunteers preparing for a flood and a 90.4% score at creating a meal plan for a parent recently diagnosed with diabetes.\n\nThe new benchmark comes at a time when OpenAI faces fierce competition from Meta, Anthropic and Google — all of which are racing to developAI agentsthat can handle real-world tasks. OpenAI and its rivals are also grappling with AI safety concerns and pressure to turn a profit from their massive investments in the technology.\n\nBut first, OpenAI had to come up with a way to figure out whether ChatGPT is actually any good at errands like putting together a grocery cart and filling out online forms.\n\n“Because so many people are using the app, we want to capture all the different use cases and the ways that they’re using it, and really understand like how we’re improving over time,” Jenny Yang, a researcher at OpenAI, told CNN ahead of the evaluation’s release. “What are the things that we’re not so good at yet? And how do we just like make this technology better for people?”\n\nStandardized evaluations are critical in AI development because AI labs use them as guidance to train and optimize their models to improve in specific areas. Last year, OpenAI released a benchmark calledGDPValto measure how AI performs in work-related skills across industries like manufacturing, government work, finance and sales,among others.\n\nThe new benchmark could be critical in OpenAI’s push to stay ahead of the competition by turning ChatGPT from a tool for generatingcontent to an assistant that can get things done on users’ behalf.\n\nBut measuring how AI performs in everyday life presents new challenges. The steps and skills required to adequately shop for groceries or pick out the right kindergarten for a child are broad and vague. And the results can be subjective.\n\nEven figuring out what tests to come up with can be difficult because many people use AI differently, and an AI agent’s answers can vary depending on the information it’s given.\n\nOpenAI started by looking at broad surveys breaking down how people spend most of their time, like the Bureau of Labor Statistics’American Time Use surveyand the United Kingdom’sMultinational Time Use Survey. The problem, however, was that some of the things that topped the list weren’t tasks that AI could help with, like sleeping or eating.\n\nSo OpenAI asked ChatGPT users: What kinds of things do you wish an AI assistant could help with?\n\nThe company surveyed around 4,000 people and had a smaller group of about 100 users write down tasks they wanted AI to do for them, and what personal context they would give the AI model to get the desired result. They also asked the users to come up with a rubric for evaluating whether the AI model successfully completed the task.\n\nOpenAI also made sure ChatGPT users had a thorough understanding of the task they were proposing. For example, a person suggesting a test related to how AI handles financial planning should have experience working with a financial advisor for multiple years.\n\nYang said they had a strict list of requirements.\n\n“You had to like have evidence that you were some kind of like expert or really understood what the right answer looked like for you,” she said.\n\nThe tasks that OpenAI is testingcan vary widely — from apartment hunting to caring for a loved one. So,what exactly is OpenAI measuring?\n\nIt’s evaluating the types of skills the model would need to get the right answer, like how well it can navigate websites, apply context by looking at large troves of information in a user’s chat history and make conclusions that align with a user’s needs and expectations.\n\nOpenAI’s testing indicates its GPT-6 Astra model, which was released in September, scored 80% on general performance related to prompts involving everyday tasks. Its GPT-5.2 model from December 2025 scored just 49.3%.\n\n“There’s just so much information, and a better model would be able to sift through that quickly and really pull out the most relevant pieces,” said Yang.\n\nOpenAI wants ChatGPT to play a more prominent role in everyday life, but it’s facing an onslaught of competitive pressure — particularly from Meta.\n\nMeta’s Muse agent, which launched in September,amassed 10 million downloads in the United States in its first 40 days, making it one of the few apps to achieve that milestone, according to market intelligence firm Sensor Tower. OpenAI introduced its Dots agent, which it says can work on long-running tasks in the background while users go about their day, within the same month. And Anthropic announced its new AI agent app, Claude Duet, in October.\n\nThe race to develop personal AI agents also comes as the technology has raised safety concerns following a string of incidents in which AI models broke out of testing environments and breached companies’ systems. Those incidents occurred during testing, not with consumer products, but still raised questions about whether the technology is moving too fast.\n\nThere’s also the question of whether people will rely on AI too much, and how to draw boundaries when figuring out which tasks to outsource to AI. An anecdote former Yahoo CEO Marissa Mayer shared withThe New York Timesof how she used AI to summarize what makes her daughter special for a school projectdrew criticismonline.\n\nTo Yang, the goal is to create AI models that can help people get more time back in their day by either cutting out time-consuming errands — like returning a package or helping them learn a new skill.\n\n“I think there’s so many cases like this where being able to use AI just empowers you to do things that you wouldn’t have been able to do, or just makes your life easier overall,” said Yang. “And I think that’s like the main use case that we’re really excited about.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.google.com/goto?url=CAESeQHrOzAVrDbdDEssA6C5XGQQl-lqpfQfDZ5TyOnpQ77KFwWR5KFbwuc5Qp6nSlgiiAIAYX5AqFsR1wIR8nkdXdZQ06_DNOOkwOxhXIY39iHl01u5yM2DW5CSNHZaXhU1Zq47Yvp8ICrc-wLpd15SqTvHItcu5AGd0Rw",
+      "text": "AI agents"
+    },
+    {
+      "url": "https://openai.com/index/gdpval/",
+      "text": "GDPVal"
+    },
+    {
+      "url": "https://www.bls.gov/tus/latest-numbers.htm",
+      "text": "American Time Use survey"
+    },
+    {
+      "url": "https://www.timeuse.org/mtus",
+      "text": "Multinational Time Use Survey"
+    },
+    {
+      "url": "https://www.google.com/goto?url=CAEScQHrOzAVsXIrK4dXbLjXJ-TAnE7dAJRyGT1uHnQTehDiwoo9bMVX9zVmUc9VqO5dRQTpkjgvwa_iPLr1YXOIn11f4nOHNtbJaPYy0hKF3gCmJBUeHqsbiXOVoZX2HoWJ1qczXSvOBstGqXoAVrjK-apc",
+      "text": "Meta’s Muse agent"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
+      "text": "The New York Times"
+    },
+    {
+      "url": "https://fortune.com/2026/10/27/marissa-mayer-dazzle-ai-controversy-daughter-nyt-interview-backlash/",
+      "text": "drew criticism"
+    }
+  ],
+  "hash": "7c8e5eb1f067f3eea9b27567eea50ba957ca6b483c8943656d86fda044a45b17",
+  "scraped_at": "2026-11-03T14:29:58.552200+00:00"
+}
