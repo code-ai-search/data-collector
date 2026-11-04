@@ -1,0 +1,57 @@
+{
+  "url": "https://lite.cnn.com/2026/11/03/tech/google-ai-search-policy",
+  "title": "Google will let schools turn off AI, but they may also lose Search | CNN Business",
+  "date": "2026-11-04T14:43:36.769955+00:00",
+  "authors": [
+    "Clare Duffy"
+  ],
+  "text": "Source: CNN\n\nGoogle is rolling out new controls for schools to limit students’ access to the company’s AI tools. But if schools opt out of AI altogether, they’ll also lose access to Google Search.\n\nThe policy change could mark a major shift in how students and educators interact with one of the biggest providers of education technology in the world. Google’s Chromebook laptops are used by tens of millions of students, sometimes starting in kindergarten.\n\nThe move comes as many communities have pushed for stricter limits on screen time and AI use in schools, amid growing fears that the technology could stunt students’ learning and development or posesafety risks.A number of school districts, includingNew York City and Los Angelespublic schools, banned generative AI tools for many or all students this school year.\n\nGoogle on Tuesday said its products that use AI, like its Gemini assistant and Google Search, will be off by default for K-12 student accounts, until school administrators “explicitly turn them on.” The change reverses an earliermove by Google in Augustto turn on Gemini by default in its Google Classrooms app.\n\nBut now, if schools want to turn off AI entirely, they’ll also lose access to Google Search.\n\nThe company said the changes are in response to calls from educators and policymakers for more control over AI tools.\n\nChris Phillips, vice president of education at Google, told theNew York Timesthat “search and A.I. are deeply integrated,” and that schools that ban AI “will not have access to search, and they’ll see a message from their school that indicates it’s not available.”\n\nGoogle has made AI central to Search in recent years — adding“AI overviews”summarizing answers at the top of many results pages and expanding thesize of the search barto accommodate longer queries.\n\nGoogle’sTuesday blog postdoes not offer specifics on how these controls will work, or what students might see if they tried to access Google Search from a school that has banned AI. Phillips wrote in the post that the company will “share more specifics with schools in the coming months ahead of the changes rolling out so they have time to prepare and enable a smooth transition.”\n\nIn response to questions from CNN about how the new controls would work, Google pointed to a Tuesday afternoonpost on Xin which the company said the policy change would give schools “more choice, not less.” It added that schools would be able to toggle on Gemini, Gemini Notebook and Search individually.\n\nBut the post still implies that schools will not be able to use Search without AI features, saying: “AI Mode and AI Overviews will offer step-by-step guided learning through problems, so that students don’t get quick answers to schoolwork.”\n\nThe policy change came as part of a larger announcement by Google about a slate of updates to its AI tools for learning, based on the idea that the technology should help students work through problems rather than simply giving them answers. Under this new “guided learning” principle, Google says that when its systems detect, for example, that a student is using Search for homework help, they’ll be prompted to walk through the problem or topic step-by-step rather than receiving a single answer.\n\nIt’s an approach also being taken by other AI companies, as they seek to convince educators and parents that their products are valuable learning tools, and that experience with AI in school is essential to success in the workforce later.\n\nOpenAI in August announced“ChatGPT for Teens”which, in addition to safety controls, focuses heavily on learning, allowing parents and teens to turn on “Study Mode” to work through questions. Many tech companies have also providedfunding to train teachersin AI.\n\nNew York Mayor Zohran Mamdani, who announced the New York Public Schools AI ban this year, responded to Google’s policy change by accusing the company of trying to “force” AI into schools.\n\n“No corporation should have the power to dictate how we teach our children,” he said in anX postTuesday.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/03/11/americas/ai-chatbots-help-teen-test-users-plan-violence-tests-intl-invs",
+      "text": "safety risks."
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/02/tech/new-york-city-classroom-ai-ban",
+      "text": "New York City and Los Angeles"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
+      "text": "move by Google in August"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?unlocked_article_code=1.NlE.VMKr.Cr-g-C6phyfH&smid=url-share",
+      "text": "New York Times"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4WgxWlcf1Xw&t=158",
+      "text": "“AI overviews”"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search",
+      "text": "size of the search bar"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "text": "Tuesday blog post"
+    },
+    {
+      "url": "https://x.com/NewsFromGoogle/status/2117714815477059722",
+      "text": "post on X"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/18/tech/openai-chatgpt-for-teens",
+      "text": "“ChatGPT for Teens”"
+    },
+    {
+      "url": "https://www.cnn.com/2025/07/08/tech/ai-teacher-training-academy-microsoft-openai-anthropic",
+      "text": "funding to train teachers"
+    },
+    {
+      "url": "https://x.com/NYCMayor/status/2117692668213940677",
+      "text": "X post"
+    }
+  ],
+  "hash": "fb6ff68f9f7af14cd7ffd712508d7a0238d38c1a1c828290f2ef3940f505a108",
+  "scraped_at": "2026-11-04T14:43:36.769970+00:00"
+}
