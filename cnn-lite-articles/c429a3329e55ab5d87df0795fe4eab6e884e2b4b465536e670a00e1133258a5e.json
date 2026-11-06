@@ -1,0 +1,30 @@
+{
+  "url": "https://lite.cnn.com/2026/11/05/politics/democrats-senate-midterm-election-data",
+  "title": "Ossoff, Talarico would have won with no Election Day votes | CNN Politics",
+  "date": "2026-11-06T14:26:56.735536+00:00",
+  "authors": [
+    "Analysis by Aaron Blake",
+    "Dianne Gallagher"
+  ],
+  "text": "Source: CNN\n\nHow dominant were Democrats in the 2026 election?\n\nSo dominant that they could have won some marquee races even if literally none of their voters showed up on Election Day.\n\nThat was true in Senate races in Georgia, North Carolina and Texas. And it could also be true of the Arizona governor’s race.\n\nIn each one, more voters voted for the Democrat via early voting and absentee and/or mail voting than voted in total for the Republican — including all methods of voting. In each race, the Democrat appears to have won by 10 or more percentage points.\n\nIn Georgia,returnsfrom the secretary of state show Sen. Jon Ossoff getting about 1,772,000 votes from early and absentee voting, compared to about 1,712,000 total votes for his opponent, GOP Rep. Mike Collins.\n\nOssoff’s current lead stands at 18 points.\n\nIn Texas,datafrom the secretary of state shows Democratic Sen.-elect James Talarico got 4.4 million early votes, compared to 4.25 milliontotalvotes for GOP state Attorney General Ken Paxton.\n\nTalarico surprised many by winning his race by double digits — in a state where Democrats hadn’t won a statewide office since 1994.\n\nIn North Carolina,datafrom the State Board of Elections shows Democratic former Gov. Roy Cooper receiving about 1,728,000 early in-person votes, compared to about 1,643,000 votes total for Republican Michael Whatley.\n\nCooper didn’t even need absentee votes to beat Whatley. His early vote total trumped Whatley’s total from early, absentee and Election Day voting. President Donald Trump came to the state repeatedly to try to help Whatley, and Cooper is currently winning by 20 points. He is the first Democrat North Carolina has elected to the Senate since 2008.\n\nThe stats reinforce just how crucial the early vote is to Democrats, in particular. Democratic voters remained significantly more likely to vote early than Republicans in these midterms.\n\nIn Texas, Talarico is currently getting more than 80% of his vote total from early votes. And in North Carolina, Cooper is getting 73% of his votes outside of Election Day voting.\n\nThe early vote dominance could also be the case in a governor’s race in another swing state: Arizona.\n\nThere, thelatest resultsshow Democratic Gov. Katie Hobbs getting more than 1 million early votes, compared to 960,000 total votes for Republican Rep. Andy Biggs. Hobbs currently leads in her reelection race by 11 points.\n\nThose numbers could shift, though, as the state has counted an estimated 86% of its vote.\n\nThe numbers are particularly striking given all of these races were once considered competitive. Three of them are in presidential swing states, while Texas has long been a red state.\n\nAnd, if nothing else, the stats reinforce just how much US elections are now conducted outside of Election Day — and how parties could have major races in difficult states like these locked up before the regular polls even open.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+      "text": "returns"
+    },
+    {
+      "url": "https://goelect.txelections.civixapps.com/ivis-enr-ui/contestdetails?officeID=5075&officeName=U.%20S.%20SENATOR%20&officeType=FEDERAL%20OFFICES&from=race",
+      "text": "data"
+    },
+    {
+      "url": "https://er.ncsbe.gov/contest_details.html?election_dt=11/03/2026&county_id=0&contest_id=1383",
+      "text": "data"
+    },
+    {
+      "url": "https://app.enhancedvoting.com/results/public/Arizona/elections/110326GeneralElection?cg=State",
+      "text": "latest results"
+    }
+  ],
+  "hash": "c429a3329e55ab5d87df0795fe4eab6e884e2b4b465536e670a00e1133258a5e",
+  "scraped_at": "2026-11-06T14:26:56.735555+00:00"
+}
