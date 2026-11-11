@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/11/11/science/early-universe-simulation-lumina",
+  "title": "Lumina simulation sheds light on how the early universe evolved | CNN",
+  "date": "2026-11-11T14:33:52.592813+00:00",
+  "authors": [
+    "Taylor Nicioli"
+  ],
+  "text": "Source: CNN\n\nPowerful observatories such as NASA’s James Webb Space Telescope offer glimpses ofgalaxiesthat formed when the universe was still young, but new supercomputer simulations are helping fill the gaps in the mysterious early history of the cosmos.\n\nNow, a team of international researchers has developed one of the most detailed models yet of the early universe, according to a recent study published in the scientific journalMonthly Notices of the Royal Astronomical Society.\n\nThe new simulation, called Lumina, re-creates how the first stars and black holes drovereionization,a pivotal but enigmatic phase that transformed the universe. Following the big bang, ultraviolet radiation from these early light sources stripped electrons from hydrogen atoms, the most common element in space,allowing light to travel farther and changing how galaxies formed.\n\nThe early universe has become an exciting new frontier for astronomers seeking to understand how the cosmos evolved into what it is today. Because light takes time to travel through space, powerful telescopes capture distant galaxies as they appeared billions of years ago. But studying such a long stretch of cosmic history requires simulations on a similarly vast scale. That’s where models such as Lumina come in.\n\nOne of Lumina’s most promising features is its enormous scale, covering more than 100 times as much space as earlier simulations, said lead author Oliver Zier, a postdoctoral research fellow at the Institute for Theory and Computation at the Center for Astrophysics, Harvard & Smithsonian, in Cambridge, Massachusetts.\n\n“We have a cosmological volume where you can see this cosmic web, how galaxies are clustered. At the same time, we resolve individual galaxies,” Zier said, referring to the simulation’s ability to capture both space’s vastness and intricate details.\n\nThe simulation also can be used to test ideas about how the universe evolved. Scientists can compare the early universe scenario modeled in Lumina with observations from telescopes such as the James Webb Space Telescope. If the results match, scientists can gain more confidence in their theories.\n\n“But it’s actually more interesting if they don’t agree, because then that means that there’s something missing in our model, and that might give hints to missing physics,” Zier said.\n\nSuch discrepancies could offer clues to the universe that scientists have yet to understand fully.\n\nLumina spans a region roughly 1.5 billionlight-yearsacross in each direction. For comparison, the Milky Way is about 100,000 light-years wide,according to NASA.\n\nThe massive model took nearly three years to complete, using more than 15,000graphics processing unitson Frontier — a supercomputer at Oak Ridge National Laboratory in Tennessee — to provide the computing power needed for such a feat.\n\nLumina has not been fully released for the public, but videos of the simulation highlight how vast space really is, zooming in on individual galaxies and then pulling back to show how tiny they are in comparison with others across the cosmos. Earth may seem giant, but it’s just one of many planets in the Milky Way, which is one of countless galaxies in the universe, Zier said.\n\n“Even though Lumina is very big, it’s still only a very small part of the universe,” he added.\n\nFor the first time, Lumina allows researchers to study how changes in both hydrogen and helium — the second most common element in space — transformed the early cosmos in a single simulation.\n\n“Lumina is a really impressive technical achievement,” said Julian Muñoz, an assistant professor of astronomy at the University of Texas at Austin who was not involved in the new study.\n\n“Simulations of how the first galaxies form and ionize the early universe are expensive, so they typically only follow fairly small patches of the cosmos for a limited time. Lumina is both bigger in size and runs for a longer cosmic time than past detailed simulations of this kind,” Muñoz said in an email.\n\nThe early universe did not change uniformly. Some regions evolved faster than others, and Lumina’s immense scale allows researchers to see how different regions shifted over time, Muñoz said.\n\nHe added that the simulation could help scientists study how ordinary matter and dark matter moved differently through space.\n\nComputer models of how the first galaxies took shape often focus on interactions between three key cosmic ingredients: ordinary matter, the stuff that makes up stars, planets and people; dark matter, an invisible substance that accounts for most of the universe’s matter; and radiation.\n\nUnlikedark matter, ordinary matter interacts with light, which causes the two types of matter to move at different speeds. Early in the universe’s history, these differences left cosmic patterns that stretch across millions of light-years. Although these patterns cannot be observed directly through telescopes, the variations can be mapped in simulations like Lumina, allowing scientists to investigate how the dynamics of matter may have shaped the early cosmos, Muñoz said.\n\nThe simulation could help researchers study rare galaxies that smaller models might miss, said Ilian Iliev, a professor of astrophysics at the UK’s University of Sussex, who was not involved in the study.\n\nIliev said he looks forward to seeing how Lumina and new telescope observations can complement each other to build a fuller, more accurate picture of the universe.\n\nTaylor Nicioli is a freelance journalist based in New York.\n\nSign up forCNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/05/23/science/milky-way-loki-galaxy",
+      "text": "galaxies"
+    },
+    {
+      "url": "https://academic.oup.com/mnras/article/552/4/stag1469/8971942",
+      "text": "Monthly Notices of the Royal Astronomical Society"
+    },
+    {
+      "url": "https://science.nasa.gov/asset/hubble/helium-reionization-in-the-early-universe/",
+      "text": "reionization,"
+    },
+    {
+      "url": "https://www.cnn.com/2023/03/31/world/bill-nye-light-year-scn",
+      "text": "light-years"
+    },
+    {
+      "url": "https://science.nasa.gov/universe/exoplanets/our-milky-way-galaxy-how-big-is-space/",
+      "text": "according to NASA"
+    },
+    {
+      "url": "https://www.ibm.com/think/topics/gpu",
+      "text": "graphics processing units"
+    },
+    {
+      "url": "https://www.nasa.gov/missions/webb/nasa-reveals-new-details-about-dark-matters-influence-on-universe/",
+      "text": "dark matter"
+    },
+    {
+      "url": "https://www.cnn.com/newsletters/wonder-theory?source=nl-acq_article",
+      "text": "CNN’s Wonder Theory science newsletter"
+    }
+  ],
+  "hash": "96cf6a05bdb84395768b363e81ec1ec940cb450b32dfec07ac120ef876df7372",
+  "scraped_at": "2026-11-11T14:33:52.592829+00:00"
+}
