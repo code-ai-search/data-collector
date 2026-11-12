@@ -1,0 +1,26 @@
+{
+  "url": "https://lite.cnn.com/2026/11/11/politics/lutnick-bessent-confrontation-megaspeed-nvidia",
+  "title": "Bessent confronts Lutnick over not labeling Nvidia customer a national security threat, sources say | CNN Politics",
+  "date": "2026-11-12T15:28:01.942015+00:00",
+  "authors": [
+    "Adam Cancryn",
+    "Kevin Liptak"
+  ],
+  "text": "Source: CNN\n\nTreasury Secretary Scott Bessent challenged Commerce Secretary Howard Lutnick over his department’s reluctance to label Nvidia customer Megaspeed a possible national security threat in a Situation Room confrontation last week that illustrates the tension inside the Trump administration over Chinese access to Nvidia’s advanced chips, two people familiar with the matter told CNN.\n\nTrump officials have long harbored concerns that Megaspeed has circumvented US law and funneled advanced chips into China — a prospect that Treasury staffers argued should land it on Commerce’s so-called entity list of China-connected companies that could pose national security risks. But the issue gathered newfound attention and importance in recent days whenNvidia CEO Jensen Huang admitted to an affairwith a Megaspeed employee suspected of being a Chinese spy.\n\nSenior Trump officials, including Lutnick, also were briefed months ago about Huang’s relationship with Alice Huang, a Megaspeed executive who the intelligence community suspected of being a Chinese spy, people familiar with the matter said.\n\nBut despite those warnings, Commerce has so far refused to put Megaspeed on the entity list, the people said.\n\nConfronted on it by Bessent last Thursday, Lutnick did not immediately commit to taking any specific action, they said.\n\nAxiosfirst reportedthe Situation Room confrontation.\n\nMegaspeed is a Singapore-based company that was originally incorporated in 2015 as a Chinese video game developer called 7Road International. But in the three years since Alice Huang became director and the company changed its name, ithas become one of the largest buyers of Nvidia chips in Asia, purchasing more than $4 billion worth of its semiconductors, by some analyst estimates.\n\nMegaspeed has denied any wrongdoing and said it is a “compliant and legal company.” China’s Ministry of Foreign Affairs called the allegations that Alice Huang was a Chinese spy “groundless speculation and an attempt to smear and malign China.”\n\nThe entity list represents one of the US’s most significant tools for preventing American firms from selling their products to foreign companies and organizations. But adding Megaspeed to the list could also risk inflaming tensions with China amid Trump’s efforts to manage the US’ trade relationship with the fellow superpower. The Commerce Department hasn’t added any company to the list in more than a year.\n\nRepresentatives for the Treasury and Commerce departments did not immediately respond to requests for comment.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang",
+      "text": "Nvidia CEO Jensen Huang admitted to an affair"
+    },
+    {
+      "url": "https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips",
+      "text": "first reported"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/10/china/nvidia-china-spy-scandal-hnk-intl",
+      "text": "has become one of the largest buyers of Nvidia chips in Asia"
+    }
+  ],
+  "hash": "39ea7c23b43ebf2fde38ef836bb20fa85a2e1492770c8bb49e62dece6efbf91f",
+  "scraped_at": "2026-11-12T15:28:01.942031+00:00"
+}
