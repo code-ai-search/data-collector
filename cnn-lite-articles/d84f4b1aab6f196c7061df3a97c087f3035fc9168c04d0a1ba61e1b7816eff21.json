@@ -1,0 +1,32 @@
+{
+  "url": "https://lite.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
+  "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world | CNN Business",
+  "date": "2026-11-14T13:41:27.580949+00:00",
+  "authors": [
+    "Brian Stelter",
+    "Hilary Whiteman",
+    "Ramishah Maruf",
+    "Chris Isidore"
+  ],
+  "text": "Source: CNN\n\nFriday update: Outlook is still down for some, but Microsoft says it is seeing “encouraging recovery progress.” CheckCNN’s live storyfor the latest details.\n\nA massive Microsoft outage that has left people around the world without access to Outlook email, Teams meeting tools and other staples of modern office life is nearly fixed, according to the latest word from the company.\n\nMicrosoft has apologized for the outage, which could end up costing billions in lost productivity. Microsoft said the outage was caused by a “technical issue” rather than anycybersecurity breach. “The incident was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change,” the company said.\n\nThe company reported that queues of emails waiting to be delivered are “significantly reduced and approaching normal levels.”\n\nProblems started midday Thursday on the US East Coast, and quickly spread around the globe. As many as 430 million users were reportedly affected at some point.\n\nIn the United States, some companies’ frustrated workers went home early on Thursday. In Australia, businesses couldn’t print invoices and some schools couldn’t hold online classes on Friday.\n\nAnd there was no quick fix. As of 10:30 p.m. ET on Thursday, the outage was still widespread, affecting untold millions of people.\n\n“We are deeply sorry for the disruption this incident has caused our customers and partners,” Microsoft said in aposton X around 1 p.m. ET on Friday. “We are seeing broad recovery and stability across our services.”\n\n“We have addressed the underlying issue and continue to restore service to remaining customers and regions,” the company added. “Given the scale of demand, we restored services gradually, validating stability at each stage. While this took longer, it helped ensure a stable restoration.”\n\nThe disruption has caused a wide range of reactions. Some US office workers celebrated the email blackout and joked that they could start the weekend early. Others barely missed a beat, connecting with colleagues via Slack, phone and even the old-fashioned way: in-person.\n\nBut small businesses scrambled for Microsoft alternatives to communicate. Local governments alerted constituents to call instead of email.\n\nThe outage could cost$7 billionin lost productivity, according to an estimate by Anderson Economic Group, a Michigan-based think tank. Patrick Anderson, the firm’s president, said that perhaps as many as 26 million users on Thursday and 51 million users on Friday have actually seen their operations disrupted in a way that caused an economic loss. And he said the cost will likely increase beyond this initial estimate.\n\nIn Australia, Friday began with a realization that the Microsoft cloud was unresponsive. The outage took out live feeds from courts, and schools texted parents to phone in any absences until email systems were restored.\n\nAustralia’s national broadcaster, ABC, reported people missing job interviews because they couldn’t connect to virtual meetings, and even some supply issues with distribution centers stocking supermarkets due to the outage.\n\nAt first, Microsoft said the connection issues were happening “in the Americas,” but over time, it became clear the troubles were global.\n\nDowndetector showed a peak of 130,000 reports about Outlook outages, but that figure understated the scope of the problem, since most people do not report their experiences.\n\nThis story has been updated with additional content.\n\nThis story has been updated with additional content.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "text": "CNN’s live story"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk?post-id=cmweih4er00003b6t1y89obnx",
+      "text": "cybersecurity breach"
+    },
+    {
+      "url": "https://x.com/MSFT365Status/status/2121303408313303423?a=TtWdKC1yWOfdyR9OcxQ&s=20",
+      "text": "post"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk?t=1794588874265&post-id=cmwf6e7el00003b6txhzlcvvg",
+      "text": "$7 billion"
+    }
+  ],
+  "hash": "d84f4b1aab6f196c7061df3a97c087f3035fc9168c04d0a1ba61e1b7816eff21",
+  "scraped_at": "2026-11-14T13:41:27.580967+00:00"
+}
