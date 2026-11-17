@@ -1,0 +1,37 @@
+{
+  "url": "https://lite.cnn.com/2026/11/15/business/political-and-corporate-x-posts-have-links-redirecting-to-vulgar-racist-or-random-websites",
+  "title": "Political and corporate X posts have links redirecting to vulgar, racist or random websites | CNN Business",
+  "date": "2026-11-17T16:17:44.322104+00:00",
+  "authors": [
+    "Auzinea Bacon"
+  ],
+  "text": "Source: CNN\n\nSome website links included in the X posts of politicians, government agencies and companies were redirected this weekend to unrelated videos, images and websites.\n\nLinks dating as far back as 2009 from URL-shortening service Bitly were affected, and only corporate and political X accounts appear to have been targeted, with President Donald Trump’spersonal accountseemingly hit the hardest. At least a dozen of Trump’s posts on X now direct to various inappropriate and unrelated sites.\n\nPublic figures — like Microsoft co-founderBill Gates, former Canadian Prime Minister Justin Trudeau and former Vice President Mike Pence — as well as fast-food chainsMcDonald’sandBurger King, were also hit to varying degrees.\n\nBitly URLs are shortened while holding the original and longer link. Bitly links do not automatically expire, according to thecompany’s website, but paid users can redirect links.\n\nBitly said Sunday afternoon in a post on X that it had “identified an issue that allowed bad actors to repurpose certain old, inactive links to redirect people to content unrelated to the original posts.” The company said it suspended the accounts that altered links and were working to disable the affected URLs.\n\n“Our Trust and Safety team is working to address the issue and strengthen protections against similar misuse in the future,” Bitly wrote.\n\nBoth Bitly and X have not yet responded to CNN’s request for comment.\n\nIt’s unclear whether hackers made custom Bitly links, which effectively allow them to copy the original URL and redirect to any website. That may have been possible if the original Bitly link to the website no longer exists or has expired.\n\nBitly links may be susceptible to artificial intelligence scans and exploiting mechanisms to redirect links, noted Ari Lightman, a digital media professor at Carnegie Mellon University’s Heinz College of Information Systems and Public Policy.\n\nThe redirected links seem confined to posts made between 2009 and 2014. Lightman said that some social media accounts are not monitored, “and that’s problematic.” Changing unmonitored links could expose user information when clicking those links, he warned,highlighting the importance ofinternet safety.\n\n“You have a variety of vulnerabilities that people can utilize for exploitation,” said Lightman. “It’s just finding these old messages out there and sort of repopulating them,” often for malicious purposes.\n\nA 2013 post from Trump criticizing wind turbines that used a Bitly link now redirects to a Google site titled “fortnite baby” and includes a photo of a baby.Another 2013 post from Trump tagged former Republican nominee for president Mitt Romney, and links to the popular game “Geometry Dash.” One of Trump’s posts about his golf course in Scotland includes a link to an Epstein files Wikipedia page.\n\n“It sounds like they’re trying to make some sort of a message tying these sites into Donald Trump’s policies, and sometimes it’s just vulgar mechanisms,” said Lightman.\n\nPublic officials and company heads who often circulated Bitly links were also targeted. A post in 2010 from Microsoft founder Bill Gates contains the text, “Notes from D.C. trip. Spoke w/former President Clinton at the Foreign Relations committee aid programs are working,” and includes a Bitly link of a Reddit page that has an animated image from a fabricated posting by former New York City Mayor Michael Bloomberg.\n\nA post in 2011 by Trudeau contains a Bitly link that redirects toa vulgar YouTube audio clip.\n\nA 2011 post from Burger King intended to provide restaurant locations was redirected to a Wikipedia page on a list of Nazi concentration camps, while another post linked to a Wikipedia page on Adolf Hitler.\n\nMcDonald’s account has a post from 2011 that redirected to a page about the September 11 attacks, while its Indonesia account made a 2013 post about a jingle that now links to an unrelated “Would you rather?” YouTube video.\n\nA spokesperson for Burger King told CNN the company has “no part in the links being redirected” and that it was “working quickly to correct and delete posts that have been altered.” McDonald’s did not immediately respond to CNN’s request for comment.\n\nGovernment accounts have also been ironically affected. A 2012 post from the FBI about computers infected by “Ghost Clicks” now directs to a page with a photo of a seal, while the Department of Defense account had a separately redirected post. A post by Pence seemingly directed to the same website as the FBI, despite being about an unrelated topic.\n\nHijacking these links is especially concerning in the age of AI, says Lightman, because it allows manipulations to be made “en masse.”\n\nThis story has been updated with additional content.\n\nThis story has been updated with additional content.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2022/11/19/business/twitter-musk-trump-reinstate",
+      "text": "personal account"
+    },
+    {
+      "url": "https://www.cnn.com/us/bill-gates-fast-facts",
+      "text": "Bill Gates"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/24/food/mcdonalds-franchises-billions-spending",
+      "text": "McDonald’s"
+    },
+    {
+      "url": "https://www.cnn.com/2026/08/12/food/burger-king-whopper-turnaround-earnings",
+      "text": "Burger King"
+    },
+    {
+      "url": "https://support.bitly.com/hc/en-us/articles/360002288272-Will-the-links-I-create-on-Bitly-ever-expire",
+      "text": "company’s website"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/26/tech/ai-internet-safety-tips",
+      "text": "internet safety"
+    }
+  ],
+  "hash": "151466ab8d9e8b0fe79d625024f3f72f2893a788c1876d80e13578501a0993b7",
+  "scraped_at": "2026-11-17T16:17:44.322120+00:00"
+}

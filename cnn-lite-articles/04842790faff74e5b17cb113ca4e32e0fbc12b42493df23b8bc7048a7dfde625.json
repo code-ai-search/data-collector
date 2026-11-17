@@ -1,0 +1,42 @@
+{
+  "url": "https://lite.cnn.com/2026/11/17/politics/vance-mullin-infrastructure-crisis-fears-intl-hnk",
+  "title": "Trump administration dismisses crisis fears after string of disruptive tech outages | CNN Politics",
+  "date": "2026-11-17T16:15:59.771213+00:00",
+  "authors": [
+    "Jessie Yeung",
+    "Alejandra Jaramillo"
+  ],
+  "text": "Source: CNN\n\nTop officials from the Trump administration sought to reassure Americans and dismiss fears of a possible crisis after a string of major tech and infrastructure failures disrupted travel, business, and banking for millions of people.\n\n“We do not see some crisis coming down.But you have to be prepared for everything,” US Vice President JD Vance told Fox News inan interview released Monday.\n\nVance said that friends had asked him whether they should be building bunkers or stocking up on food and water. “My answer to that is no,” he said, adding that reports of Pentagon bases preparing to operate off the grid for 90 days – and similar reports of European countries urging citizens to stock up on supplies – are just “basic good government.”\n\n“Making sure that our military would be prepared, God forbid if there was a crisis,” Vance said, “but we don’t see a crisis coming down the pike.”\n\nVance’s comments come after a chaotic week of tech disruption and confusion.\n\nLast Thursday,a massive Microsoft outageleft people worldwide without access to Outlook email, Teams meeting tools and other staples of modern office life. Microsoft said it was caused by a “technical issue,” which took roughly two days to fix – costing potentially$7 billionin lost productivity by some estimates.\n\nThat outage hadn’t even been fully resolved before theFederal Aviation Administrationexperienceda systems failureon Friday – causing thousands of flights to be canceled, throwing airports into chaos, and stranding millions of travelers just before the weekend. The FAA suspectsthe crisis was caused bysingle newly-installed routerin a remote radio outpost in Arkansas.\n\nThen, on Monday, major banks reported issues. Thousands ofChase Bankcustomers had trouble using their online accounts, as well as making transactions at physical branches, which the company said was related to a “software bug.” Customers reported issues at other major banks, including Bank of America, Wells Fargo, and U.S. Bank, though on a smaller scale – which appearedto be related to sending money through Zelle, a digital payment network, to Chase accounts.\n\nLater Monday afternoon, United Airlines reported a widespread but short-lived system outage thatdelayed some outbound flights. It lasted about 30 minutes, with fewer than 150 flights impacted, a United Airlines spokesperson told CNN.\n\nThere is no evidence to suggest these issues were directly related, as Secretary of Homeland Security Markwayne Mullin underlined in a separate interview with Fox News on Monday night.\n\n“I can tell you with 98% certainty, we’re not seeing the cyber attack, no one is out there taking claim for it, we’re not seeing the traffic, we’re not seeing the footprints going in, we’re not seeing the footprints going out – and so nothing points to it being connected,” he said.\n\nHe added that the government’s cybersecurity agency had told him the different outages were “all individually unrelated.”\n\nLike Vance, Mullin also sought to soothe public fears, telling Americans: “Breathe. The homeland is secure.” He emphasized that they had been able to respond to each crisis and restore services quickly.\n\n“We just have a lot of technology just thrown at us and our world runs on technology now. We used to have backup systems, and the backup systems are overwhelmed by the new systems now,” he added.\n\nSome experts agree, and warn that this technological overload actually is the thread tying together the past week’s meltdowns.\n\n“I think it’s connected in the sense that a lot of our infrastructure in this country, in the world, is aging,” said Alex Hamerstone, cybersecurity expert at security consulting firm TrustedSec.\n\n“It’s constantly evolving and changing, and our dependence on these technical systems is growing every day … Everything is becoming more technically connected and more complex.”\n\nVance acknowledged this in his Fox News interview, saying the administration had invested in rebuilding and replacing old infrastructure – but that a larger overhaul would require more resources approved by Congress.\n\n“The problem is we are dealing with 50-year-old technology. It works most of the time,” he said. “Sometimes you have to work on a patchwork of solutions to keep a 50-year-old system up and running. Why do we have a 50-year-old system in the first place?”\n\nTransportation Secretary Sean Duffy issued a demand this weekend for as much as $50 billion in emergency funding after the FAA ground stop – but key Republicans, including Senate Majority Leader John Thune, are demanding more information about that request, including what the administration had done with previous funding.\n\nCongress approved $12.5 billion last year to update air traffic control systems – which many lawmakers, including Thune, have argued has not yet been fully spent.\n\nCNN’s Piper Hudspeth Blackburn contributed to this report.\n\nCNN’s Piper Hudspeth Blackburn contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
+      "text": "a massive Microsoft outage"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk?t=1794588874265&post-id=cmwf6e7el00003b6txhzlcvvg",
+      "text": "$7 billion"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know",
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/16/us/faa-ground-stop-thanksgiving-travel",
+      "text": "a systems failure"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/16/us/faa-ground-stop-warnings-invs",
+      "text": "single newly-installed router"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/16/business/bank-outage-chase-us-bank-bank-of-america",
+      "text": "Chase Bank"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "text": "delayed some outbound flights"
+    }
+  ],
+  "hash": "04842790faff74e5b17cb113ca4e32e0fbc12b42493df23b8bc7048a7dfde625",
+  "scraped_at": "2026-11-17T16:15:59.771229+00:00"
+}
