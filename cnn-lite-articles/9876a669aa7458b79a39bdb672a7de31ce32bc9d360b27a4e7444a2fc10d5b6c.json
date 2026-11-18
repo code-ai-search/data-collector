@@ -1,0 +1,72 @@
+{
+  "url": "https://lite.cnn.com/2026/11/16/us/faa-ground-stop-warnings-invs",
+  "title": "Years of warnings preceded the FAA ground stop | CNN",
+  "date": "2026-11-18T15:52:18.464842+00:00",
+  "authors": [
+    "Curt Devine",
+    "Audrey Ash",
+    "Isabelle Chapman",
+    "Majlie de Puy Kamp"
+  ],
+  "text": "Source: CNN\n\nAirports were thrown into chaos, with hundreds of flights canceled and thousands of travelers stranded. A Federal Aviation Administration investigation soon traced the disaster to an unlikely source: A router that had locked up the nation’s air traffic control network.\n\nThat incidenthappened 17 years ago– leading to urgent calls for FAA upgrades.\n\nYet on Friday, an eerily similar scene played out, this time with a rare nationwide halt to all flights as communications with pilots broke down.\n\nOnce again, the FAA now suspects the problems began with a single router, newly installed in a remote radio outpost in Arkansas.\n\nWhile federal investigators with the FBI and FAA are still working to untangle exactly what went wrong last week – and who is to blame – the similar 2009 incident is a startling illustration of how long US officials have battled to upgrade an aging flight control network.\n\nA CNN review of government oversight reports and past incidents vividly shows how decades of warnings about the FAA’s aging infrastructure have failed to head off the kind of mass outages that again struck America’s aviation industry on Friday.\n\n“We’ve known the system has been antiquated for many years,” said Margaret Wallace, an assistant professor of aviation management at the Florida Institute of Technology. “Much of what was there can almost date back to World War II.”\n\nThe Trump administration has touted its plans to speedily replace antiquated copper wiring with fiber optics and newer equipment and pointed to Friday’s outage as evidence that Congress needs to provide more than the $12.5 billion already earmarked for upgrades.\n\n“Congress did give me $12.5 billion, but they were very specific on how we spend it,” Transportation Secretary Sean Duffy saidon Sunday. “I have no money for a new network. I don’t have any new money to build new software to separate planes in the air space.”\n\nBut Friday’s incident, which Duffy said occurred during one of those upgrades, has also sharpened questions about how effectively the administration and its key contractors are carrying out the improvements already in progress.\n\nSimilar concerns were raised in September in a US Government Accountability Officereportwarning the FAA could potentially cause more breakdowns by moving too hastily in efforts to modernize its systems.\n\nThe report stated the FAA had made progress in replacing thousands of old copper wires with high-speed fiber optic cables but also expressed concern that the agency had not effectively scheduled those replacements to “reduce impacts to controller operations.”\n\n“FAA could be prioritizing speed over costs and air traffic disruptions,” stated the GAOreport, which added, “If these risks are realized, FAA would need to continue to rely on severely outdated systems that are prone to failure leading to more flight delays and safety incidents.”\n\nThe infrastructure that keeps thousands of flights safely separated in US airspace is built on a network of comparatively ancient technology – from copper phone lines to old computers, all of which must link a complex nationwide network of air traffic controllers.\n\nGovernment officials have long sounded alarms about breakdowns in that system, which at times has failed spectacularly.\n\nIn 2009, an FAA telecommunications outage affected more than 100 air traffic facilities and grounded hundreds of flights nationwide.\n\nAreviewby the Department of Transportation’s inspector general later found a technician had “incorrectly configured” a router, which caused an improper flow of air traffic data that blocked much of the system.\n\nThe technician described in the IG’s report worked for Harris Corporation, which later merged with another business to form L3Harris, the contractornow under scrutiny for the latest outage.\n\nAn FAA review panel laterrecommended a spate of improvementsin the wake of that mass outage, including looking into setting up new backup systems.\n\nEight years later, though, the FAA’s inspector general warned that technology disruptions were still a major threat to the nation’s air travel – citing a number of other recent failures, including a fire in Chicago and a flood in Texas that disabled control towers for long periods of time.\n\n“Significant work remains to mitigate the impact of air traffic control disruptions,” the 2017report found.\n\nIn 2023, the FAAbriefly haltedall domestic flight departures after another  outage. A subsequent GAOreportfound many air traffic control systems were increasingly prone to failures and relied on hard-to-find spare parts.\n\nThe assessment determined that more than a third of the systems were “unsustainable,” with others heading in the same direction. That same year, a safety review team explicitly warned of potential communication failures due to aging infrastructure and budgetary constraints, telling the FAA ina reportthat “risk could quickly reach unacceptable levels.”\n\nLast year, a series of disruptionsprompted more scrutiny.Outagesat a Philadelphia control facility caused the FAA to halt flights at Newark Liberty International Airport. A controller whospokewith CNN anonymously at the time said a single data feed connecting two facilities – similar to an extension cord-like line – had crashed at least twice.\n\nFollowing the outages, federal investigatorsquestionedwhether the FAA had adequately assessed the reliability of telecommunications lines before relocating Newark’s airspace management from New York to Philadelphia. An IG report described a “burnt copper wire” and “failures of both primary and redundant communication infrastructure.”\n\nPresident Donald Trump’s mega-spending bill passed by Republicans last year included $12.5 billion to start widespread upgrades to the FAA’s infrastructure, a plan Duffy touted atan aviation summit in April.\n\nHe said half of the system’s old wires had already been replaced. He referenced the incidents in Newark and blamed outdated wires, stating that since those had been replaced Newark had some of the “most on-time performance.”\n\n“In one year, this administration has done more in replacing old wires than the last administration did in all four of their years,” Duffy told the audience.\n\nYet the GAO’s September report struck a more cautious note about those plans and criticized the FAA for not having detailed cost estimate and integration plans around its new air traffic control system.\n\nWithout doing so, it would “increase the likelihood of FAA repeating its history of cost overruns, delays, and unmet performance targets,” the report found.\n\nThe latest mass outage to America’s air traffic control system began as a result of implementing those new upgrades, officials now believe.\n\nDuffy said at a news conference that L3Harris was doing routine maintenance to switch telecommunication lines from copper wires to fiber optics prior to the outage.\n\nAfter the contractor installed a new router in El Dorado, Arkansas, the device started pinging the FAA networks at a rapid rate on Friday afternoon, according to an FAA statement. A second router in Texas experienced similar issues. The FAA disabled both routers and approximately 60 others as a precaution.\n\nThe FAA says that during the outage, 17 of its 22 air route traffic control centers experienced problems.\n\nA telecommunications router suspected of playing a role in the disruption has been sent to a testing facility in Florida, according to a senior administration official.\n\nThe FAA and L3Harris are investigating whether the failure was caused by a defective router or an installation or configuration error. The FBI is also involved out of an abundance of caution, the official said.\n\nIn a statement, L3Harris said it was supporting the FAA’s investigation and noted the company had already completed more than 70% of the conversion from copper wires to fiber optics.\n\nA spokesperson for Hewlett Packard Enterprise, which owns the manufacturer of the routers in question, said that “based on what we know and have been told by others, our equipment was working as configured.”\n\nRegardless of the specific cause of Friday’s breakdown, aviation experts agree the FAA’s systems have become unacceptably outdated.\n\n“We’ve been working on floppy disks up until a few months ago,” said Wallace.\n\nFor decades, decisionmakers failed to proactively invest in timely upgrades, Wallace explained, describing an “if it’s not broken, don’t fix it” mentality that led to the current situation in which some equipment cannot even be replaced because replacement parts no longer exist.\n\nThat reality was detailed in the 2023 independentreportcommissioned by the FAA.\n\n“For many of its systems, the FAA is no longer able to obtain spare parts. Product lines have been discontinued, manufacturers no longer exist, and the FAA lacks the intellectual property rights to make its own parts,” the report found.\n\nThe report also referenced the agency’s equipment budget and noted more money had been spent sustaining old equipment than acquiring new technology over multiple years. Equipment spotlighted in the report included beacons that were three to five decades old and surveillance technology for which antennas were no longer available.\n\n“The age of the FAA’s critical air traffic control systems is so advanced, it makes any private sector comparison difficult,” the report stated.\n\nEric Soskin, a former transportation inspector general, told CNN updating the FAA’s communications system has included inevitable challenges, such as predicting how old and new technologies would work together.\n\n“The need to keep up and running the existing system does impose major constraints on how thoroughly you can test each configuration before you can turn it live,” he said.\n\nCNN’s Pete Muntean contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.faa.gov/air_traffic/publications/media/FTI_Phase1.pdf",
+      "text": "happened 17 years ago"
+    },
+    {
+      "url": "https://www.transportation.gov/briefing-room/icymi-trumps-transportation-secretary-sean-p-duffy-provides-update-across-sunday",
+      "text": "on Sunday"
+    },
+    {
+      "url": "https://www.gao.gov/products/gao-26-107992",
+      "text": "report"
+    },
+    {
+      "url": "https://www.gao.gov/products/gao-26-107992",
+      "text": "report"
+    },
+    {
+      "url": "https://www.oig.dot.gov/sites/default/files/WEB%20FILE2_FTI%20%20Nov%2019%20outage-6-18-10_Final%20Signature%28a%29%20%282%29.pdf",
+      "text": "review"
+    },
+    {
+      "url": "https://www.faa.gov/air_traffic/publications/media/FTI_Phase1.pdf",
+      "text": "recommended a spate of improvements"
+    },
+    {
+      "url": "https://www.oig.dot.gov/sites/default/files/FAA%20Responses%20to%20Major%20ATC%20System%20Disruptions%20Final%20Report%5E1-11-17.pdf",
+      "text": "report found"
+    },
+    {
+      "url": "https://www.cnn.com/travel/article/faa-computer-outage-flights-grounded",
+      "text": "briefly halted"
+    },
+    {
+      "url": "https://www.gao.gov/products/gao-24-107001",
+      "text": "report"
+    },
+    {
+      "url": "https://www.faa.gov/NAS_safety_review_team_report.pdf",
+      "text": "a report"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/11/us/another-equipment-outage-impacts-newark-airport",
+      "text": "Outages"
+    },
+    {
+      "url": "https://www.cnn.com/2025/05/10/us/newark-airport-air-traffic-control-crisis",
+      "text": "spoke"
+    },
+    {
+      "url": "https://www.oig.dot.gov/library-item/46879",
+      "text": "questioned"
+    },
+    {
+      "url": "https://www.faa.gov/NAS_safety_review_team_report.pdf",
+      "text": "report"
+    }
+  ],
+  "hash": "9876a669aa7458b79a39bdb672a7de31ce32bc9d360b27a4e7444a2fc10d5b6c",
+  "scraped_at": "2026-11-18T15:52:18.464850+00:00"
+}

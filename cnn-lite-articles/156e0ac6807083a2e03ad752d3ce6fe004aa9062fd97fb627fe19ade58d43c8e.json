@@ -1,0 +1,26 @@
+{
+  "url": "https://lite.cnn.com/2026/11/17/us/faa-ground-stop-juniper-router-installations",
+  "title": "FAA pauses Juniper router installations after nationwide ground stop | CNN",
+  "date": "2026-11-18T15:50:41.588749+00:00",
+  "authors": [
+    "Pete Muntean",
+    "Danya Gainor"
+  ],
+  "text": "Source: CNN\n\nThe FAA is pausing the installation of new Juniper telecommunications routers as it investigates last week’snationwide ground stop, an agency spokesperson told CNN.\n\nThe move, first reported byThe Wall Street Journal, comes as investigators work to determine whether the communications failure was caused by defective equipment, or an installation or configuration error.\n\nA spokesperson for HPE, the router manufacturer’s parent company, said the equipment was working as configured.\n\n“Based on what we know and have been told by others, our equipment was working as configured,” the spokesperson said in a statement. “The FAA is assessing the configuration and performance of all infrastructure involved to determine the cause.”\n\nTransportation Secretary Sean Duffy previously said upgrade work on an old telecommunications system could be a cause for the nationwide ground stop, noting L3Harris was doing routine maintenance to switch telecommunication lines from an old copper wire to fiber in at least one remote FAA location.\n\nDuffy has also pointed fingers at Congress for not providing enough money to upgrade the antiquated system, as well astaken aim at L3Harris.\n\nBut while on Capitol Hill on Tuesday, FAA Administrator Bryan Bedford said the federal agency was present as L3Harris did the repairs.\n\nThe “highly trained certified engineer” from L3Harris “was monitored by an FAA technician” during the installation, Bedford told reporters at a news conference, as part of the FAA’s “comprehensive risk management process with every installation.”\n\nA source familiar with the investigation told CNN the FAA worker was there primarily to chaperone contractors on and off the work site premises, which is standard protocol.\n\nBedford and Duffy both said Tuesday that officials still didn’t know what the fault trigger was.\n\n“I promise all of you that when I know what happened with that router, injecting that overload into our system, I will most definitely share that with you,” Duffy told reporters.\n\nL3Harris has said it is working with the FAA to investigate the incident.\n\nDemocrats on the Senate committee overseeing aviation called for an immediate halt to new router installations Tuesday, questioning whether the equipment underwent adequate testing and why the FAA’s backup systems failed to prevent the widespread disruption.\n\nThe senators said FAA contractor L3Harris plans to install 3,648 Juniper routers, with 400 installed so far and just 69 operational.\n\nThe FAA has not established a definitive root cause of the outage, which affected communications and radar feeds at 17 of the nation’s 22 en route air traffic control centers.\n\nCNN’s Alexandra Skores contributed to this report.\n\nCNN’s Alexandra Skores contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know",
+      "text": "nationwide ground stop"
+    },
+    {
+      "url": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424",
+      "text": "The Wall Street Journal"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/14/politics/video/blame-game-nationwide-ground-stop-sean-duffy-l3harris-vrtc",
+      "text": "taken aim at L3Harris"
+    }
+  ],
+  "hash": "156e0ac6807083a2e03ad752d3ce6fe004aa9062fd97fb627fe19ade58d43c8e",
+  "scraped_at": "2026-11-18T15:50:41.588758+00:00"
+}
