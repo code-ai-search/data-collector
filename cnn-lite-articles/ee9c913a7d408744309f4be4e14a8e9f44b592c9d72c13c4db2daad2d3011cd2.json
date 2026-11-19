@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/11/18/tech/whats-causing-outages",
+  "title": "What’s causing all these outages? The internet is held together with shoestring and bubblegum | CNN Business",
+  "date": "2026-11-19T15:55:30.194182+00:00",
+  "authors": [
+    "Analysis by David Goldman"
+  ],
+  "text": "Source: CNN\n\nThe fragility of our online systems was on display this past week after back-to-back-to-back outages disrupted flights, global business and national security systems.\n\nNo oneshould be shocked: The internet is a loosely connected patchwork project reliant on some seriously outdated systems containing numerous vulnerabilities – many of which we are just discovering.\n\nAn aptxkcd cartoonvisualizes “all modern digital infrastructure” as a giant Jenga-style tower supported by one, thin, vertical block with the label: “a project some random person in Nebraska has been thanklessly maintaining since 2003.”\n\nAI has given security researchers a vastly improved capability to find those weak supports and strengthen them. But bad actors have the same tools, and they’re scoping out ways to target weak structures and exploit them.\n\nThe race is on. AI is sending companies and the government into overdrive to keep adversaries out. But in the process, some companies appear to be pushing out security updates that weren’t ready for primetime.\n\nEach of the mega-outages of the past week appears to have a different root cause. Forensics takes time, and the exact cause of each disruption isn’t yet known. Early indications seem torule out a coordinated attack.\n\nBut they all appear to share a common vulnerability: The technologies supporting the internet justweren’t built for a worldin which online systems are so interconnected and computers can find and exploit weaknesses faster than humans can.\n\n“These events do not fill me with confidence about the resilience of our digital infrastructure,” said Matthew Green, member of the Johns Hopkins Information Security Institute.\n\nDon’t be shocked if these outages keep happening.\n\nOne of those Jenga blocks is PHP, a programming language most people have probably never heard of – even though it powers 70% of the world’s websites. Researchers using AI agents this summer discovered amethod to exploit a PHP vulnerabilitythat could allow an attacker to read passwords, steal entire databases or take over websites.\n\nIt was patched last month. But the fact that a decades-old tool supporting nearly three-quarters of the websites held a major flaw underscores the problem the internet faces.\n\n“We’re dependent on so many things we’ve never even heard of behind the scenes that keep society running,” said Stuart Madnick, an IT security professor at MIT. “In that regard, we’ve become tremendously vulnerable to things we don’t even know about until something goes wrong.”\n\nThat’s why another decent analogy for the state of today’s internet is the Titanic.\n\nThe ocean liner’s watertight bulkheads were unable to withstand a failure that exceeded the ship’s architects’ worst-case-scenario assumptions. Even the best-designed systems sometimes succumb to threats and problems that the designers couldn’t have imagined when they built them, noted Rebecca Krauthamer, CEO and cofounder of QuSecure, a cryptography provider for the US government.\n\nNow those threats include AI.\n\nAgents can work faster and longer than humans, making them particularly useful at finding security holes by employing trial and error techniques. A yet-unproven but widely held theory from security experts about the reason for the recent string of outages is the rush to patch and beat bad actors to the punch. Those expedited updates may contain bugs themselves, causing system outages.\n\n“Sometimes you do a patch, you push an upgrade in a system, it behaves abnormally, and it tips over, so to speak,” said Chris Krebs, former United States Director of the Cybersecurity and Infrastructure Security Agency, in an interview with CNN’s Pamela Brown on Tuesday. “I think that’s a lot of what we’ve seen with Microsoft, maybe, and with the FAA last week.”\n\nMeanwhile, autonomous AI agents are increasingly overwhelming networks with unprecedented traffic demands, noted Claire Le Goues, computer science professor at Carnegie Mellon University.\n\nFor example, Microsoft said itssystems went downunder the weight of a massive traffic load, and they failed to restore themselves because of a bug that was deployed during an update. The FAA’s initial assessment of a massive outage that led to a nationwide ground stop was that a router update sent out bad traffic, which then overwhelmed its networks. It’s not clear that AI was to blame for either outage, but those are the kinds of conditions that are increasingly prevalent across networks.\n\n“AI may become the stress test that exposes weaknesses we’ve been living with for decades,” said Krauthamer.\n\nThe good news, perhaps, is these incidents appear thematically related but not part of some coordinated cyberattack by a foreign adversary. As my colleagueJohn Miller notes, we can’t rule that out just yet, but these incidents don’t carry most of the hallmarks of a massive system intrusion.\n\nThe bad news, however, is that the lack of evidence of a cyberattack shouldn’t give us any comfort: If our systems are this vulnerable without a cyber intrusion, imagine what adversaries could do if theyweretrying to attack us.\n\n“It means that even when our enemies are not trying to attack us, we can attack ourselves just because the systems are so complex and fragile,” said Richard Clarke, former US counterterrorism czar for the George H.W. Bush, Clinton and George W. Bush administrations, in an interview with CNN’s Michael Smerconish on Saturday.\n\nSo, while the events of the past week may not be surprising, they should be a wake-up call.\n\nSome experts advocate for a massive, coordinated effort to harden our digital critical infrastructure.\n\n“We are learning again and again that incremental fixes to our infrastructure are no longer sufficient to maintain the resilient systems we need in place,” Krauthamer said. “Our systems must evolve resilience in a way we’ve never faced in the past.”\n\nBut some are skeptical that will happen. These problems happen in spurts, rise in the public consciousness, then fade when the systems are restored.\n\n“We’re not doing a good job learning about these things,” said Madnick, who has been teaching about IT security for five decades.\n\nThe lack of resource dedication to the underlying problem – ancient systems supporting modern threats – raises the vulnerability of an even more serious problem in the future.\n\n“I keep saying the worst is yet to come,” said Madnick. “So far, I haven’t been proven wrong.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/11/17/politics/tech-outages-conspiracy-theories-trump",
+      "text": "should be shocked"
+    },
+    {
+      "url": "https://xkcd.com/2347/",
+      "text": "xkcd cartoon"
+    },
+    {
+      "url": "https://x.com/RapidResponse47/status/2122691632008953876",
+      "text": "rule out a coordinated attack"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/15/business/faa-tech-systems-us-government",
+      "text": "weren’t built for a world"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained",
+      "text": "method to exploit a PHP vulnerability"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
+      "text": "systems went down"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/17/us/outages-cyberattack-glitch-security",
+      "text": "John Miller notes"
+    }
+  ],
+  "hash": "ee9c913a7d408744309f4be4e14a8e9f44b592c9d72c13c4db2daad2d3011cd2",
+  "scraped_at": "2026-11-19T15:55:30.194198+00:00"
+}
