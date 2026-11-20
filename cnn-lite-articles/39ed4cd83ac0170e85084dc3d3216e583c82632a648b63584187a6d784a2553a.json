@@ -1,0 +1,45 @@
+{
+  "url": "https://lite.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+  "title": "Exclusive: Highly classified US national security communications network goes down, sources say | CNN Politics",
+  "date": "2026-11-20T15:40:35.028813+00:00",
+  "authors": [
+    "Natasha Bertrand",
+    "Katie Bo Lillis",
+    "Sean Lyngaas",
+    "Davis Winkie",
+    "Zachary Cohen"
+  ],
+  "text": "Source: CNN\n\nThe highly classified network that the National Security Agency uses for its internal communications is down, according to six people familiar with the matter. The NSA closed its campus to most employees on Tuesday night, reverting to essential personnel only as it works to restore the network, according to a voicemail inbox used by NSA employees and a source familiar with the matter.\n\nThe move to further restrict staffing levels came just hours after the NSA told employees they could return to work as normal. It is not clear what prompted the reversal. The agency had staggered employee arrivals earlier in the day as it worked to address the issue.\n\nThe network, called NSANet, allows employees to communicate classified information internally. At this point there is no evidence of a cyberattack, sources said.\n\n“The National Security Agency experienced temporary degradation during scheduled routine maintenance,” the agency said in a statement on Tuesday afternoon. “While some internal systems were affected, mission-critical capabilities remain fully operational and our ability to defend national security continues. NSA’s infrastructure is designed with multiple layers of redundancy to maintain operations during planned maintenance or unexpected events.”\n\nA source familiar with the matter told CNN that restoration of the network was ongoing but not yet complete.\n\nDirector of National Intelligence Jay Clayton said later Tuesday afternoon that the NSA outage was the result of the agency applying a software patch to address major software vulnerabilities that werediscoveredlast month.\n\n“The patching that has gone on following that has caused some of these systems to not come back up when you patch them as expected,” Clayton said on Fox Business. “That is that is what has happened at the NSA today.”\n\nThe vulnerabilities Clayton were referring to are in PHP, a programming language that powers about 70% of the world’s websites. AI tools helped researchers exploit them, setting off a scramble by government agencies and corporations around the world to address the issue in recent weeks. The NSA itselfurgedorganizations to apply software patches.\n\nThe flaws in PHP could allow hackers to break into websites and read memory that could contain sensitive information, like passwords.\n\nClayton said there is no sign that any of the recent tech outages, including that affecting the NSA, were the result of a cyberattack.\n\nA current and a former US official said an outage at NSANet would not impact the agency’s ability to communicate urgent intelligence to President Donald Trump while he istraveling in Asiaon Air Force One.\n\nBoth sources described multiple redundancies and backup networks that the government could use to communicate securely with the president who is currently in the Philippines before heading to China tomorrow for talks with Chinese leader Xi Jinping and Russian President Vladimir Putin.\n\nNSANet is “more of a network of networks, and it’s unlikely that a full outage exists given the many redundancies in place,” a former senior NSA official told CNN. “It could impact analysis and reporting, but for highest priority requirements they would find a way to work those. So it is alarming, but likely not crippling.”\n\nA voicemail inbox recording for NSA employees on Tuesday morning described the situation as a “code yellow,” the second-highest in a system of three main levels that governs whether NSA employees report for work at the agency’s Fort Meade, Maryland, headquarters or not. The recording told non-emergency personnel to arrive for work in a staggered manner and for emergency personnel to arrive as usual. The New York Times first reported that detail.\n\nSometime Tuesday evening, the inbox reverted to “code green,” instructing employees to report to work as scheduled. It was not immediately clear whether the outage was resolved. But later Tuesday night, the inbox moved to a “code orange,” closing the campus for most employees until further notice, according to the inbox recording and source familiar with the matter.\n\nThe outage at America’s most powerful intelligence agency comes on the heels of multiple major tech glitches affecting airlines and other corporations around the country.\n\nAllflights nationwide were groundedfor hours on Friday after a massive systems failure, leading to thousands of flights being delayed or canceled. The Federal Aviation Administration traced the problem to a single router in Arkansas.\n\nMeanwhile, a massive outage last week affecting Microsoft products left people around the world unable to access Outlook email and Team meetings.\n\nAnd in recent weeks banks and other services have experienced outages, on Monday thousands ofChase Bank customersreported they had trouble using their online accounts.\n\nThere is no indication that the NSA, FAA or Microsoft outages were caused by a cyberattack. But they are stark examples of how tech failures can roil markets and potentially threaten national security.\n\nThe US shares intelligence with a group of countries in what is known as the Five Eyes intelligence-sharing alliance, which includes the US, UK, New Zealand, Australia and Canada. That intelligence sharing system has not been impacted as a result of the NSANet outage, according to a source from one of the countries and a former US intelligence official.\n\nTuesday’s outage was not the first time the NSA’s internal computer networks have suffered significant disruption. In 2000, a tech failure at the agency downed computers for nearly three days and interrupted the processing of intelligence at Fort Meade, an agency spokespersonsaidat the time.\n\nThis story has been updated with additional information.\n\nDavis Winkie’s work at CNN is supported by a partnership betweenOutrider Foundationand Journalism Funding Partners (JFP). CNN retains full editorial control of the reporting.\n\nCNN’s Kylie Atwood and Haley Britzky contributed reporting.\n\nCNN’s Kylie Atwood and Haley Britzky contributed reporting.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl",
+      "text": "discovered"
+    },
+    {
+      "url": "https://www.nsa.gov/press-room/press-releases-statements/press-release-view/article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/",
+      "text": "urged"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines",
+      "text": "traveling in Asia"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/14/us/live-news/us-ground-stop-flights?t=1794678544306",
+      "text": "flights nationwide were grounded"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/16/business/bank-outage-chase-us-bank-bank-of-america",
+      "text": "Chase Bank customers"
+    },
+    {
+      "url": "https://www.cnn.com/2000/US/01/29/nsa.computer/",
+      "text": "said"
+    },
+    {
+      "url": "https://outrider.org/",
+      "text": "Outrider Foundation"
+    }
+  ],
+  "hash": "39ed4cd83ac0170e85084dc3d3216e583c82632a648b63584187a6d784a2553a",
+  "scraped_at": "2026-11-20T15:40:35.028827+00:00"
+}

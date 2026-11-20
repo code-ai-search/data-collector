@@ -1,0 +1,17 @@
+{
+  "url": "https://lite.cnn.com/2026/11/20/politics/nsa-highly-classified-network-outage-resolved",
+  "title": "Outage at NSA’s highly classified communications network has been resolved, sources say | CNN Politics",
+  "date": "2026-11-20T15:37:54.529363+00:00",
+  "authors": [
+    "Katie Bo Lillis"
+  ],
+  "text": "Source: CNN\n\nThe outage of a key internal communications network at the National Security Agency that has kept large swaths of employees locked out for more than three days has now been resolved, according to a source familiar with the matter and a voicemail inbox recording for employees at the main headquarters in Maryland.\n\nEmployees have been told to return to work on staggered arrivals to avoid overloading the system with too many simultaneous logons, according to the source, but the expectation is that the majority of staff will be back to work by midday on Friday.\n\n“November 20, 2026, NSA Washington is operating under normal conditions with exceptions,” the voicemail said, detailing the staggering arrivals. “Personnel must follow their designating building opening times.”\n\nSeveral officials emphasized that the agency’s most sensitive and important intelligence gathering systems functioned throughout the outage. And although the outage froze employees out of what essentially functions as the NSA’s classified email system, the agency has multiple backups and workarounds it can use.\n\nBut patches necessary to resolve the outage took longer than anticipated, a senior administration official acknowledged yesterday. On several occasions over the past several days, some employees were told to report to work on a staggered basis, only have to return home without ever logging in, according to another source familiar with the agency’s response.\n\nThe system, known as NSANet, has experienced outages before. But the length of the outage — almost four days — was unusually long and disruptive, current and former officials said.\n\nMultiple current US officials briefed on this week’s outage said it was not a cyberattack but instead appeared connected to the NSA’s handling of software updates for vulnerabilities in PHP, aprogramming language that powers about 70% of the world’s websites. Private researchers last month disclosed the vulnerabilities, which AI tools helped discover. The NSA itselfurgedorganizations to apply software patches.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.nsa.gov/press-room/press-releases-statements/press-release-view/article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/",
+      "text": "urged"
+    }
+  ],
+  "hash": "32279900a328533017edafd615c96e5b8b7d13215a5001fa6dbd21d39e528cb8",
+  "scraped_at": "2026-11-20T15:37:54.529378+00:00"
+}
