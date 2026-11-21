@@ -1,0 +1,25 @@
+{
+  "url": "https://lite.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+  "title": "The FBI was hacked again, this time the breach targeted its crime database | CNN Politics",
+  "date": "2026-11-21T14:48:16.722751+00:00",
+  "authors": [
+    "Evan Perez"
+  ],
+  "text": "Source: CNN\n\nThe FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.\n\nThe intrusion of the National Crime Information Center by apparent hackers is the second such breach in recent months.\n\nThe NCIC database is used by law enforcement nationwide to share information on warrants and background checks.\n\nThe discovery of the latest intrusion in recent days comes as the Trump administration has sought to assuage public concern about the nation’s cybersecurity amid aseries of high profile outagesaffecting banks, the National Security Agency and the FAA’s air traffic control system.\n\nThe FBI didn’t immediately respond to a request for comment.\n\nOn Thursday, after bureau officials learned of the latest cybersecurity incident, FBI Director Kash Patel appeared on Fox News to tout the FBI’s cybersecurity work.\n\nPatel used the appearance to discuss an operation completed months ago aimed at urging companies to update their systems and prevent hackers from getting to their sensitive data.\n\nPatel referred to Operation Winter Shield as if it was still in the works, and touted the current administration for making updates to key systems to protect the nation’s critical infrastructure.\n\n“Other administrations could have made these updates, but they didn’t,” he said. “We are staying ahead of the curve and making up for lost time.”\n\nThe NCIC database is one of the most critical information-sharing systems in law enforcement, a former FBI official who led investigations into cybercriminal groups told CNN. “Every day, officers across the country rely on NCIC to identify wanted fugitives, check for outstanding warrants, and access information that can directly impact officer and public safety. My concern isn’t simply whether hackers gained access to sensitive information, although that is an issue, but whether they could compromise the accuracy of the information that officers rely on.”\n\nA September attack by a group calledShinyHunterstargeted sensitive employee personal data from an FBI jobs website.\n\nA Canadian cybersecurity researcher and author has been arrested and faces charges related to the ShinyHunters breach.\n\nAfter the ShinyHunters breach, some FBI employees felt left in the dark about whether they were affected by the data theft and underwhelmed by the security resources being offered to victims, CNN previouslyreported.\n\nIn an earlier breach in 2023, hackers breached a computer system the FBI’s New York field office used in child sexual exploitation investigations, including a system used to store images related to the Jeffrey Epstein probe, CNN previously reported.\n\nCNN’s Sean Lyngaas contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross",
+      "text": "series of high profile outages"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/09/politics/fbi-arrest-shinyhunters-hack",
+      "text": "ShinyHunters"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/28/politics/fbi-fallout-data-breach-hacking",
+      "text": "reported"
+    }
+  ],
+  "hash": "757eca9cb9e13222cabace14780340dd6bf7d69261d72049e5df94e77cb3ef66",
+  "scraped_at": "2026-11-21T14:48:16.722762+00:00"
+}
