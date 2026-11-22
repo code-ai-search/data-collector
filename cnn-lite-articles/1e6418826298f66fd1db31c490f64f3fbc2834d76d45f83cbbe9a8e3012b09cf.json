@@ -1,0 +1,38 @@
+{
+  "url": "https://lite.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+  "title": "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe | CNN Politics",
+  "date": "2026-11-22T14:44:39.013813+00:00",
+  "authors": [
+    "Evan Perez",
+    "Logan Schiciano"
+  ],
+  "text": "Source: CNN\n\nPresident Donald Trump on Saturday seemed to downplay a breach into the FBI’s nationwide criminal information database, using the incident to revisit his longstanding and unrelated grievances with theFBI over its investigation into Russian interferencein the 2016 election.\n\n“I will say that it’s not good — I don’t like that,” Trump said during a telephone interview with Fox News when asked about the breach. “But maybe we’ll learn things that we would have never learned otherwise because, you know, you had the Russia, Russia, Russia hoax.”\n\nThe intrusion of the National Crime Information Center by apparent hackers, which was first reported by CNN, is the second such breach in recent months, coming as the Trump administration has sought to assuage public concern about the nation’s cybersecurity amid aseries of high profile outagesaffecting banks, the National Security Agency and the FAA’s air traffic control system.\n\nThe FBI didn’t immediately respond to a request for comment. But two people briefed on the issue said the agency is investigating the breach.\n\nThe NCIC database is used by law enforcement nationwide to share information on warrants and background checks.\n\nOn Thursday, after bureau officials learned of the latest cybersecurity incident, FBI Director Kash Patel appeared on Fox News to tout the FBI’s cybersecurity work.\n\nPatel used the appearance to discuss an operation completed months ago aimed at urging companies to update their systems and prevent hackers from getting to their sensitive data.\n\nPatel referred to Operation Winter Shield as if it was still in the works, and touted the current administration for making updates to key systems to protect the nation’s critical infrastructure.\n\n“Other administrations could have made these updates, but they didn’t,” he said. “We are staying ahead of the curve and making up for lost time.”\n\nThe NCIC database is one of the most critical information-sharing systems in law enforcement, a former FBI official who led investigations into cybercriminal groups told CNN. “Every day, officers across the country rely on NCIC to identify wanted fugitives, check for outstanding warrants, and access information that can directly impact officer and public safety. My concern isn’t simply whether hackers gained access to sensitive information, although that is an issue, but whether they could compromise the accuracy of the information that officers rely on.”\n\nA September attack by a group calledShinyHunterstargeted sensitive employee personal data from an FBI jobs website.\n\nA Canadian cybersecurity researcher and author has been arrested and faces charges related to the ShinyHunters breach.\n\nAfter the ShinyHunters breach, some FBI employees felt left in the dark about whether they were affected by the data theft and underwhelmed by the security resources being offered to victims, CNN previouslyreported.\n\nIn an earlier breach in 2023, hackers breached a computer system the FBI’s New York field office used in child sexual exploitation investigations, including a system used to store images related to the Jeffrey Epstein probe, CNN previously reported.\n\nDuring his Fox News interview, Trump implied that the latest breach could uncover information about his 2019 phone call Ukrainian President Volodymyr Zelenskyy, during which the president was accused of pressuring Ukraine to investigate Joe Biden, leading to his first impeachment by the House of Representatives.\n\n“Maybe we’ll learn about the voter fraud, all the voter fraud that took place,” Trump said, without citing evidence, as he listed “other hoaxes” he said the breach could reveal information about.\n\n“I always like to put things in a positive spin,” Trump told the interviewer, his former White House press secretary Kayleigh McEnany. “So as soon as you said that, and as soon as I heard about it a little bit before, I said, ‘Well, that’s an interesting situation. I wonder who’s doing it because wouldn’t it be great to learn about Russia, Russia, Russia?’”\n\nTrump during his first term repeatedly criticized the FBI over its investigation into Russian interference in the 2016 election,and potential links to his campaign. At the time, he repeatedly accused FBI officials of bias and acting against him. At one point before the election that year, he encouraged Russian officials accused of hacking into the Democratic National Committee’s computer system to publish any incriminating emails related to his opponent, former Secretary of State Hilary Clinton, which they then tried to do, according toa 2018 federal indictmentfiled against 12 Russian intelligence operatives.\n\nThe president on Saturday declined to share specific information on the intrusion into the FBI’s system, which serves as a lifeline between federal, state and local law enforcement.\n\nCNN’s Sean Lyngaas contributed to this report.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2019/01/11/politics/nyt-russia-trump-investigation",
+      "text": "FBI over its investigation into Russian interference"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross",
+      "text": "series of high profile outages"
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/09/politics/fbi-arrest-shinyhunters-hack",
+      "text": "ShinyHunters"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/28/politics/fbi-fallout-data-breach-hacking",
+      "text": "reported"
+    },
+    {
+      "url": "https://www.cnn.com/2019/01/11/politics/nyt-russia-trump-investigation",
+      "text": "and potential links to his campaign"
+    },
+    {
+      "url": "https://www.cnn.com/2018/07/13/politics/trump-asked-russians-to-get-clinton-emails-they-immediately-started-trying-",
+      "text": "a 2018 federal indictment"
+    }
+  ],
+  "hash": "1e6418826298f66fd1db31c490f64f3fbc2834d76d45f83cbbe9a8e3012b09cf",
+  "scraped_at": "2026-11-22T14:44:39.013829+00:00"
+}
