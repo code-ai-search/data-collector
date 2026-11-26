@@ -1,0 +1,43 @@
+{
+  "url": "https://lite.cnn.com/2026/11/24/politics/cia-odni-hack-unclassified-information",
+  "title": "CIA hit by hack impacting unclassified information | CNN Politics",
+  "date": "2026-11-26T17:07:35.406449+00:00",
+  "authors": [
+    "Sean Lyngaas",
+    "Kristen Holmes",
+    "Katie Bo Lillis"
+  ],
+  "text": "Source: CNN\n\nThe CIA and Office of the Director of National Intelligence suffered an apparent hack affecting unclassified information, four sources familiar with the matter told CNN.\n\nThe intrusion hit a system the agencies draw on​ for open-source intelligence analysis, one of the sources said.\n\nThe full extent of the breach was unclear, but officials emphasized that no classified information was affected. “There have been no disruptions to critical capabilities or classified systems,” an ODNI official told CNN.\n\nThe CIA declined to comment.\n\nTwo of the sources said that a Department of Defense agency was also was affected by the hack. One of those sources identified the agency as the National Geospatial-Intelligence Agency (NGA), which collects and analyzes things like satellite imagery.\n\n“As a matter of policy, the Department does not comment on the status of its networks or systems,” a Department of Defense official told CNN in response to a request for comment to NGA.\n\nEarly indications suggest the hack may have originated in China, though it was not immediately clear if the country’s government was involved, two sources said.\n\nThe suspicion among US officials investigating the hack is that the attackers used offensive artificial intelligence (AI) tools. One source told CNN that investigators suspect that the hackers used an open-source AI hacking tool called Artex that the FBI warned about this month in apublic advisory.\n\nArtex “significantly reduces the time required’ for hackers to carry out different stages of a cyberattack by using AI to automate the process, the FBI said.\n\nIt was not immediately clear when the hack occurred or if it has been resolved.\n\nThe Office of the Director of National Intelligence (ODNI), which oversees 17 US intelligence agencies, including the CIA, has in recent years invested in open-source intelligence work, which is often unclassified.\n\nThe apparent intrusion, which the New York Timesfirst reported, is the latest in a string of cybersecurity incidents or tech outages that have rattled the US government and private sector.\n\nThe incident does not appear to be related to an apparent hack of the FBI’s nationwide criminal information database, two of the sources said, whichCNN first reportedon Friday.\n\nThe Treasury Department’s Financial Crimes Enforcement Network also said in an alert on its website this week that it was “investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems.”\n\nThe agency has taken some of its systems offline as a result. It was unclear, however, if the incident was connected to the CIA hack.\n\nA surge in AI-enabled hacks is causing headaches for US officials trying to defend federal networks.\n\n“[AI] agents are disposable and have no real strategy or logic beyond breaking in to disrupt or exfiltrate,” one US official told CNN. “They have no desire to avoid detection like most human intruders traditionally have tried to do.”\n\nAI is not inventing brand new ways to hack, but instead vastly reducing the time and energy needed to execute a hack by automating processes that used to be time-consuming, according to Rob Joyce, the former director of cybersecurity at the National Security Agency.\n\n“AI is now giving everybody the ability to have that nation-state, NSA-like information advantage, information dominance in your operations,” Joyce said in a recent speech at the CYBERWARCON conference in the Washington, DC, area.\n\nThe recent hacking incidents at federal agencies have coincided with aseries of unrelated high-profile tech outagesaffecting banks, the National Security Agency and the FAA’s air traffic control system that have rattled Americans’ confidence in the technology that underpins their lives.\n\nAllflights nationwide were groundedfor hours earlier this month after a massive systems failure, leading to thousands of flights being delayed or canceled. The Federal Aviation Administration traced the problem to a single router in Arkansas.\n\nSeparately, an outage affecting Microsoft products left people around the world unable to access staples of work life like Outlook email accounts and Teams meetings.\n\nBut it’s the disruption at the NSA, the US’ signals intelligence spy agency, and intrusions at the FBI and CIA that have national security officials on alert.\n\nThe highly classified network that the NSA uses for its internal communications went down for multiple days last week, CNN firstreported. The apparent cause was a software update gone wrong and not a cyberattack, the nation’s spy chief Jay Clayton said. A critical Georgia facility that supports signals intelligence and cybersecurity operations focused on the Middle East, where the US is currently engaged in a war with Iran was also impacted, CNNreported.\n\nThe NSA’s most sensitive and important intelligence-gathering systems were unaffected by the outage, and by Friday, the outage was resolved.\n\nThe software vulnerabilities that the NSA was addressing are just a handful in a slew of new vulnerabilities that artificial intelligence has been able to locate. Cybersecurity experts say government agencies and companies alike are discovering a spate of new software bugs in their systems thanks to AI, prompting a rush to fix them and sometimes mistakes along the way.\n\nThe recent tech outages and AI-enabled hacks are “two sides of the same coin,” said Chris Krebs, former head of the Department of Homeland Security’s cybersecurity agency.\n\n“On one side, a number of these outages trace back to patches and upgrades, and the pressure to patch is only growing as AI finds flaws faster,” Krebs told CNN. “On the other side, attackers are using AI to hit the flaws we haven’t fixed. Anything internet-facing with a login is getting probed by AI attack tools right now, and has been for weeks. We’re just now hearing about the break-ins.”\n\nThis story has been updated with additional information.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.ic3.gov/CSA/2026/261113.pdf",
+      "text": "public advisory"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT&smid=url-share",
+      "text": "first reported"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+      "text": "CNN first reported"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross",
+      "text": "series of unrelated high-profile tech outages"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/14/us/live-news/us-ground-stop-flights?t=1794678544306",
+      "text": "flights nationwide were grounded"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "text": "reported"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence",
+      "text": "reported"
+    }
+  ],
+  "hash": "c81f9b58db43906b378f12e2d2485bab3ea07b0e6a52d05f28b378ee504ed4c9",
+  "scraped_at": "2026-11-26T17:07:35.406465+00:00"
+}

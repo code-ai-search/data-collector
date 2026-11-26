@@ -1,0 +1,33 @@
+{
+  "url": "https://lite.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl",
+  "title": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space | CNN Business",
+  "date": "2026-11-26T17:06:56.466947+00:00",
+  "authors": [
+    "Hanna Ziady"
+  ],
+  "text": "The Federal Communications Commission has authorized Elon Musk’s SpaceX to deploy 1 million satellites in space for the creation of data centers critical to powering artificial intelligence.\n\nThe decisioncomes as the US races to lead the world in AI, a technology that promises to turbocharge innovation and economic growth. Harnessing AI is also central to SpaceX’s growth ambitions, though the companycautionedin a regulatory filing ahead of its June initial public offering that launching data centers in space relied on “unproven” technologies and “may not achieve commercial viability.”\n\nDeploying SpaceX’s “Starmind” constellation – comprised of 1 million orbital compute modules – will help meet “rapidly growing demand” for AI computing power, the FCC said in a statement Wednesday. The deployed satellites will “process massive amounts of data to be used back here on Earth,” the agency added.\n\n“This action opens a bold new frontier for the computing infrastructure needed to power America’s leadership and growth,” said FCC Chairman Brendan Carr.\n\nAI data centers require enormous amounts of energy and Musk has endorsed orbital data centers that can harness the power of the sun.\n\n“By directly harnessing near-constant solar power with little operating or maintenance costs, these satellites will achieve transformative cost ​and energy efficiency while significantly reducing the environmental impact associated with terrestrial data centers,” SpaceX ​told the FCC when itapplied for permissionto launch the satellites earlier this year.\n\nMusk welcomed the decision, saying on X, his social media platform, that “this will be a great asset to America and the world.”\n\nThe initiative has drawn criticism from the scientific community, however, who have argued that the technology could disrupt views of the night sky and increase pollution. In a statement Wednesday, the American Astronomical Society said it was “dismayed” by the FCC’s decision, which it had opposed in earlier filings to the agency.\n\nThe “proposed constellation would significantly undermine (i) decades of federal investment in astronomical facilities and (ii) the ability of astronomers and the public to enjoy and study the night sky,” the organization said.\n\nIt noted that the satellites would be visible as “extremely bright objects for longer periods in the night sky” and would generate “radio emissions” and “waste heat” that would “threaten… sensitive instruments used in regular astronomy research.” It also warned of “atmospheric pollution” from the launches and reentries so many satellites.\n\nUnder the license, SpaceX must deploy at least one authorized space station by November 2033, deploy 10% of the total – or 100,000 – by November 2035 and deploy 50% by November 2038.\n\nThere are currently around 16,700 operational satellites in space, according toOrbital Radar, a platform providing real-time tracking of objects in orbit. TheEuropean Space Agencyputs the number of functioning satellites slightly lower, at 15,800.\n\nEarlier this month, in ahistoric test flight, SpaceX’s Starship spacecraft deployed Starlink internet satellites before returning to earth and pulling of an unprecedented landing.\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://www.cnn.com/2026/05/21/business/spacex-ipo-prospectus-strangest-things",
+      "text": "cautioned"
+    },
+    {
+      "url": "https://fccprod.servicenowservices.com/ibfs?id=ibfs_application_summary&number=SAT-LOA-20260108-00016",
+      "text": "applied for permission"
+    },
+    {
+      "url": "https://orbitalradar.com/how-many-satellites-in-orbit",
+      "text": "Orbital Radar"
+    },
+    {
+      "url": "https://sdup.esoc.esa.int/discosweb/statistics/",
+      "text": "European Space Agency"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/13/science/live-news/spacex-starship-flight-15-ship-catch",
+      "text": "historic test flight"
+    }
+  ],
+  "hash": "03d12c69fce3c3d34d2621663b9c466a486ce4569627aa1c7d367f76ba67dc11",
+  "scraped_at": "2026-11-26T17:06:56.466966+00:00"
+}
