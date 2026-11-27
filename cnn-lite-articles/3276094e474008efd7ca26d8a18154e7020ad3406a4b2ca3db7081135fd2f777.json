@@ -1,0 +1,41 @@
+{
+  "url": "https://lite.cnn.com/2026/11/24/business/jensen-huang-moral-hazard",
+  "title": "Jensen Huang is a walking moral hazard | CNN Business",
+  "date": "2026-11-27T16:53:30.957636+00:00",
+  "authors": [
+    "Analysis by David Goldman"
+  ],
+  "text": "Source: CNN\n\n“With the situation becoming more precarious by the day, I faced a choice: To step in with dramatic action, or to stand back and allow the irresponsible actions of some to undermine the financial security of all.”\n\nThat was former President George W. Bush in anationwide televised addressfrom the White House on September 24, 2008. Lehman Bros. had failed a week earlier, the Federal Reserve bailed out mega-insurer AIG, and Bush was pushing for a $700 billion taxpayer-supported rescue fund to save the financial system from collapse.\n\nBush acknowledged he was a well-known believer in free enterprise and favored letting companies go out of business as a consequence of their bad decisions.\n\n“Under normal circumstances, I would have followed this course. But these are not normal circumstances.”\n\nHistory is repeating itself.\n\nJensen Huang’s irresponsible behavior forced his resignation from Nvidia, leaving a $1.5 trillion hole in Nvidia’s stock valuation and an angry president of the United States in its wake. The chipmaker’s board faced an impossible choice: stand its ground and risk continued fallout that had spread throughout the AI industry and the US government … or bring Huang back, setting a precedent that bad behavior could be ignored if the consequences were great enough.\n\nThe boardchose the latter.\n\nThe Huang saga is the latest “moral hazard,” an economic argument that dates back more than a century but was prevalent among bailout skeptics during the financial crisis. The gist: Bailing out reckless behavior will lead only to even riskier business in the future if the recipient of the bailout understands it (or he) is too big to fail.\n\n“Every founder in America just watched what too big to fire looks like,” said Chris Gannett, founder and CEO of Gannett Partners, an executive coaching firm.\n\nThe term “moral hazard” emerged in the late nineteenth century as a critique of insurance, according toDonald Light, a health policy researcher for Rowan University School of Osteopathic Medicine. Honest, responsible policyholders paying premiums to cover their genuine risks feared they were enabling bad actors to engage in reckless behavior, because those policyholders knew they’d be covered regardless of how irresponsible they may be.\n\nThe term took on a new meaning in 1968, when economistMark Pauly commentedthat moral hazard actually had nothing to do with moral or immoral behavior. Instead, he said people might seek more medical care if they’re insured because they’re acting with “rational economic behavior.” In other words: Moral hazard is simply a market force.\n\nPauly’s moral hazard definition continues in the medical industry. But it took on broader economic significance in subsequent years – particularly during the global financial crisis.\n\nOpponents of taxpayer-funded bailouts held that rescuing institutions or even individual borrowers who took on excessive risk excused their irresponsible behavior. Worse, it could encourage those bad actors to make even more dangerous choices in the future, because it signaled they would not be allowed to fail regardless of the risk they took on.\n\n“We’re very aware of moral hazard, but our primary concern right now … is the stability of our financial system, the orderliness of our markets,” former Treasury SecretaryHenry Paulson told ABC Newsin March 2008 after the government orchestrated JPMorgan Chase’s bailout of Bear Stearns.\n\nThat’s the same calculus Nvidia’s board made when rehiring Jensen Huang. The company did not respond to a request for comment.\n\nHuang stands accused of some serious violations of corporate policy. He acknowledged an affair after reports of a relationship with a major customer – who is suspected of having Chinese intelligence ties – and he was reportedly in a relationship with an employee.\n\nBut the board must act in the best interest of shareholders. And a 28% wipeout in market value since Huang resigned wasn’t exactly in shareholders’ best interest.\n\nNvidia is also unique: critical to US national security interests,the de facto central bank for AIand building the technology underpinning the country’s economic growth for years to come. President Trump wasbreathing down the board’s neck.\n\nSo, like Bush in 2008, Nvidia’s board held its nose and took the path it believed it needed to, even if it trampled on its previously held beliefs – and even if it risks more bad behavior in the future.\n\n“Anyone who is too big to fire can take on more risk than they should,” said Shivaram Rajgopal, professor of corporate governance at Columbia Business School.\n\nThere’s a reason whybosses aren’t allowed to have sexual relationships with employees and customers: It creates a power dynamic in which the subordinate may feel required to keep sleeping with their superior to remain employed. Customers may feel the same obligation to remain in business with the company led by the person they’re in a relationship with.\n\nIt’s ethically unambiguous, and similar relationships led to the downfall of many former CEOs, including leaders of American Apparel, Boeing, Intel, McDonald’s and Hewlett-Packard.\n\nHuang’s relationship with a potential foreign intelligence asset also remains a subject of an ongoing independent investigation commissioned by the board.\n\n“Espionage aside, a sexual relationship with a customer and a sexual relationship with a subordinate would each be grounds for dismissal with cause,” said Nell Minow, chair of corporate governance advisory firm ValueEdge Advisors.\n\nBy restoring Huang to the helm, it signals that he’s beyond reproach.\n\n“It sends a bad message,” said Rajgopal. “It says Huang is above the law. He’s an imperial CEO.”\n\nSee Full Web Article",
+  "links": [
+    {
+      "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2008/09/20080924-10.html",
+      "text": "nationwide televised address"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/23/tech/nvidia-reinstates-jensen-huang-corporate-governance",
+      "text": "chose the latter"
+    },
+    {
+      "url": "https://www.ias.edu/ideas/three-moral-hazards-health-insurance",
+      "text": "Donald Light"
+    },
+    {
+      "url": "https://ldi.upenn.edu/wp-content/uploads/static-pages/50at50/economics-moral-hazard-comment-launched-field.html",
+      "text": "Mark Pauly commented"
+    },
+    {
+      "url": "https://abcnews.com/ThisWeek/Vote2008/story?id=4460517&page=1",
+      "text": "Henry Paulson told ABC News"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/24/investing/nvidia-jensen-huang-ai-financing-boom",
+      "text": "the de facto central bank for AI"
+    },
+    {
+      "url": "https://www.cnn.com/2026/11/23/politics/trump-administration-jensen-huang-reinstated",
+      "text": "breathing down the board’s neck."
+    }
+  ],
+  "hash": "3276094e474008efd7ca26d8a18154e7020ad3406a4b2ca3db7081135fd2f777",
+  "scraped_at": "2026-11-27T16:53:30.957652+00:00"
+}
